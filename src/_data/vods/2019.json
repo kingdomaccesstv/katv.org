@@ -6,13 +6,8 @@
     "cablecastShowId": 8218,
     "date": "2019-12-31",
     "location": "South Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -25,13 +20,8 @@
     "cablecastShowId": 8217,
     "date": "2019-12-31",
     "location": "South Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -44,17 +34,9 @@
     "cablecastShowId": 8207,
     "date": "2019-12-23",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -67,17 +49,9 @@
     "cablecastShowId": 8204,
     "date": "2019-12-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -90,17 +64,9 @@
     "cablecastShowId": 8190,
     "date": "2019-12-18",
     "location": "South Congregational Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -113,17 +79,9 @@
     "cablecastShowId": 8188,
     "date": "2019-12-17",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -136,17 +94,9 @@
     "cablecastShowId": 8185,
     "date": "2019-12-16",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -159,17 +109,9 @@
     "cablecastShowId": 8184,
     "date": "2019-12-15",
     "location": "Danville Congregational Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
+      "concerts",
+      "danville"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -182,17 +124,9 @@
     "cablecastShowId": 8183,
     "date": "2019-12-14",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -205,17 +139,9 @@
     "cablecastShowId": 8182,
     "date": "2019-12-12",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -228,17 +154,9 @@
     "cablecastShowId": 8181,
     "date": "2019-12-12",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury School",
-        "path": "/vod/concerts/sjs"
-      }
+      "concerts",
+      "sjs"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -251,17 +169,9 @@
     "cablecastShowId": 8179,
     "date": "2019-12-11",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -274,17 +184,9 @@
     "cablecastShowId": 8176,
     "date": "2019-12-10",
     "location": "Lyndon Institute",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -297,17 +199,9 @@
     "cablecastShowId": 8174,
     "date": "2019-12-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -320,17 +214,9 @@
     "cablecastShowId": 8164,
     "date": "2019-12-05",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -343,17 +229,9 @@
     "cablecastShowId": 8162,
     "date": "2019-12-05",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -366,17 +244,9 @@
     "cablecastShowId": 8159,
     "date": "2019-12-04",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -389,17 +259,9 @@
     "cablecastShowId": 8156,
     "date": "2019-12-03",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -412,17 +274,9 @@
     "cablecastShowId": 8153,
     "date": "2019-12-02",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -435,13 +289,8 @@
     "cablecastShowId": 8152,
     "date": "2019-12-01",
     "location": "South Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -454,17 +303,9 @@
     "cablecastShowId": 8147,
     "date": "2019-11-26",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -477,17 +318,9 @@
     "cablecastShowId": 8146,
     "date": "2019-11-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -500,13 +333,8 @@
     "cablecastShowId": 8132,
     "date": "2019-11-20",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -519,17 +347,9 @@
     "cablecastShowId": 8131,
     "date": "2019-11-20",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -542,17 +362,9 @@
     "cablecastShowId": 8126,
     "date": "2019-11-18",
     "location": "Danville School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -565,13 +377,8 @@
     "cablecastShowId": 8128,
     "date": "2019-11-18",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -584,17 +391,9 @@
     "cablecastShowId": 8125,
     "date": "2019-11-17",
     "location": "Northern Vermont Unversity",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      }
+      "concerts",
+      "nekco"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -607,17 +406,9 @@
     "cablecastShowId": 8122,
     "date": "2019-11-14",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -630,17 +421,9 @@
     "cablecastShowId": 8118,
     "date": "2019-11-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -653,13 +436,8 @@
     "cablecastShowId": 8119,
     "date": "2019-11-11",
     "location": "United Community Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -672,17 +450,9 @@
     "cablecastShowId": 8113,
     "date": "2019-11-07",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -695,17 +465,9 @@
     "cablecastShowId": 8101,
     "date": "2019-11-06",
     "location": "Fairbanks Museum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -718,17 +480,9 @@
     "cablecastShowId": 8100,
     "date": "2019-11-05",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -741,13 +495,8 @@
     "cablecastShowId": 8089,
     "date": "2019-10-31",
     "location": "St. Johnsbury",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -760,17 +509,9 @@
     "cablecastShowId": 8088,
     "date": "2019-10-31",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -783,17 +524,9 @@
     "cablecastShowId": 8090,
     "date": "2019-10-31",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -806,17 +539,9 @@
     "cablecastShowId": 8087,
     "date": "2019-10-30",
     "location": "Lyndon Institute",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -829,17 +554,9 @@
     "cablecastShowId": 8074,
     "date": "2019-10-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -852,17 +569,9 @@
     "cablecastShowId": 8075,
     "date": "2019-10-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -875,17 +584,9 @@
     "cablecastShowId": 8065,
     "date": "2019-10-25",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -898,17 +599,9 @@
     "cablecastShowId": 8064,
     "date": "2019-10-24",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -921,13 +614,8 @@
     "cablecastShowId": 8062,
     "date": "2019-10-23",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -940,17 +628,9 @@
     "cablecastShowId": 8063,
     "date": "2019-10-23",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -963,17 +643,9 @@
     "cablecastShowId": 8080,
     "date": "2019-10-22",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -986,17 +658,9 @@
     "cablecastShowId": 8058,
     "date": "2019-10-21",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1009,17 +673,9 @@
     "cablecastShowId": 8055,
     "date": "2019-10-21",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1032,17 +688,9 @@
     "cablecastShowId": 8054,
     "date": "2019-10-21",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1055,13 +703,8 @@
     "cablecastShowId": 8052,
     "date": "2019-10-21",
     "location": "St. Johnsbury Country Club",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1074,13 +717,8 @@
     "cablecastShowId": 8051,
     "date": "2019-10-18",
     "location": "Danville Pope Library",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1093,17 +731,9 @@
     "cablecastShowId": 8043,
     "date": "2019-10-17",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1116,17 +746,9 @@
     "cablecastShowId": 8036,
     "date": "2019-10-14",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "studio",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1139,13 +761,8 @@
     "cablecastShowId": 8035,
     "date": "2019-10-12",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1158,17 +775,9 @@
     "cablecastShowId": 8034,
     "date": "2019-10-11",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1181,17 +790,9 @@
     "cablecastShowId": 8025,
     "date": "2019-10-10",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1204,17 +805,9 @@
     "cablecastShowId": 8018,
     "date": "2019-10-09",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1227,17 +820,9 @@
     "cablecastShowId": 8016,
     "date": "2019-10-07",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1250,17 +835,9 @@
     "cablecastShowId": 8011,
     "date": "2019-10-03",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1273,17 +850,9 @@
     "cablecastShowId": 8012,
     "date": "2019-10-03",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1296,17 +865,9 @@
     "cablecastShowId": 8009,
     "date": "2019-10-02",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1319,17 +880,9 @@
     "cablecastShowId": 7998,
     "date": "2019-09-27",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1342,17 +895,9 @@
     "cablecastShowId": 7991,
     "date": "2019-09-26",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1365,17 +910,9 @@
     "cablecastShowId": 7992,
     "date": "2019-09-26",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1388,17 +925,9 @@
     "cablecastShowId": 7982,
     "date": "2019-09-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1411,17 +940,9 @@
     "cablecastShowId": 7976,
     "date": "2019-09-19",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1434,17 +955,9 @@
     "cablecastShowId": 7950,
     "date": "2019-09-12",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1457,17 +970,9 @@
     "cablecastShowId": 7951,
     "date": "2019-09-12",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1480,17 +985,9 @@
     "cablecastShowId": 7944,
     "date": "2019-09-10",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1503,17 +1000,9 @@
     "cablecastShowId": 7943,
     "date": "2019-09-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1526,13 +1015,8 @@
     "cablecastShowId": 7941,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1545,13 +1029,8 @@
     "cablecastShowId": 7940,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1564,13 +1043,8 @@
     "cablecastShowId": 7939,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1583,13 +1057,8 @@
     "cablecastShowId": 7938,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1602,13 +1071,8 @@
     "cablecastShowId": 7937,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1621,13 +1085,8 @@
     "cablecastShowId": 7936,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1640,13 +1099,8 @@
     "cablecastShowId": 7935,
     "date": "2019-09-07",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1659,13 +1113,8 @@
     "cablecastShowId": 7934,
     "date": "2019-09-04",
     "location": "Kingdom Animal Shelter",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1678,17 +1127,9 @@
     "cablecastShowId": 7926,
     "date": "2019-08-29",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1701,17 +1142,9 @@
     "cablecastShowId": 7909,
     "date": "2019-08-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1724,17 +1157,9 @@
     "cablecastShowId": 7907,
     "date": "2019-08-21",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1747,13 +1172,8 @@
     "cablecastShowId": 7902,
     "date": "2019-08-20",
     "location": "Craftsbury Library",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1766,17 +1186,9 @@
     "cablecastShowId": 7895,
     "date": "2019-08-19",
     "location": "Waterford School District",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1789,17 +1201,9 @@
     "cablecastShowId": 7894,
     "date": "2019-08-14",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1812,17 +1216,9 @@
     "cablecastShowId": 7882,
     "date": "2019-08-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1835,17 +1231,9 @@
     "cablecastShowId": 7883,
     "date": "2019-08-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1858,17 +1246,9 @@
     "cablecastShowId": 7881,
     "date": "2019-08-12",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1881,13 +1261,8 @@
     "cablecastShowId": 7880,
     "date": "2019-08-10",
     "location": "Milarepa Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1900,17 +1275,9 @@
     "cablecastShowId": 7879,
     "date": "2019-08-08",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1923,17 +1290,9 @@
     "cablecastShowId": 7868,
     "date": "2019-08-02",
     "location": "Fairbanks Museum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1946,17 +1305,9 @@
     "cablecastShowId": 7867,
     "date": "2019-08-02",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1969,17 +1320,9 @@
     "cablecastShowId": 7866,
     "date": "2019-08-01",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1992,17 +1335,9 @@
     "cablecastShowId": 7845,
     "date": "2019-07-25",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2015,17 +1350,9 @@
     "cablecastShowId": 7841,
     "date": "2019-07-24",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2038,17 +1365,9 @@
     "cablecastShowId": 7836,
     "date": "2019-07-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2061,13 +1380,8 @@
     "cablecastShowId": 7837,
     "date": "2019-07-21",
     "location": "Newbury Historical Society",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2080,13 +1394,8 @@
     "cablecastShowId": 7834,
     "date": "2019-07-20",
     "location": "Lyndonville",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2099,17 +1408,9 @@
     "cablecastShowId": 7835,
     "date": "2019-07-19",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "lectures-forums",
+      "catamount"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2122,17 +1423,9 @@
     "cablecastShowId": 7833,
     "date": "2019-07-18",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2145,13 +1438,8 @@
     "cablecastShowId": 7832,
     "date": "2019-07-18",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2164,17 +1452,9 @@
     "cablecastShowId": 7831,
     "date": "2019-07-17",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2187,17 +1467,9 @@
     "cablecastShowId": 7823,
     "date": "2019-07-15",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2210,13 +1482,8 @@
     "cablecastShowId": 7822,
     "date": "2019-07-12",
     "location": "St. Johnsbury",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2229,17 +1496,9 @@
     "cablecastShowId": 7813,
     "date": "2019-07-10",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2252,13 +1511,8 @@
     "cablecastShowId": 7805,
     "date": "2019-07-09",
     "location": "Kingdom Animal Shelter",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2271,17 +1525,9 @@
     "cablecastShowId": 7802,
     "date": "2019-07-08",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2294,17 +1540,9 @@
     "cablecastShowId": 7801,
     "date": "2019-07-08",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2317,17 +1555,9 @@
     "cablecastShowId": 7791,
     "date": "2019-07-02",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2340,13 +1570,8 @@
     "cablecastShowId": 7783,
     "date": "2019-06-30",
     "location": "Newbury Historical Society",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2359,17 +1584,9 @@
     "cablecastShowId": 7782,
     "date": "2019-06-29",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2382,17 +1599,9 @@
     "cablecastShowId": 7773,
     "date": "2019-06-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2405,17 +1614,9 @@
     "cablecastShowId": 7772,
     "date": "2019-06-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2428,13 +1629,8 @@
     "cablecastShowId": 7827,
     "date": "2019-06-22",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2447,17 +1643,9 @@
     "cablecastShowId": 7777,
     "date": "2019-06-21",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2470,17 +1658,9 @@
     "cablecastShowId": 7767,
     "date": "2019-06-20",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2493,17 +1673,9 @@
     "cablecastShowId": 7759,
     "date": "2019-06-18",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2516,17 +1688,9 @@
     "cablecastShowId": 7754,
     "date": "2019-06-17",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2539,17 +1703,9 @@
     "cablecastShowId": 7738,
     "date": "2019-06-11",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2562,17 +1718,9 @@
     "cablecastShowId": 7736,
     "date": "2019-06-10",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2585,17 +1733,9 @@
     "cablecastShowId": 7717,
     "date": "2019-06-04",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2608,13 +1748,8 @@
     "cablecastShowId": 7718,
     "date": "2019-06-02",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2627,13 +1762,8 @@
     "cablecastShowId": 7719,
     "date": "2019-06-02",
     "location": "Lyndon Institute",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2646,13 +1776,8 @@
     "cablecastShowId": 7712,
     "date": "2019-05-31",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2665,17 +1790,9 @@
     "cablecastShowId": 7705,
     "date": "2019-05-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2688,13 +1805,8 @@
     "cablecastShowId": 7704,
     "date": "2019-05-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2707,17 +1819,9 @@
     "cablecastShowId": 7701,
     "date": "2019-05-23",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2730,13 +1834,8 @@
     "cablecastShowId": 7700,
     "date": "2019-05-23",
     "location": "Fairlee",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2749,17 +1848,9 @@
     "cablecastShowId": 7691,
     "date": "2019-05-23",
     "location": "Waterford School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Waterford",
-        "path": "/vod/concerts/waterford"
-      }
+      "concerts",
+      "waterford"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2772,13 +1863,8 @@
     "cablecastShowId": 7692,
     "date": "2019-05-22",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2791,13 +1877,8 @@
     "cablecastShowId": 7688,
     "date": "2019-05-22",
     "location": "Fairbanks Museum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2810,17 +1891,9 @@
     "cablecastShowId": 7682,
     "date": "2019-05-20",
     "location": "Walden",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2833,17 +1906,9 @@
     "cablecastShowId": 7681,
     "date": "2019-05-20",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2856,17 +1921,9 @@
     "cablecastShowId": 7679,
     "date": "2019-05-20",
     "location": "St. Johnsbury House",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2879,17 +1936,9 @@
     "cablecastShowId": 7658,
     "date": "2019-05-19",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2902,13 +1951,8 @@
     "cablecastShowId": 7680,
     "date": "2019-05-19",
     "location": "UCC",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2921,17 +1965,9 @@
     "cablecastShowId": 7667,
     "date": "2019-05-14",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2944,17 +1980,9 @@
     "cablecastShowId": 7666,
     "date": "2019-05-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -2967,17 +1995,9 @@
     "cablecastShowId": 7665,
     "date": "2019-05-12",
     "location": "Northern Vermont Unversity",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      }
+      "concerts",
+      "nekco"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2990,13 +2010,8 @@
     "cablecastShowId": 7637,
     "date": "2019-05-08",
     "location": "Northern Vermont Unversity",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
+      "nekchamber"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3009,17 +2024,9 @@
     "cablecastShowId": 7628,
     "date": "2019-05-07",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3032,17 +2039,9 @@
     "cablecastShowId": 7629,
     "date": "2019-05-06",
     "location": "Danville",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
+      "concerts",
+      "danville"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3055,13 +2054,8 @@
     "cablecastShowId": 7630,
     "date": "2019-05-05",
     "location": "South Church",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3074,13 +2068,8 @@
     "cablecastShowId": 7649,
     "date": "2019-05-03",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3093,13 +2082,8 @@
     "cablecastShowId": 7648,
     "date": "2019-05-03",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3112,13 +2096,8 @@
     "cablecastShowId": 7647,
     "date": "2019-05-03",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3131,13 +2110,8 @@
     "cablecastShowId": 7646,
     "date": "2019-05-03",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3150,17 +2124,9 @@
     "cablecastShowId": 7620,
     "date": "2019-05-02",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3173,13 +2139,8 @@
     "cablecastShowId": 7645,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3192,13 +2153,8 @@
     "cablecastShowId": 7644,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3211,13 +2167,8 @@
     "cablecastShowId": 7643,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3230,13 +2181,8 @@
     "cablecastShowId": 7642,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3249,13 +2195,8 @@
     "cablecastShowId": 7641,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3268,13 +2209,8 @@
     "cablecastShowId": 7640,
     "date": "2019-05-02",
     "location": "East Burke",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3287,17 +2223,9 @@
     "cablecastShowId": 7622,
     "date": "2019-05-02",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3310,17 +2238,9 @@
     "cablecastShowId": 7621,
     "date": "2019-05-02",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3333,17 +2253,9 @@
     "cablecastShowId": 7617,
     "date": "2019-05-01",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3356,17 +2268,9 @@
     "cablecastShowId": 7611,
     "date": "2019-04-30",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3379,17 +2283,9 @@
     "cablecastShowId": 7597,
     "date": "2019-04-29",
     "location": "St. Johnsbury House",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3402,17 +2298,9 @@
     "cablecastShowId": 7595,
     "date": "2019-04-29",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3425,13 +2313,8 @@
     "cablecastShowId": 7605,
     "date": "2019-04-28",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3444,17 +2327,9 @@
     "cablecastShowId": 7599,
     "date": "2019-04-27",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3467,17 +2342,9 @@
     "cablecastShowId": 7598,
     "date": "2019-04-25",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3490,17 +2357,9 @@
     "cablecastShowId": 7596,
     "date": "2019-04-25",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3513,17 +2372,9 @@
     "cablecastShowId": 7593,
     "date": "2019-04-24",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3536,17 +2387,9 @@
     "cablecastShowId": 7587,
     "date": "2019-04-23",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3559,17 +2402,9 @@
     "cablecastShowId": 7584,
     "date": "2019-04-22",
     "location": "Peacham School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3582,17 +2417,9 @@
     "cablecastShowId": 7585,
     "date": "2019-04-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3605,17 +2432,9 @@
     "cablecastShowId": 7586,
     "date": "2019-04-19",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3628,17 +2447,9 @@
     "cablecastShowId": 7577,
     "date": "2019-04-18",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3651,17 +2462,9 @@
     "cablecastShowId": 7583,
     "date": "2019-04-18",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3674,17 +2477,9 @@
     "cablecastShowId": 7574,
     "date": "2019-04-17",
     "location": "Fairbanks Museum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3697,17 +2492,9 @@
     "cablecastShowId": 7573,
     "date": "2019-04-17",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3720,17 +2507,9 @@
     "cablecastShowId": 7554,
     "date": "2019-04-11",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3743,17 +2522,9 @@
     "cablecastShowId": 7552,
     "date": "2019-04-10",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3766,17 +2537,9 @@
     "cablecastShowId": 7550,
     "date": "2019-04-10",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3789,17 +2552,9 @@
     "cablecastShowId": 7551,
     "date": "2019-04-10",
     "location": "Lyndon Institute",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3812,17 +2567,9 @@
     "cablecastShowId": 7545,
     "date": "2019-04-08",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3835,17 +2582,9 @@
     "cablecastShowId": 7363,
     "date": "2019-04-06",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3858,17 +2597,9 @@
     "cablecastShowId": 7543,
     "date": "2019-04-03",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3881,17 +2612,9 @@
     "cablecastShowId": 7542,
     "date": "2019-04-03",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3904,17 +2627,9 @@
     "cablecastShowId": 7533,
     "date": "2019-04-02",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3927,17 +2642,9 @@
     "cablecastShowId": 7541,
     "date": "2019-04-02",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3950,17 +2657,9 @@
     "cablecastShowId": 7532,
     "date": "2019-04-01",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3973,13 +2672,8 @@
     "cablecastShowId": 7529,
     "date": "2019-03-29",
     "location": "Burke Mountain",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3992,17 +2686,9 @@
     "cablecastShowId": 7528,
     "date": "2019-03-28",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4015,17 +2701,9 @@
     "cablecastShowId": 7508,
     "date": "2019-03-21",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4038,17 +2716,9 @@
     "cablecastShowId": 7509,
     "date": "2019-03-21",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4061,17 +2731,9 @@
     "cablecastShowId": 7504,
     "date": "2019-03-20",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4084,17 +2746,9 @@
     "cablecastShowId": 7510,
     "date": "2019-03-20",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4107,17 +2761,9 @@
     "cablecastShowId": 7496,
     "date": "2019-03-18",
     "location": "Danville School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -4130,17 +2776,9 @@
     "cablecastShowId": 7495,
     "date": "2019-03-18",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -4153,17 +2791,9 @@
     "cablecastShowId": 7498,
     "date": "2019-03-18",
     "location": "The Boxcar and Caboose",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "public-meetings",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4176,17 +2806,9 @@
     "cablecastShowId": 7497,
     "date": "2019-03-14",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4199,17 +2821,9 @@
     "cablecastShowId": 7492,
     "date": "2019-03-14",
     "location": "Catamount Arts",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4222,17 +2836,9 @@
     "cablecastShowId": 7475,
     "date": "2019-03-13",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4245,17 +2851,9 @@
     "cablecastShowId": 7464,
     "date": "2019-03-12",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4268,17 +2866,9 @@
     "cablecastShowId": 7474,
     "date": "2019-03-12",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4291,17 +2881,9 @@
     "cablecastShowId": 7473,
     "date": "2019-03-12",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4314,17 +2896,9 @@
     "cablecastShowId": 7463,
     "date": "2019-03-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -4337,17 +2911,9 @@
     "cablecastShowId": 7470,
     "date": "2019-03-11",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4360,17 +2926,9 @@
     "cablecastShowId": 7469,
     "date": "2019-03-11",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4383,17 +2941,9 @@
     "cablecastShowId": 7468,
     "date": "2019-03-11",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4406,17 +2956,9 @@
     "cablecastShowId": 7467,
     "date": "2019-03-11",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4429,17 +2971,9 @@
     "cablecastShowId": 7466,
     "date": "2019-03-11",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4452,17 +2986,9 @@
     "cablecastShowId": 7465,
     "date": "2019-03-11",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4475,17 +3001,9 @@
     "cablecastShowId": 7461,
     "date": "2019-03-09",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4498,17 +3016,9 @@
     "cablecastShowId": 7462,
     "date": "2019-03-09",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4521,17 +3031,9 @@
     "cablecastShowId": 7460,
     "date": "2019-03-09",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4544,17 +3046,9 @@
     "cablecastShowId": 7459,
     "date": "2019-03-09",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4567,17 +3061,9 @@
     "cablecastShowId": 7449,
     "date": "2019-03-07",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4590,17 +3076,9 @@
     "cablecastShowId": 7453,
     "date": "2019-03-07",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4613,17 +3091,9 @@
     "cablecastShowId": 7440,
     "date": "2019-03-07",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4636,17 +3106,9 @@
     "cablecastShowId": 7455,
     "date": "2019-03-07",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4659,17 +3121,9 @@
     "cablecastShowId": 7454,
     "date": "2019-03-07",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4682,17 +3136,9 @@
     "cablecastShowId": 7448,
     "date": "2019-03-07",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4705,17 +3151,9 @@
     "cablecastShowId": 7452,
     "date": "2019-03-07",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4728,17 +3166,9 @@
     "cablecastShowId": 7451,
     "date": "2019-03-07",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4751,17 +3181,9 @@
     "cablecastShowId": 7450,
     "date": "2019-03-07",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4774,17 +3196,9 @@
     "cablecastShowId": 7442,
     "date": "2019-03-06",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4797,17 +3211,9 @@
     "cablecastShowId": 7441,
     "date": "2019-03-06",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4820,17 +3226,9 @@
     "cablecastShowId": 7446,
     "date": "2019-03-06",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4843,17 +3241,9 @@
     "cablecastShowId": 7445,
     "date": "2019-03-06",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4866,17 +3256,9 @@
     "cablecastShowId": 7444,
     "date": "2019-03-06",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4889,17 +3271,9 @@
     "cablecastShowId": 7443,
     "date": "2019-03-06",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4912,17 +3286,9 @@
     "cablecastShowId": 7439,
     "date": "2019-03-06",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4935,17 +3301,9 @@
     "cablecastShowId": 7429,
     "date": "2019-02-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -4958,17 +3316,9 @@
     "cablecastShowId": 7428,
     "date": "2019-02-28",
     "location": "Danville Town Hall",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "public-meetings",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -4981,17 +3331,9 @@
     "cablecastShowId": 7423,
     "date": "2019-02-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5004,17 +3346,9 @@
     "cablecastShowId": 7421,
     "date": "2019-02-25",
     "location": "St. Johnsbury House",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5027,17 +3361,9 @@
     "cablecastShowId": 7420,
     "date": "2019-02-21",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5050,17 +3376,9 @@
     "cablecastShowId": 7411,
     "date": "2019-02-20",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "studio",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5073,17 +3391,9 @@
     "cablecastShowId": 7410,
     "date": "2019-02-20",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "studio",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5096,17 +3406,9 @@
     "cablecastShowId": 7409,
     "date": "2019-02-20",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "studio",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5119,17 +3421,9 @@
     "cablecastShowId": 7400,
     "date": "2019-02-18",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5142,17 +3436,9 @@
     "cablecastShowId": 7401,
     "date": "2019-02-18",
     "location": "Danville School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5165,17 +3451,9 @@
     "cablecastShowId": 7378,
     "date": "2019-02-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5188,13 +3466,8 @@
     "cablecastShowId": 7377,
     "date": "2019-02-09",
     "location": "Fairbanks Museum",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5207,17 +3480,9 @@
     "cablecastShowId": 7371,
     "date": "2019-02-07",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5230,17 +3495,9 @@
     "cablecastShowId": 7354,
     "date": "2019-02-05",
     "location": "Concord Municipal Building",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5253,17 +3510,9 @@
     "cablecastShowId": 7351,
     "date": "2019-02-04",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5276,17 +3525,9 @@
     "cablecastShowId": 7347,
     "date": "2019-01-31",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5299,17 +3540,9 @@
     "cablecastShowId": 7320,
     "date": "2019-01-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5322,17 +3555,9 @@
     "cablecastShowId": 7318,
     "date": "2019-01-28",
     "location": "St. Johnsbury House",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5345,13 +3570,8 @@
     "cablecastShowId": 7317,
     "date": "2019-01-24",
     "location": "St. Johnsbury Academy",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5364,17 +3584,9 @@
     "cablecastShowId": 7302,
     "date": "2019-01-21",
     "location": "Barnett",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5387,17 +3599,9 @@
     "cablecastShowId": 7294,
     "date": "2019-01-18",
     "location": "Lyndon Institute",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5410,17 +3614,9 @@
     "cablecastShowId": 7287,
     "date": "2019-01-17",
     "location": "KATV Studio",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -5433,17 +3629,9 @@
     "cablecastShowId": 7279,
     "date": "2019-01-14",
     "location": "St. Johnsbury School",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5456,17 +3644,9 @@
     "cablecastShowId": 7278,
     "date": "2019-01-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -5479,17 +3659,9 @@
     "cablecastShowId": 7281,
     "date": "2019-01-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2019",
-    "yearPath": "/vod/year/2019",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",

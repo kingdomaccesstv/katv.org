@@ -6,17 +6,9 @@
     "cablecastShowId": 10263,
     "date": "2021-12-20",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsubod122021.jpg",
     "videoSource": "archive.org",
@@ -29,17 +21,9 @@
     "cablecastShowId": 10263,
     "date": "2021-12-20",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool122021.jpg",
     "videoSource": "archive.org",
@@ -52,17 +36,9 @@
     "cablecastShowId": 10279,
     "date": "2021-12-17",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo121721.jpg",
     "videoSource": "vimeo",
@@ -75,17 +51,9 @@
     "cablecastShowId": 10278,
     "date": "2021-12-16",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo121621.jpg",
     "videoSource": "vimeo",
@@ -98,17 +66,9 @@
     "cablecastShowId": 10262,
     "date": "2021-12-15",
     "location": "Danville School",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
+      "concerts",
+      "danville"
     ],
     "teaserImage": "/assets/images/vod/2021/danvillewinter121521.jpg",
     "videoSource": "vimeo",
@@ -121,13 +81,8 @@
     "cablecastShowId": 10276,
     "date": "2021-12-15",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2021/nekhs121521.jpg",
     "videoSource": "vimeo",
@@ -140,17 +95,9 @@
     "cablecastShowId": 10265,
     "date": "2021-12-09",
     "location": "Lyndon Institute",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2021/liwinter120921.jpg",
     "videoSource": "vimeo",
@@ -163,17 +110,9 @@
     "cablecastShowId": 10270,
     "date": "2021-12-09",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo120921.jpg",
     "videoSource": "vimeo",
@@ -186,17 +125,9 @@
     "cablecastShowId": 10292,
     "date": "2021-12-07",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "studio",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/dhs120721b.png",
     "videoSource": "vimeo",
@@ -209,17 +140,9 @@
     "cablecastShowId": 10259,
     "date": "2021-12-07",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "studio",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/dhs120721.png",
     "videoSource": "vimeo",
@@ -232,17 +155,9 @@
     "cablecastShowId": 10236,
     "date": "2021-12-06",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool120621.jpg",
     "videoSource": "archive.org",
@@ -255,17 +170,9 @@
     "cablecastShowId": 10253,
     "date": "2021-12-03",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": "/assets/images/vod/2021/iamvttoo120321.jpg",
     "videoSource": "vimeo",
@@ -278,17 +185,9 @@
     "cablecastShowId": 10231,
     "date": "2021-12-02",
     "location": "Groton Town Office",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2021/grotonselect120221.jpg",
     "videoSource": "archive.org",
@@ -301,13 +200,8 @@
     "cablecastShowId": 10235,
     "date": "2021-11-29",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2021/nekcaging112921.jpg",
     "videoSource": "vimeo",
@@ -320,17 +214,9 @@
     "cablecastShowId": 10232,
     "date": "2021-11-24",
     "location": "Catamount Arts",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "catamount",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/catamount112421.jpg",
     "videoSource": "vimeo",
@@ -343,17 +229,9 @@
     "cablecastShowId": 10215,
     "date": "2021-11-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect112221.jpg",
     "videoSource": "archive.org",
@@ -366,17 +244,9 @@
     "cablecastShowId": 10201,
     "date": "2021-11-18",
     "location": "Groton Community Building",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -389,13 +259,8 @@
     "cablecastShowId": 10217,
     "date": "2021-11-18",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/caledonia111521.jpg",
     "videoSource": "vimeo",
@@ -408,17 +273,9 @@
     "cablecastShowId": 10199,
     "date": "2021-11-15",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool111521.jpg",
     "videoSource": "archive.org",
@@ -431,17 +288,9 @@
     "cablecastShowId": 10197,
     "date": "2021-11-08",
     "location": "Catamount Arts",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "catamount",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/catamount110821.jpg",
     "videoSource": "vimeo",
@@ -454,17 +303,9 @@
     "cablecastShowId": 10138,
     "date": "2021-11-07",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo100721.jpg",
     "videoSource": "vimeo",
@@ -477,17 +318,9 @@
     "cablecastShowId": 10184,
     "date": "2021-11-02",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2021/concordselect110221.jpg",
     "videoSource": "archive.org",
@@ -500,17 +333,9 @@
     "cablecastShowId": 10163,
     "date": "2021-10-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect102521rm.jpg",
     "videoSource": "archive.org",
@@ -523,17 +348,9 @@
     "cablecastShowId": 10169,
     "date": "2021-10-25",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect102521.jpg",
     "videoSource": "archive.org",
@@ -546,17 +363,9 @@
     "cablecastShowId": 10164,
     "date": "2021-10-20",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": "/assets/images/vod/2021/iamvttoo102021.jpg",
     "videoSource": "vimeo",
@@ -569,17 +378,9 @@
     "cablecastShowId": 10117,
     "date": "2021-10-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect101221.jpg",
     "videoSource": "archive.org",
@@ -592,17 +393,9 @@
     "cablecastShowId": 10142,
     "date": "2021-10-07",
     "location": "Lyndon Institute",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2021/lifall100721.jpg",
     "videoSource": "vimeo",
@@ -615,17 +408,9 @@
     "cablecastShowId": 10114,
     "date": "2021-10-04",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool100421.jpg",
     "videoSource": "archive.org",
@@ -638,13 +423,8 @@
     "cablecastShowId": 10113,
     "date": "2021-10-03",
     "location": "Danville Railroad Station",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/danville100321.jpg",
     "videoSource": "vimeo",
@@ -657,13 +437,8 @@
     "cablecastShowId": 10112,
     "date": "2021-10-02",
     "location": "Groton Historical Society",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/groton100221.jpg",
     "videoSource": "vimeo",
@@ -676,17 +451,9 @@
     "cablecastShowId": 10126,
     "date": "2021-09-30",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo093021.png",
     "videoSource": "vimeo",
@@ -699,13 +466,8 @@
     "cablecastShowId": 10099,
     "date": "2021-09-27",
     "location": "Wheelock Town Hall",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/wheelock092721.jpg",
     "videoSource": "archive.org",
@@ -718,17 +480,9 @@
     "cablecastShowId": 10065,
     "date": "2021-09-24",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool092021.png",
     "videoSource": "archive.org",
@@ -741,13 +495,8 @@
     "cablecastShowId": 10085,
     "date": "2021-09-19",
     "location": "Wheelock",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2021/wheelockth091921.png",
     "videoSource": "vimeo",
@@ -760,17 +509,9 @@
     "cablecastShowId": 10061,
     "date": "2021-09-16",
     "location": "Groton",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2021/grotonselect091621.jpg",
     "videoSource": "archive.org",
@@ -783,17 +524,9 @@
     "cablecastShowId": 10084,
     "date": "2021-09-16",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo091621.jpg",
     "videoSource": "vimeo",
@@ -806,13 +539,8 @@
     "cablecastShowId": 10081,
     "date": "2021-09-14",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2021/vcf091421.jpg",
     "videoSource": "vimeo",
@@ -825,13 +553,8 @@
     "cablecastShowId": 10067,
     "date": "2021-09-10",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2021/nekhs091021.jpg",
     "videoSource": "vimeo",
@@ -844,17 +567,9 @@
     "cablecastShowId": 10063,
     "date": "2021-09-09",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo090921.jpg",
     "videoSource": "vimeo",
@@ -867,17 +582,9 @@
     "cablecastShowId": 10041,
     "date": "2021-08-31",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo083121.jpg",
     "videoSource": "vimeo",
@@ -890,17 +597,9 @@
     "cablecastShowId": 10034,
     "date": "2021-08-26",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo082621.jpg",
     "videoSource": "vimeo",
@@ -913,17 +612,9 @@
     "cablecastShowId": 10007,
     "date": "2021-08-19",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo081921.jpg",
     "videoSource": "vimeo",
@@ -936,17 +627,9 @@
     "cablecastShowId": 9981,
     "date": "2021-08-16",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsubod081621.jpg",
     "videoSource": "archive.org",
@@ -959,17 +642,9 @@
     "cablecastShowId": 9992,
     "date": "2021-08-12",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo081221.jpg",
     "videoSource": "vimeo",
@@ -982,17 +657,9 @@
     "cablecastShowId": 9980,
     "date": "2021-08-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect080921.jpg",
     "videoSource": "archive.org",
@@ -1005,13 +672,8 @@
     "cablecastShowId": 9938,
     "date": "2021-07-25",
     "location": "Lyndonville",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/vtstands072521.jpg",
     "videoSource": "vimeo",
@@ -1024,17 +686,9 @@
     "cablecastShowId": 9935,
     "date": "2021-07-22",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo072221.jpg",
     "videoSource": "vimeo",
@@ -1047,17 +701,9 @@
     "cablecastShowId": 9914,
     "date": "2021-07-15",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo071521.jpg",
     "videoSource": "vimeo",
@@ -1070,17 +716,9 @@
     "cablecastShowId": 9902,
     "date": "2021-07-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect071221spec.jpg",
     "videoSource": "archive.org",
@@ -1093,17 +731,9 @@
     "cablecastShowId": 9901,
     "date": "2021-07-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect071221.jpg",
     "videoSource": "archive.org",
@@ -1116,17 +746,9 @@
     "cablecastShowId": 9890,
     "date": "2021-07-09",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo070921.jpg",
     "videoSource": "vimeo",
@@ -1139,13 +761,8 @@
     "cablecastShowId": 9884,
     "date": "2021-07-03",
     "location": "Peacham Church",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2021/olde070321.jpg",
     "videoSource": "vimeo",
@@ -1158,17 +775,9 @@
     "cablecastShowId": 9859,
     "date": "2021-06-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect062821.jpg",
     "videoSource": "archive.org",
@@ -1181,17 +790,9 @@
     "cablecastShowId": 9845,
     "date": "2021-06-24",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo062421.jpg",
     "videoSource": "vimeo",
@@ -1204,17 +805,9 @@
     "cablecastShowId": 9815,
     "date": "2021-06-14",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsubod061421.jpg",
     "videoSource": "archive.org",
@@ -1227,17 +820,9 @@
     "cablecastShowId": 9732,
     "date": "2021-06-11",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo052021.jpg",
     "videoSource": "vimeo",
@@ -1250,17 +835,9 @@
     "cablecastShowId": 9800,
     "date": "2021-06-07",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool060721.jpg",
     "videoSource": "archive.org",
@@ -1273,13 +850,8 @@
     "cablecastShowId": 9796,
     "date": "2021-06-07",
     "location": "Saint Johnsbury Academy",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2021/thumbnail2.jpg",
     "videoSource": "vimeo",
@@ -1292,13 +864,8 @@
     "cablecastShowId": 9772,
     "date": "2021-06-06",
     "location": "Lyndon Institute",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2021/ligrad060621.jpg",
     "videoSource": "vimeo",
@@ -1311,17 +878,9 @@
     "cablecastShowId": 9767,
     "date": "2021-06-04",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo060421.jpg",
     "videoSource": "vimeo",
@@ -1334,17 +893,9 @@
     "cablecastShowId": 9742,
     "date": "2021-05-24",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool052421.jpg",
     "videoSource": "archive.org",
@@ -1357,17 +908,9 @@
     "cablecastShowId": 9704,
     "date": "2021-05-17",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "ccsubod",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsubod051721.jpg",
     "videoSource": "archive.org",
@@ -1380,17 +923,9 @@
     "cablecastShowId": 9661,
     "date": "2021-05-08",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": "/assets/images/vod/2021/fmp050521.jpg",
     "videoSource": "vimeo",
@@ -1403,17 +938,9 @@
     "cablecastShowId": 9644,
     "date": "2021-04-29",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo042921.jpg",
     "videoSource": "vimeo",
@@ -1426,17 +953,9 @@
     "cablecastShowId": 9608,
     "date": "2021-04-26",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect042621.jpg",
     "videoSource": "archive.org",
@@ -1449,17 +968,9 @@
     "cablecastShowId": 9584,
     "date": "2021-04-19",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsubod041921.jpg",
     "videoSource": "archive.org",
@@ -1472,17 +983,9 @@
     "cablecastShowId": 9566,
     "date": "2021-04-15",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo041521.jpg",
     "videoSource": "vimeo",
@@ -1495,17 +998,9 @@
     "cablecastShowId": 9549,
     "date": "2021-04-12",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect041221.jpg",
     "videoSource": "archive.org",
@@ -1518,21 +1013,10 @@
     "cablecastShowId": 9511,
     "date": "2021-04-05",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjselect",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect040521.jpg",
     "videoSource": "archive.org",
@@ -1545,17 +1029,9 @@
     "cablecastShowId": 9506,
     "date": "2021-04-01",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo040121.jpg",
     "videoSource": "vimeo",
@@ -1568,17 +1044,9 @@
     "cablecastShowId": 9469,
     "date": "2021-03-25",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo032521.jpg",
     "videoSource": "vimeo",
@@ -1591,17 +1059,9 @@
     "cablecastShowId": 9464,
     "date": "2021-03-22",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect032221.jpg",
     "videoSource": "archive.org",
@@ -1614,17 +1074,9 @@
     "cablecastShowId": 9454,
     "date": "2021-03-18",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo031821.jpg",
     "videoSource": "vimeo",
@@ -1637,17 +1089,9 @@
     "cablecastShowId": 9426,
     "date": "2021-03-15",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool031521.jpg",
     "videoSource": "archive.org",
@@ -1660,17 +1104,9 @@
     "cablecastShowId": 9420,
     "date": "2021-03-11",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo31121.jpg",
     "videoSource": "vimeo",
@@ -1683,17 +1119,9 @@
     "cablecastShowId": 9374,
     "date": "2021-02-25",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo022521.jpg",
     "videoSource": "vimeo",
@@ -1706,13 +1134,8 @@
     "cablecastShowId": 9296,
     "date": "2021-02-22",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/wheelock022221.jpg",
     "videoSource": "archive.org",
@@ -1725,17 +1148,9 @@
     "cablecastShowId": 9354,
     "date": "2021-02-18",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo021821.jpg",
     "videoSource": "vimeo",
@@ -1748,17 +1163,9 @@
     "cablecastShowId": 9336,
     "date": "2021-02-11",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo021121.jpg",
     "videoSource": "vimeo",
@@ -1771,17 +1178,9 @@
     "cablecastShowId": 9304,
     "date": "2021-02-08",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect020821.jpg",
     "videoSource": "archive.org",
@@ -1794,17 +1193,9 @@
     "cablecastShowId": 9293,
     "date": "2021-02-04",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo020421.jpg",
     "videoSource": "vimeo",
@@ -1817,17 +1208,9 @@
     "cablecastShowId": 9273,
     "date": "2021-02-01",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect020121.jpg",
     "videoSource": "archive.org",
@@ -1840,17 +1223,9 @@
     "cablecastShowId": 9268,
     "date": "2021-01-28",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo012821.jpg",
     "videoSource": "vimeo",
@@ -1863,17 +1238,9 @@
     "cablecastShowId": 9250,
     "date": "2021-01-25",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2021/ccsu012521.jpg",
     "videoSource": "archive.org",
@@ -1886,17 +1253,9 @@
     "cablecastShowId": 9243,
     "date": "2021-01-25",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "stjselect",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect20210125.jpg",
     "videoSource": "archive.org",
@@ -1909,17 +1268,9 @@
     "cablecastShowId": 9226,
     "date": "2021-01-14",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1932,17 +1283,9 @@
     "cablecastShowId": 9212,
     "date": "2021-01-11",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2021/stjselect011121.jpg",
     "videoSource": "archive.org",
@@ -1955,17 +1298,9 @@
     "cablecastShowId": 9211,
     "date": "2021-01-11",
     "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool011121.jpg",
     "videoSource": "archive.org",
@@ -1978,17 +1313,9 @@
     "cablecastShowId": 9213,
     "date": "2021-01-11",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2001,17 +1328,9 @@
     "cablecastShowId": 9213,
     "date": "2021-01-11",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      },
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "iamvttoo",
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2021/iamvttoo011121.jpg",
     "videoSource": "vimeo",
@@ -2024,17 +1343,9 @@
     "cablecastShowId": 9201,
     "date": "2021-01-07",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2047,17 +1358,9 @@
     "cablecastShowId": 9201,
     "date": "2021-01-07",
     "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
     "categories": [
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      },
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "wgo",
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2021/wgo20210107.jpg",
     "videoSource": "vimeo",

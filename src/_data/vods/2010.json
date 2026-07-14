@@ -6,17 +6,9 @@
     "cablecastShowId": 496,
     "date": "2010-10-30",
     "location": "St. Johnsbury Academy",
-    "year": "2010",
-    "yearPath": "/vod/year/2010",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "SJA vs LI Football",
-        "path": "/vod/sports/sjlifb"
-      }
+      "sports",
+      "sjlifb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -29,13 +21,8 @@
     "cablecastShowId": null,
     "date": "2010-05-16",
     "location": "Lyndon State College",
-    "year": "2010",
-    "yearPath": "/vod/year/2010",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",

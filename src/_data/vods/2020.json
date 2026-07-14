@@ -6,13 +6,8 @@
     "cablecastShowId": 9155,
     "date": "2020-12-31",
     "location": "St. Johnsbury",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -25,17 +20,9 @@
     "cablecastShowId": 9164,
     "date": "2020-12-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -48,17 +35,9 @@
     "cablecastShowId": 9157,
     "date": "2020-12-21",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -71,17 +50,9 @@
     "cablecastShowId": 9158,
     "date": "2020-12-21",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -94,17 +65,9 @@
     "cablecastShowId": 9151,
     "date": "2020-12-17",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -117,17 +80,9 @@
     "cablecastShowId": 9141,
     "date": "2020-12-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -140,17 +95,9 @@
     "cablecastShowId": 9138,
     "date": "2020-12-10",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -163,17 +110,9 @@
     "cablecastShowId": 9131,
     "date": "2020-12-07",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -186,17 +125,9 @@
     "cablecastShowId": 9122,
     "date": "2020-12-03",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -209,17 +140,9 @@
     "cablecastShowId": 9086,
     "date": "2020-11-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -232,17 +155,9 @@
     "cablecastShowId": 9080,
     "date": "2020-11-19",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -255,17 +170,9 @@
     "cablecastShowId": 9069,
     "date": "2020-11-16",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -278,17 +185,9 @@
     "cablecastShowId": 9070,
     "date": "2020-11-16",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -301,17 +200,9 @@
     "cablecastShowId": 9072,
     "date": "2020-11-13",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -324,17 +215,9 @@
     "cablecastShowId": 9065,
     "date": "2020-11-12",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -347,17 +230,9 @@
     "cablecastShowId": 9059,
     "date": "2020-11-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -370,17 +245,9 @@
     "cablecastShowId": 9019,
     "date": "2020-10-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -393,17 +260,9 @@
     "cablecastShowId": 9018,
     "date": "2020-10-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -416,17 +275,9 @@
     "cablecastShowId": 9012,
     "date": "2020-10-23",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -439,17 +290,9 @@
     "cablecastShowId": 8257,
     "date": "2020-10-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -462,17 +305,9 @@
     "cablecastShowId": 8997,
     "date": "2020-10-19",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -485,17 +320,9 @@
     "cablecastShowId": 8995,
     "date": "2020-10-19",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -508,17 +335,9 @@
     "cablecastShowId": 8987,
     "date": "2020-10-15",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -531,13 +350,8 @@
     "cablecastShowId": 8984,
     "date": "2020-10-15",
     "location": "Old Stone House Museum",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -550,17 +364,9 @@
     "cablecastShowId": 8976,
     "date": "2020-10-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -573,17 +379,9 @@
     "cablecastShowId": 8975,
     "date": "2020-10-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -596,17 +394,9 @@
     "cablecastShowId": 8970,
     "date": "2020-10-08",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -619,17 +409,9 @@
     "cablecastShowId": 8953,
     "date": "2020-10-05",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -642,17 +424,9 @@
     "cablecastShowId": 8950,
     "date": "2020-10-01",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -665,13 +439,8 @@
     "cablecastShowId": 8934,
     "date": "2020-09-28",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -684,13 +453,8 @@
     "cablecastShowId": 8933,
     "date": "2020-09-28",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -703,17 +467,9 @@
     "cablecastShowId": 8935,
     "date": "2020-09-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -726,13 +482,8 @@
     "cablecastShowId": 8932,
     "date": "2020-09-26",
     "location": "St. Johnsbury",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -745,17 +496,9 @@
     "cablecastShowId": 8913,
     "date": "2020-09-22",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -768,17 +511,9 @@
     "cablecastShowId": 8910,
     "date": "2020-09-21",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -791,17 +526,9 @@
     "cablecastShowId": 8909,
     "date": "2020-09-21",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -814,17 +541,9 @@
     "cablecastShowId": 8899,
     "date": "2020-09-15",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -837,17 +556,9 @@
     "cablecastShowId": 8896,
     "date": "2020-09-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -860,17 +571,9 @@
     "cablecastShowId": 8895,
     "date": "2020-09-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -883,13 +586,8 @@
     "cablecastShowId": 8881,
     "date": "2020-09-03",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -902,13 +600,8 @@
     "cablecastShowId": 8880,
     "date": "2020-09-03",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -921,17 +614,9 @@
     "cablecastShowId": 8864,
     "date": "2020-08-27",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -944,17 +629,9 @@
     "cablecastShowId": 8853,
     "date": "2020-08-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -967,17 +644,9 @@
     "cablecastShowId": 8848,
     "date": "2020-08-20",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -990,17 +659,9 @@
     "cablecastShowId": 8849,
     "date": "2020-08-18",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1013,17 +674,9 @@
     "cablecastShowId": 8822,
     "date": "2020-08-17",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1036,17 +689,9 @@
     "cablecastShowId": 8818,
     "date": "2020-08-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1059,13 +704,8 @@
     "cablecastShowId": 8806,
     "date": "2020-08-06",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1078,13 +718,8 @@
     "cablecastShowId": 8803,
     "date": "2020-08-06",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1097,17 +732,9 @@
     "cablecastShowId": 8802,
     "date": "2020-08-06",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1120,13 +747,8 @@
     "cablecastShowId": 8798,
     "date": "2020-08-03",
     "location": "Caledonia Courthouse",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1139,17 +761,9 @@
     "cablecastShowId": 8787,
     "date": "2020-07-30",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1162,17 +776,9 @@
     "cablecastShowId": 8785,
     "date": "2020-07-27",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1185,17 +791,9 @@
     "cablecastShowId": 8780,
     "date": "2020-07-23",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1208,17 +806,9 @@
     "cablecastShowId": 8774,
     "date": "2020-07-20",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1231,17 +821,9 @@
     "cablecastShowId": 8775,
     "date": "2020-07-20",
     "location": "Lunenburg",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "other",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1254,17 +836,9 @@
     "cablecastShowId": 8907,
     "date": "2020-07-17",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1277,17 +851,9 @@
     "cablecastShowId": 8772,
     "date": "2020-07-16",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1300,17 +866,9 @@
     "cablecastShowId": 8766,
     "date": "2020-07-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1323,17 +881,9 @@
     "cablecastShowId": 8764,
     "date": "2020-07-09",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1346,17 +896,9 @@
     "cablecastShowId": 8755,
     "date": "2020-07-02",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1369,17 +911,9 @@
     "cablecastShowId": 8735,
     "date": "2020-06-29",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1392,17 +926,9 @@
     "cablecastShowId": 8746,
     "date": "2020-06-25",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1415,17 +941,9 @@
     "cablecastShowId": 8739,
     "date": "2020-06-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1438,17 +956,9 @@
     "cablecastShowId": 8729,
     "date": "2020-06-15",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1461,17 +971,9 @@
     "cablecastShowId": 8724,
     "date": "2020-06-11",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1484,17 +986,9 @@
     "cablecastShowId": 8715,
     "date": "2020-06-08",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1507,13 +1001,8 @@
     "cablecastShowId": 8712,
     "date": "2020-06-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1526,13 +1015,8 @@
     "cablecastShowId": 8714,
     "date": "2020-06-05",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1545,17 +1029,9 @@
     "cablecastShowId": 8713,
     "date": "2020-06-04",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1568,17 +1044,9 @@
     "cablecastShowId": 8705,
     "date": "2020-06-01",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1591,17 +1059,9 @@
     "cablecastShowId": 8697,
     "date": "2020-05-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1614,17 +1074,9 @@
     "cablecastShowId": 8683,
     "date": "2020-05-21",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1637,17 +1089,9 @@
     "cablecastShowId": 8678,
     "date": "2020-05-18",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1660,17 +1104,9 @@
     "cablecastShowId": 8664,
     "date": "2020-05-14",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1683,17 +1119,9 @@
     "cablecastShowId": 8658,
     "date": "2020-05-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1706,17 +1134,9 @@
     "cablecastShowId": 8655,
     "date": "2020-05-11",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "public-meetings",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1729,17 +1149,9 @@
     "cablecastShowId": 8648,
     "date": "2020-05-07",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1752,17 +1164,9 @@
     "cablecastShowId": 8605,
     "date": "2020-05-04",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1775,17 +1179,9 @@
     "cablecastShowId": 8594,
     "date": "2020-04-27",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1798,17 +1194,9 @@
     "cablecastShowId": 8578,
     "date": "2020-04-23",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1821,17 +1209,9 @@
     "cablecastShowId": 8553,
     "date": "2020-04-16",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1844,17 +1224,9 @@
     "cablecastShowId": 8544,
     "date": "2020-04-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1867,17 +1239,9 @@
     "cablecastShowId": 8524,
     "date": "2020-04-09",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1890,17 +1254,9 @@
     "cablecastShowId": 8519,
     "date": "2020-04-06",
     "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1913,17 +1269,9 @@
     "cablecastShowId": 8515,
     "date": "2020-04-06",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1936,17 +1284,9 @@
     "cablecastShowId": 8435,
     "date": "2020-03-16",
     "location": "Danville School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1959,17 +1299,9 @@
     "cablecastShowId": 8428,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1982,17 +1314,9 @@
     "cablecastShowId": 8427,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2005,17 +1329,9 @@
     "cablecastShowId": 8426,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2028,17 +1344,9 @@
     "cablecastShowId": 8425,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2051,17 +1359,9 @@
     "cablecastShowId": 8424,
     "date": "2020-03-13",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2074,17 +1374,9 @@
     "cablecastShowId": 8416,
     "date": "2020-03-12",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2097,17 +1389,9 @@
     "cablecastShowId": 8415,
     "date": "2020-03-12",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2120,17 +1404,9 @@
     "cablecastShowId": 8414,
     "date": "2020-03-11",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2143,17 +1419,9 @@
     "cablecastShowId": 8413,
     "date": "2020-03-11",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2166,17 +1434,9 @@
     "cablecastShowId": 8412,
     "date": "2020-03-11",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2189,17 +1449,9 @@
     "cablecastShowId": 8411,
     "date": "2020-03-11",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2212,17 +1464,9 @@
     "cablecastShowId": 8410,
     "date": "2020-03-11",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2235,17 +1479,9 @@
     "cablecastShowId": 8404,
     "date": "2020-03-10",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2258,17 +1494,9 @@
     "cablecastShowId": 8403,
     "date": "2020-03-10",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2281,17 +1509,9 @@
     "cablecastShowId": 8402,
     "date": "2020-03-10",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2304,17 +1524,9 @@
     "cablecastShowId": 8405,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2327,17 +1539,9 @@
     "cablecastShowId": 8401,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2350,17 +1554,9 @@
     "cablecastShowId": 8392,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2373,17 +1569,9 @@
     "cablecastShowId": 8391,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2396,17 +1584,9 @@
     "cablecastShowId": 8395,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2419,17 +1599,9 @@
     "cablecastShowId": 8394,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2442,17 +1614,9 @@
     "cablecastShowId": 8393,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2465,17 +1629,9 @@
     "cablecastShowId": 8390,
     "date": "2020-03-09",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2488,17 +1644,9 @@
     "cablecastShowId": 8389,
     "date": "2020-03-07",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2511,17 +1659,9 @@
     "cablecastShowId": 8388,
     "date": "2020-03-07",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2534,17 +1674,9 @@
     "cablecastShowId": 8387,
     "date": "2020-03-07",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2557,17 +1689,9 @@
     "cablecastShowId": 8386,
     "date": "2020-03-07",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2580,17 +1704,9 @@
     "cablecastShowId": 8385,
     "date": "2020-03-07",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2603,17 +1719,9 @@
     "cablecastShowId": 8384,
     "date": "2020-03-06",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2626,17 +1734,9 @@
     "cablecastShowId": 8383,
     "date": "2020-03-06",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2649,17 +1749,9 @@
     "cablecastShowId": 8382,
     "date": "2020-03-06",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2672,17 +1764,9 @@
     "cablecastShowId": 8381,
     "date": "2020-03-06",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2695,17 +1779,9 @@
     "cablecastShowId": 8365,
     "date": "2020-03-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2718,17 +1794,9 @@
     "cablecastShowId": 8364,
     "date": "2020-03-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2741,17 +1809,9 @@
     "cablecastShowId": 8363,
     "date": "2020-03-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2764,17 +1824,9 @@
     "cablecastShowId": 8362,
     "date": "2020-03-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2787,17 +1839,9 @@
     "cablecastShowId": 8361,
     "date": "2020-03-05",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2810,17 +1854,9 @@
     "cablecastShowId": 8360,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2833,17 +1869,9 @@
     "cablecastShowId": 8359,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2856,17 +1884,9 @@
     "cablecastShowId": 8358,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2879,17 +1899,9 @@
     "cablecastShowId": 8357,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2902,17 +1914,9 @@
     "cablecastShowId": 8356,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2925,17 +1929,9 @@
     "cablecastShowId": 8356,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
+      "sports",
+      "rotarybb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2948,13 +1944,8 @@
     "cablecastShowId": 8349,
     "date": "2020-02-27",
     "location": "Northern Vermont Unversity",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
+      "nekchamber"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2967,13 +1958,8 @@
     "cablecastShowId": 8348,
     "date": "2020-02-26",
     "location": "St. Johnsbury",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2986,17 +1972,9 @@
     "cablecastShowId": 8339,
     "date": "2020-02-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3009,17 +1987,9 @@
     "cablecastShowId": 8340,
     "date": "2020-02-24",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
+      "studio",
+      "iastj"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3032,17 +2002,9 @@
     "cablecastShowId": 8336,
     "date": "2020-02-24",
     "location": "St. Johnsbury House",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3055,17 +2017,9 @@
     "cablecastShowId": 8320,
     "date": "2020-02-17",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3078,17 +2032,9 @@
     "cablecastShowId": 8319,
     "date": "2020-02-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3101,13 +2047,8 @@
     "cablecastShowId": 9313,
     "date": "2020-02-12",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3120,17 +2061,9 @@
     "cablecastShowId": 8296,
     "date": "2020-02-10",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "public-meetings",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3143,17 +2076,9 @@
     "cablecastShowId": 8294,
     "date": "2020-02-10",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3166,13 +2091,8 @@
     "cablecastShowId": 8293,
     "date": "2020-02-08",
     "location": "South Church",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3185,17 +2105,9 @@
     "cablecastShowId": 8288,
     "date": "2020-02-05",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3208,17 +2120,9 @@
     "cablecastShowId": 8287,
     "date": "2020-02-04",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3231,13 +2135,8 @@
     "cablecastShowId": 8283,
     "date": "2020-02-04",
     "location": "Green Mountain Power District Office",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3250,17 +2149,9 @@
     "cablecastShowId": 8279,
     "date": "2020-02-03",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3273,17 +2164,9 @@
     "cablecastShowId": 8260,
     "date": "2020-01-27",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3296,17 +2179,9 @@
     "cablecastShowId": 8258,
     "date": "2020-01-27",
     "location": "St. Johnsbury House",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "neklegbkfst",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3319,17 +2194,9 @@
     "cablecastShowId": 8254,
     "date": "2020-01-20",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3342,17 +2209,9 @@
     "cablecastShowId": 8237,
     "date": "2020-01-16",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3365,17 +2224,9 @@
     "cablecastShowId": 8230,
     "date": "2020-01-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3388,13 +2239,8 @@
     "cablecastShowId": 8231,
     "date": "2020-01-13",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3407,17 +2253,9 @@
     "cablecastShowId": 8228,
     "date": "2020-01-08",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -3430,17 +2268,9 @@
     "cablecastShowId": 8226,
     "date": "2020-01-07",
     "location": "Concord Municipal Building",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3453,17 +2283,9 @@
     "cablecastShowId": 8223,
     "date": "2020-01-06",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3476,17 +2298,9 @@
     "cablecastShowId": 8222,
     "date": "2020-01-06",
     "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -3499,17 +2313,9 @@
     "cablecastShowId": 8221,
     "date": "2020-01-02",
     "location": "KATV Studio",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",

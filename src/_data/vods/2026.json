@@ -6,17 +6,9 @@
     "cablecastShowId": 15353,
     "date": "2026-07-07",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "concordselect",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260707.jpg",
     "videoSource": "archive.org",
@@ -29,17 +21,9 @@
     "cablecastShowId": 15346,
     "date": "2026-07-06",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260706.jpg",
     "videoSource": "archive.org",
@@ -52,13 +36,8 @@
     "cablecastShowId": 15350,
     "date": "2026-07-04",
     "location": "Woodsville, NH",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/woodsville4th2026.jpg",
     "videoSource": "vimeo",
@@ -71,13 +50,8 @@
     "cablecastShowId": 15375,
     "date": "2026-07-04",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/stj4th2026.jpg",
     "videoSource": "vimeo",
@@ -90,17 +64,9 @@
     "cablecastShowId": 15346,
     "date": "2026-06-22",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stsjelect20260622.jpg",
     "videoSource": "archive.org",
@@ -113,17 +79,9 @@
     "cablecastShowId": 15318,
     "date": "2026-06-19",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260619.jpg",
     "videoSource": "vimeo",
@@ -136,17 +94,9 @@
     "cablecastShowId": 15317,
     "date": "2026-06-16",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260616.jpg",
     "videoSource": "archive.org",
@@ -159,17 +109,9 @@
     "cablecastShowId": 15315,
     "date": "2026-06-15",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260615.jpg",
     "videoSource": "archive.org",
@@ -182,13 +124,8 @@
     "cablecastShowId": 15314,
     "date": "2026-06-13",
     "location": "Danville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2026/danvillegrad2026.jpg",
     "videoSource": "vimeo",
@@ -201,17 +138,9 @@
     "cablecastShowId": 15298,
     "date": "2026-06-10",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260610.jpg",
     "videoSource": "vimeo",
@@ -224,17 +153,9 @@
     "cablecastShowId": 15278,
     "date": "2026-06-09",
     "location": "Welcome Center, St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "stjschool",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260601.jpg",
     "videoSource": "archive.org",
@@ -247,17 +168,9 @@
     "cablecastShowId": 15296,
     "date": "2026-06-08",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260608.jpg",
     "videoSource": "archive.org",
@@ -270,17 +183,9 @@
     "cablecastShowId": 15297,
     "date": "2026-06-08",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260608.jpg",
     "videoSource": "archive.org",
@@ -293,17 +198,9 @@
     "cablecastShowId": 15319,
     "date": "2026-06-08",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260608sm.jpg",
     "videoSource": "archive.org",
@@ -316,13 +213,8 @@
     "cablecastShowId": 15295,
     "date": "2026-06-07",
     "location": "Lyndon Institute",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2026/ligrad20260607.jpg",
     "videoSource": "vimeo",
@@ -335,13 +227,8 @@
     "cablecastShowId": 15294,
     "date": "2026-06-06",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/petparade20260606.jpg",
     "videoSource": "vimeo",
@@ -354,17 +241,9 @@
     "cablecastShowId": 15281,
     "date": "2026-06-03",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260603.jpg",
     "videoSource": "vimeo",
@@ -377,17 +256,9 @@
     "cablecastShowId": 15279,
     "date": "2026-06-02",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260602.jpg",
     "videoSource": "archive.org",
@@ -400,17 +271,9 @@
     "cablecastShowId": 15280,
     "date": "2026-06-02",
     "location": "Danville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
+      "public-meetings",
+      "danvilleschool"
     ],
     "teaserImage": "/assets/images/vod/2026/danvilleschool20260602.jpg",
     "videoSource": "archive.org",
@@ -423,13 +286,8 @@
     "cablecastShowId": 15299,
     "date": "2026-06-01",
     "location": "St. Johnsbury Academy",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2026/sja20260601.jpg",
     "videoSource": "vimeo",
@@ -442,17 +300,9 @@
     "cablecastShowId": 15276,
     "date": "2026-05-31",
     "location": "South Church, St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2026/sja20260531.jpg",
     "videoSource": "vimeo",
@@ -465,17 +315,9 @@
     "cablecastShowId": 15260,
     "date": "2026-05-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260526.jpg",
     "videoSource": "archive.org",
@@ -488,17 +330,9 @@
     "cablecastShowId": 15261,
     "date": "2026-05-20",
     "location": "Fuller Hall, St. Johnsbury Academy",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2026/sja20260520.jpg",
     "videoSource": "vimeo",
@@ -511,13 +345,8 @@
     "cablecastShowId": 15252,
     "date": "2026-05-20",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/vhc20260520.jpg",
     "videoSource": "vimeo",
@@ -530,17 +359,9 @@
     "cablecastShowId": 15249,
     "date": "2026-05-19",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260519.jpg",
     "videoSource": "archive.org",
@@ -553,17 +374,9 @@
     "cablecastShowId": 15251,
     "date": "2026-05-19",
     "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      },
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "danville",
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2026/danville20260519.jpg",
     "videoSource": "vimeo",
@@ -576,17 +389,9 @@
     "cablecastShowId": 15250,
     "date": "2026-05-18",
     "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2026/ccsubod20260518.jpg",
     "videoSource": "archive.org",
@@ -599,13 +404,8 @@
     "cablecastShowId": 15246,
     "date": "2026-05-18",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
+      "nekchamber"
     ],
     "teaserImage": "/assets/images/vod/2026/legbkfst20260518.jpg",
     "videoSource": "vimeo",
@@ -618,17 +418,9 @@
     "cablecastShowId": 15228,
     "date": "2026-05-15",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260515.jpg",
     "videoSource": "vimeo",
@@ -641,17 +433,9 @@
     "cablecastShowId": 15227,
     "date": "2026-05-11",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260511.jpg",
     "videoSource": "archive.org",
@@ -664,17 +448,9 @@
     "cablecastShowId": 15244,
     "date": "2026-05-10",
     "location": "VTSU Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      },
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "nekco",
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2026/nekco20260510.jpg",
     "videoSource": "vimeo",
@@ -687,17 +463,9 @@
     "cablecastShowId": 15085,
     "date": "2026-05-06",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260506.jpg",
     "videoSource": "vimeo",
@@ -710,17 +478,9 @@
     "cablecastShowId": 15212,
     "date": "2026-05-05",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260505.jpg",
     "videoSource": "archive.org",
@@ -733,17 +493,9 @@
     "cablecastShowId": 15210,
     "date": "2026-05-04",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260504.jpg",
     "videoSource": "archive.org",
@@ -756,17 +508,9 @@
     "cablecastShowId": 15211,
     "date": "2026-05-04",
     "location": "St. Johnsbury School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260504.jpg",
     "videoSource": "archive.org",
@@ -779,13 +523,8 @@
     "cablecastShowId": 15226,
     "date": "2026-05-03",
     "location": "United Community Church",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2026/ncc20260503.jpg",
     "videoSource": "vimeo",
@@ -798,17 +537,9 @@
     "cablecastShowId": 15168,
     "date": "2026-05-01",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": "/assets/images/vod/2026/fairbanks20260501.jpg",
     "videoSource": "vimeo",
@@ -821,17 +552,9 @@
     "cablecastShowId": 15167,
     "date": "2026-04-30",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260430.jpg",
     "videoSource": "vimeo",
@@ -844,17 +567,9 @@
     "cablecastShowId": 15166,
     "date": "2026-04-27",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260427.jpg",
     "videoSource": "archive.org",
@@ -867,17 +582,9 @@
     "cablecastShowId": 15165,
     "date": "2026-04-27",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "lectures-forums",
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2026/legbkfst20260427.jpg",
     "videoSource": "vimeo",
@@ -890,13 +597,8 @@
     "cablecastShowId": 15140,
     "date": "2026-04-26",
     "location": "Danville Congregational Church",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/dhs20260426.jpg",
     "videoSource": "vimeo",
@@ -909,17 +611,9 @@
     "cablecastShowId": 15139,
     "date": "2026-04-25",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "lectures-forums",
+      "catamount"
     ],
     "teaserImage": "/assets/images/vod/2026/catamount20260425.jpg",
     "videoSource": "vimeo",
@@ -932,17 +626,9 @@
     "cablecastShowId": 15138,
     "date": "2026-04-23",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
+      "lectures-forums",
+      "osher"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260423.jpg",
     "videoSource": "vimeo",
@@ -955,17 +641,9 @@
     "cablecastShowId": 15137,
     "date": "2026-04-21",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "grotonselect",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260421.jpg",
     "videoSource": "archive.org",
@@ -978,17 +656,9 @@
     "cablecastShowId": 15136,
     "date": "2026-04-20",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260420.jpg",
     "videoSource": "archive.org",
@@ -1001,17 +671,9 @@
     "cablecastShowId": 15106,
     "date": "2026-04-18",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260418.jpg",
     "videoSource": "vimeo",
@@ -1024,17 +686,9 @@
     "cablecastShowId": 15105,
     "date": "2026-04-17",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260417.jpg",
     "videoSource": "vimeo",
@@ -1047,17 +701,9 @@
     "cablecastShowId": 15104,
     "date": "2026-04-16",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260416.jpg",
     "videoSource": "vimeo",
@@ -1070,17 +716,9 @@
     "cablecastShowId": 15169,
     "date": "2026-04-16",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260416.jpg",
     "videoSource": "vimeo",
@@ -1093,13 +731,8 @@
     "cablecastShowId": 15103,
     "date": "2026-04-14",
     "location": "Barnet",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2026/barnet20260414.jpg",
     "videoSource": "vimeo",
@@ -1112,17 +745,9 @@
     "cablecastShowId": 15097,
     "date": "2026-04-13",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260413.jpg",
     "videoSource": "archive.org",
@@ -1135,17 +760,9 @@
     "cablecastShowId": 15084,
     "date": "2026-04-10",
     "location": "Lyndon Institute",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2026/lispring20260410.jpg",
     "videoSource": "vimeo",
@@ -1158,17 +775,9 @@
     "cablecastShowId": 15083,
     "date": "2026-04-09",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260409.jpg",
     "videoSource": "vimeo",
@@ -1181,13 +790,8 @@
     "cablecastShowId": 15143,
     "date": "2026-04-07",
     "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/stjwindows20260407.jpg",
     "videoSource": "vimeo",
@@ -1200,17 +804,9 @@
     "cablecastShowId": 15080,
     "date": "2026-04-07",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "concordselect",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260407.jpg",
     "videoSource": "archive.org",
@@ -1223,17 +819,9 @@
     "cablecastShowId": 15071,
     "date": "2026-04-06",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260406.jpg",
     "videoSource": "archive.org",
@@ -1246,17 +834,9 @@
     "cablecastShowId": 15051,
     "date": "2026-04-02",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260402.jpg",
     "videoSource": "vimeo",
@@ -1269,17 +849,9 @@
     "cablecastShowId": 15054,
     "date": "2026-03-30",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/legbkfst20260330.jpg",
     "videoSource": "vimeo",
@@ -1292,13 +864,8 @@
     "cablecastShowId": 15078,
     "date": "2026-03-28",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2026/nokings20260328.jpg",
     "videoSource": "vimeo",
@@ -1311,17 +878,9 @@
     "cablecastShowId": 15038,
     "date": "2026-03-26",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260326.jpg",
     "videoSource": "vimeo",
@@ -1334,17 +893,9 @@
     "cablecastShowId": 15036,
     "date": "2026-03-25",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260325.jpg",
     "videoSource": "vimeo",
@@ -1357,17 +908,9 @@
     "cablecastShowId": 15037,
     "date": "2026-03-25",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2026/sja20260325.jpg",
     "videoSource": "vimeo",
@@ -1380,17 +923,9 @@
     "cablecastShowId": 15035,
     "date": "2026-03-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260323.jpg",
     "videoSource": "archive.org",
@@ -1403,17 +938,9 @@
     "cablecastShowId": 15023,
     "date": "2026-03-20",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260320.jpg",
     "videoSource": "vimeo",
@@ -1426,17 +953,9 @@
     "cablecastShowId": 15015,
     "date": "2026-03-19",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260319.jpg",
     "videoSource": "vimeo",
@@ -1449,17 +968,9 @@
     "cablecastShowId": 15021,
     "date": "2026-03-17",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260317.jpg",
     "videoSource": "archive.org",
@@ -1472,17 +983,9 @@
     "cablecastShowId": 14941,
     "date": "2026-03-16",
     "location": "Virtual",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2026/ccsubod20260316.jpg",
     "videoSource": "archive.org",
@@ -1495,17 +998,9 @@
     "cablecastShowId": 15019,
     "date": "2026-03-16",
     "location": "Lyndon Municipal Building",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260616.jpg",
     "videoSource": "archive.org",
@@ -1518,17 +1013,9 @@
     "cablecastShowId": 15020,
     "date": "2026-03-16",
     "location": "St. Johnsbury School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260316.jpg",
     "videoSource": "archive.org",
@@ -1541,17 +1028,9 @@
     "cablecastShowId": 14998,
     "date": "2026-03-12",
     "location": "Catamount Arts",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/osher20260312.jpg",
     "videoSource": "vimeo",
@@ -1564,17 +1043,9 @@
     "cablecastShowId": 14999,
     "date": "2026-03-12",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260312.jpg",
     "videoSource": "vimeo",
@@ -1587,13 +1058,8 @@
     "cablecastShowId": 15000,
     "date": "2026-03-09",
     "location": "Welcome Center, St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
@@ -1606,13 +1072,8 @@
     "cablecastShowId": 14985,
     "date": "2026-03-05",
     "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/danvilleschool20260305.jpg",
     "videoSource": "archive.org",
@@ -1625,17 +1086,9 @@
     "cablecastShowId": 14984,
     "date": "2026-03-05",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260305.jpg",
     "videoSource": "archive.org",
@@ -1648,17 +1101,9 @@
     "cablecastShowId": 14980,
     "date": "2026-03-02",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260302.jpg",
     "videoSource": "archive.org",
@@ -1671,17 +1116,9 @@
     "cablecastShowId": 14971,
     "date": "2026-02-25",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260225.jpg",
     "videoSource": "vimeo",
@@ -1694,21 +1131,10 @@
     "cablecastShowId": 14986,
     "date": "2026-02-23",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjschool",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/specapp20260223.jpg",
     "videoSource": "archive.org",
@@ -1721,17 +1147,9 @@
     "cablecastShowId": 14970,
     "date": "2026-02-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260223.jpg",
     "videoSource": "archive.org",
@@ -1744,13 +1162,8 @@
     "cablecastShowId": 14969,
     "date": "2026-02-23",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
+      "nekchamber"
     ],
     "teaserImage": "/assets/images/vod/2026/legbkfst20260223.jpg",
     "videoSource": "vimeo",
@@ -1763,17 +1176,9 @@
     "cablecastShowId": 14943,
     "date": "2026-02-20",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260220.jpg",
     "videoSource": "vimeo",
@@ -1786,17 +1191,9 @@
     "cablecastShowId": 14979,
     "date": "2026-02-19",
     "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      },
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "wgo",
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2026/wgo20260219.jpg",
     "videoSource": "vimeo",
@@ -1809,17 +1206,9 @@
     "cablecastShowId": 14942,
     "date": "2026-02-18",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260218.jpg",
     "videoSource": "archive.org",
@@ -1832,13 +1221,8 @@
     "cablecastShowId": 14975,
     "date": "2026-02-18",
     "location": "Northern Vermont Regional Hospital",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1851,13 +1235,8 @@
     "cablecastShowId": 14974,
     "date": "2026-02-18",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "politics"
     ],
     "teaserImage": "/assets/images/vod/2026/nvrh20260218.jpg",
     "videoSource": "vimeo",
@@ -1870,17 +1249,9 @@
     "cablecastShowId": 14940,
     "date": "2026-02-17",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260217.jpg",
     "videoSource": "archive.org",
@@ -1893,17 +1264,9 @@
     "cablecastShowId": 14920,
     "date": "2026-02-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260209.jpg",
     "videoSource": "archive.org",
@@ -1916,17 +1279,9 @@
     "cablecastShowId": 14936,
     "date": "2026-02-08",
     "location": "Lyndonville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      }
+      "concerts",
+      "nekco"
     ],
     "teaserImage": "/assets/images/vod/2026/nekco20260208.jpg",
     "videoSource": "vimeo",
@@ -1939,17 +1294,9 @@
     "cablecastShowId": 14901,
     "date": "2026-02-04",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260204.jpg",
     "videoSource": "vimeo",
@@ -1962,17 +1309,9 @@
     "cablecastShowId": 14899,
     "date": "2026-02-03",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260203.jpg",
     "videoSource": "archive.org",
@@ -1985,17 +1324,9 @@
     "cablecastShowId": 14900,
     "date": "2026-02-03",
     "location": "Danville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
+      "public-meetings",
+      "danvilleschool"
     ],
     "teaserImage": "/assets/images/vod/2026/danvilleschool20260203.jpg",
     "videoSource": "archive.org",
@@ -2008,17 +1339,9 @@
     "cablecastShowId": 14897,
     "date": "2026-02-02",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260202.jpg",
     "videoSource": "archive.org",
@@ -2031,17 +1354,9 @@
     "cablecastShowId": 14906,
     "date": "2026-01-29",
     "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2026/wgo20260129.jpg",
     "videoSource": "vimeo",
@@ -2054,13 +1369,8 @@
     "cablecastShowId": 14870,
     "date": "2026-01-26",
     "location": "Virtual",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2026/legbkfst20260126.jpg",
     "videoSource": "vimeo",
@@ -2073,13 +1383,8 @@
     "cablecastShowId": 14871,
     "date": "2026-01-26",
     "location": "Welcome Center, St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260126.jpg",
     "videoSource": "archive.org",
@@ -2092,17 +1397,9 @@
     "cablecastShowId": 14844,
     "date": "2026-01-21",
     "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "grotonselect",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/grotonselect20260121.jpg",
     "videoSource": "archive.org",
@@ -2115,17 +1412,9 @@
     "cablecastShowId": 14842,
     "date": "2026-01-19",
     "location": "St. Johnsbury School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260119.jpg",
     "videoSource": "archive.org",
@@ -2138,17 +1427,9 @@
     "cablecastShowId": 14843,
     "date": "2026-01-19",
     "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2026/ccsubod20260119.jpg",
     "videoSource": "archive.org",
@@ -2161,17 +1442,9 @@
     "cablecastShowId": 14841,
     "date": "2026-01-19",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260119.jpg",
     "videoSource": "archive.org",
@@ -2184,17 +1457,9 @@
     "cablecastShowId": 14825,
     "date": "2026-01-16",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "lectures-forums",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2026/stjath20260116.jpg",
     "videoSource": "vimeo",
@@ -2207,17 +1472,9 @@
     "cablecastShowId": 14824,
     "date": "2026-01-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2026/stjselect20260112.jpg",
     "videoSource": "archive.org",
@@ -2230,17 +1487,9 @@
     "cablecastShowId": 14845,
     "date": "2026-01-12",
     "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2026/wgo20260112.jpg",
     "videoSource": "vimeo",
@@ -2253,17 +1502,9 @@
     "cablecastShowId": 14830,
     "date": "2026-01-08",
     "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2026/wgo20260108.jpg",
     "videoSource": "vimeo",
@@ -2276,17 +1517,9 @@
     "cablecastShowId": 14823,
     "date": "2026-01-07",
     "location": "St. Johnsbury School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260107.jpg",
     "videoSource": "archive.org",
@@ -2299,17 +1532,9 @@
     "cablecastShowId": 14821,
     "date": "2026-01-06",
     "location": "Concord",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2026/concordselect20260106.jpg",
     "videoSource": "archive.org",
@@ -2322,17 +1547,9 @@
     "cablecastShowId": 14822,
     "date": "2026-01-06",
     "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
+      "public-meetings",
+      "danvilleschool"
     ],
     "teaserImage": "/assets/images/vod/2026/danvilleschool20260106.jpg",
     "videoSource": "archive.org",
@@ -2345,17 +1562,9 @@
     "cablecastShowId": 14819,
     "date": "2026-01-05",
     "location": "Lyndon",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
+      "public-meetings",
+      "lyndonselect"
     ],
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260105.jpg",
     "videoSource": "archive.org",
@@ -2368,17 +1577,9 @@
     "cablecastShowId": 14820,
     "date": "2026-01-05",
     "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
     "categories": [
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "stjschool",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2026/stjschool20260105.jpg",
     "videoSource": "archive.org",

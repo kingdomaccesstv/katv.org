@@ -6,17 +6,9 @@
     "cablecastShowId": 1914,
     "date": "2012-12-28",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -29,17 +21,9 @@
     "cablecastShowId": 1886,
     "date": "2012-12-22",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -52,17 +36,9 @@
     "cablecastShowId": 1922,
     "date": "2012-12-17",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
+      "studio",
+      "healthquest"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -75,17 +51,9 @@
     "cablecastShowId": 1885,
     "date": "2012-12-15",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -98,17 +66,9 @@
     "cablecastShowId": 1891,
     "date": "2012-12-13",
     "location": "Lyndon Institute",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -121,17 +81,9 @@
     "cablecastShowId": 1860,
     "date": "2012-12-08",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -144,17 +96,9 @@
     "cablecastShowId": 1865,
     "date": "2012-12-03",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
+      "studio",
+      "healthquest"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -167,17 +111,9 @@
     "cablecastShowId": 1862,
     "date": "2012-12-03",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -190,17 +126,9 @@
     "cablecastShowId": 1853,
     "date": "2012-11-26",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -213,17 +141,9 @@
     "cablecastShowId": 1846,
     "date": "2012-11-20",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -236,17 +156,9 @@
     "cablecastShowId": 1844,
     "date": "2012-11-19",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -259,17 +171,9 @@
     "cablecastShowId": 1847,
     "date": "2012-11-11",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -282,17 +186,9 @@
     "cablecastShowId": 1825,
     "date": "2012-11-05",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -305,17 +201,9 @@
     "cablecastShowId": 1819,
     "date": "2012-11-03",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -328,17 +216,9 @@
     "cablecastShowId": 1827,
     "date": "2012-10-29",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
+      "studio",
+      "healthquest"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -351,17 +231,9 @@
     "cablecastShowId": 1807,
     "date": "2012-10-29",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -374,17 +246,9 @@
     "cablecastShowId": 1803,
     "date": "2012-10-27",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -397,17 +261,9 @@
     "cablecastShowId": 1802,
     "date": "2012-10-24",
     "location": "South Church",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -420,13 +276,8 @@
     "cablecastShowId": 1789,
     "date": "2012-10-23",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -439,17 +290,9 @@
     "cablecastShowId": 1786,
     "date": "2012-10-20",
     "location": "St. Johnsbury Academy",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "SJA vs LI Football",
-        "path": "/vod/sports/sjlifb"
-      }
+      "sports",
+      "sjlifb"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -462,17 +305,9 @@
     "cablecastShowId": 1777,
     "date": "2012-10-16",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -485,17 +320,9 @@
     "cablecastShowId": 1773,
     "date": "2012-10-15",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -508,17 +335,9 @@
     "cablecastShowId": 1761,
     "date": "2012-10-08",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -531,13 +350,8 @@
     "cablecastShowId": 1751,
     "date": "2012-10-03",
     "location": "Island Pond",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -550,17 +364,9 @@
     "cablecastShowId": 1745,
     "date": "2012-10-02",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -573,13 +379,8 @@
     "cablecastShowId": 1742,
     "date": "2012-09-29",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -592,17 +393,9 @@
     "cablecastShowId": 1734,
     "date": "2012-09-24",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -615,17 +408,9 @@
     "cablecastShowId": 1735,
     "date": "2012-09-20",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -638,17 +423,9 @@
     "cablecastShowId": 1727,
     "date": "2012-09-19",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -661,17 +438,9 @@
     "cablecastShowId": 1726,
     "date": "2012-09-18",
     "location": "Fairbanks Museum",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -684,17 +453,9 @@
     "cablecastShowId": 1721,
     "date": "2012-09-17",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -707,17 +468,9 @@
     "cablecastShowId": 1713,
     "date": "2012-09-12",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -730,17 +483,9 @@
     "cablecastShowId": 1707,
     "date": "2012-09-10",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -753,17 +498,9 @@
     "cablecastShowId": 1689,
     "date": "2012-09-08",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -776,17 +513,9 @@
     "cablecastShowId": 1700,
     "date": "2012-09-06",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -799,17 +528,9 @@
     "cablecastShowId": 1688,
     "date": "2012-09-01",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -822,17 +543,9 @@
     "cablecastShowId": 1682,
     "date": "2012-08-27",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -845,17 +558,9 @@
     "cablecastShowId": 1683,
     "date": "2012-08-27",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -868,13 +573,8 @@
     "cablecastShowId": 1676,
     "date": "2012-08-23",
     "location": "Newark School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -887,17 +587,9 @@
     "cablecastShowId": 1671,
     "date": "2012-08-21",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -910,13 +602,8 @@
     "cablecastShowId": 1667,
     "date": "2012-08-14",
     "location": "Newark School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -929,13 +616,8 @@
     "cablecastShowId": 1659,
     "date": "2012-08-09",
     "location": "Newark School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -948,17 +630,9 @@
     "cablecastShowId": 1658,
     "date": "2012-08-09",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "lectures-forums",
+      "catamount"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -971,17 +645,9 @@
     "cablecastShowId": 1669,
     "date": "2012-08-08",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -994,17 +660,9 @@
     "cablecastShowId": 1657,
     "date": "2012-08-08",
     "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1017,17 +675,9 @@
     "cablecastShowId": 1648,
     "date": "2012-08-02",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1040,17 +690,9 @@
     "cablecastShowId": 1642,
     "date": "2012-07-28",
     "location": "Fairbanks Museum",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1063,17 +705,9 @@
     "cablecastShowId": 1638,
     "date": "2012-07-27",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1086,17 +720,9 @@
     "cablecastShowId": 1622,
     "date": "2012-07-21",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1109,13 +735,8 @@
     "cablecastShowId": 1619,
     "date": "2012-07-17",
     "location": "Newark School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1128,17 +749,9 @@
     "cablecastShowId": 1614,
     "date": "2012-07-16",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1151,17 +764,9 @@
     "cablecastShowId": 1613,
     "date": "2012-07-14",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1174,17 +779,9 @@
     "cablecastShowId": 1602,
     "date": "2012-07-05",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1197,17 +794,9 @@
     "cablecastShowId": 1594,
     "date": "2012-07-02",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1220,13 +809,8 @@
     "cablecastShowId": 1589,
     "date": "2012-06-22",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1239,17 +823,9 @@
     "cablecastShowId": 1564,
     "date": "2012-06-14",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "lectures-forums",
+      "catamount"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1262,13 +838,8 @@
     "cablecastShowId": 1559,
     "date": "2012-06-11",
     "location": "UU Church",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "North Country Coalition",
-        "path": "/vod/ncc"
-      }
+      "ncc"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1281,17 +852,9 @@
     "cablecastShowId": 1527,
     "date": "2012-06-11",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1304,13 +867,8 @@
     "cablecastShowId": 1554,
     "date": "2012-06-10",
     "location": "Lyndon Institute",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1323,17 +881,9 @@
     "cablecastShowId": 1550,
     "date": "2012-06-07",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1346,13 +896,8 @@
     "cablecastShowId": 1542,
     "date": "2012-06-06",
     "location": "St. Johnsbury Academy",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1365,17 +910,9 @@
     "cablecastShowId": 1543,
     "date": "2012-06-01",
     "location": "St. Johnsbury Academy",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1388,17 +925,9 @@
     "cablecastShowId": 1516,
     "date": "2012-05-26",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1411,13 +940,8 @@
     "cablecastShowId": 1529,
     "date": "2012-05-25",
     "location": "Newark School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1430,17 +954,9 @@
     "cablecastShowId": 1521,
     "date": "2012-05-23",
     "location": "Waterford School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Waterford",
-        "path": "/vod/concerts/waterford"
-      }
+      "concerts",
+      "waterford"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1453,17 +969,9 @@
     "cablecastShowId": 1515,
     "date": "2012-05-19",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1476,17 +984,9 @@
     "cablecastShowId": 1508,
     "date": "2012-05-14",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1499,17 +999,9 @@
     "cablecastShowId": 1481,
     "date": "2012-04-26",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1522,13 +1014,8 @@
     "cablecastShowId": 1479,
     "date": "2012-04-23",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1541,17 +1028,9 @@
     "cablecastShowId": 1468,
     "date": "2012-04-19",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1564,17 +1043,9 @@
     "cablecastShowId": 1469,
     "date": "2012-04-19",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1587,13 +1058,8 @@
     "cablecastShowId": 1467,
     "date": "2012-04-12",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1606,13 +1072,8 @@
     "cablecastShowId": 1461,
     "date": "2012-04-12",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1625,13 +1086,8 @@
     "cablecastShowId": 1450,
     "date": "2012-04-09",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1644,17 +1100,9 @@
     "cablecastShowId": 1441,
     "date": "2012-04-09",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1667,17 +1115,9 @@
     "cablecastShowId": 1430,
     "date": "2012-04-07",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1690,17 +1130,9 @@
     "cablecastShowId": 1436,
     "date": "2012-04-05",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1713,17 +1145,9 @@
     "cablecastShowId": 1444,
     "date": "2012-04-05",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1736,17 +1160,9 @@
     "cablecastShowId": 1434,
     "date": "2012-04-05",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1759,17 +1175,9 @@
     "cablecastShowId": 1432,
     "date": "2012-04-02",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1782,17 +1190,9 @@
     "cablecastShowId": 1428,
     "date": "2012-03-29",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1805,17 +1205,9 @@
     "cablecastShowId": 1400,
     "date": "2012-03-15",
     "location": "Catamount Arts",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1828,17 +1220,9 @@
     "cablecastShowId": 1392,
     "date": "2012-03-08",
     "location": "Fairbanks Museum",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1851,17 +1235,9 @@
     "cablecastShowId": 1390,
     "date": "2012-03-08",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1874,17 +1250,9 @@
     "cablecastShowId": 1381,
     "date": "2012-03-01",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1897,17 +1265,9 @@
     "cablecastShowId": 1376,
     "date": "2012-02-27",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1920,17 +1280,9 @@
     "cablecastShowId": 1347,
     "date": "2012-02-23",
     "location": "St. Johnsbury Academy",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "lectures-forums",
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1943,17 +1295,9 @@
     "cablecastShowId": 1368,
     "date": "2012-02-22",
     "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      },
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "nekchamber",
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1966,17 +1310,9 @@
     "cablecastShowId": 1366,
     "date": "2012-02-21",
     "location": "North Church",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "lectures-forums",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1989,17 +1325,9 @@
     "cablecastShowId": 1367,
     "date": "2012-02-21",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2012,17 +1340,9 @@
     "cablecastShowId": 1365,
     "date": "2012-02-20",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2035,21 +1355,10 @@
     "cablecastShowId": 1355,
     "date": "2012-02-09",
     "location": "WSTJ Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "lectures-forums",
+      "stjselect",
+      "politics"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2062,13 +1371,8 @@
     "cablecastShowId": 1349,
     "date": "2012-02-07",
     "location": "St. Johnsbury House",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2081,17 +1385,9 @@
     "cablecastShowId": 1334,
     "date": "2012-02-02",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2104,13 +1400,8 @@
     "cablecastShowId": 1339,
     "date": "2012-02-01",
     "location": "Charles Carter Business Center",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2123,17 +1414,9 @@
     "cablecastShowId": 1334,
     "date": "2012-01-26",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2146,17 +1429,9 @@
     "cablecastShowId": 1314,
     "date": "2012-01-21",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2169,17 +1444,9 @@
     "cablecastShowId": 1312,
     "date": "2012-01-19",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2192,17 +1459,9 @@
     "cablecastShowId": 1307,
     "date": "2012-01-17",
     "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
+      "public-meetings",
+      "concordschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2215,17 +1474,9 @@
     "cablecastShowId": 1563,
     "date": "2012-01-16",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2238,17 +1489,9 @@
     "cablecastShowId": 1298,
     "date": "2012-01-12",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2261,17 +1504,9 @@
     "cablecastShowId": 1295,
     "date": "2012-01-09",
     "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2284,17 +1519,9 @@
     "cablecastShowId": 1293,
     "date": "2012-01-07",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2307,17 +1534,9 @@
     "cablecastShowId": 1292,
     "date": "2012-01-05",
     "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2330,17 +1549,9 @@
     "cablecastShowId": 1287,
     "date": "2012-01-04",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2353,17 +1564,9 @@
     "cablecastShowId": 1383,
     "date": "2012-01-03",
     "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -2376,17 +1579,9 @@
     "cablecastShowId": 1284,
     "date": "2012-01-02",
     "location": "St. Johnsbury School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",

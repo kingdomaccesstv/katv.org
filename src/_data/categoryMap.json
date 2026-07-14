@@ -1,0 +1,154 @@
+{
+  "sports": {
+    "name": "Local Sports",
+    "path": "/vod/sports"
+  },
+  "sjlifb": {
+    "name": "SJA vs LI Football",
+    "path": "/vod/sports/sjlifb"
+  },
+  "grad": {
+    "name": "Graduations",
+    "path": "/vod/grad"
+  },
+  "studio": {
+    "name": "Studio Programs",
+    "path": "/vod/studio"
+  },
+  "wgo": {
+    "name": "What's Going On?",
+    "path": "/vod/studio/wgo"
+  },
+  "public-meetings": {
+    "name": "Public Meetings",
+    "path": "/vod/public-meetings"
+  },
+  "stjselect": {
+    "name": "St. Johnsbury Select Board",
+    "path": "/vod/stjselect"
+  },
+  "lectures-forums": {
+    "name": "Lectures and Forums",
+    "path": "/vod/lectures-forums"
+  },
+  "concerts": {
+    "name": "Concerts",
+    "path": "/vod/concerts"
+  },
+  "nvucc": {
+    "name": "NVU Community Chorus",
+    "path": "/vod/concerts/nvucc"
+  },
+  "concordschool": {
+    "name": "Concord School Board",
+    "path": "/vod/concordschool"
+  },
+  "stjschool": {
+    "name": "St. Johnsbury School Board",
+    "path": "/vod/stjschool"
+  },
+  "waterford": {
+    "name": "Waterford",
+    "path": "/vod/concerts/waterford"
+  },
+  "nekco": {
+    "name": "NEK Community Orchestra",
+    "path": "/vod/concerts/nekco"
+  },
+  "osher": {
+    "name": "Osher",
+    "path": "/vod/osher"
+  },
+  "other": {
+    "name": "Other Programs",
+    "path": "/vod/other"
+  },
+  "nekchamber": {
+    "name": "NEK Chamber",
+    "path": "/vod/nekchamber"
+  },
+  "concordselect": {
+    "name": "Concord Select Board",
+    "path": "/vod/concordselect"
+  },
+  "firstwed": {
+    "name": "First Wednesdays",
+    "path": "/vod/firstwed"
+  },
+  "healthquest": {
+    "name": "HealthQuest",
+    "path": "/vod/studio/healthquest"
+  },
+  "li": {
+    "name": "Lyndon Institute",
+    "path": "/vod/concerts/li"
+  },
+  "sja": {
+    "name": "St. Johnsbury Academy",
+    "path": "/vod/concerts/sja"
+  },
+  "fairbanks": {
+    "name": "Fairbanks Museum",
+    "path": "/vod/fairbanks"
+  },
+  "stjath": {
+    "name": "St. Johnsbury Athenaeum",
+    "path": "/vod/stjath"
+  },
+  "catamount": {
+    "name": "Catamount Arts",
+    "path": "/vod/catamount"
+  },
+  "ncc": {
+    "name": "North Country Coalition",
+    "path": "/vod/ncc"
+  },
+  "politics": {
+    "name": "Local Politics",
+    "path": "/vod/politics"
+  },
+  "iastj": {
+    "name": "In & Around St. J",
+    "path": "/vod/studio/iastj"
+  },
+  "iutu": {
+    "name": "It's Up to Us",
+    "path": "/vod/studio/iutu"
+  },
+  "sjs": {
+    "name": "St. Johnsbury School",
+    "path": "/vod/concerts/sjs"
+  },
+  "neklegbkfst": {
+    "name": "NEK Legislative Breakfast",
+    "path": "/vod/neklegbkfst"
+  },
+  "danville": {
+    "name": "Danville",
+    "path": "/vod/concerts/danville"
+  },
+  "rotarybb": {
+    "name": "Rotary Basketball",
+    "path": "/vod/sports/rotarybb"
+  },
+  "iamvttoo": {
+    "name": "I Am Vermont Too",
+    "path": "/vod/studio/iamvttoo"
+  },
+  "ccsubod": {
+    "name": "CCSU Board of Directors",
+    "path": "/vod/ccsubod"
+  },
+  "grotonselect": {
+    "name": "Groton Select Board",
+    "path": "/vod/grotonselect"
+  },
+  "lyndonselect": {
+    "name": "Lyndon Select Board",
+    "path": "/vod/lyndonselect"
+  },
+  "danvilleschool": {
+    "name": "Danville School Board",
+    "path": "/vod/danvilleschool"
+  }
+}

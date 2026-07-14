@@ -6,17 +6,9 @@
     "cablecastShowId": 11556,
     "date": "2022-12-29",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20221229.jpg",
     "videoSource": "vimeo",
@@ -29,17 +21,9 @@
     "cablecastShowId": 11545,
     "date": "2022-12-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221228sm.jpg",
     "videoSource": "archive.org",
@@ -52,17 +36,9 @@
     "cablecastShowId": 11546,
     "date": "2022-12-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221228.jpg",
     "videoSource": "archive.org",
@@ -75,17 +51,9 @@
     "cablecastShowId": 11529,
     "date": "2022-12-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjdrb20221222.jpg",
     "videoSource": "archive.org",
@@ -98,17 +66,9 @@
     "cablecastShowId": 11536,
     "date": "2022-12-21",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "stjath",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/stjath20221221.jpg",
     "videoSource": "vimeo",
@@ -121,17 +81,9 @@
     "cablecastShowId": 11525,
     "date": "2022-12-21",
     "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221221.jpg",
     "videoSource": "archive.org",
@@ -144,13 +96,8 @@
     "cablecastShowId": 11528,
     "date": "2022-12-19",
     "location": "Danville School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2022/ccsubod20221219.jpg",
     "videoSource": "archive.org",
@@ -163,17 +110,9 @@
     "cablecastShowId": 11520,
     "date": "2022-12-19",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20221219.jpg",
     "videoSource": "archive.org",
@@ -186,13 +125,8 @@
     "cablecastShowId": 11530,
     "date": "2022-12-19",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/nekhs20221219.png",
     "videoSource": "vimeo",
@@ -205,17 +139,9 @@
     "cablecastShowId": 11512,
     "date": "2022-12-14",
     "location": "Danville",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
+      "concerts",
+      "danville"
     ],
     "teaserImage": "/assets/images/vod/2022/danvillewinter20221214.jpg",
     "videoSource": "vimeo",
@@ -228,17 +154,9 @@
     "cablecastShowId": 11495,
     "date": "2022-12-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221212.jpg",
     "videoSource": "archive.org",
@@ -251,17 +169,9 @@
     "cablecastShowId": 11463,
     "date": "2022-12-08",
     "location": "Lyndon Institute",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2022/liwinter2022.jpg",
     "videoSource": "vimeo",
@@ -274,17 +184,9 @@
     "cablecastShowId": 11461,
     "date": "2022-12-07",
     "location": "Groton Town Hall",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221207.jpg",
     "videoSource": "archive.org",
@@ -297,21 +199,10 @@
     "cablecastShowId": 11462,
     "date": "2022-12-07",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      }
+      "public-meetings",
+      "lectures-forums",
+      "firstwed"
     ],
     "teaserImage": "/assets/images/vod/2022/firstwed20221207.jpg",
     "videoSource": "vimeo",
@@ -324,17 +215,9 @@
     "cablecastShowId": 11460,
     "date": "2022-12-06",
     "location": "Concord Town Hall",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect20221206.jpg",
     "videoSource": "archive.org",
@@ -347,17 +230,9 @@
     "cablecastShowId": 11457,
     "date": "2022-12-05",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20221205.jpg",
     "videoSource": "archive.org",
@@ -370,13 +245,8 @@
     "cablecastShowId": 11455,
     "date": "2022-12-04",
     "location": "South Hall",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2022/ncc20221204.jpg",
     "videoSource": "vimeo",
@@ -389,13 +259,8 @@
     "cablecastShowId": 11456,
     "date": "2022-12-04",
     "location": "United Community Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/ucc20221204.jpg",
     "videoSource": "vimeo",
@@ -408,17 +273,9 @@
     "cablecastShowId": 11473,
     "date": "2022-12-01",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20221201.jpg",
     "videoSource": "vimeo",
@@ -431,17 +288,9 @@
     "cablecastShowId": 11450,
     "date": "2022-11-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221128.jpg",
     "videoSource": "archive.org",
@@ -454,13 +303,8 @@
     "cablecastShowId": 11449,
     "date": "2022-11-27",
     "location": "St. Johnsbury United Community Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2022/stjtownband20221127.jpg",
     "videoSource": "vimeo",
@@ -473,17 +317,9 @@
     "cablecastShowId": 11434,
     "date": "2022-11-21",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20221121.jpg",
     "videoSource": "archive.org",
@@ -496,13 +332,8 @@
     "cablecastShowId": 11422,
     "date": "2022-11-17",
     "location": "Danville",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/dhs20221117.jpg",
     "videoSource": "vimeo",
@@ -515,17 +346,9 @@
     "cablecastShowId": 11425,
     "date": "2022-11-16",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221116.jpg",
     "videoSource": "archive.org",
@@ -538,17 +361,9 @@
     "cablecastShowId": 11430,
     "date": "2022-11-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221114sm.jpg",
     "videoSource": "archive.org",
@@ -561,17 +376,9 @@
     "cablecastShowId": 11424,
     "date": "2022-11-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221114.jpg",
     "videoSource": "archive.org",
@@ -584,13 +391,8 @@
     "cablecastShowId": 11412,
     "date": "2022-11-11",
     "location": "United Community Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2022/stjtownband20221111.jpg",
     "videoSource": "vimeo",
@@ -603,17 +405,9 @@
     "cablecastShowId": 11413,
     "date": "2022-11-07",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20221107.jpg",
     "videoSource": "archive.org",
@@ -626,17 +420,9 @@
     "cablecastShowId": 11389,
     "date": "2022-11-03",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20221103.jpg",
     "videoSource": "vimeo",
@@ -649,17 +435,9 @@
     "cablecastShowId": 11387,
     "date": "2022-11-02",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221102.jpg",
     "videoSource": "archive.org",
@@ -672,17 +450,9 @@
     "cablecastShowId": 11388,
     "date": "2022-11-02",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/firstwed20221102.jpg",
     "videoSource": "vimeo",
@@ -695,17 +465,9 @@
     "cablecastShowId": 11386,
     "date": "2022-11-01",
     "location": "Concord",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect20221101.jpg",
     "videoSource": "archive.org",
@@ -718,13 +480,8 @@
     "cablecastShowId": 11393,
     "date": "2022-10-31",
     "location": "St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/stjhalloween20221031.jpg",
     "videoSource": "vimeo",
@@ -737,17 +494,9 @@
     "cablecastShowId": 11372,
     "date": "2022-10-28",
     "location": "Lyndon Institute",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2022/lifall20221028.jpg",
     "videoSource": "vimeo",
@@ -760,17 +509,9 @@
     "cablecastShowId": 11383,
     "date": "2022-10-27",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20221027.jpg",
     "videoSource": "vimeo",
@@ -783,17 +524,9 @@
     "cablecastShowId": 11401,
     "date": "2022-10-26",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "studio",
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/dhs20221026.jpg",
     "videoSource": "vimeo",
@@ -806,17 +539,9 @@
     "cablecastShowId": 11371,
     "date": "2022-10-26",
     "location": "South Church, St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2022/sjafall20221026.jpg",
     "videoSource": "vimeo",
@@ -829,17 +554,9 @@
     "cablecastShowId": 11369,
     "date": "2022-10-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221024sm.jpg",
     "videoSource": "archive.org",
@@ -852,17 +569,9 @@
     "cablecastShowId": 11370,
     "date": "2022-10-24",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221024.jpg",
     "videoSource": "archive.org",
@@ -875,17 +584,9 @@
     "cablecastShowId": 11350,
     "date": "2022-10-20",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20221022.jpg",
     "videoSource": "vimeo",
@@ -898,17 +599,9 @@
     "cablecastShowId": 11349,
     "date": "2022-10-19",
     "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221019.jpg",
     "videoSource": "archive.org",
@@ -921,17 +614,9 @@
     "cablecastShowId": 11348,
     "date": "2022-10-17",
     "location": "Peacham School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "ccsubod",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2022/ccsubod20221017.jpg",
     "videoSource": "archive.org",
@@ -944,17 +629,9 @@
     "cablecastShowId": 11297,
     "date": "2022-10-17",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20221017.jpg",
     "videoSource": "archive.org",
@@ -967,17 +644,9 @@
     "cablecastShowId": 11325,
     "date": "2022-10-13",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20221013.jpg",
     "videoSource": "vimeo",
@@ -990,17 +659,9 @@
     "cablecastShowId": 11336,
     "date": "2022-10-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221011sm.jpg",
     "videoSource": "archive.org",
@@ -1013,17 +674,9 @@
     "cablecastShowId": 11324,
     "date": "2022-10-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20221011.jpg",
     "videoSource": "archive.org",
@@ -1036,17 +689,9 @@
     "cablecastShowId": 11326,
     "date": "2022-10-07",
     "location": "Fairbanks Museum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "fairbanks",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/fairbanks20221007.jpg",
     "videoSource": "vimeo",
@@ -1059,21 +704,10 @@
     "cablecastShowId": 11301,
     "date": "2022-10-06",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "fairbanks",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20221006.jpg",
     "videoSource": "vimeo",
@@ -1086,17 +720,9 @@
     "cablecastShowId": 11300,
     "date": "2022-10-05",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "firstwed",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/firstwed20221005.jpg",
     "videoSource": "vimeo",
@@ -1109,17 +735,9 @@
     "cablecastShowId": 11299,
     "date": "2022-10-05",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20221005.jpg",
     "videoSource": "archive.org",
@@ -1132,13 +750,8 @@
     "cablecastShowId": 11320,
     "date": "2022-10-05",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2022/nekhs20221005.jpg",
     "videoSource": "vimeo",
@@ -1151,17 +764,9 @@
     "cablecastShowId": 11298,
     "date": "2022-10-04",
     "location": "Concord Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect20221004.jpg",
     "videoSource": "archive.org",
@@ -1174,17 +779,9 @@
     "cablecastShowId": 11281,
     "date": "2022-09-29",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20220929.jpg",
     "videoSource": "vimeo",
@@ -1197,17 +794,9 @@
     "cablecastShowId": 11302,
     "date": "2022-09-29",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20220929.jpg",
     "videoSource": "vimeo",
@@ -1220,17 +809,9 @@
     "cablecastShowId": 11282,
     "date": "2022-09-29",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
+      "politics",
+      "stjath"
     ],
     "teaserImage": "/assets/images/vod/2022/lwv20220929.jpg",
     "videoSource": "vimeo",
@@ -1243,17 +824,9 @@
     "cablecastShowId": 11280,
     "date": "2022-09-26",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20220926.jpg",
     "videoSource": "archive.org",
@@ -1266,17 +839,9 @@
     "cablecastShowId": 11272,
     "date": "2022-09-22",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher20220922.jpg",
     "videoSource": "vimeo",
@@ -1289,17 +854,9 @@
     "cablecastShowId": 11277,
     "date": "2022-09-22",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20220922.jpg",
     "videoSource": "vimeo",
@@ -1312,17 +869,9 @@
     "cablecastShowId": 11273,
     "date": "2022-09-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjzone20220922.png",
     "videoSource": "archive.org",
@@ -1335,17 +884,9 @@
     "cablecastShowId": 11248,
     "date": "2022-09-21",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "politics",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/lwvltgov20220921.jpg",
     "videoSource": "vimeo",
@@ -1358,17 +899,9 @@
     "cablecastShowId": 11247,
     "date": "2022-09-19",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20220919.jpg",
     "videoSource": "archive.org",
@@ -1381,17 +914,9 @@
     "cablecastShowId": 11263,
     "date": "2022-09-15",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20220915.jpg",
     "videoSource": "vimeo",
@@ -1404,17 +929,9 @@
     "cablecastShowId": 11232,
     "date": "2022-09-12",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20220912.jpg",
     "videoSource": "archive.org",
@@ -1427,17 +944,9 @@
     "cablecastShowId": 11227,
     "date": "2022-09-06",
     "location": "Concord Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect20220906.jpg",
     "videoSource": "archive.org",
@@ -1450,17 +959,9 @@
     "cablecastShowId": 11217,
     "date": "2022-09-01",
     "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20220901.jpg",
     "videoSource": "archive.org",
@@ -1473,17 +974,9 @@
     "cablecastShowId": 11179,
     "date": "2022-08-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjzone20220825.jpg",
     "videoSource": "archive.org",
@@ -1496,13 +989,8 @@
     "cablecastShowId": 11165,
     "date": "2022-08-25",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/nekpce20220825.jpg",
     "videoSource": "vimeo",
@@ -1515,17 +1003,9 @@
     "cablecastShowId": 11177,
     "date": "2022-08-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20220822.jpg",
     "videoSource": "archive.org",
@@ -1538,17 +1018,9 @@
     "cablecastShowId": 11178,
     "date": "2022-08-22",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool082222.jpg",
     "videoSource": "archive.org",
@@ -1561,17 +1033,9 @@
     "cablecastShowId": 11189,
     "date": "2022-08-22",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20220822sm.jpg",
     "videoSource": "archive.org",
@@ -1584,17 +1048,9 @@
     "cablecastShowId": 11174,
     "date": "2022-08-15",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2022/ccsubod081522.jpg",
     "videoSource": "archive.org",
@@ -1607,17 +1063,9 @@
     "cablecastShowId": 11156,
     "date": "2022-08-11",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo20220811.jpg",
     "videoSource": "vimeo",
@@ -1630,13 +1078,8 @@
     "cablecastShowId": 11141,
     "date": "2022-08-10",
     "location": "St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
@@ -1649,13 +1092,8 @@
     "cablecastShowId": 11147,
     "date": "2022-08-09",
     "location": "Danville",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/danville20220809.jpg",
     "videoSource": "vimeo",
@@ -1668,17 +1106,9 @@
     "cablecastShowId": 11146,
     "date": "2022-08-08",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect20220808.jpg",
     "videoSource": "archive.org",
@@ -1691,17 +1121,9 @@
     "cablecastShowId": 11126,
     "date": "2022-08-03",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect080322.jpg",
     "videoSource": "archive.org",
@@ -1714,17 +1136,9 @@
     "cablecastShowId": 11125,
     "date": "2022-08-02",
     "location": "Concord",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect080222.jpg",
     "videoSource": "archive.org",
@@ -1737,13 +1151,8 @@
     "cablecastShowId": 11124,
     "date": "2022-07-28",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2022/iamvt072822.jpg",
     "videoSource": "vimeo",
@@ -1756,17 +1165,9 @@
     "cablecastShowId": 11123,
     "date": "2022-07-28",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo072822.jpg",
     "videoSource": "vimeo",
@@ -1779,17 +1180,9 @@
     "cablecastShowId": 11115,
     "date": "2022-07-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect072522.jpg",
     "videoSource": "archive.org",
@@ -1802,17 +1195,9 @@
     "cablecastShowId": 11106,
     "date": "2022-07-22",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo072222.jpg",
     "videoSource": "vimeo",
@@ -1825,17 +1210,9 @@
     "cablecastShowId": 11070,
     "date": "2022-07-11",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect071122.jpg",
     "videoSource": "archive.org",
@@ -1848,17 +1225,9 @@
     "cablecastShowId": 11059,
     "date": "2022-07-07",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo070722.jpg",
     "videoSource": "vimeo",
@@ -1871,17 +1240,9 @@
     "cablecastShowId": 11060,
     "date": "2022-07-07",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect20220707.jpg",
     "videoSource": "archive.org",
@@ -1894,17 +1255,9 @@
     "cablecastShowId": 11045,
     "date": "2022-07-05",
     "location": "Concord",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
+      "public-meetings",
+      "concordselect"
     ],
     "teaserImage": "/assets/images/vod/2022/concordselect070522.jpg",
     "videoSource": "archive.org",
@@ -1917,13 +1270,8 @@
     "cablecastShowId": 11025,
     "date": "2022-07-04",
     "location": "Woodsville, NH",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/woodsville4th2022.jpg",
     "videoSource": "vimeo",
@@ -1936,17 +1284,9 @@
     "cablecastShowId": 11034,
     "date": "2022-06-30",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo063022.jpg",
     "videoSource": "vimeo",
@@ -1959,17 +1299,9 @@
     "cablecastShowId": 11018,
     "date": "2022-06-27",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect062722.jpg",
     "videoSource": "archive.org",
@@ -1982,17 +1314,9 @@
     "cablecastShowId": 11039,
     "date": "2022-06-26",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "catamount",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/afgb20220626.jpg",
     "videoSource": "vimeo",
@@ -2005,13 +1329,8 @@
     "cablecastShowId": 10997,
     "date": "2022-06-22",
     "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
+      "politics"
     ],
     "teaserImage": "/assets/images/vod/2022/lwv062222.jpg",
     "videoSource": "vimeo",
@@ -2024,17 +1343,9 @@
     "cablecastShowId": 11005,
     "date": "2022-06-15",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      },
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "catamount",
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2022/catamount061522.jpg",
     "videoSource": "vimeo",
@@ -2047,17 +1358,9 @@
     "cablecastShowId": 10973,
     "date": "2022-06-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect061322spec.jpg",
     "videoSource": "archive.org",
@@ -2070,17 +1373,9 @@
     "cablecastShowId": 10974,
     "date": "2022-06-13",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect061322.jpg",
     "videoSource": "archive.org",
@@ -2093,13 +1388,8 @@
     "cablecastShowId": 10908,
     "date": "2022-06-11",
     "location": "Danville School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2022/danvillegrad2022.jpg",
     "videoSource": "vimeo",
@@ -2112,13 +1402,8 @@
     "cablecastShowId": 10916,
     "date": "2022-06-10",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022h.jpg",
     "videoSource": "vimeo",
@@ -2131,13 +1416,8 @@
     "cablecastShowId": 10915,
     "date": "2022-06-10",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022g.jpg",
     "videoSource": "vimeo",
@@ -2150,13 +1430,8 @@
     "cablecastShowId": 10914,
     "date": "2022-06-10",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022f.jpg",
     "videoSource": "vimeo",
@@ -2169,13 +1444,8 @@
     "cablecastShowId": 10913,
     "date": "2022-06-10",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022e.jpg",
     "videoSource": "vimeo",
@@ -2188,13 +1458,8 @@
     "cablecastShowId": 10912,
     "date": "2022-06-09",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022d.jpg",
     "videoSource": "vimeo",
@@ -2207,13 +1472,8 @@
     "cablecastShowId": 10911,
     "date": "2022-06-09",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022c.jpg",
     "videoSource": "vimeo",
@@ -2226,13 +1486,8 @@
     "cablecastShowId": 10910,
     "date": "2022-06-09",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022b.jpg",
     "videoSource": "vimeo",
@@ -2245,13 +1500,8 @@
     "cablecastShowId": 10909,
     "date": "2022-06-09",
     "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/vtforest2022a.jpg",
     "videoSource": "vimeo",
@@ -2264,13 +1514,8 @@
     "cablecastShowId": 10987,
     "date": "2022-06-08",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
+      "studio"
     ],
     "teaserImage": "/assets/images/vod/2022/catamount060822.jpg",
     "videoSource": "vimeo",
@@ -2283,17 +1528,9 @@
     "cablecastShowId": 10947,
     "date": "2022-06-07",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo060722.jpg",
     "videoSource": "vimeo",
@@ -2306,13 +1543,8 @@
     "cablecastShowId": 10906,
     "date": "2022-06-06",
     "location": "St. Johnsbury Academy",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2022/sjagrad2022.jpg",
     "videoSource": "vimeo",
@@ -2325,17 +1557,9 @@
     "cablecastShowId": 10907,
     "date": "2022-06-06",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool060622.jpg",
     "videoSource": "archive.org",
@@ -2348,13 +1572,8 @@
     "cablecastShowId": 10905,
     "date": "2022-06-05",
     "location": "Lyndon Institute",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
+      "grad"
     ],
     "teaserImage": "/assets/images/vod/2022/ligrad2022.jpg",
     "videoSource": "vimeo",
@@ -2367,13 +1586,8 @@
     "cablecastShowId": 10903,
     "date": "2022-06-04",
     "location": "St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/petparade2022.png",
     "videoSource": "vimeo",
@@ -2386,17 +1600,9 @@
     "cablecastShowId": 10869,
     "date": "2022-06-04",
     "location": "Danville School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
+      "concerts",
+      "danville"
     ],
     "teaserImage": "/assets/images/vod/2022/danville20220604.jpg",
     "videoSource": "vimeo",
@@ -2409,17 +1615,9 @@
     "cablecastShowId": 10929,
     "date": "2022-06-03",
     "location": "South Church, St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2022/sja20220603.jpg",
     "videoSource": "vimeo",
@@ -2432,17 +1630,9 @@
     "cablecastShowId": 10928,
     "date": "2022-06-02",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect060222.jpg",
     "videoSource": "archive.org",
@@ -2455,17 +1645,9 @@
     "cablecastShowId": 10926,
     "date": "2022-06-01",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "studio",
+      "catamount"
     ],
     "teaserImage": "/assets/images/vod/2022/catamount20220601.png",
     "videoSource": "vimeo",
@@ -2478,17 +1660,9 @@
     "cablecastShowId": 10886,
     "date": "2022-05-26",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo052622.jpg",
     "videoSource": "vimeo",
@@ -2501,17 +1675,9 @@
     "cablecastShowId": 10879,
     "date": "2022-05-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect052322spec.jpg",
     "videoSource": "archive.org",
@@ -2524,17 +1690,9 @@
     "cablecastShowId": 10868,
     "date": "2022-05-23",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect052322.jpg",
     "videoSource": "archive.org",
@@ -2547,13 +1705,8 @@
     "cablecastShowId": 10874,
     "date": "2022-05-23",
     "location": "St. Johnsbury House",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2022/legbkfst052322.jpg",
     "videoSource": "vimeo",
@@ -2566,17 +1719,9 @@
     "cablecastShowId": 10866,
     "date": "2022-05-19",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect051922.jpg",
     "videoSource": "archive.org",
@@ -2589,17 +1734,9 @@
     "cablecastShowId": 10865,
     "date": "2022-05-19",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo051922.jpg",
     "videoSource": "vimeo",
@@ -2612,17 +1749,9 @@
     "cablecastShowId": 10852,
     "date": "2022-05-16",
     "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool051622.jpg",
     "videoSource": "archive.org",
@@ -2635,17 +1764,9 @@
     "cablecastShowId": 10843,
     "date": "2022-05-13",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo051222.jpg",
     "videoSource": "vimeo",
@@ -2658,13 +1779,8 @@
     "cablecastShowId": 10780,
     "date": "2022-05-13",
     "location": "South Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
+      "concerts"
     ],
     "teaserImage": "/assets/images/vod/2022/ncc043022.jpg",
     "videoSource": "vimeo",
@@ -2677,17 +1793,9 @@
     "cablecastShowId": 10876,
     "date": "2022-05-10",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "studio",
+      "catamount"
     ],
     "teaserImage": "/assets/images/vod/2022/catamount20220510.png",
     "videoSource": "vimeo",
@@ -2700,17 +1808,9 @@
     "cablecastShowId": 10821,
     "date": "2022-05-09",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect050922.jpg",
     "videoSource": "archive.org",
@@ -2723,17 +1823,9 @@
     "cablecastShowId": 10799,
     "date": "2022-05-08",
     "location": "Alexander Twilight Theater @ NVU",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      }
+      "concerts",
+      "nekco"
     ],
     "teaserImage": "/assets/images/vod/2022/nekco050822.jpg",
     "videoSource": "vimeo",
@@ -2746,17 +1838,9 @@
     "cablecastShowId": 10796,
     "date": "2022-05-04",
     "location": "South Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
+      "concerts",
+      "sja"
     ],
     "teaserImage": "/assets/images/vod/2022/sjaspring050422.jpg",
     "videoSource": "vimeo",
@@ -2769,17 +1853,9 @@
     "cablecastShowId": 10793,
     "date": "2022-05-04",
     "location": "Fairbanks Museum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
+      "lectures-forums",
+      "fairbanks"
     ],
     "teaserImage": "/assets/images/vod/2022/fmp050422.jpg",
     "videoSource": "vimeo",
@@ -2792,17 +1868,9 @@
     "cablecastShowId": 10752,
     "date": "2022-04-25",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect042522.png",
     "videoSource": "archive.org",
@@ -2815,13 +1883,8 @@
     "cablecastShowId": 10738,
     "date": "2022-04-25",
     "location": "St. Johnsbury House",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2022/legbkfst042522.png",
     "videoSource": "vimeo",
@@ -2834,17 +1897,9 @@
     "cablecastShowId": 10728,
     "date": "2022-04-21",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo042122.png",
     "videoSource": "vimeo",
@@ -2857,17 +1912,9 @@
     "cablecastShowId": 10727,
     "date": "2022-04-21",
     "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect042122.png",
     "videoSource": "archive.org",
@@ -2880,17 +1927,9 @@
     "cablecastShowId": 10726,
     "date": "2022-04-20",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "fairbanks",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/fmp042022.png",
     "videoSource": "vimeo",
@@ -2903,17 +1942,9 @@
     "cablecastShowId": 10837,
     "date": "2022-04-19",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Catamount Arts",
-        "path": "/vod/catamount"
-      }
+      "studio",
+      "catamount"
     ],
     "teaserImage": "/assets/images/vod/2022/catamount20220419.png",
     "videoSource": "vimeo",
@@ -2926,17 +1957,9 @@
     "cablecastShowId": 10693,
     "date": "2022-04-17",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect041122.png",
     "videoSource": "archive.org",
@@ -2949,17 +1972,9 @@
     "cablecastShowId": 10711,
     "date": "2022-04-14",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher041422.png",
     "videoSource": "vimeo",
@@ -2972,17 +1987,9 @@
     "cablecastShowId": 10679,
     "date": "2022-04-07",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo040722.png",
     "videoSource": "vimeo",
@@ -2995,17 +2002,9 @@
     "cablecastShowId": 10665,
     "date": "2022-04-07",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
+      "lectures-forums",
+      "osher"
     ],
     "teaserImage": "/assets/images/vod/2022/osher040722.png",
     "videoSource": "vimeo",
@@ -3018,17 +2017,9 @@
     "cablecastShowId": 10664,
     "date": "2022-04-07",
     "location": "Lyndon Institute",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
+      "concerts",
+      "li"
     ],
     "teaserImage": "/assets/images/vod/2022/lispring040722.png",
     "videoSource": "vimeo",
@@ -3041,13 +2032,8 @@
     "cablecastShowId": 10663,
     "date": "2022-04-05",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/vtphnp040522.png",
     "videoSource": "vimeo",
@@ -3060,17 +2046,9 @@
     "cablecastShowId": 10660,
     "date": "2022-03-31",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
+      "lectures-forums",
+      "osher"
     ],
     "teaserImage": "/assets/images/vod/2022/osher033122.png",
     "videoSource": "vimeo",
@@ -3083,17 +2061,9 @@
     "cablecastShowId": 10658,
     "date": "2022-03-31",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo033122.png",
     "videoSource": "vimeo",
@@ -3106,13 +2076,8 @@
     "cablecastShowId": 10642,
     "date": "2022-03-29",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2022/lvrt032922.jpg",
     "videoSource": "vimeo",
@@ -3125,17 +2090,9 @@
     "cablecastShowId": 10639,
     "date": "2022-03-28",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect032822.jpg",
     "videoSource": "archive.org",
@@ -3148,17 +2105,9 @@
     "cablecastShowId": 10637,
     "date": "2022-03-28",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "lectures-forums",
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2022/legbkfst032822.jpg",
     "videoSource": "vimeo",
@@ -3171,17 +2120,9 @@
     "cablecastShowId": 10619,
     "date": "2022-03-24",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo032422.png",
     "videoSource": "vimeo",
@@ -3194,17 +2135,9 @@
     "cablecastShowId": 10596,
     "date": "2022-03-21",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool032122.png",
     "videoSource": "archive.org",
@@ -3217,17 +2150,9 @@
     "cablecastShowId": 10585,
     "date": "2022-03-17",
     "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect031722.png",
     "videoSource": "archive.org",
@@ -3240,17 +2165,9 @@
     "cablecastShowId": 10606,
     "date": "2022-03-17",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher031722.png",
     "videoSource": "vimeo",
@@ -3263,17 +2180,9 @@
     "cablecastShowId": 10554,
     "date": "2022-03-14",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect031422.png",
     "videoSource": "archive.org",
@@ -3286,17 +2195,9 @@
     "cablecastShowId": 10539,
     "date": "2022-03-10",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo031022.png",
     "videoSource": "vimeo",
@@ -3309,17 +2210,9 @@
     "cablecastShowId": 10542,
     "date": "2022-03-10",
     "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
+      "osher",
+      "lectures-forums"
     ],
     "teaserImage": "/assets/images/vod/2022/osher031022.png",
     "videoSource": "vimeo",
@@ -3332,13 +2225,8 @@
     "cablecastShowId": 10534,
     "date": "2022-03-06",
     "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/stjpap030622.png",
     "videoSource": "vimeo",
@@ -3351,13 +2239,8 @@
     "cablecastShowId": 10480,
     "date": "2022-02-24",
     "location": "Northeastern Vermont Regional Hospital",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
+      "other"
     ],
     "teaserImage": "/assets/images/vod/2022/nvrh20220224.jpg",
     "videoSource": "vimeo",
@@ -3370,17 +2253,9 @@
     "cablecastShowId": 10481,
     "date": "2022-02-24",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
+      "studio",
+      "wgo"
     ],
     "teaserImage": "/assets/images/vod/2022/wgo022422.jpg",
     "videoSource": "vimeo",
@@ -3393,17 +2268,9 @@
     "cablecastShowId": 10471,
     "date": "2022-02-21",
     "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
-      }
+      "studio",
+      "iamvttoo"
     ],
     "teaserImage": "/assets/images/vod/2022/iamvttoo022122.jpg",
     "videoSource": "vimeo",
@@ -3416,17 +2283,9 @@
     "cablecastShowId": 10457,
     "date": "2022-02-17",
     "location": "Groton Town Gym",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect021722.jpg",
     "videoSource": "archive.org",
@@ -3439,17 +2298,9 @@
     "cablecastShowId": 10449,
     "date": "2022-02-14",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
+      "public-meetings",
+      "ccsubod"
     ],
     "teaserImage": "/assets/images/vod/2022/ccsubod021422.jpg",
     "videoSource": "archive.org",
@@ -3462,17 +2313,9 @@
     "cablecastShowId": 10450,
     "date": "2022-02-14",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect021422.jpg",
     "videoSource": "archive.org",
@@ -3485,17 +2328,9 @@
     "cablecastShowId": 10428,
     "date": "2022-02-07",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
+      "public-meetings",
+      "stjschool"
     ],
     "teaserImage": "/assets/images/vod/2022/stjschool20220207.jpg",
     "videoSource": "archive.org",
@@ -3508,17 +2343,9 @@
     "cablecastShowId": 10426,
     "date": "2022-02-03",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
+      "public-meetings",
+      "grotonselect"
     ],
     "teaserImage": "/assets/images/vod/2022/grotonselect020322.jpg",
     "videoSource": "archive.org",
@@ -3531,13 +2358,8 @@
     "cablecastShowId": 10412,
     "date": "2022-01-31",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
+      "neklegbkfst"
     ],
     "teaserImage": "/assets/images/vod/2022/legbkfst013122.jpg",
     "videoSource": "vimeo",
@@ -3550,17 +2372,9 @@
     "cablecastShowId": 10388,
     "date": "2022-01-24",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect012422.jpg",
     "videoSource": "archive.org",
@@ -3573,17 +2387,9 @@
     "cablecastShowId": 10359,
     "date": "2022-01-17",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
+      "stjschool",
+      "public-meetings"
     ],
     "teaserImage": "/assets/images/vod/2021/stjschool011722.jpg",
     "videoSource": "archive.org",
@@ -3596,17 +2402,9 @@
     "cablecastShowId": 10253,
     "date": "2022-01-10",
     "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
     "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
+      "public-meetings",
+      "stjselect"
     ],
     "teaserImage": "/assets/images/vod/2022/stjselect011022.jpg",
     "videoSource": "archive.org",

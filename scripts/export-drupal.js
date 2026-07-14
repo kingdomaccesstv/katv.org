@@ -22,6 +22,48 @@ fs.mkdirSync(imageVodDir, { recursive: true });
 fs.mkdirSync(imageInlineDir, { recursive: true });
 fs.mkdirSync(pagesDir, { recursive: true });
 
+// Load categoryMap
+const categoryMapPath = path.join(__dirname, '../src/_data/categoryMap.json');
+let categoryMap = {};
+let categoryMapModified = false;
+if (fs.existsSync(categoryMapPath)) {
+  try {
+    categoryMap = JSON.parse(fs.readFileSync(categoryMapPath, 'utf8'));
+  } catch (e) {
+    console.error('Error reading categoryMap.json:', e);
+  }
+}
+
+// Helper to map dynamic category objects to machine identifier strings, and auto-register new ones
+function getCategoryMachineId(name, catAlias) {
+  // Try to find existing mapped key
+  for (const [id, mapped] of Object.entries(categoryMap)) {
+    if (mapped.name === name) {
+      return id;
+    }
+    const normPath = catAlias ? catAlias.replace(/\/+/, '/') : '';
+    const normMappedPath = mapped.path ? mapped.path.replace(/\/+/, '/') : '';
+    if (normPath && normPath === normMappedPath) {
+      return id;
+    }
+  }
+
+  // If not found, auto-generate machine ID (slug)
+  const id = name.toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
+
+  const finalPath = catAlias || `/vod/${id}`;
+  categoryMap[id] = {
+    name: name,
+    path: finalPath
+  };
+  categoryMapModified = true;
+  console.log(`Auto-registered new category: "${name}" as identifier "${id}" with path "${finalPath}"`);
+  return id;
+}
+
 // Helper to download a file
 function downloadFile(fileUrl, destPath) {
   return new Promise((resolve, reject) => {
@@ -151,10 +193,10 @@ async function processVodPage(urlPath) {
       data.forEach((catRef) => {
         const catTerm = includedMap[`taxonomy_term--program_category:${catRef.id}`];
         if (catTerm) {
-          categories.push({
-            name: catTerm.attributes.name,
-            path: catTerm.attributes.path ? catTerm.attributes.path.alias : ''
-          });
+          const catName = catTerm.attributes.name;
+          const catAlias = catTerm.attributes.path ? catTerm.attributes.path.alias : '';
+          const machineId = getCategoryMachineId(catName, catAlias);
+          categories.push(machineId);
         }
       });
     }
@@ -204,27 +246,17 @@ async function processVodPage(urlPath) {
       cablecastShowId,
       date: eventDate,
       location,
-      year: yearName || (eventDate ? eventDate.substring(0, 4) : ''),
-      yearPath,
       categories,
       teaserImage: localImagePath,
       videoSource: videoSource || defaultSrc,
-      videoId: videoId || (cablecastShowId ? `katv-show-${cablecastShowId}` : '')
+      videoId: videoId || (cablecastShowId ? `katv-show-${cablecastShowId}` : ''),
+      _exportYear: yearName || (eventDate ? eventDate.substring(0, 4) : 'unknown')
     });
   }
 
   // Group vods by year
   vods.forEach((vod) => {
-    let year = 'unknown-date';
-    if (vod.year) {
-      year = vod.year;
-    } else if (vod.date) {
-      const match = vod.date.match(/^(\d{4})/);
-      if (match) {
-        year = match[1];
-      }
-    }
-    
+    const year = vod._exportYear || 'unknown-date';
     const yearFilePath = path.join(dataDir, `${year}.json`);
     let yearData = [];
     if (fs.existsSync(yearFilePath)) {
@@ -235,12 +267,16 @@ async function processVodPage(urlPath) {
       }
     }
 
+    // Clone the vod entry and delete the temporary _exportYear field
+    const savedVod = { ...vod };
+    delete savedVod._exportYear;
+
     // Avoid duplicates by path alias
-    const existingIndex = yearData.findIndex(item => item.path === vod.path);
+    const existingIndex = yearData.findIndex(item => item.path === savedVod.path);
     if (existingIndex !== -1) {
-      yearData[existingIndex] = vod;
+      yearData[existingIndex] = savedVod;
     } else {
-      yearData.push(vod);
+      yearData.push(savedVod);
     }
 
     fs.writeFileSync(yearFilePath, JSON.stringify(yearData, null, 2), 'utf8');
@@ -386,6 +422,15 @@ async function run() {
         console.error('Retry failed, stopping VOD export:', retryErr.message);
         break;
       }
+    }
+  }
+
+  if (categoryMapModified) {
+    try {
+      fs.writeFileSync(categoryMapPath, JSON.stringify(categoryMap, null, 2) + '\n', 'utf8');
+      console.log(`Updated categoryMap.json with new categories.`);
+    } catch (e) {
+      console.error('Error writing categoryMap.json:', e);
     }
   }
 
