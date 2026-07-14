@@ -213,35 +213,37 @@ async function processVodPage(urlPath) {
     });
   }
 
-  // Group vods by year-month of their date
+  // Group vods by year
   vods.forEach((vod) => {
-    let yearMonth = 'unknown-date';
-    if (vod.date) {
-      const match = vod.date.match(/^(\d{4})-(\d{2})/);
+    let year = 'unknown-date';
+    if (vod.year) {
+      year = vod.year;
+    } else if (vod.date) {
+      const match = vod.date.match(/^(\d{4})/);
       if (match) {
-        yearMonth = `${match[1]}-${match[2]}`;
+        year = match[1];
       }
     }
     
-    const monthFilePath = path.join(dataDir, `${yearMonth}.json`);
-    let monthData = [];
-    if (fs.existsSync(monthFilePath)) {
+    const yearFilePath = path.join(dataDir, `${year}.json`);
+    let yearData = [];
+    if (fs.existsSync(yearFilePath)) {
       try {
-        monthData = JSON.parse(fs.readFileSync(monthFilePath, 'utf8'));
+        yearData = JSON.parse(fs.readFileSync(yearFilePath, 'utf8'));
       } catch (e) {
-        monthData = [];
+        yearData = [];
       }
     }
 
     // Avoid duplicates by path alias
-    const existingIndex = monthData.findIndex(item => item.path === vod.path);
+    const existingIndex = yearData.findIndex(item => item.path === vod.path);
     if (existingIndex !== -1) {
-      monthData[existingIndex] = vod;
+      yearData[existingIndex] = vod;
     } else {
-      monthData.push(vod);
+      yearData.push(vod);
     }
 
-    fs.writeFileSync(monthFilePath, JSON.stringify(monthData, null, 2), 'utf8');
+    fs.writeFileSync(yearFilePath, JSON.stringify(yearData, null, 2), 'utf8');
   });
 
   return json.links && json.links.next ? json.links.next.href : null;

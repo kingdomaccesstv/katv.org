@@ -1,0 +1,6443 @@
+[
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2017",
+    "path": "/vod/concerts/2017/sja121417",
+    "nid": 774,
+    "cablecastShowId": 6208,
+    "date": "2017-12-14",
+    "location": "South Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "253008503"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2016",
+    "path": "/vod/concerts/2016/sjawinter121416",
+    "nid": 773,
+    "cablecastShowId": 5206,
+    "date": "2016-12-14",
+    "location": "South Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196819234"
+  },
+  {
+    "title": "St. Johnsbury Energy Committee: Community Solar Groton, VT",
+    "path": "/vod/lectures/2014/stjenergy122914",
+    "nid": 645,
+    "cablecastShowId": 3382,
+    "date": "2014-12-29",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115842066"
+  },
+  {
+    "title": "What's Going On? Looking at World War III",
+    "path": "/vod/wgo/wgo122914",
+    "nid": 1094,
+    "cablecastShowId": 3388,
+    "date": "2014-12-29",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196896896"
+  },
+  {
+    "title": "It's Up To US!: Yoga with Kathleen in Oaxaca",
+    "path": "/vod/studio/2014/iutu122314",
+    "nid": 646,
+    "cablecastShowId": 3373,
+    "date": "2014-12-23",
+    "location": "Oaxaca",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115535602"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/22/14 Special Meeting",
+    "path": "/vod/stjselect/2014/122214",
+    "nid": 644,
+    "cablecastShowId": 3368,
+    "date": "2014-12-22",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122214-3368"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2014",
+    "path": "/vod/concerts/2014/sjawinter121714",
+    "nid": 640,
+    "cablecastShowId": 3362,
+    "date": "2014-12-17",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115087735"
+  },
+  {
+    "title": "Underage Drinking: Community Forum",
+    "path": "/vod/forums/2014/underagedrinking121614",
+    "nid": 639,
+    "cablecastShowId": 3356,
+    "date": "2014-12-16",
+    "location": "St. Johnsbury",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115083452"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/15/14",
+    "path": "/vod/stjschool/2014/121514",
+    "nid": 633,
+    "cablecastShowId": 3343,
+    "date": "2014-12-15",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121514-3343"
+  },
+  {
+    "title": "St. J 1830 Band 2014",
+    "path": "/vod/concerts/2014/stj1830band121414",
+    "nid": 638,
+    "cablecastShowId": 3353,
+    "date": "2014-12-14",
+    "location": "Lyndon State College",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "114636592"
+  },
+  {
+    "title": "CLS: Festival of Choirs 2014",
+    "path": "/vod/concerts/2014/festchoirs121314",
+    "nid": 685,
+    "cablecastShowId": 3358,
+    "date": "2014-12-13",
+    "location": "Lyndonville Church of Latter Day Saints",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "122821727"
+  },
+  {
+    "title": "Swingin' Holiday Concert 2014",
+    "path": "/vod/concerts/2014/swingin121214",
+    "nid": 637,
+    "cablecastShowId": 3357,
+    "date": "2014-12-12",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury School",
+        "path": "/vod/concerts/sjs"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115087757"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/10/14",
+    "path": "/vod/stjschool/2014/121014",
+    "nid": 635,
+    "cablecastShowId": 3346,
+    "date": "2014-12-10",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121014-3346"
+  },
+  {
+    "title": "Lyndon Institute: Winter Concert 2014",
+    "path": "/vod/concerts/2014/li121014",
+    "nid": 636,
+    "cablecastShowId": 3349,
+    "date": "2014-12-10",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "114631936"
+  },
+  {
+    "title": "What's Going On? Your Pensions are Next",
+    "path": "/vod/wgo/wgo121014",
+    "nid": 1093,
+    "cablecastShowId": 3352,
+    "date": "2014-12-10",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196897407"
+  },
+  {
+    "title": "It's Up To US!: Montpelier Gospel Choir, Part 1",
+    "path": "/vod/studio/2014/iutu120714",
+    "nid": 642,
+    "cablecastShowId": 3350,
+    "date": "2014-12-07",
+    "location": "Montpelier, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115533751"
+  },
+  {
+    "title": "It's Up To US!: Montpelier Gospel Choir, Part 2",
+    "path": "/vod/studio/2014/iutu120714p2",
+    "nid": 643,
+    "cablecastShowId": 3351,
+    "date": "2014-12-07",
+    "location": "Montpelier, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115534142"
+  },
+  {
+    "title": "North Country Chorus: Handel's Messiah",
+    "path": "/vod/concerts/2014/northcountry120514",
+    "nid": 632,
+    "cablecastShowId": 3344,
+    "date": "2014-12-05",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "114637600"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission: Hazard Mitigation Plan 12/4/14",
+    "path": "/vod/stjselect/2014/plan120414",
+    "nid": 631,
+    "cablecastShowId": 3340,
+    "date": "2014-12-04",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplanning-mtg-120414-3340"
+  },
+  {
+    "title": "It's Up To US!: Sen. Bill Doyle, U.S. Constitution",
+    "path": "/vod/studio/2014/iutu120414",
+    "nid": 634,
+    "cablecastShowId": 3339,
+    "date": "2014-12-04",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113778779"
+  },
+  {
+    "title": "First Wednesdays: The Buildings of Vermont",
+    "path": "/vod/firstwed/2014/120314",
+    "nid": 629,
+    "cablecastShowId": 3333,
+    "date": "2014-12-03",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113776733"
+  },
+  {
+    "title": "St. Johnsbury Town Band: Holiday Concert 2014",
+    "path": "/vod/concerts/2014/stjtownband113014",
+    "nid": 630,
+    "cablecastShowId": 3332,
+    "date": "2014-11-30",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113777419"
+  },
+  {
+    "title": "What's Going On? Monumental Part 1",
+    "path": "/vod/wgo/wgo112614",
+    "nid": 641,
+    "cablecastShowId": 3328,
+    "date": "2014-11-26",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "115841036"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/24/14",
+    "path": "/vod/stjselect/2014/112414",
+    "nid": 628,
+    "cablecastShowId": 3321,
+    "date": "2014-11-24",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-112414-3321"
+  },
+  {
+    "title": "Lyndon Institute: VT Dance Festival 2014",
+    "path": "/vod/concerts/2014/vtdance112214",
+    "nid": 624,
+    "cablecastShowId": 3320,
+    "date": "2014-11-22",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113175810"
+  },
+  {
+    "title": "Calex Ambulance: Happy Holiday Raffle",
+    "path": "/vod/studio/2014/calex112114",
+    "nid": 623,
+    "cablecastShowId": 3318,
+    "date": "2014-11-21",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113172473"
+  },
+  {
+    "title": "Health & Wellness: Counter Balance Campaign",
+    "path": "/vod/studio/2014/healthwell112014",
+    "nid": 622,
+    "cablecastShowId": 3319,
+    "date": "2014-11-20",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113173708"
+  },
+  {
+    "title": "What's Going On? The Big Lie",
+    "path": "/vod/wgo/wgo111914",
+    "nid": 1155,
+    "cablecastShowId": 3317,
+    "date": "2014-11-19",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200243961"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 11/18/14",
+    "path": "/vod/stjselect/2014/plan111814",
+    "nid": 627,
+    "cablecastShowId": 3309,
+    "date": "2014-11-18",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-111814-3309"
+  },
+  {
+    "title": "In & Around St. J: St J Hazard Mitigation Plan",
+    "path": "/vod/studio/2014/iastj111814",
+    "nid": 621,
+    "cablecastShowId": 3316,
+    "date": "2014-11-18",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112350756"
+  },
+  {
+    "title": "St. Johnsbury School Board, 11/17/14",
+    "path": "/vod/stjschool/2014/111714",
+    "nid": 625,
+    "cablecastShowId": 3308,
+    "date": "2014-11-17",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-111714-3308"
+  },
+  {
+    "title": "Making a Difference: Wellness Workforce",
+    "path": "/vod/studio/2014/makediff111314",
+    "nid": 618,
+    "cablecastShowId": 3303,
+    "date": "2014-11-13",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111991581"
+  },
+  {
+    "title": "Osher: What's Ahead for Birds?",
+    "path": "/vod/osher/2014/111314",
+    "nid": 619,
+    "cablecastShowId": 3306,
+    "date": "2014-11-13",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112129584"
+  },
+  {
+    "title": "Courageous Conversations: Hunger, Health & Poverty",
+    "path": "/vod/forums/2014/courconv111314",
+    "nid": 620,
+    "cablecastShowId": 3307,
+    "date": "2014-11-13",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112357318"
+  },
+  {
+    "title": "FM&P Presents: NEK Audubon",
+    "path": "/vod/forums/2014/fairbanks111114",
+    "nid": 615,
+    "cablecastShowId": 3301,
+    "date": "2014-11-11",
+    "location": "Fairbanks Museum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111704059"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/10/14",
+    "path": "/vod/stjselect/2014/111014",
+    "nid": 617,
+    "cablecastShowId": 3299,
+    "date": "2014-11-10",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-111014-3299"
+  },
+  {
+    "title": "St. Johnsbury Town Band: Veteran's Day Concert 2014",
+    "path": "/vod/concerts/2014/stjtownband111014",
+    "nid": 614,
+    "cablecastShowId": 3300,
+    "date": "2014-11-10",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111704060"
+  },
+  {
+    "title": "What's Going On? Banker Bailout Through Tax System",
+    "path": "/vod/wgo/wgo110614",
+    "nid": 1154,
+    "cablecastShowId": 3294,
+    "date": "2014-11-06",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200242146"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 11/5/14",
+    "path": "/vod/stjselect/2014/plan110514",
+    "nid": 613,
+    "cablecastShowId": 3292,
+    "date": "2014-11-05",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-110514-3292"
+  },
+  {
+    "title": "NEK Chamber: 2014 Business Celebration",
+    "path": "/vod/nekchamber/2015/buscel110514",
+    "nid": 683,
+    "cablecastShowId": 3291,
+    "date": "2014-11-05",
+    "location": "Lyndon State College",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "122818423"
+  },
+  {
+    "title": "Concord School Board, 11/3/14",
+    "path": "/vod/concordschool/2014/110314",
+    "nid": 609,
+    "cablecastShowId": 3287,
+    "date": "2014-11-03",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-110314-3287"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/30/14 Special Meeting",
+    "path": "/vod/stjselect/2014/103014",
+    "nid": 608,
+    "cablecastShowId": 3285,
+    "date": "2014-10-30",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-103014-3285"
+  },
+  {
+    "title": "Leap Beyond Stereotype: Interview with Michael Walsh",
+    "path": "/vod/studio/2014/103014",
+    "nid": 616,
+    "cablecastShowId": 3290,
+    "date": "2014-10-30",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111589280"
+  },
+  {
+    "title": "What's Going On? The Biological Program Continues",
+    "path": "/vod/wgo/wgo102914",
+    "nid": 1153,
+    "cablecastShowId": 3284,
+    "date": "2014-10-29",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200232909"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/27/14",
+    "path": "/vod/stjselect/2014/102714",
+    "nid": 607,
+    "cablecastShowId": 3280,
+    "date": "2014-10-27",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-102714-3280"
+  },
+  {
+    "title": "The Raising of America: Early Childhood, Future of Our Nation",
+    "path": "/vod/forums/2014/raisingamerica102714",
+    "nid": 604,
+    "cablecastShowId": 3281,
+    "date": "2014-10-27",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110322041"
+  },
+  {
+    "title": "Danville Town Band: Harvest Concert 2014",
+    "path": "/vod/concerts/2014/danville102614",
+    "nid": 603,
+    "cablecastShowId": 3279,
+    "date": "2014-10-26",
+    "location": "Danville Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110322042"
+  },
+  {
+    "title": "Osher: Folk Music of Vermont",
+    "path": "/vod/osher/2014/102314",
+    "nid": 602,
+    "cablecastShowId": 3275,
+    "date": "2014-10-23",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110322043"
+  },
+  {
+    "title": "Caledonian Record: Candidates Debate, 10/23/14",
+    "path": "/vod/politics/2014/calrec102314",
+    "nid": 605,
+    "cablecastShowId": 3276,
+    "date": "2014-10-23",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110428176"
+  },
+  {
+    "title": "St. Johnsbury Academy Fall Concert 2014",
+    "path": "/vod/concerts/2014/sjafall102214",
+    "nid": 601,
+    "cablecastShowId": 3273,
+    "date": "2014-10-22",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110098472"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 10/21/14",
+    "path": "/vod/stjselect/2014/plan102114",
+    "nid": 606,
+    "cablecastShowId": 3272,
+    "date": "2014-10-21",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-102114-3272"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/20/14",
+    "path": "/vod/stjschool/2014/102014",
+    "nid": 599,
+    "cablecastShowId": 3270,
+    "date": "2014-10-20",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-102014-03270"
+  },
+  {
+    "title": "110th LI vs SJA Football 2014",
+    "path": "/vod/sports/stjli2014",
+    "nid": 600,
+    "cablecastShowId": 3267,
+    "date": "2014-10-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "SJA vs LI Football",
+        "path": "/vod/sports/sjlifb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "110098471"
+  },
+  {
+    "title": "Form Based Code Forum",
+    "path": "/vod/lectures/2014/newbury101514",
+    "nid": 597,
+    "cablecastShowId": 3245,
+    "date": "2014-10-15",
+    "location": "Newbury Elementary School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "109199097"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery 10/14/14",
+    "path": "/vod/forums/2014/commconv101514",
+    "nid": 598,
+    "cablecastShowId": 3262,
+    "date": "2014-10-15",
+    "location": "North Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "109199095"
+  },
+  {
+    "title": "What's Going On? Rule From the Shadows",
+    "path": "/vod/wgo/wgo101514",
+    "nid": 1130,
+    "cablecastShowId": 3265,
+    "date": "2014-10-15",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111805099"
+  },
+  {
+    "title": "In & Around St. J: St J History & Heritage",
+    "path": "/vod/studio/2014/iastj101414",
+    "nid": 596,
+    "cablecastShowId": 3264,
+    "date": "2014-10-14",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "109199096"
+  },
+  {
+    "title": "Osher: History of Weather Forecasting",
+    "path": "/vod/osher/2014/100914",
+    "nid": 592,
+    "cablecastShowId": 3257,
+    "date": "2014-10-09",
+    "location": "Osher",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108968426"
+  },
+  {
+    "title": "Making a Difference: Massage Therapy",
+    "path": "/vod/studio/2014/makediff100914",
+    "nid": 593,
+    "cablecastShowId": 3253,
+    "date": "2014-10-09",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108968428"
+  },
+  {
+    "title": "Courageous Conversations: Transformative Justice",
+    "path": "/vod/forums/2014/courconv100914",
+    "nid": 594,
+    "cablecastShowId": 3259,
+    "date": "2014-10-09",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108968427"
+  },
+  {
+    "title": "St. Johnsbury Academy Theatre: Acting Class I Performance, Short Plays",
+    "path": "/vod/concerts/2014/sjatheatre100814",
+    "nid": 588,
+    "cablecastShowId": 3255,
+    "date": "2014-10-08",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108739857"
+  },
+  {
+    "title": "What's Going On? Conspiracy by the Conspirators",
+    "path": "/vod/wgo/wgo100814",
+    "nid": 1129,
+    "cablecastShowId": 3258,
+    "date": "2014-10-08",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111801829"
+  },
+  {
+    "title": "Concord Select Board, 10/7/14",
+    "path": "/vod/concordselect/2014/100714",
+    "nid": 590,
+    "cablecastShowId": 3251,
+    "date": "2014-10-07",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-100714-3251"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/6/14 Special Meeting",
+    "path": "/vod/stjselect/2014/100614",
+    "nid": 589,
+    "cablecastShowId": 3246,
+    "date": "2014-10-06",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-100614-3246"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/6/14",
+    "path": "/vod/stjschool/2014/100614",
+    "nid": 591,
+    "cablecastShowId": 3232,
+    "date": "2014-10-06",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-100614-3232"
+  },
+  {
+    "title": "National Manufacturing Day: NVDA Tours NCCC",
+    "path": "/vod/lectures/2014/nvda100414",
+    "nid": 595,
+    "cablecastShowId": 3263,
+    "date": "2014-10-04",
+    "location": "North Country Career Center",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "109199098"
+  },
+  {
+    "title": "Town of St. Johnsbury: Hazard Mitigation Plan",
+    "path": "/vod/forums/2014/stjhazards100214",
+    "nid": 586,
+    "cablecastShowId": 3244,
+    "date": "2014-10-02",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108182570"
+  },
+  {
+    "title": "Osher: Vermont History Through Song",
+    "path": "/vod/osher/2014/100214",
+    "nid": 587,
+    "cablecastShowId": 3243,
+    "date": "2014-10-02",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108739855"
+  },
+  {
+    "title": "First Wednesdays: Carol Berry, Vincent Van Gogh",
+    "path": "/vod/firstwed/2014/firstwed100114",
+    "nid": 585,
+    "cablecastShowId": 3242,
+    "date": "2014-10-01",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108739854"
+  },
+  {
+    "title": "What's Going On? Is It Too Late?",
+    "path": "/vod/wgo/wgo100114",
+    "nid": 1152,
+    "cablecastShowId": 3239,
+    "date": "2014-10-01",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200235351"
+  },
+  {
+    "title": "FM&P Presents: David Macaulay: The Way Macaulay Works",
+    "path": "/vod/other/2014/macaulay092614",
+    "nid": 583,
+    "cablecastShowId": 3231,
+    "date": "2014-09-26",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108004192"
+  },
+  {
+    "title": "Osher: History of Bread & Puppet",
+    "path": "/vod/osher/2014/092514",
+    "nid": 1140,
+    "cablecastShowId": 3230,
+    "date": "2014-09-25",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198626370"
+  },
+  {
+    "title": "It's Up To US!: Dr. Micahel Coffman PhD, Climate change Truth",
+    "path": "/vod/studio/2014/iutu092414",
+    "nid": 584,
+    "cablecastShowId": 3241,
+    "date": "2014-09-24",
+    "location": "Maine",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108739856"
+  },
+  {
+    "title": "What's Going On? World War III at Hand",
+    "path": "/vod/wgo/wgo092414",
+    "nid": 1128,
+    "cablecastShowId": 3229,
+    "date": "2014-09-24",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111802765"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/22/14",
+    "path": "/vod/stjselect/2014/092214",
+    "nid": 581,
+    "cablecastShowId": 3224,
+    "date": "2014-09-22",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092214-3224"
+  },
+  {
+    "title": "Economic Development: Listening Forum",
+    "path": "/vod/forums/2014/ecdev092214",
+    "nid": 582,
+    "cablecastShowId": 3225,
+    "date": "2014-09-22",
+    "location": "St. Johnsbury",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974605"
+  },
+  {
+    "title": "Osher: Maple Sugaring, Through the Years",
+    "path": "/vod/osher/2014/091914",
+    "nid": 580,
+    "cablecastShowId": 3222,
+    "date": "2014-09-19",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974606"
+  },
+  {
+    "title": "Readings in the Gallery: William Graham",
+    "path": "/vod/lectures/2014/stjath091714",
+    "nid": 579,
+    "cablecastShowId": 3223,
+    "date": "2014-09-17",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974604"
+  },
+  {
+    "title": "What's Going On? Media Target Operations",
+    "path": "/vod/wgo/wgo091714",
+    "nid": 1127,
+    "cablecastShowId": 3218,
+    "date": "2014-09-17",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111791321"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 9/16/14",
+    "path": "/vod/stjselect/2014/plan091614",
+    "nid": 578,
+    "cablecastShowId": 3215,
+    "date": "2014-09-16",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-091614-3215"
+  },
+  {
+    "title": "In & Around St. J: NEKYS",
+    "path": "/vod/studio/2014/iastj091614",
+    "nid": 576,
+    "cablecastShowId": 3214,
+    "date": "2014-09-16",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773044"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/15/14",
+    "path": "/vod/stjschool/2014/091514",
+    "nid": 571,
+    "cablecastShowId": 3212,
+    "date": "2014-09-15",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091514-3212"
+  },
+  {
+    "title": "It's Up To US!: Relevancy of 9/11 to the Present",
+    "path": "/vod/studio/2014/iutu091514",
+    "nid": 575,
+    "cablecastShowId": 3217,
+    "date": "2014-09-15",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773043"
+  },
+  {
+    "title": "Readings in the Gallery: Birchsong",
+    "path": "/vod/lectures/2014/stjath091314",
+    "nid": 574,
+    "cablecastShowId": 3211,
+    "date": "2014-09-13",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773042"
+  },
+  {
+    "title": "Courageous Conversations: Corrections In The NEK",
+    "path": "/vod/forums/2014/courconv091114",
+    "nid": 570,
+    "cablecastShowId": 3210,
+    "date": "2014-09-11",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "105997509"
+  },
+  {
+    "title": "What's Going On? A Den of Prostitutes",
+    "path": "/vod/wgo/wgo091014",
+    "nid": 1126,
+    "cablecastShowId": 3209,
+    "date": "2014-09-10",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111790926"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery 9/9/14",
+    "path": "/vod/forums/2014/commconv090914",
+    "nid": 569,
+    "cablecastShowId": 3204,
+    "date": "2014-09-09",
+    "location": "North Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "105997490"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/8/14 Special Meeting",
+    "path": "/vod/stjselect/2014/090814",
+    "nid": 573,
+    "cablecastShowId": 3205,
+    "date": "2014-09-08",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-090814-3205"
+  },
+  {
+    "title": "It's Up To US!: Relevancy of 9/11 to the Present Part II",
+    "path": "/vod/studio/2014/iutu090714",
+    "nid": 577,
+    "cablecastShowId": 3228,
+    "date": "2014-09-07",
+    "location": "Keene State College, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974603"
+  },
+  {
+    "title": "Concord Select Board, 9/2/14",
+    "path": "/vod/concordselect/2014/090214",
+    "nid": 568,
+    "cablecastShowId": 3195,
+    "date": "2014-09-02",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090214-3195"
+  },
+  {
+    "title": "NEKYS Youth Connect: NEKYS Walk",
+    "path": "/vod/studio/2014/neksysyc082714",
+    "nid": 567,
+    "cablecastShowId": 3181,
+    "date": "2014-08-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104675618"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Volunteering",
+    "path": "/vod/studio/2014/kas082014",
+    "nid": 565,
+    "cablecastShowId": 3175,
+    "date": "2014-08-20",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104980306"
+  },
+  {
+    "title": "St. J. Athenaeum: Readings in the Gallery, 8/20/14",
+    "path": "/vod/lectures/2014/stjath082014",
+    "nid": 566,
+    "cablecastShowId": 3184,
+    "date": "2014-08-20",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104675617"
+  },
+  {
+    "title": "What's Going On? Bankers vs Bankers",
+    "path": "/vod/wgo/wgo082014",
+    "nid": 1150,
+    "cablecastShowId": 3183,
+    "date": "2014-08-20",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199951825"
+  },
+  {
+    "title": "What's Going On? Benefits or Rights?",
+    "path": "/vod/wgo/wgo082014a",
+    "nid": 1151,
+    "cablecastShowId": 3190,
+    "date": "2014-08-20",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199954931"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 8/19/14",
+    "path": "/vod/stjselect/2014/plan081914",
+    "nid": 560,
+    "cablecastShowId": 3180,
+    "date": "2014-08-19",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-081914-3180"
+  },
+  {
+    "title": "In & Around St. J: Good Living Senior Center",
+    "path": "/vod/studio/2014/iastj081914",
+    "nid": 564,
+    "cablecastShowId": 3173,
+    "date": "2014-08-19",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104445733"
+  },
+  {
+    "title": "Twilight Players: Clarence Darrow Promo",
+    "path": "/vod/studio/2014/twilight081814",
+    "nid": 563,
+    "cablecastShowId": 3174,
+    "date": "2014-08-18",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104445732"
+  },
+  {
+    "title": "Sen. Sanders: Barnet Town Meeting on Economy",
+    "path": "/vod/forums/2014/sanders081614",
+    "nid": 549,
+    "cablecastShowId": 3163,
+    "date": "2014-08-16",
+    "location": "Barnet Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103826587"
+  },
+  {
+    "title": "Cultivate Contemporary: Dance Festival Day 3",
+    "path": "/vod/concerts/2014/dance081614",
+    "nid": 558,
+    "cablecastShowId": 3161,
+    "date": "2014-08-16",
+    "location": "Bethlehem, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103869011"
+  },
+  {
+    "title": "It's Up To US: Adam Kokesh, VT Freesom & Unity Festival",
+    "path": "/vod/studio/2014/iutu081614",
+    "nid": 562,
+    "cablecastShowId": 3193,
+    "date": "2014-08-16",
+    "location": "Londonderry, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104675616"
+  },
+  {
+    "title": "It's Up To US: Bruce Levine, VT Freesom & Unity Festival",
+    "path": "/vod/studio/2014/iutu081614a",
+    "nid": 572,
+    "cablecastShowId": 3201,
+    "date": "2014-08-16",
+    "location": "Londonderry, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773041"
+  },
+  {
+    "title": "Cultivate Contemporary: Dance Festival Day 2",
+    "path": "/vod/concerts/2014/dance081514",
+    "nid": 557,
+    "cablecastShowId": 3160,
+    "date": "2014-08-15",
+    "location": "Bethlehem, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103869010"
+  },
+  {
+    "title": "Twilight Players Discuss: Clarence Darrow",
+    "path": "/vod/studio/2014/twilight081514",
+    "nid": 559,
+    "cablecastShowId": 3162,
+    "date": "2014-08-15",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104445731"
+  },
+  {
+    "title": "Savvy Seniors: Live Performance",
+    "path": "/vod/forums/2014/savyseniors081514",
+    "nid": 561,
+    "cablecastShowId": 3164,
+    "date": "2014-08-15",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104360203"
+  },
+  {
+    "title": "Cultivate Contemporary: Dance Festival Day 1",
+    "path": "/vod/concerts/2014/dance081414",
+    "nid": 556,
+    "cablecastShowId": 3159,
+    "date": "2014-08-14",
+    "location": "Bethlehem, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103869009"
+  },
+  {
+    "title": "What's Going On? Sequence of Nations",
+    "path": "/vod/wgo/wgo081314",
+    "nid": 1149,
+    "cablecastShowId": 3156,
+    "date": "2014-08-13",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199948544"
+  },
+  {
+    "title": "In & Around St. J: Kathy Fox, Restorative Justice",
+    "path": "/vod/studio/2014/iastj081214",
+    "nid": 547,
+    "cablecastShowId": 3148,
+    "date": "2014-08-12",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103435577"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery 8/12/14",
+    "path": "/vod/forums/2014/commconv081214",
+    "nid": 548,
+    "cablecastShowId": 3149,
+    "date": "2014-08-12",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103435578"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/11/14",
+    "path": "/vod/stjselect/2014/081114",
+    "nid": 554,
+    "cablecastShowId": 3153,
+    "date": "2014-08-11",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081114-3153"
+  },
+  {
+    "title": "It's Up To US: Storytelling with Nancy Wood",
+    "path": "/vod/studio/2014/iutu081014",
+    "nid": 555,
+    "cablecastShowId": 3179,
+    "date": "2014-08-10",
+    "location": "Dobra Tea Room - Burlington, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104360202"
+  },
+  {
+    "title": "SJA Theatre: As You Like It",
+    "path": "/vod/concerts/2014/sjatheatre080914",
+    "nid": 553,
+    "cablecastShowId": 3147,
+    "date": "2014-08-09",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103570666"
+  },
+  {
+    "title": "Concord Select Board, 8/5/14",
+    "path": "/vod/concordselect/2014/080514",
+    "nid": 552,
+    "cablecastShowId": 3136,
+    "date": "2014-08-05",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-080514-3136"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/4/14",
+    "path": "/vod/stjschool/2014/080414",
+    "nid": 539,
+    "cablecastShowId": 3135,
+    "date": "2014-08-04",
+    "location": "St. Johnsbury  School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-080414-3135"
+  },
+  {
+    "title": "St. Johnsbury Justice Center Meeting, 7/31/14",
+    "path": "/vod/forums/2014/stjjustice073114",
+    "nid": 546,
+    "cablecastShowId": 3141,
+    "date": "2014-07-31",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103296540"
+  },
+  {
+    "title": "What's Going On? Americans Wake Up, You've Been Had",
+    "path": "/vod/wgo/wgo073014",
+    "nid": 1125,
+    "cablecastShowId": 3142,
+    "date": "2014-07-30",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198631305"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/28/14",
+    "path": "/vod/stjselect/2014/072814",
+    "nid": 542,
+    "cablecastShowId": 3127,
+    "date": "2014-07-28",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072814-3127"
+  },
+  {
+    "title": "It's Up To US: Newark Village Harmony Concert",
+    "path": "/vod/studio/2014/iutu072714",
+    "nid": 541,
+    "cablecastShowId": 3133,
+    "date": "2014-07-27",
+    "location": "Newark, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "102583470"
+  },
+  {
+    "title": "St. J Players: As You Like It Promo",
+    "path": "/vod/studio/2014/stjplayers072714",
+    "nid": 543,
+    "cablecastShowId": 3132,
+    "date": "2014-07-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "102583469"
+  },
+  {
+    "title": "It's Up To US: Newark Village Harmony Concert Part 2",
+    "path": "/vod/studio/2014/iutu072714p2",
+    "nid": 551,
+    "cablecastShowId": 3155,
+    "date": "2014-07-27",
+    "location": "Newark, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103570664"
+  },
+  {
+    "title": "Health & Wellness: Anti Smoking Campaign",
+    "path": "/vod/studio/2014/healthwell072414",
+    "nid": 538,
+    "cablecastShowId": 3122,
+    "date": "2014-07-24",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101871813"
+  },
+  {
+    "title": "What's Going On? Upset and Mad!!",
+    "path": "/vod/wgo/wgo072314",
+    "nid": 1092,
+    "cablecastShowId": 3121,
+    "date": "2014-07-23",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112252634"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 7/22/14",
+    "path": "/vod/stjselect/2014/plan072214",
+    "nid": 540,
+    "cablecastShowId": 3119,
+    "date": "2014-07-22",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-072214-3119"
+  },
+  {
+    "title": "It's Up To US: Montpelier Gospel Choir, Bratt 53",
+    "path": "/vod/studio/2014/iutu072114",
+    "nid": 537,
+    "cablecastShowId": 3126,
+    "date": "2014-07-21",
+    "location": "Saint Michael's Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101871814"
+  },
+  {
+    "title": "What's Going On? Banksters in the Ukraine",
+    "path": "/vod/wgo/wgo071714",
+    "nid": 1148,
+    "cablecastShowId": 3109,
+    "date": "2014-07-17",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199942017"
+  },
+  {
+    "title": "St. J. Athenaeum: Readings in the Gallery, 7/16/14",
+    "path": "/vod/lectures/2014/stjath071614",
+    "nid": 536,
+    "cablecastShowId": 3108,
+    "date": "2014-07-16",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101337435"
+  },
+  {
+    "title": "What's Going On? Words of Wisdom, Peter Hendrickson",
+    "path": "/vod/wgo/wgo071614",
+    "nid": 1091,
+    "cablecastShowId": 3120,
+    "date": "2014-07-16",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117138171"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Youth Volunteers",
+    "path": "/vod/studio/2014/kas071514",
+    "nid": 532,
+    "cablecastShowId": 3105,
+    "date": "2014-07-15",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101049107"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/14/14",
+    "path": "/vod/stjselect/2014/071414",
+    "nid": 535,
+    "cablecastShowId": 3099,
+    "date": "2014-07-14",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-071414-3099"
+  },
+  {
+    "title": "It's Up To US: Dangers of Article V Constitutional Convention, part 1",
+    "path": "/vod/studio/2014/iutu071014",
+    "nid": 531,
+    "cablecastShowId": 3097,
+    "date": "2014-07-10",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101049105"
+  },
+  {
+    "title": "What's Going On? What is Actually Happening?",
+    "path": "/vod/wgo/wgo070914",
+    "nid": 1124,
+    "cablecastShowId": 3092,
+    "date": "2014-07-09",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111772266"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery, 7/8/14",
+    "path": "/vod/forums/2014/commconv070814",
+    "nid": 529,
+    "cablecastShowId": 3088,
+    "date": "2014-07-08",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100752377"
+  },
+  {
+    "title": "In & Around St. J: East Village Association",
+    "path": "/vod/studio/2014/iastj070814",
+    "nid": 530,
+    "cablecastShowId": 3091,
+    "date": "2014-07-08",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101049104"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/7/14 Special Meeting",
+    "path": "/vod/stjselect/2014/070714",
+    "nid": 526,
+    "cablecastShowId": 3086,
+    "date": "2014-07-07",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-070714-3086"
+  },
+  {
+    "title": "St. Johnsbury School Board, 7/7/14",
+    "path": "/vod/stjschool/2014/070714",
+    "nid": 528,
+    "cablecastShowId": 3087,
+    "date": "2014-07-07",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-070717-3087"
+  },
+  {
+    "title": "Woodsville 4th of July Parade 2014",
+    "path": "/vod/other/2014/woodsville4th2014",
+    "nid": 525,
+    "cablecastShowId": 3081,
+    "date": "2014-07-04",
+    "location": "Woodsville, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100357236"
+  },
+  {
+    "title": "It's Up to US: The Declaration of Independence",
+    "path": "/vod/studio/2014/iutu28",
+    "nid": 524,
+    "cablecastShowId": 3085,
+    "date": "2014-07-03",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100357235"
+  },
+  {
+    "title": "Concord Select Board, 7/1/14",
+    "path": "/vod/concordselect/2014/070114",
+    "nid": 527,
+    "cablecastShowId": 3047,
+    "date": "2014-07-01",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-070114-3047"
+  },
+  {
+    "title": "First Wednesday: Fredrick Douglas Reading",
+    "path": "/vod/firstwed/2014/070114",
+    "nid": 523,
+    "cablecastShowId": 3076,
+    "date": "2014-07-01",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100056622"
+  },
+  {
+    "title": "Concord Zoning Board, 6/26/14",
+    "path": "/vod/concordselect/2014/zone062614",
+    "nid": 521,
+    "cablecastShowId": 3070,
+    "date": "2014-06-26",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordzoning-mtg-062614-3070"
+  },
+  {
+    "title": "Health & Wellness Smoke Free Housing",
+    "path": "/vod/studio/2014/healthwell062614",
+    "nid": 517,
+    "cablecastShowId": 3069,
+    "date": "2014-06-26",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "99299379"
+  },
+  {
+    "title": "NVRH: Advance Directives",
+    "path": "/vod/forums/2014/nvrh062614",
+    "nid": 518,
+    "cablecastShowId": 3061,
+    "date": "2014-06-26",
+    "location": "Northeastern Vermont Regional Hospital",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "99299380"
+  },
+  {
+    "title": "NVRH: Palliative Care Services",
+    "path": "/vod/forums/2014/nvrh062614a",
+    "nid": 522,
+    "cablecastShowId": 3068,
+    "date": "2014-06-26",
+    "location": "Northeastern Vermont Regional Hospital",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100056623"
+  },
+  {
+    "title": "It's Up To US: Dangers of Article V Constitutional Convention, part 2",
+    "path": "/vod/studio/2014/iutu062614",
+    "nid": 534,
+    "cablecastShowId": 3106,
+    "date": "2014-06-26",
+    "location": "Springfield, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101871811"
+  },
+  {
+    "title": "What's Going On? Are we a Conquered People?",
+    "path": "/vod/wgo/wgo062514",
+    "nid": 1123,
+    "cablecastShowId": 3071,
+    "date": "2014-06-25",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111768152"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/23/14",
+    "path": "/vod/stjschool/2014/062314",
+    "nid": 519,
+    "cablecastShowId": 3033,
+    "date": "2014-06-23",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-062314-3033"
+  },
+  {
+    "title": "St. Johnsbury Chamber: Pet Parade 2014",
+    "path": "/vod/other/2014/stjpet062314",
+    "nid": 516,
+    "cablecastShowId": 3064,
+    "date": "2014-06-23",
+    "location": "St. Johnsbury",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "99299378"
+  },
+  {
+    "title": "St J. Athenaeum: Readings in the Gallery",
+    "path": "/vod/lectures/2014/stjath061814",
+    "nid": 514,
+    "cablecastShowId": 3053,
+    "date": "2014-06-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98674296"
+  },
+  {
+    "title": "What's Going On? Arrest the Bankers",
+    "path": "/vod/wgo/wgo061814",
+    "nid": 1122,
+    "cablecastShowId": 3055,
+    "date": "2014-06-18",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111756443"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 6/17/14",
+    "path": "/vod/stjselect/2014/plan061714",
+    "nid": 513,
+    "cablecastShowId": 3044,
+    "date": "2014-06-17",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-061714-3044"
+  },
+  {
+    "title": "In & Around St. J: NAMI Vermont",
+    "path": "/vod/studio/2014/iastj061714",
+    "nid": 511,
+    "cablecastShowId": 3049,
+    "date": "2014-06-17",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98674293"
+  },
+  {
+    "title": "VT DEC: Shoreland Protection Act",
+    "path": "/vod/lectures/2014/vtdec061714",
+    "nid": 512,
+    "cablecastShowId": 3045,
+    "date": "2014-06-17",
+    "location": "NVDA",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98674294"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/12/14 Special Meeting",
+    "path": "/vod/stjselect/2014/061214",
+    "nid": 509,
+    "cablecastShowId": 3038,
+    "date": "2014-06-12",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-061214-3038"
+  },
+  {
+    "title": "It's Up To US: The Ollabelles & Montpelier Community Small Choir",
+    "path": "/vod/studio/2014/iutu061214",
+    "nid": 508,
+    "cablecastShowId": 3041,
+    "date": "2014-06-12",
+    "location": "Montpelier, VT",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98288253"
+  },
+  {
+    "title": "Courageous Conversations: LGBTQA",
+    "path": "/vod/forums/2014/courconv061214",
+    "nid": 510,
+    "cablecastShowId": 3034,
+    "date": "2014-06-12",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98288254"
+  },
+  {
+    "title": "What's Going On? USA a War Zone",
+    "path": "/vod/wgo/wgo061114",
+    "nid": 1121,
+    "cablecastShowId": 3054,
+    "date": "2014-06-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111751783"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/10/14 Budget Info Meeting",
+    "path": "/vod/stjschool/2014/061014budget",
+    "nid": 501,
+    "cablecastShowId": 3030,
+    "date": "2014-06-10",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-budgetmtg-061014-3030"
+  },
+  {
+    "title": "In Around St J: CALEX Annual Fundraiser",
+    "path": "/vod/studio/2014/iastj061014",
+    "nid": 506,
+    "cablecastShowId": 3032,
+    "date": "2014-06-10",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98272394"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery",
+    "path": "/vod/forums/2014/commconv061014",
+    "nid": 507,
+    "cablecastShowId": 3031,
+    "date": "2014-06-10",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98272395"
+  },
+  {
+    "title": "Concord Zoning Board, 6/5/14",
+    "path": "/vod/concordselect/2014/zoning060514",
+    "nid": 503,
+    "cablecastShowId": 3019,
+    "date": "2014-06-05",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordzoning-mtg-060514-3019"
+  },
+  {
+    "title": "CALEX: Annual Fundraiser 2014",
+    "path": "/vod/studio/2014/calex060514",
+    "nid": 500,
+    "cablecastShowId": 3012,
+    "date": "2014-06-05",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97688033"
+  },
+  {
+    "title": "First Wednesday: Life and Music of Thelonious Monk",
+    "path": "/vod/firstwed/2014/060414",
+    "nid": 497,
+    "cablecastShowId": 3018,
+    "date": "2014-06-04",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97688032"
+  },
+  {
+    "title": "Kingdom Animal Shelter: June 2014 Events",
+    "path": "/vod/studio/2014/kas060414a",
+    "nid": 498,
+    "cablecastShowId": 3028,
+    "date": "2014-06-04",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97688035"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Annual Cat Calendar Contest",
+    "path": "/vod/studio/2014/kas060414b",
+    "nid": 499,
+    "cablecastShowId": 3029,
+    "date": "2014-06-04",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97688034"
+  },
+  {
+    "title": "Concord Select Board, 6/3/14",
+    "path": "/vod/concordselect/2014/060314",
+    "nid": 502,
+    "cablecastShowId": 3015,
+    "date": "2014-06-03",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-060314-3015"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/3/14 Special Meeting",
+    "path": "/vod/stjselect/2014/060314sm",
+    "nid": 515,
+    "cablecastShowId": 3016,
+    "date": "2014-06-03",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-060314-3016"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/2/14 Budget Info Meeting",
+    "path": "/vod/stjschool/2014/060214budget",
+    "nid": 488,
+    "cablecastShowId": 3011,
+    "date": "2014-06-02",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-budgetmtg-060214-3011"
+  },
+  {
+    "title": "Concord School Board, 6/2/14",
+    "path": "/vod/concordschool/2014/060214",
+    "nid": 495,
+    "cablecastShowId": 3017,
+    "date": "2014-06-02",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-060314-3017"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/2/14",
+    "path": "/vod/stjschool/2014/060214",
+    "nid": 496,
+    "cablecastShowId": 3010,
+    "date": "2014-06-02",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-060214-3010"
+  },
+  {
+    "title": "St. Johnsbury Academy 2014 Graduation",
+    "path": "/vod/grad/sjagrad2014",
+    "nid": 490,
+    "cablecastShowId": 3014,
+    "date": "2014-06-02",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97320439"
+  },
+  {
+    "title": "Lyndon Institute 2014 Graduation",
+    "path": "/vod/grad/ligrad2014",
+    "nid": 489,
+    "cablecastShowId": 3013,
+    "date": "2014-05-31",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97289318"
+  },
+  {
+    "title": "St. Johnsbury Academy Commencement Concert 2014",
+    "path": "/vod/concerts/2014/sja053014",
+    "nid": 494,
+    "cablecastShowId": 3002,
+    "date": "2014-05-30",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97385858"
+  },
+  {
+    "title": "It's Up To US: St. J Food CO-OP Celebration",
+    "path": "/vod/studio/2014/iutu25",
+    "nid": 505,
+    "cablecastShowId": 3009,
+    "date": "2014-05-29",
+    "location": "St. Johnsbury",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98272393"
+  },
+  {
+    "title": "Concord School Board, 5/28/14",
+    "path": "/vod/concordschool/2014/052814",
+    "nid": 492,
+    "cablecastShowId": 2999,
+    "date": "2014-05-28",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-052814-2999"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/28/14 Budget Info Meeting",
+    "path": "/vod/stjschool/2014/052814budget",
+    "nid": 493,
+    "cablecastShowId": 3000,
+    "date": "2014-05-28",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-budgetinfo-052814-3000"
+  },
+  {
+    "title": "Riverbend Tech. Center: Awards Ceremony 2014",
+    "path": "/vod/other/2014/riverbend052814",
+    "nid": 485,
+    "cablecastShowId": 3001,
+    "date": "2014-05-28",
+    "location": "Riverbend Tech, Oxbow",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "97007407"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/27/14",
+    "path": "/vod/stjselect/2014/052714",
+    "nid": 491,
+    "cablecastShowId": 2998,
+    "date": "2014-05-27",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052714-2998"
+  },
+  {
+    "title": "What's Going On? Your Children Are a Commodity",
+    "path": "/vod/wgo/wgo052714",
+    "nid": 1120,
+    "cablecastShowId": 3004,
+    "date": "2014-05-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117140296"
+  },
+  {
+    "title": "Making A Difference: Mindful Parenting",
+    "path": "/vod/studio/2014/makediff052214",
+    "nid": 483,
+    "cablecastShowId": 2992,
+    "date": "2014-05-22",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96544855"
+  },
+  {
+    "title": "Waterford School: 3-5 Grade Spring Concert 2014",
+    "path": "/vod/concerts/2014/waterford052214",
+    "nid": 484,
+    "cablecastShowId": 2987,
+    "date": "2014-05-22",
+    "location": "Waterford School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Waterford",
+        "path": "/vod/concerts/waterford"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96544854"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 5/20/14",
+    "path": "/vod/stjselect/2014/052114plan",
+    "nid": 487,
+    "cablecastShowId": 2984,
+    "date": "2014-05-21",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-052014-2984_201406"
+  },
+  {
+    "title": "Blue Mountain Union School Budget Meeting, 5/21/14",
+    "path": "/vod/other/2014/bluemtn052114",
+    "nid": 475,
+    "cablecastShowId": 2985,
+    "date": "2014-05-21",
+    "location": "Blue Mountain Union School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96269782"
+  },
+  {
+    "title": "Blue Mountain Union Spring Concert 2014",
+    "path": "/vod/concerts/2014/bluemtnspring052114",
+    "nid": 482,
+    "cablecastShowId": 2986,
+    "date": "2014-05-21",
+    "location": "Blue Mountain Union School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96544852"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/19/14",
+    "path": "/vod/stjschool/2014/051914",
+    "nid": 476,
+    "cablecastShowId": 2983,
+    "date": "2014-05-19",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-051914-2983"
+  },
+  {
+    "title": "Lyndon Institute Spring Dance Recital 2014",
+    "path": "/vod/concerts/2014/lidance051614",
+    "nid": 481,
+    "cablecastShowId": 2971,
+    "date": "2014-05-16",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96460693"
+  },
+  {
+    "title": "Waterford School: 6-8 Grade Spring 2014 Concert",
+    "path": "/vod/concerts/2014/waterford051514",
+    "nid": 480,
+    "cablecastShowId": 2969,
+    "date": "2014-05-15",
+    "location": "Waterford School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Waterford",
+        "path": "/vod/concerts/waterford"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96460692"
+  },
+  {
+    "title": "Concord Zoning Board, 5/14/14",
+    "path": "/vod/concordselect/2014/zoning051414",
+    "nid": 486,
+    "cablecastShowId": 2970,
+    "date": "2014-05-14",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordzone-mtg-051514-2970"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: The Art of Handbell Ringing",
+    "path": "/vod/lectures/2014/stjath051414",
+    "nid": 478,
+    "cablecastShowId": 2967,
+    "date": "2014-05-14",
+    "location": "South Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96312578"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery 5/14/14",
+    "path": "/vod/forums/2014/commconv051414",
+    "nid": 479,
+    "cablecastShowId": 2966,
+    "date": "2014-05-14",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "96312577"
+  },
+  {
+    "title": "NEK Chamber of Commerce 2014 Annual Meeting",
+    "path": "/vod/forums/2014/nekchamber051414",
+    "nid": 504,
+    "cablecastShowId": 2968,
+    "date": "2014-05-14",
+    "location": "Lyndon State College",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "98223528"
+  },
+  {
+    "title": "What's Going On? Sowing Seeds at the Next President",
+    "path": "/vod/wgo/wgo051414",
+    "nid": 1118,
+    "cablecastShowId": 2982,
+    "date": "2014-05-14",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199948544"
+  },
+  {
+    "title": "What's Going On? Politician's Sons Put in Place to Profit",
+    "path": "/vod/wgo/wgo051314",
+    "nid": 1119,
+    "cablecastShowId": 2990,
+    "date": "2014-05-13",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117143887"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/12/14 Budget Info Meeting",
+    "path": "/vod/stjschool/2014/051214budget",
+    "nid": 464,
+    "cablecastShowId": 2965,
+    "date": "2014-05-12",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-051214-2965"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/12/14",
+    "path": "/vod/stjselect/2014/051214",
+    "nid": 473,
+    "cablecastShowId": 2947,
+    "date": "2014-05-12",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-051214-2947"
+  },
+  {
+    "title": "NEKYS Youth Connect Ep. 5",
+    "path": "/vod/studio/2014/nekysyc5",
+    "nid": 420,
+    "cablecastShowId": 2827,
+    "date": "2014-05-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89322127"
+  },
+  {
+    "title": "Courageous Conversations: Early Childhood Education",
+    "path": "/vod/forums/2014/courconv050814",
+    "nid": 471,
+    "cablecastShowId": 2952,
+    "date": "2014-05-08",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "94711949"
+  },
+  {
+    "title": "Osher: Thomas Jefferson: The Man, The Mysteries",
+    "path": "/vod/osher/2014/050814",
+    "nid": 472,
+    "cablecastShowId": 2951,
+    "date": "2014-05-08",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "94711948"
+  },
+  {
+    "title": "What's Going On? The New Slogan \"Deja Vu\"",
+    "path": "/vod/wgo/wgo050714",
+    "nid": 1117,
+    "cablecastShowId": 2961,
+    "date": "2014-05-07",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117150018"
+  },
+  {
+    "title": "Concord Select Board, 5/6/14",
+    "path": "/vod/concordselect/2014/050614",
+    "nid": 470,
+    "cablecastShowId": 2946,
+    "date": "2014-05-06",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-050614-2946"
+  },
+  {
+    "title": "Concord School Board, 5/5/14",
+    "path": "/vod/concordschool/2014/050514",
+    "nid": 469,
+    "cablecastShowId": 2945,
+    "date": "2014-05-05",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-050514-2945"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Adoptions",
+    "path": "/vod/other/2014/kas050114",
+    "nid": 474,
+    "cablecastShowId": 2949,
+    "date": "2014-05-01",
+    "location": "Kingdom Animal Shelter",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "94656399"
+  },
+  {
+    "title": "Lyndon Institute Spring Concert 2014",
+    "path": "/vod/concerts/lispring2014",
+    "nid": 468,
+    "cablecastShowId": 2923,
+    "date": "2014-04-30",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "94656398"
+  },
+  {
+    "title": "Concord Zoning Board, 4/29/14",
+    "path": "/vod/concordselect/2014/zoning042914",
+    "nid": 467,
+    "cablecastShowId": 2940,
+    "date": "2014-04-29",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordzoning-mtg-042914-2940"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/28/14",
+    "path": "/vod/stjselect/2014/042814",
+    "nid": 466,
+    "cablecastShowId": 2931,
+    "date": "2014-04-28",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-042814-2931"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Cinco De Meow ",
+    "path": "/vod/studio/2014/kas042814",
+    "nid": 463,
+    "cablecastShowId": 2932,
+    "date": "2014-04-28",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "94656397"
+  },
+  {
+    "title": "Legislative Breakfast, April 2014",
+    "path": "/vod/legbkfst/2014/042814",
+    "nid": 520,
+    "cablecastShowId": 2921,
+    "date": "2014-04-28",
+    "location": "St. Johnsbury House",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "100056621"
+  },
+  {
+    "title": "Making A Difference, Ep. 6: ATOD Prevention Force",
+    "path": "/vod/studio/2014/makediff6",
+    "nid": 460,
+    "cablecastShowId": 2919,
+    "date": "2014-04-24",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92986314"
+  },
+  {
+    "title": "Riverbend Tech. Center: Honor Society Awards 2014",
+    "path": "/vod/other/2014/rtchonor042414",
+    "nid": 461,
+    "cablecastShowId": 2916,
+    "date": "2014-04-24",
+    "location": "Oxbow Union High School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92986315"
+  },
+  {
+    "title": "Osher: A Trek in Nepal",
+    "path": "/vod/osher/2014/042414",
+    "nid": 462,
+    "cablecastShowId": 2906,
+    "date": "2014-04-24",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "93019245"
+  },
+  {
+    "title": "It's Up to US: Prof. Ben Luce on Solar Energy & Jazz Piano!",
+    "path": "/vod/studio/2014/iutu23",
+    "nid": 477,
+    "cablecastShowId": 2922,
+    "date": "2014-04-24",
+    "location": "Lyndon State College",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "95349464"
+  },
+  {
+    "title": "What's Going On? The Domestic Terrorists Rise",
+    "path": "/vod/wgo/wgo042314",
+    "nid": 459,
+    "cablecastShowId": 2917,
+    "date": "2014-04-23",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92986316"
+  },
+  {
+    "title": "St. Johnsbury School Board, 4/21/14 Budget Info",
+    "path": "/vod/stjschool/2014/042114",
+    "nid": 458,
+    "cablecastShowId": 2905,
+    "date": "2014-04-21",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-budgetmtg-042114-2905"
+  },
+  {
+    "title": "It's up to US: Beth Champagne on GMO",
+    "path": "/vod/studio/2014/iutu041714",
+    "nid": 456,
+    "cablecastShowId": 2901,
+    "date": "2014-04-17",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92406776"
+  },
+  {
+    "title": "Osher: Lyme Disease: The Microbial Iceberg?",
+    "path": "/vod/osher/2014/041714",
+    "nid": 457,
+    "cablecastShowId": 2893,
+    "date": "2014-04-17",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92690002"
+  },
+  {
+    "title": "What's Going On? Patriots Unite in Nevada",
+    "path": "/vod/wgo/wgo041614",
+    "nid": 465,
+    "cablecastShowId": 2894,
+    "date": "2014-04-16",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "93041542"
+  },
+  {
+    "title": "In & Around St. J: Red Cross",
+    "path": "/vod/studio/2014/iastj38",
+    "nid": 452,
+    "cablecastShowId": 2891,
+    "date": "2014-04-15",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92159710"
+  },
+  {
+    "title": "Osher: Photography Through the Years",
+    "path": "/vod/osher/2014/041014",
+    "nid": 451,
+    "cablecastShowId": 2879,
+    "date": "2014-04-10",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91948771"
+  },
+  {
+    "title": "What's Going On? Mad as Heck",
+    "path": "/vod/wgo/wgo040914",
+    "nid": 446,
+    "cablecastShowId": 2880,
+    "date": "2014-04-09",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91663111"
+  },
+  {
+    "title": "It's Spring: Sap to Syrup",
+    "path": "/vod/other/2014/sapsyrup040914",
+    "nid": 626,
+    "cablecastShowId": 2878,
+    "date": "2014-04-09",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "113171073"
+  },
+  {
+    "title": "In & Around St. J: St. J Community Garden",
+    "path": "/vod/studio/2014/iastj040814",
+    "nid": 445,
+    "cablecastShowId": 2848,
+    "date": "2014-04-08",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91663112"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery",
+    "path": "/vod/forums/2014/commconv040814",
+    "nid": 450,
+    "cablecastShowId": 2872,
+    "date": "2014-04-08",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91890328"
+  },
+  {
+    "title": "St. Johnsbury School Board, 4/7/14",
+    "path": "/vod/stjschool/2014/040714",
+    "nid": 449,
+    "cablecastShowId": 2870,
+    "date": "2014-04-07",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-040714-2870"
+  },
+  {
+    "title": "Osher: Even Boomers Grow Older",
+    "path": "/vod/osher/2014/040314",
+    "nid": 443,
+    "cablecastShowId": 2865,
+    "date": "2014-04-03",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91531339"
+  },
+  {
+    "title": "Making A Difference, Ep. 5",
+    "path": "/vod/studio/2014/makediff5",
+    "nid": 444,
+    "cablecastShowId": 2866,
+    "date": "2014-04-03",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91663110"
+  },
+  {
+    "title": "First Wednesday: All About Eve",
+    "path": "/vod/firstwed/2014/040214",
+    "nid": 442,
+    "cablecastShowId": 2858,
+    "date": "2014-04-02",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91475028"
+  },
+  {
+    "title": "What's Going On? In the Underbelly of Russia",
+    "path": "/vod/wgo/wgo040214",
+    "nid": 1116,
+    "cablecastShowId": 2864,
+    "date": "2014-04-02",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112255741"
+  },
+  {
+    "title": "Concord Select Board, 4/1/14",
+    "path": "/vod/concordselect/2014/040114",
+    "nid": 448,
+    "cablecastShowId": 2856,
+    "date": "2014-04-01",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mgt-040114-2856"
+  },
+  {
+    "title": "St. Johnsbury School Board, 3/31/14",
+    "path": "/vod/stjschool/2014/033114",
+    "nid": 447,
+    "cablecastShowId": 2855,
+    "date": "2014-03-31",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-033114-2855"
+  },
+  {
+    "title": "Legislative Breakfast, March 2014",
+    "path": "/vod/legbkfst/2014/033114",
+    "nid": 438,
+    "cablecastShowId": 2854,
+    "date": "2014-03-31",
+    "location": "St. Johnsbury House",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90743957"
+  },
+  {
+    "title": "Osher: The Value of Independence - Vermont's Education System",
+    "path": "/vod/osher/2014/032714",
+    "nid": 437,
+    "cablecastShowId": 2853,
+    "date": "2014-03-27",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90705048"
+  },
+  {
+    "title": "Health and Wellness Ep. 2",
+    "path": "/vod/studio/2014/healthwellness2",
+    "nid": 441,
+    "cablecastShowId": 2859,
+    "date": "2014-03-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90819881"
+  },
+  {
+    "title": "Community Forum with Noah Noyes",
+    "path": "/vod/forums/2014/commforum032614",
+    "nid": 436,
+    "cablecastShowId": 2851,
+    "date": "2014-03-26",
+    "location": "Oxbow High School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90693493"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/24/14",
+    "path": "/vod/stjselect/2014/032414",
+    "nid": 435,
+    "cablecastShowId": 2842,
+    "date": "2014-03-24",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032414-2842"
+  },
+  {
+    "title": "Osher: 170 Years - St. Johnsbury Fire Department",
+    "path": "/vod/osher/2014/32014",
+    "nid": 433,
+    "cablecastShowId": 2838,
+    "date": "2014-03-20",
+    "location": "Osher",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89758137"
+  },
+  {
+    "title": "NVRH: The Foundation for Healthcare Reform",
+    "path": "/vod/lectures/2014/nvrh032014",
+    "nid": 434,
+    "cablecastShowId": 2841,
+    "date": "2014-03-20",
+    "location": "Northeastern Vermont Regional Hospital",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90185917"
+  },
+  {
+    "title": "Walt Whitman and the Civil War",
+    "path": "/vod/lectures/2014/ath031914",
+    "nid": 432,
+    "cablecastShowId": 2836,
+    "date": "2014-03-19",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89758138"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division B]",
+    "path": "/vod/sports/rotary2014boysB",
+    "nid": 423,
+    "cablecastShowId": 2833,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90037676"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division B]",
+    "path": "/vod/sports/rotary2014girlsB",
+    "nid": 424,
+    "cablecastShowId": 2832,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90037677"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division C]",
+    "path": "/vod/sports/rotary2014girlsC",
+    "nid": 425,
+    "cablecastShowId": 2830,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89808177"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division A]",
+    "path": "/vod/sports/rotary2014girlsA",
+    "nid": 426,
+    "cablecastShowId": 2834,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90079117"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division C]",
+    "path": "/vod/sports/rotary2014boysC",
+    "nid": 427,
+    "cablecastShowId": 2831,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89800450"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division A]",
+    "path": "/vod/sports/rotary2014boysA",
+    "nid": 428,
+    "cablecastShowId": 2835,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90079116"
+  },
+  {
+    "title": "What's Going On? The B.R.I.G.S",
+    "path": "/vod/wgo/wgo031214",
+    "nid": 1147,
+    "cablecastShowId": 2828,
+    "date": "2014-03-12",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117143983"
+  },
+  {
+    "title": "Concord Select Board, 3/11/14",
+    "path": "/vod/concordselect/2014/031114",
+    "nid": 421,
+    "cablecastShowId": 2822,
+    "date": "2014-03-11",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-031114-2822"
+  },
+  {
+    "title": "In & Around St. J: VT Children's Alliance",
+    "path": "/vod/studio/2014/iastj031114",
+    "nid": 419,
+    "cablecastShowId": 2825,
+    "date": "2014-03-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89322128"
+  },
+  {
+    "title": "Community Conversation: DART 2.0",
+    "path": "/vod/forums/2014/commconv031114",
+    "nid": 422,
+    "cablecastShowId": 2823,
+    "date": "2014-03-11",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89344752"
+  },
+  {
+    "title": "VT Department of Forestry: Timber Harvesting Guidelines",
+    "path": "/vod/lectures/2014/vtforest030614",
+    "nid": 414,
+    "cablecastShowId": 2817,
+    "date": "2014-03-06",
+    "location": "Fairbanks Museum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88552526"
+  },
+  {
+    "title": "Osher: Macedonia‚Äôs Education System, Lost Generation",
+    "path": "/vod/osher/2014/030614",
+    "nid": 415,
+    "cablecastShowId": 2816,
+    "date": "2014-03-06",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88535792"
+  },
+  {
+    "title": "First Wednesday: The Life and Work of Emily Dickinson",
+    "path": "/vod/firstwed/2014/030514",
+    "nid": 413,
+    "cablecastShowId": 2812,
+    "date": "2014-03-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88530571"
+  },
+  {
+    "title": "Making A Difference, Ep. 4",
+    "path": "/vod/studio/2014/makediff4",
+    "nid": 403,
+    "cablecastShowId": 2805,
+    "date": "2014-02-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87812468"
+  },
+  {
+    "title": "It's Up to US: Stop a Con Con [Ep. 21]",
+    "path": "/vod/studio/2014/iutu21",
+    "nid": 412,
+    "cablecastShowId": 2818,
+    "date": "2014-02-27",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88497933"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/25/14",
+    "path": "/vod/stjselect/2014/022514",
+    "nid": 404,
+    "cablecastShowId": 2792,
+    "date": "2014-02-25",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022514-2792"
+  },
+  {
+    "title": "St. Johnsbury Candidates Forum 2014",
+    "path": "/vod/forums/2014/stjcandidatesforum2014",
+    "nid": 405,
+    "cablecastShowId": 2793,
+    "date": "2014-02-25",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-candidatesforum-022514-2793"
+  },
+  {
+    "title": "In & Around St. J: Community Cookbook",
+    "path": "/vod/studio/2014/iastj022514",
+    "nid": 401,
+    "cablecastShowId": 2794,
+    "date": "2014-02-25",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87727938"
+  },
+  {
+    "title": "Kiwanis Auction: 2014 Preview",
+    "path": "/vod/studio/2014/kiwanis2014prev",
+    "nid": 402,
+    "cablecastShowId": 2795,
+    "date": "2014-02-25",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87727939"
+  },
+  {
+    "title": "St. Johnsbury Select Board: Recall Amendment, 2/24/14",
+    "path": "/vod/stjselect/2014/022414",
+    "nid": 409,
+    "cablecastShowId": 2791,
+    "date": "2014-02-24",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-022414-2791"
+  },
+  {
+    "title": "Legislative Breakfast, February 2014",
+    "path": "/vod/legbkfst/2014/022414",
+    "nid": 400,
+    "cablecastShowId": 2786,
+    "date": "2014-02-24",
+    "location": "St. Johnsbury House",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87630271"
+  },
+  {
+    "title": "Promoting Health & Wellness: Kingdom Recovery",
+    "path": "/vod/studio/2014/healthwellness1",
+    "nid": 398,
+    "cablecastShowId": 2789,
+    "date": "2014-02-20",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87586353"
+  },
+  {
+    "title": "St. Johnsbury School Budget Presentation, 2/19/14",
+    "path": "/vod/stjschool/2014/021914",
+    "nid": 396,
+    "cablecastShowId": 2778,
+    "date": "2014-02-19",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021914-2778"
+  },
+  {
+    "title": "St. Johnsbury School Board, 2/17/14",
+    "path": "/vod/stjschool/2014/021714",
+    "nid": 395,
+    "cablecastShowId": 2771,
+    "date": "2014-02-17",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021714-2771"
+  },
+  {
+    "title": "What's Going On? You Are Being Played",
+    "path": "/vod/wgo/wgo021514",
+    "nid": 1114,
+    "cablecastShowId": 2770,
+    "date": "2014-02-15",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112248514"
+  },
+  {
+    "title": "Cameras, Composition, Creativity",
+    "path": "/vod/lectures/2014/ath021214",
+    "nid": 394,
+    "cablecastShowId": 2762,
+    "date": "2014-02-12",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87327186"
+  },
+  {
+    "title": "NEKYS Youth Connect Ep. 4",
+    "path": "/vod/studio/2014/nekysyc4",
+    "nid": 390,
+    "cablecastShowId": 2764,
+    "date": "2014-02-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86659510"
+  },
+  {
+    "title": "In & Around St. J: Tai Chi",
+    "path": "/vod/studio/2014/iastj34",
+    "nid": 391,
+    "cablecastShowId": 2761,
+    "date": "2014-02-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86665323"
+  },
+  {
+    "title": "Community Conversation: Substance Abuse Prevention",
+    "path": "/vod/forums/2014/commconv021114",
+    "nid": 393,
+    "cablecastShowId": 2759,
+    "date": "2014-02-11",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86667492"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/10/14",
+    "path": "/vod/stjselect/2014/021014",
+    "nid": 389,
+    "cablecastShowId": 2757,
+    "date": "2014-02-10",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021014-2757"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/10/14 Budget Review",
+    "path": "/vod/stjselect/2014/021014budget",
+    "nid": 392,
+    "cablecastShowId": 2756,
+    "date": "2014-02-10",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-budget-021014-2756"
+  },
+  {
+    "title": "In & Around St. J: Kingdom Recovery Center",
+    "path": "/vod/studio/2014/iastj35",
+    "nid": 397,
+    "cablecastShowId": 2780,
+    "date": "2014-02-08",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87577757"
+  },
+  {
+    "title": "What's Going On? They Told You So",
+    "path": "/vod/wgo/wgo020514",
+    "nid": 1115,
+    "cablecastShowId": 2788,
+    "date": "2014-02-05",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112254750"
+  },
+  {
+    "title": "Concord Select Board, 2/4/14",
+    "path": "/vod/concordselect/2014/020414",
+    "nid": 383,
+    "cablecastShowId": 2745,
+    "date": "2014-02-04",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-021414-2745"
+  },
+  {
+    "title": "In & Around St. J: Sierra Club",
+    "path": "/vod/studio/2014/iastj020414",
+    "nid": 384,
+    "cablecastShowId": 2747,
+    "date": "2014-02-04",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86078029"
+  },
+  {
+    "title": "Concord School Board, 2/3/14",
+    "path": "/vod/concordschool/2014/020314",
+    "nid": 382,
+    "cablecastShowId": 2744,
+    "date": "2014-02-03",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-021314-2744"
+  },
+  {
+    "title": "St. Johnsbury Budget Workshop, 1/30/14",
+    "path": "/vod/stjselect/2014/budget013014",
+    "nid": 381,
+    "cablecastShowId": 2741,
+    "date": "2014-01-30",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-budget-013014-2741"
+  },
+  {
+    "title": "Springfield College: ATOD Prevention Program",
+    "path": "/vod/studio/2014/springcoll3",
+    "nid": 380,
+    "cablecastShowId": 2743,
+    "date": "2014-01-30",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86075903"
+  },
+  {
+    "title": "St. Johnsbury Budget Workshop, 1/28/14",
+    "path": "/vod/stjselect/2014/budget012814",
+    "nid": 378,
+    "cablecastShowId": 2734,
+    "date": "2014-01-28",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-budget-012814-2734"
+  },
+  {
+    "title": "Golden Ball Tai Chi",
+    "path": "/vod/studio/2014/studio012814",
+    "nid": 379,
+    "cablecastShowId": 2738,
+    "date": "2014-01-28",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86075214"
+  },
+  {
+    "title": "St. Johnsbury Budget Workshop, 1/24/14",
+    "path": "/vod/stjselect/2014/budget012414",
+    "nid": 376,
+    "cablecastShowId": 2727,
+    "date": "2014-01-24",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-budget-012414-2727"
+  },
+  {
+    "title": "Tar Sands",
+    "path": "/vod/catamount/2014/tarsand012414",
+    "nid": 377,
+    "cablecastShowId": 2732,
+    "date": "2014-01-24",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "85485831"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 1/21/14",
+    "path": "/vod/stjselect/2014/plan012114",
+    "nid": 373,
+    "cablecastShowId": 2710,
+    "date": "2014-01-21",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-012114-2710"
+  },
+  {
+    "title": "NEKYS Youth Connect Ep. 3: Jump Mentoring",
+    "path": "/vod/studio/2014/nekysyc3",
+    "nid": 374,
+    "cablecastShowId": 2699,
+    "date": "2014-01-21",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "85155535"
+  },
+  {
+    "title": "In & Around St. J: Rail Trail",
+    "path": "/vod/studio/2014/iastj012114",
+    "nid": 375,
+    "cablecastShowId": 2711,
+    "date": "2014-01-21",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "85466244"
+  },
+  {
+    "title": "Spare Room Fiction Writing Contest",
+    "path": "/vod/lectures/2014/writingcontest011714",
+    "nid": 388,
+    "cablecastShowId": 2712,
+    "date": "2014-01-17",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "86653064"
+  },
+  {
+    "title": "St. Johnsbury Public Hearing on Education: VT House Committee, 1/16/14",
+    "path": "/vod/forums/2014/stjpubedu011614",
+    "nid": 385,
+    "cablecastShowId": 2701,
+    "date": "2014-01-16",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-pubhearing-011614-2701"
+  },
+  {
+    "title": "What's Going On? You are a Bill of Lading",
+    "path": "/vod/wgo/wgo011614",
+    "nid": 1113,
+    "cablecastShowId": 2726,
+    "date": "2014-01-16",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "112248586"
+  },
+  {
+    "title": "Arts & Culture: Edward Behr",
+    "path": "/vod/lectures/2014/ath011514",
+    "nid": 363,
+    "cablecastShowId": 2707,
+    "date": "2014-01-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "84445349"
+  },
+  {
+    "title": "Concord School Board, 1/14/14",
+    "path": "/vod/concordschool/2014/011414",
+    "nid": 372,
+    "cablecastShowId": 2702,
+    "date": "2014-01-14",
+    "location": "Concord School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-011414-2702"
+  },
+  {
+    "title": "LI Winter Dance Recital 2014",
+    "path": "/vod/concerts/2014/lidance011414",
+    "nid": 360,
+    "cablecastShowId": 2697,
+    "date": "2014-01-14",
+    "location": "Lyndon Institute",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "84222271"
+  },
+  {
+    "title": "In & Around St. J: The Continua Choir",
+    "path": "/vod/studio/2014/iastj011414",
+    "nid": 362,
+    "cablecastShowId": 2698,
+    "date": "2014-01-14",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "84445351"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/13/14",
+    "path": "/vod/stjselect/2014/011314",
+    "nid": 359,
+    "cablecastShowId": 2695,
+    "date": "2014-01-13",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-011314-2695"
+  },
+  {
+    "title": "Courageous Conversations: Climate Change, Effects in VT",
+    "path": "/vod/forums/2013/commconv011314",
+    "nid": 358,
+    "cablecastShowId": 2634,
+    "date": "2014-01-13",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "84126641"
+  },
+  {
+    "title": "Waterford School Winter Concert 2014, Grades 3-5",
+    "path": "/vod/concerts/2014/waterford010914",
+    "nid": 357,
+    "cablecastShowId": 2696,
+    "date": "2014-01-09",
+    "location": "Waterford School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Waterford",
+        "path": "/vod/concerts/waterford"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "84222272"
+  },
+  {
+    "title": "First Wednesday: Life in Prewar Nazi Germany",
+    "path": "/vod/firstwed/2014/010814",
+    "nid": 355,
+    "cablecastShowId": 2679,
+    "date": "2014-01-08",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "83935951"
+  },
+  {
+    "title": "What's Going On? Col. Edward Mandell House",
+    "path": "/vod/wgo/wgo010814",
+    "nid": 1112,
+    "cablecastShowId": 2708,
+    "date": "2014-01-08",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108079756"
+  },
+  {
+    "title": "Concord Select Board, 1/7/14",
+    "path": "/vod/concordselect/2014/010714",
+    "nid": 356,
+    "cablecastShowId": 2674,
+    "date": "2014-01-07",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-010714-2674"
+  },
+  {
+    "title": "BioFinder Web Presentation",
+    "path": "/vod/lectures/2014/biofinder010714",
+    "nid": 354,
+    "cablecastShowId": 2678,
+    "date": "2014-01-07",
+    "location": "Lyndon State College",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "83734029"
+  }
+]
