@@ -7,7 +7,8 @@ pagination:
   resolve: values
 permalink: "{{ vod.path }}/index.html"
 eleventyComputed:
-  title: "{{ vod.title }}"
-  description: "Watch {{ vod.title }} on Kingdom Access TV. Recorded on {{ vod.date | postDate }}{% if vod.location %} in {{ vod.location }}{% endif %}."
-  teaserImage: "{{ vod.teaserImage }}"
+  title: "{{ vod.title | safe }}"
+  description: "Watch {{ vod.title | safe }} on Kingdom Access TV. Recorded on {{ vod.date | postDate }}{% if vod.location %} in {{ vod.location | safe }}{% endif %}."
+  teaserImage: "{{ vod.teaserImage | safe }}"
 ---
+

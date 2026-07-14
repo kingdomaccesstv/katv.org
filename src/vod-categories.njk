@@ -6,8 +6,8 @@ pagination:
   alias: category
 permalink: "{{ category.path | categoryUrl }}/index.html"
 eleventyComputed:
-  title: "VOD Category: {{ category.name }}"
-  description: "Watch all video-on-demand programs in the {{ category.name }} category on Kingdom Access TV."
+  title: "VOD Category: {{ category.name | safe }}"
+  description: "Watch all video-on-demand programs in the {{ category.name | safe }} category on Kingdom Access TV."
 ---
 
 <div class="page-title-full-width-container" id="page-title-full-width-container">
