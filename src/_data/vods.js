@@ -17,6 +17,11 @@ module.exports = function() {
         const fileContent = fs.readFileSync(filePath, 'utf8');
         const vods = JSON.parse(fileContent);
         if (Array.isArray(vods)) {
+          vods.forEach(vod => {
+            if (!vod.teaserImage) {
+              vod.teaserImage = '/assets/images/vod/vod-preview-image.jpg';
+            }
+          });
           allVods = allVods.concat(vods);
         }
       } catch (e) {
