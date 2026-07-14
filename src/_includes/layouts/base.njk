@@ -38,7 +38,11 @@
     
     <!-- Secondary Header (Live Ticker) -->
     <header id="secondary-header" class="dxpr-theme-secondary-header">
-      <span id="liveOnKatv"><strong>LIVE ON KATV</strong></span>
+      <div id="liveOnKatv">
+        <span class="ticker-item" id="ticker-live"><strong>LIVE ON KATV</strong></span>
+        <span class="ticker-item" id="ticker-ch2"><strong>Channel 192:</strong> Loading...</span>
+        <span class="ticker-item" id="ticker-ch6"><strong>Channel 194:</strong> Loading...</span>
+      </div>
     </header>
 
     <!-- Main Navigation Header -->
@@ -92,10 +96,6 @@
   <!-- Dynamic Live Ticker Script -->
   <script>
     (function() {
-      let entries = ["<strong>LIVE ON KATV</strong>"];
-      let index = 0;
-      $("#liveOnKatv").html(entries[0]);
-
       let now = new Date();
       let nowEpoch = Math.floor(Date.now() / 1000);
       let nowPlayingData = {};
@@ -122,33 +122,83 @@
       async function processChannelData(channelId) {
         let showData = await fetchShows(channelId);
         let channel = channelMap[channelId];
+        let text = "Community Bulletin Board";
         if (showData && showData.shows && showData.shows.length > 0) {
-          let text = showData.shows[0]["cgTitle"];
-          let fullText = `<strong>Channel ${channel}: </strong>${text}`;
-          entries.push(fullText);
-          return text;
-        } else {
-          let text = "Community Bulletin Board";
-          let fullText = `<strong>Channel ${channel}: </strong>${text}`;
-          entries.push(fullText);
-          return text;
+          text = showData.shows[0]["cgTitle"];
         }
+        let el = document.getElementById(`ticker-ch${channelId}`);
+        if (el) {
+          el.innerHTML = `<strong>Channel ${channel}:</strong> ${text}`;
+        }
+        return text;
       }
 
       function updateTextFromCache(channelId, input) {
         let value = input[`nowPlayingCh${channelId}`];
         let channel = channelMap[channelId];
-        if (value && value.length > 0) {
-          let text = value;
-          let fullText = `<strong>Channel ${channel}:</strong> ${text}`;
-          entries.push(fullText);
-          return text;
-        } else {
-          let text = "Community Bulletin Board";
-          let fullText = `<strong>Channel ${channel}:</strong> ${text}`;
-          entries.push(fullText);
-          return text;
+        let text = value || "Community Bulletin Board";
+        let el = document.getElementById(`ticker-ch${channelId}`);
+        if (el) {
+          el.innerHTML = `<strong>Channel ${channel}:</strong> ${text}`;
         }
+        return text;
+      }
+
+      let activeMobileIndex = 0;
+      let tickerInterval = null;
+
+      function shrinkTextToFit(element) {
+        element.style.fontSize = ''; // Reset to default style
+        const container = document.getElementById('secondary-header');
+        if (!container) return;
+        const maxW = container.clientWidth - 30; // 30px padding total
+        let fontSize = parseFloat(window.getComputedStyle(element).fontSize);
+        const minFontSize = 8;
+        
+        while (element.scrollWidth > maxW && fontSize > minFontSize) {
+          fontSize -= 0.5;
+          element.style.fontSize = fontSize + 'px';
+        }
+      }
+
+      function updateTicker() {
+        const isMobile = window.innerWidth <= 768;
+        const items = document.querySelectorAll('.ticker-item');
+        
+        if (isMobile) {
+          items.forEach((item, idx) => {
+            if (idx === activeMobileIndex) {
+              item.style.display = 'inline-block';
+              shrinkTextToFit(item);
+            } else {
+              item.style.display = 'none';
+              item.style.fontSize = '';
+            }
+          });
+        } else {
+          items.forEach(item => {
+            item.style.display = 'inline-block';
+            item.style.fontSize = '';
+          });
+        }
+      }
+
+      function startTickerRotation() {
+        if (tickerInterval) clearInterval(tickerInterval);
+        tickerInterval = setInterval(() => {
+          if (window.innerWidth <= 768) {
+            activeMobileIndex = (activeMobileIndex + 1) % 3;
+            updateTicker();
+          }
+        }, 5000);
+      }
+
+      function initTicker() {
+        updateTicker();
+        startTickerRotation();
+        window.addEventListener('resize', () => {
+          updateTicker();
+        });
       }
 
       if (sessionStorage.nowPlayingData) {
@@ -162,8 +212,9 @@
       if (nowPlayingData.lastRefresh && ((nowPlayingData.lastRefresh + 300) > nowEpoch) && !forceRefresh) {
         updateTextFromCache(2, nowPlayingData);
         updateTextFromCache(6, nowPlayingData);
-        startAnimation();
+        initTicker();
       } else {
+        initTicker(); // initialize with loading state
         (async function () {
           let show2 = await processChannelData(2);
           let show6 = await processChannelData(6);
@@ -173,13 +224,8 @@
             lastRefresh: nowEpoch
           };
           sessionStorage.setItem('nowPlayingData', JSON.stringify(nowPlayingData));
-          startAnimation();
+          updateTicker();
         }());
-      }
-
-      function startAnimation() {
-        let combinedText = entries.join(" &nbsp;&nbsp;&bull;&nbsp;&nbsp; ");
-        $("#liveOnKatv").html(combinedText);
       }
     })();
   </script>

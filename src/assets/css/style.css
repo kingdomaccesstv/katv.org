@@ -66,18 +66,27 @@ a:hover {
 }
 
 #liveOnKatv {
-  display: inline-block;
   white-space: nowrap;
-  animation: ticker-marquee 25s linear infinite;
-  padding-left: 100%;
 }
 
-@keyframes ticker-marquee {
-  0% {
-    transform: translate3d(0, 0, 0);
+.ticker-item {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+@media (min-width: 769px) {
+  #liveOnKatv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
   }
-  100% {
-    transform: translate3d(-100%, 0, 0);
+
+  .ticker-item:not(:last-child)::after {
+    content: "•";
+    margin-left: 20px;
+    color: rgba(255, 255, 255, 0.6);
   }
 }
 
@@ -167,7 +176,7 @@ a:hover {
 
 .page-title {
   font-size: 2.2rem;
-  font-weight: 700;
+  font-weight: 600;
   color: #ffffff;
 }
 
