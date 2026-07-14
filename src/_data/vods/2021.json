@@ -1,26 +1,26 @@
 [
   {
-    "title": "St. Johnsbury School Board, 1/17/22",
-    "path": "/vod/stjschool/2022/011722",
-    "nid": 2125,
-    "cablecastShowId": 10359,
-    "date": "2022-01-17",
+    "title": "CCSU Board of Directors, 12/20/21",
+    "path": "/vod/ccsubod/2021/122021",
+    "nid": 2119,
+    "cablecastShowId": 10263,
+    "date": "2021-12-20",
     "location": "Virtual",
     "year": "2021",
     "yearPath": "/vod/year/2021",
     "categories": [
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
         "name": "Public Meetings",
         "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
       }
     ],
-    "teaserImage": "/assets/images/vod/2021/stjschool011722.jpg",
+    "teaserImage": "/assets/images/vod/2021/ccsubod122021.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-011722-10359"
+    "videoId": "katv-ccsubod-mtg-122021-10200"
   },
   {
     "title": "St. Johnsbury School Board, 12/20/21",
@@ -44,29 +44,6 @@
     "teaserImage": "/assets/images/vod/2021/stjschool122021.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-122021-10263"
-  },
-  {
-    "title": "CCSU Board of Directors, 12/20/21",
-    "path": "/vod/ccsubod/2021/122021",
-    "nid": 2119,
-    "cablecastShowId": 10263,
-    "date": "2021-12-20",
-    "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/ccsubod122021.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-122021-10200"
   },
   {
     "title": "WGO: Don Dep, Part II",
@@ -115,25 +92,6 @@
     "videoId": "658813512"
   },
   {
-    "title": "NEK Human Services: Kelsey Stavseth",
-    "path": "/vod/studio/2021/nekhs121521",
-    "nid": 2111,
-    "cablecastShowId": 10276,
-    "date": "2021-12-15",
-    "location": "KATV Studio",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/nekhs121521.jpg",
-    "videoSource": "vimeo",
-    "videoId": "658790350"
-  },
-  {
     "title": "Danville School Winter Concert 2021",
     "path": "/vod/concerts/2021/danvillewinter121521",
     "nid": 2113,
@@ -157,11 +115,11 @@
     "videoId": "658812141"
   },
   {
-    "title": "WGO: Doctors Die to Give you Truth",
-    "path": "/vod/wgo/wgo120921",
-    "nid": 2109,
-    "cablecastShowId": 10270,
-    "date": "2021-12-09",
+    "title": "NEK Human Services: Kelsey Stavseth",
+    "path": "/vod/studio/2021/nekhs121521",
+    "nid": 2111,
+    "cablecastShowId": 10276,
+    "date": "2021-12-15",
     "location": "KATV Studio",
     "year": "2021",
     "yearPath": "/vod/year/2021",
@@ -169,15 +127,11 @@
       {
         "name": "Studio Programs",
         "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2021/wgo120921.jpg",
+    "teaserImage": "/assets/images/vod/2021/nekhs121521.jpg",
     "videoSource": "vimeo",
-    "videoId": "658790122"
+    "videoId": "658790350"
   },
   {
     "title": "Lyndon Institute Winter Concert 2021",
@@ -203,11 +157,11 @@
     "videoId": "658790643"
   },
   {
-    "title": "Danville Historical Society: Then And Now - Book Discussion",
-    "path": "/vod/studio/2021/dhs120721",
-    "nid": 2116,
-    "cablecastShowId": 10259,
-    "date": "2021-12-07",
+    "title": "WGO: Doctors Die to Give you Truth",
+    "path": "/vod/wgo/wgo120921",
+    "nid": 2109,
+    "cablecastShowId": 10270,
+    "date": "2021-12-09",
     "location": "KATV Studio",
     "year": "2021",
     "yearPath": "/vod/year/2021",
@@ -217,13 +171,13 @@
         "path": "/vod/studio"
       },
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2021/dhs120721.png",
+    "teaserImage": "/assets/images/vod/2021/wgo120921.jpg",
     "videoSource": "vimeo",
-    "videoId": "659757338"
+    "videoId": "658790122"
   },
   {
     "title": "Danville Historical Society: Then And Now - Book Photo Discussion",
@@ -247,6 +201,29 @@
     "teaserImage": "/assets/images/vod/2021/dhs120721b.png",
     "videoSource": "vimeo",
     "videoId": "659757439"
+  },
+  {
+    "title": "Danville Historical Society: Then And Now - Book Discussion",
+    "path": "/vod/studio/2021/dhs120721",
+    "nid": 2116,
+    "cablecastShowId": 10259,
+    "date": "2021-12-07",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/dhs120721.png",
+    "videoSource": "vimeo",
+    "videoId": "659757338"
   },
   {
     "title": "St. Johnsbury School Board, 12/6/21",
@@ -517,29 +494,6 @@
     "videoId": "katv-concordselect-mtg-110221-10184"
   },
   {
-    "title": "St. Johnsbury Select Board, 10/25/21 Special Meeting",
-    "path": "/vod/stjselect/2021/102521sm",
-    "nid": 2094,
-    "cablecastShowId": 10169,
-    "date": "2021-10-25",
-    "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/stjselect102521.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-102521-10169"
-  },
-  {
     "title": "St. Johnsbury Select Board, 10/25/21",
     "path": "/vod/stjselect/2021/102521",
     "nid": 2095,
@@ -561,6 +515,29 @@
     "teaserImage": "/assets/images/vod/2021/stjselect102521rm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-102521-10163"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/25/21 Special Meeting",
+    "path": "/vod/stjselect/2021/102521sm",
+    "nid": 2094,
+    "cablecastShowId": 10169,
+    "date": "2021-10-25",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect102521.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-102521-10169"
   },
   {
     "title": "I Am Vermont Too: Alyssa Chen",
@@ -1087,29 +1064,6 @@
     "videoId": "576324262"
   },
   {
-    "title": "St. Johnsbury Select Board, 7/12/21",
-    "path": "/vod/stjselect/2021/071221",
-    "nid": 2069,
-    "cablecastShowId": 9901,
-    "date": "2021-07-12",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/stjselect071221.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-071221-9901"
-  },
-  {
     "title": "St. Johnsbury Select Board, 7/12/21 Special Meeting",
     "path": "/vod/stjselect/2021/071221spec",
     "nid": 2070,
@@ -1131,6 +1085,29 @@
     "teaserImage": "/assets/images/vod/2021/stjselect071221spec.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-071221-9902"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/12/21",
+    "path": "/vod/stjselect/2021/071221",
+    "nid": 2069,
+    "cablecastShowId": 9901,
+    "date": "2021-07-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect071221.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-071221-9901"
   },
   {
     "title": "WGO: A Witness To Your Future",
@@ -1880,29 +1857,6 @@
     "videoId": "506846143"
   },
   {
-    "title": "St. Johnsbury Select Board, 1/25/21",
-    "path": "/vod/stjselect/2021/012521",
-    "nid": 5,
-    "cablecastShowId": 9243,
-    "date": "2021-01-25",
-    "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/stjselect20210125.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-012521-9243"
-  },
-  {
     "title": "CCSU Board of Directors, 1/25/21 Special Meeting",
     "path": "/vod/ccsubod/2021/012521",
     "nid": 2041,
@@ -1924,6 +1878,29 @@
     "teaserImage": "/assets/images/vod/2021/ccsu012521.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-012521-9250"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/25/21",
+    "path": "/vod/stjselect/2021/012521",
+    "nid": 5,
+    "cablecastShowId": 9243,
+    "date": "2021-01-25",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect20210125.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-012521-9243"
   },
   {
     "title": "What's Going On? A View From Washington",
@@ -1949,29 +1926,6 @@
     "videoId": "501465132"
   },
   {
-    "title": "St. Johnsbury School Board, 1/11/21",
-    "path": "/vod/stjschool/2021/011121",
-    "nid": 2031,
-    "cablecastShowId": 9211,
-    "date": "2021-01-11",
-    "location": "Virtual",
-    "year": "2021",
-    "yearPath": "/vod/year/2021",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2021/stjschool011121.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-011121-9211"
-  },
-  {
     "title": "St. Johnsbury Select Board, 1/11/21",
     "path": "/vod/stjselect/2021/011121",
     "nid": 2032,
@@ -1995,27 +1949,27 @@
     "videoId": "katv-stjselect-mtg-011121-9212"
   },
   {
-    "title": "I Am Vermont Too: Mia Schultz",
-    "path": "/vod/studio/2021/iamvttoo011121",
-    "nid": 6,
-    "cablecastShowId": 9213,
+    "title": "St. Johnsbury School Board, 1/11/21",
+    "path": "/vod/stjschool/2021/011121",
+    "nid": 2031,
+    "cablecastShowId": 9211,
     "date": "2021-01-11",
-    "location": "KATV Studio",
+    "location": "Virtual",
     "year": "2021",
     "yearPath": "/vod/year/2021",
     "categories": [
       {
-        "name": "I Am Vermont Too",
-        "path": "/vod/studio/iamvttoo"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       },
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2021/iamvttoo011121.jpg",
-    "videoSource": "vimeo",
-    "videoId": "500708443"
+    "teaserImage": "/assets/images/vod/2021/stjschool011121.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-011121-9211"
   },
   {
     "title": "I Am Vermont Too: Mia Schults",
@@ -2041,27 +1995,27 @@
     "videoId": "500708443"
   },
   {
-    "title": "What's Going On? Who Gains",
-    "path": "/vod/node/7",
-    "nid": 7,
-    "cablecastShowId": 9201,
-    "date": "2021-01-07",
+    "title": "I Am Vermont Too: Mia Schultz",
+    "path": "/vod/studio/2021/iamvttoo011121",
+    "nid": 6,
+    "cablecastShowId": 9213,
+    "date": "2021-01-11",
     "location": "KATV Studio",
     "year": "2021",
     "yearPath": "/vod/year/2021",
     "categories": [
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
       },
       {
         "name": "Studio Programs",
         "path": "/vod/studio"
       }
     ],
-    "teaserImage": "/assets/images/vod/2021/wgo20210107.jpg",
+    "teaserImage": "/assets/images/vod/2021/iamvttoo011121.jpg",
     "videoSource": "vimeo",
-    "videoId": "498402182"
+    "videoId": "500708443"
   },
   {
     "title": "What's Going On? Who Gains",
@@ -2083,6 +2037,29 @@
       }
     ],
     "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "498402182"
+  },
+  {
+    "title": "What's Going On? Who Gains",
+    "path": "/vod/node/7",
+    "nid": 7,
+    "cablecastShowId": 9201,
+    "date": "2021-01-07",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      },
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo20210107.jpg",
     "videoSource": "vimeo",
     "videoId": "498402182"
   }

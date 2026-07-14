@@ -46,25 +46,6 @@
     "videoId": "katv-lyndonselect-mtg-070626-15377"
   },
   {
-    "title": "St. Johnsbury VT: 4th/250th July Parade",
-    "path": "/vod/other/2026/stj4th2026",
-    "nid": 3032,
-    "cablecastShowId": 15375,
-    "date": "2026-07-04",
-    "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stj4th2026.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1208532407"
-  },
-  {
     "title": "Woodsville NH: 2026, 4th Of July Parade",
     "path": "/vod/other/2026/woodsville4th2026",
     "nid": 3033,
@@ -82,6 +63,25 @@
     "teaserImage": "/assets/images/vod/2026/woodsville4th2026.jpg",
     "videoSource": "vimeo",
     "videoId": "1208532408"
+  },
+  {
+    "title": "St. Johnsbury VT: 4th/250th July Parade",
+    "path": "/vod/other/2026/stj4th2026",
+    "nid": 3032,
+    "cablecastShowId": 15375,
+    "date": "2026-07-04",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stj4th2026.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1208532407"
   },
   {
     "title": "St. Johnsbury Select Board, 6/22/26",
@@ -241,10 +241,10 @@
     "videoId": "katv-stjschool-mtg-20260601-15278"
   },
   {
-    "title": "St. Johnsbury Select Board, 6/8/26 Special Meeting",
-    "path": "/vod/stjselect/2026/20260608sm",
-    "nid": 3022,
-    "cablecastShowId": 15319,
+    "title": "St. Johnsbury School Board, 6/8/26",
+    "path": "/vod/stjschool/20260608",
+    "nid": 3024,
+    "cablecastShowId": 15296,
     "date": "2026-06-08",
     "location": "St. Johnsbury",
     "year": "2026",
@@ -255,13 +255,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/stjselect20260608sm.jpg",
+    "teaserImage": "/assets/images/vod/2026/stjschool20260608.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-060826-15319"
+    "videoId": "katv-stjschool-mtg-060826-15296"
   },
   {
     "title": "St. Johnsbury Select Board, 6/8/26",
@@ -287,10 +287,10 @@
     "videoId": "katv-stjselect-mtg-060826-15297"
   },
   {
-    "title": "St. Johnsbury School Board, 6/8/26",
-    "path": "/vod/stjschool/20260608",
-    "nid": 3024,
-    "cablecastShowId": 15296,
+    "title": "St. Johnsbury Select Board, 6/8/26 Special Meeting",
+    "path": "/vod/stjselect/2026/20260608sm",
+    "nid": 3022,
+    "cablecastShowId": 15319,
     "date": "2026-06-08",
     "location": "St. Johnsbury",
     "year": "2026",
@@ -301,13 +301,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/stjschool20260608.jpg",
+    "teaserImage": "/assets/images/vod/2026/stjselect20260608sm.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-060826-15296"
+    "videoId": "katv-stjselect-specmtg-060826-15319"
   },
   {
     "title": "Lyndon Institute: 2026 Commencement",
@@ -371,29 +371,6 @@
     "videoId": "1199449673"
   },
   {
-    "title": "Danville School Board, 6/2/26",
-    "path": "/vod/danvilleschool/2026/20260602",
-    "nid": 3019,
-    "cablecastShowId": 15280,
-    "date": "2026-06-02",
-    "location": "Danville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/danvilleschool20260602.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-mtg-060226-15280"
-  },
-  {
     "title": "Concord Select Board, 6/2/26",
     "path": "/vod/concordselect/2026/20260602",
     "nid": 3020,
@@ -415,6 +392,29 @@
     "teaserImage": "/assets/images/vod/2026/concordselect20260602.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-060226-15279"
+  },
+  {
+    "title": "Danville School Board, 6/2/26",
+    "path": "/vod/danvilleschool/2026/20260602",
+    "nid": 3019,
+    "cablecastShowId": 15280,
+    "date": "2026-06-02",
+    "location": "Danville",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Danville School Board",
+        "path": "/vod/danvilleschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20260602.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-mtg-060226-15280"
   },
   {
     "title": "STJ Academy: 2026 Commencement",
@@ -482,25 +482,6 @@
     "videoId": "katv-stjselect-mtg-052626-15260"
   },
   {
-    "title": "VHC: A Revolution Will Not Be Tweeted",
-    "path": "/vod/lectures/2026/vhc20260520",
-    "nid": 3011,
-    "cablecastShowId": 15252,
-    "date": "2026-05-20",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/vhc20260520.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1195044297"
-  },
-  {
     "title": "STJ Academy: 2026 Commencement Concert",
     "path": "/vod/concerts/2026/sja20260520",
     "nid": 3012,
@@ -524,27 +505,23 @@
     "videoId": "1195138541"
   },
   {
-    "title": "Danville School: 2026, Spring Concert",
-    "path": "/vod/concerts/2026/danville20260519",
-    "nid": 3009,
-    "cablecastShowId": 15251,
-    "date": "2026-05-19",
-    "location": "Danville School",
+    "title": "VHC: A Revolution Will Not Be Tweeted",
+    "path": "/vod/lectures/2026/vhc20260520",
+    "nid": 3011,
+    "cablecastShowId": 15252,
+    "date": "2026-05-20",
+    "location": "St. Johnsbury Athenaeum",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
       {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      },
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/danville20260519.jpg",
+    "teaserImage": "/assets/images/vod/2026/vhc20260520.jpg",
     "videoSource": "vimeo",
-    "videoId": "1194636064"
+    "videoId": "1195044297"
   },
   {
     "title": "Groton Select Board, 5/19/26",
@@ -570,23 +547,27 @@
     "videoId": "katv-grotonselect-mtg-051926-15249"
   },
   {
-    "title": "NEK Chamber: 5/18/26 Legislative Breakfast",
-    "path": "/vod/legbkfst/2026/20260518",
-    "nid": 3006,
-    "cablecastShowId": 15246,
-    "date": "2026-05-18",
-    "location": "St. Johnsbury Athenaeum",
+    "title": "Danville School: 2026, Spring Concert",
+    "path": "/vod/concerts/2026/danville20260519",
+    "nid": 3009,
+    "cablecastShowId": 15251,
+    "date": "2026-05-19",
+    "location": "Danville School",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
       {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      },
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/legbkfst20260518.jpg",
+    "teaserImage": "/assets/images/vod/2026/danville20260519.jpg",
     "videoSource": "vimeo",
-    "videoId": "1193508984"
+    "videoId": "1194636064"
   },
   {
     "title": "CCSU Board of Directors, 5/18/26",
@@ -610,6 +591,25 @@
     "teaserImage": "/assets/images/vod/2026/ccsubod20260518.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-051826-15250"
+  },
+  {
+    "title": "NEK Chamber: 5/18/26 Legislative Breakfast",
+    "path": "/vod/legbkfst/2026/20260518",
+    "nid": 3006,
+    "cablecastShowId": 15246,
+    "date": "2026-05-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/legbkfst20260518.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1193508984"
   },
   {
     "title": "Music in the Gallery: Sue Persson",
@@ -727,29 +727,6 @@
     "videoId": "katv-concordselect-mtg-050526-15212"
   },
   {
-    "title": "St. Johnsbury School Board, 5/4/26",
-    "path": "/vod/stjschool/2026/20260504",
-    "nid": 2999,
-    "cablecastShowId": 15211,
-    "date": "2026-05-04",
-    "location": "St. Johnsbury School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjschool20260504.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-050426-15211"
-  },
-  {
     "title": "Lyndon Select Board, 5/4/26",
     "path": "/vod/lyndonselect/2026/20260504",
     "nid": 3000,
@@ -771,6 +748,29 @@
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260504.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-lyndonselect-mtg-050426-15210"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/4/26",
+    "path": "/vod/stjschool/2026/20260504",
+    "nid": 2999,
+    "cablecastShowId": 15211,
+    "date": "2026-05-04",
+    "location": "St. Johnsbury School",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjschool20260504.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-050426-15211"
   },
   {
     "title": "North Country Chorus: 2026 Spring Concert",
@@ -838,29 +838,6 @@
     "videoId": "1190770349"
   },
   {
-    "title": "NEK Chamber: 4/27/26 Legislative Breakfast",
-    "path": "/vod/legbkfst/2026/20260427",
-    "nid": 2991,
-    "cablecastShowId": 15165,
-    "date": "2026-04-27",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/legbkfst20260427.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1188621371"
-  },
-  {
     "title": "St. Johnsbury Select Board, 4/27/26",
     "path": "/vod/stjselect/2026/20260427",
     "nid": 3005,
@@ -882,6 +859,29 @@
     "teaserImage": "/assets/images/vod/2026/stjselect20260427.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-042726-15166"
+  },
+  {
+    "title": "NEK Chamber: 4/27/26 Legislative Breakfast",
+    "path": "/vod/legbkfst/2026/20260427",
+    "nid": 2991,
+    "cablecastShowId": 15165,
+    "date": "2026-04-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/legbkfst20260427.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1188621371"
   },
   {
     "title": "Danville Historical Society: 2026 Annual Meeting",
@@ -1041,29 +1041,6 @@
     "videoId": "1184696692"
   },
   {
-    "title": "St. J. Athenaeum: David Childs, Piano Concert",
-    "path": "/vod/stjath/2026/20260416",
-    "nid": 2985,
-    "cablecastShowId": 15169,
-    "date": "2026-04-16",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjath20260416.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1184157973"
-  },
-  {
     "title": "OLLI Spring 2026: Northeast Kingdom Council On Aging Programs",
     "path": "/vod/osher/2026/20260416",
     "nid": 2986,
@@ -1085,6 +1062,29 @@
     "teaserImage": "/assets/images/vod/2026/osher20260416.jpg",
     "videoSource": "vimeo",
     "videoId": "1184157562"
+  },
+  {
+    "title": "St. J. Athenaeum: David Childs, Piano Concert",
+    "path": "/vod/stjath/2026/20260416",
+    "nid": 2985,
+    "cablecastShowId": 15169,
+    "date": "2026-04-16",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260416.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184157973"
   },
   {
     "title": "Barnet School: 2026 Spring Musical",
@@ -1175,6 +1175,25 @@
     "videoId": "1182486536"
   },
   {
+    "title": "St. J. Window Dressers: Affordable Weatherization Inserts",
+    "path": "/vod/other/2026/stjwindows20260407",
+    "nid": 2984,
+    "cablecastShowId": 15143,
+    "date": "2026-04-07",
+    "location": "KATV Studio",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjwindows20260407.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184157920"
+  },
+  {
     "title": "Concord Select Board, 4/7/26",
     "path": "/vod/concordselect/2026/20260407",
     "nid": 2980,
@@ -1196,25 +1215,6 @@
     "teaserImage": "/assets/images/vod/2026/concordselect20260407.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-040726-15080"
-  },
-  {
-    "title": "St. J. Window Dressers: Affordable Weatherization Inserts",
-    "path": "/vod/other/2026/stjwindows20260407",
-    "nid": 2984,
-    "cablecastShowId": 15143,
-    "date": "2026-04-07",
-    "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjwindows20260407.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1184157920"
   },
   {
     "title": "Lyndon Select Board, 4/6/26",
@@ -1328,29 +1328,6 @@
     "videoId": "1177782232"
   },
   {
-    "title": "St. J Academy: 2026 Spring Concert",
-    "path": "/vod/concerts/2026/sja20260325",
-    "nid": 2971,
-    "cablecastShowId": 15037,
-    "date": "2026-03-25",
-    "location": "St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/sja20260325.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1177664624"
-  },
-  {
     "title": "St. J. Athenaeum: VT’s Changing Climate",
     "path": "/vod/stjath/2026/20260325",
     "nid": 2972,
@@ -1372,6 +1349,29 @@
     "teaserImage": "/assets/images/vod/2026/stjath20260325.jpg",
     "videoSource": "vimeo",
     "videoId": "1177781706"
+  },
+  {
+    "title": "St. J Academy: 2026 Spring Concert",
+    "path": "/vod/concerts/2026/sja20260325",
+    "nid": 2971,
+    "cablecastShowId": 15037,
+    "date": "2026-03-25",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/sja20260325.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1177664624"
   },
   {
     "title": "St. Johnsbury Select Board, 3/23/26",
@@ -1466,12 +1466,12 @@
     "videoId": "katv-grotonselect-mtg-031726-15021"
   },
   {
-    "title": "St. Johnsbury School Board, 3/16/26",
-    "path": "/vod/stjschool/2026/20260316",
-    "nid": 2965,
-    "cablecastShowId": 15020,
+    "title": "CCSU Board of Directors, 3/16/26",
+    "path": "/vod/ccsubod/2026/20260316",
+    "nid": 2967,
+    "cablecastShowId": 14941,
     "date": "2026-03-16",
-    "location": "St. Johnsbury School",
+    "location": "Virtual",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
@@ -1480,13 +1480,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/stjschool20260316.jpg",
+    "teaserImage": "/assets/images/vod/2026/ccsubod20260316.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-031626-15020"
+    "videoId": "katv-ccsubod-mtg-031626-14941"
   },
   {
     "title": "Lyndon Select Board, 3/16/26",
@@ -1512,12 +1512,12 @@
     "videoId": "katv-lyndonselect-mtg-031626-15019"
   },
   {
-    "title": "CCSU Board of Directors, 3/16/26",
-    "path": "/vod/ccsubod/2026/20260316",
-    "nid": 2967,
-    "cablecastShowId": 14941,
+    "title": "St. Johnsbury School Board, 3/16/26",
+    "path": "/vod/stjschool/2026/20260316",
+    "nid": 2965,
+    "cablecastShowId": 15020,
     "date": "2026-03-16",
-    "location": "Virtual",
+    "location": "St. Johnsbury School",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
@@ -1526,36 +1526,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/ccsubod20260316.jpg",
+    "teaserImage": "/assets/images/vod/2026/stjschool20260316.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-031626-14941"
-  },
-  {
-    "title": "St. J. Athenaeum: The Hurricane That Transformed New England",
-    "path": "/vod/stjath/2026/20260312",
-    "nid": 2963,
-    "cablecastShowId": 14999,
-    "date": "2026-03-12",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjath20260312.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1174229539"
+    "videoId": "katv-stjschool-mtg-031626-15020"
   },
   {
     "title": "OLLI Spring 2026: A Celtic Concert",
@@ -1581,6 +1558,29 @@
     "videoId": "1174229418"
   },
   {
+    "title": "St. J. Athenaeum: The Hurricane That Transformed New England",
+    "path": "/vod/stjath/2026/20260312",
+    "nid": 2963,
+    "cablecastShowId": 14999,
+    "date": "2026-03-12",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260312.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1174229539"
+  },
+  {
     "title": "St. Johnsbury Select Board, 3/9/26",
     "path": "/vod/stjselect/2026/20260309",
     "nid": 2962,
@@ -1598,6 +1598,25 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-030926-15000"
+  },
+  {
+    "title": "Danville School Board, Special Meeting, 3/5/26",
+    "path": "/vod/pubmtgs/2026/danvilleschool20260305",
+    "nid": 2961,
+    "cablecastShowId": 14985,
+    "date": "2026-03-05",
+    "location": "Danville School",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20260305.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-specmtg-030526-14985"
   },
   {
     "title": "Concord Select Board, 3/5/26",
@@ -1621,25 +1640,6 @@
     "teaserImage": "/assets/images/vod/2026/concordselect20260305.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-030526-14984"
-  },
-  {
-    "title": "Danville School Board, Special Meeting, 3/5/26",
-    "path": "/vod/pubmtgs/2026/danvilleschool20260305",
-    "nid": 2961,
-    "cablecastShowId": 14985,
-    "date": "2026-03-05",
-    "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/danvilleschool20260305.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-specmtg-030526-14985"
   },
   {
     "title": "Lyndon Select Board, 3/2/26",
@@ -1688,48 +1688,6 @@
     "videoId": "1170664525"
   },
   {
-    "title": "NEK Chamber: 2/23/26 Legislative Breakfast",
-    "path": "/vod/legbkfst/2026/20260223",
-    "nid": 2955,
-    "cablecastShowId": 14969,
-    "date": "2026-02-23",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/legbkfst20260223.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1167764476"
-  },
-  {
-    "title": "St. Johnsbury Select Board, 2/23/26",
-    "path": "/vod/stjselect/2026/20260223",
-    "nid": 2956,
-    "cablecastShowId": 14970,
-    "date": "2026-02-23",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjselect20260223.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-022326-14970"
-  },
-  {
     "title": "Town of St. Johnsbury: Special Appropriations Presentations, 2/23/26",
     "path": "/vod/stjselect/2026/specapp20260223",
     "nid": 2957,
@@ -1755,6 +1713,48 @@
     "teaserImage": "/assets/images/vod/2026/specapp20260223.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-approp-022326-14986"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/23/26",
+    "path": "/vod/stjselect/2026/20260223",
+    "nid": 2956,
+    "cablecastShowId": 14970,
+    "date": "2026-02-23",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260223.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022326-14970"
+  },
+  {
+    "title": "NEK Chamber: 2/23/26 Legislative Breakfast",
+    "path": "/vod/legbkfst/2026/20260223",
+    "nid": 2955,
+    "cablecastShowId": 14969,
+    "date": "2026-02-23",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/legbkfst20260223.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1167764476"
   },
   {
     "title": "St. J. Athenaeum: Ed Morgan",
@@ -1803,6 +1803,29 @@
     "videoId": "1166970272"
   },
   {
+    "title": "Groton Select Board, 2/18/26",
+    "path": "/vod/grotonselect/2026/20260218",
+    "nid": 2952,
+    "cablecastShowId": 14942,
+    "date": "2026-02-18",
+    "location": "Groton",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonselect20260218.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-021826-14942"
+  },
+  {
     "title": "Sen. Welch: NVRH Celebrate New Federal Funding To Help Build Pharm. in VT",
     "path": "/vod/other/2026/nvrh20260218",
     "nid": 2951,
@@ -1839,29 +1862,6 @@
     "teaserImage": "/assets/images/vod/2026/nvrh20260218.jpg",
     "videoSource": "vimeo",
     "videoId": "1166970041"
-  },
-  {
-    "title": "Groton Select Board, 2/18/26",
-    "path": "/vod/grotonselect/2026/20260218",
-    "nid": 2952,
-    "cablecastShowId": 14942,
-    "date": "2026-02-18",
-    "location": "Groton",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/grotonselect20260218.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-021826-14942"
   },
   {
     "title": "Lyndon Select Board, 2/17/26",
@@ -1956,29 +1956,6 @@
     "videoId": "1163593428"
   },
   {
-    "title": "Danville School Board, 2/3/26",
-    "path": "/vod/danvilleschool/2026/20260203",
-    "nid": 2942,
-    "cablecastShowId": 14900,
-    "date": "2026-02-03",
-    "location": "Danville",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/danvilleschool20260203.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-mtg-020326-14900"
-  },
-  {
     "title": "Concord Select Board, 2/3/26",
     "path": "/vod/concordselect/2026/20260203",
     "nid": 2943,
@@ -2000,6 +1977,29 @@
     "teaserImage": "/assets/images/vod/2026/concordselect20260203.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-020326-14899"
+  },
+  {
+    "title": "Danville School Board, 2/3/26",
+    "path": "/vod/danvilleschool/2026/20260203",
+    "nid": 2942,
+    "cablecastShowId": 14900,
+    "date": "2026-02-03",
+    "location": "Danville",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Danville School Board",
+        "path": "/vod/danvilleschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20260203.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-mtg-020326-14900"
   },
   {
     "title": "Lyndon Select Board, 2/2/26",
@@ -2048,25 +2048,6 @@
     "videoId": "1163594736"
   },
   {
-    "title": "St. Johnsbury Select Board, 1/26/26",
-    "path": "/vod/stjselect/2026/20260126",
-    "nid": 2939,
-    "cablecastShowId": 14871,
-    "date": "2026-01-26",
-    "location": "Welcome Center, St. Johnsbury",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/stjselect20260126.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-012626-14871"
-  },
-  {
     "title": "NEK Chamber: 1/26/26 Legislative Breakfast",
     "path": "/vod/legbkfst/2026/20260126",
     "nid": 2948,
@@ -2084,6 +2065,25 @@
     "teaserImage": "/assets/images/vod/2026/legbkfst20260126.jpg",
     "videoSource": "vimeo",
     "videoId": "1167763926"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/26/26",
+    "path": "/vod/stjselect/2026/20260126",
+    "nid": 2939,
+    "cablecastShowId": 14871,
+    "date": "2026-01-26",
+    "location": "Welcome Center, St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260126.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-012626-14871"
   },
   {
     "title": "Groton Select Board, 1/21/26",
@@ -2109,12 +2109,12 @@
     "videoId": "katv-grotonselect-mtg-012126-14844"
   },
   {
-    "title": "Lyndon Select Board, 1/19/26",
-    "path": "/vod/lyndonselect/2026/20260119",
-    "nid": 2936,
-    "cablecastShowId": 14841,
+    "title": "St. Johnsbury School Board, 1/19/26",
+    "path": "/vod/stjschool/2026/20260119",
+    "nid": 2938,
+    "cablecastShowId": 14842,
     "date": "2026-01-19",
-    "location": "Lyndon",
+    "location": "St. Johnsbury School",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
@@ -2123,13 +2123,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/lyndonselect20260119.jpg",
+    "teaserImage": "/assets/images/vod/2026/stjschool20260119.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-lyndonselect-mtg-011926-14841"
+    "videoId": "katv-stjschool-mtg-011926-14842"
   },
   {
     "title": "CCSU Board of Directors, 1/19/26",
@@ -2155,12 +2155,12 @@
     "videoId": "katv-ccsubod-mtg-011926-14843"
   },
   {
-    "title": "St. Johnsbury School Board, 1/19/26",
-    "path": "/vod/stjschool/2026/20260119",
-    "nid": 2938,
-    "cablecastShowId": 14842,
+    "title": "Lyndon Select Board, 1/19/26",
+    "path": "/vod/lyndonselect/2026/20260119",
+    "nid": 2936,
+    "cablecastShowId": 14841,
     "date": "2026-01-19",
-    "location": "St. Johnsbury School",
+    "location": "Lyndon",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
@@ -2169,13 +2169,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/stjschool20260119.jpg",
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260119.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-011926-14842"
+    "videoId": "katv-lyndonselect-mtg-011926-14841"
   },
   {
     "title": "St. J. Athenaeum: Autumn Chamberlain",
@@ -2201,29 +2201,6 @@
     "videoId": "1156624316"
   },
   {
-    "title": "What's Going On? To Terrorize It's American Subjects Into Compliance",
-    "path": "/vod/wgo/wgo20260112",
-    "nid": 2933,
-    "cablecastShowId": 14845,
-    "date": "2026-01-12",
-    "location": "KATV Studio",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/wgo20260112.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1154182221"
-  },
-  {
     "title": "St. Johnsbury Select Board, 1/12/26",
     "path": "/vod/stjselect/2026/20260112",
     "nid": 2934,
@@ -2245,6 +2222,29 @@
     "teaserImage": "/assets/images/vod/2026/stjselect20260112.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-011226-14824"
+  },
+  {
+    "title": "What's Going On? To Terrorize It's American Subjects Into Compliance",
+    "path": "/vod/wgo/wgo20260112",
+    "nid": 2933,
+    "cablecastShowId": 14845,
+    "date": "2026-01-12",
+    "location": "KATV Studio",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/wgo20260112.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1154182221"
   },
   {
     "title": "What's Going On? Rich Man's War, Poor Man's Battle",
@@ -2293,29 +2293,6 @@
     "videoId": "katv-stjschool-mtg-010726-14823"
   },
   {
-    "title": "Danville School Board, 1/6/26",
-    "path": "/vod/danvilleschool/2026/20260106",
-    "nid": 2931,
-    "cablecastShowId": 14822,
-    "date": "2026-01-06",
-    "location": "Danville School",
-    "year": "2026",
-    "yearPath": "/vod/year/2026",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Danville School Board",
-        "path": "/vod/danvilleschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2026/danvilleschool20260106.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-mtg-010626-14822"
-  },
-  {
     "title": "Concord Select Board, 1/6/26",
     "path": "/vod/concordselect/2026/20260106",
     "nid": 2932,
@@ -2339,27 +2316,27 @@
     "videoId": "katv-concordselect-mtg-010626-14821"
   },
   {
-    "title": "St. Johnsbury School Board, 1/5/26",
-    "path": "/vod/stjschool/2026/20260105",
-    "nid": 2928,
-    "cablecastShowId": 14820,
-    "date": "2026-01-05",
-    "location": "St. Johnsbury",
+    "title": "Danville School Board, 1/6/26",
+    "path": "/vod/danvilleschool/2026/20260106",
+    "nid": 2931,
+    "cablecastShowId": 14822,
+    "date": "2026-01-06",
+    "location": "Danville School",
     "year": "2026",
     "yearPath": "/vod/year/2026",
     "categories": [
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      },
-      {
         "name": "Public Meetings",
         "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Danville School Board",
+        "path": "/vod/danvilleschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2026/stjschool20260105.jpg",
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20260106.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-010526-14820"
+    "videoId": "katv-danvilleschool-mtg-010626-14822"
   },
   {
     "title": "Lyndon Select Board, 1/5/26",
@@ -2383,5 +2360,28 @@
     "teaserImage": "/assets/images/vod/2026/lyndonselect20260105.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-lyndonselect-mtg-010526-14819"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/5/26",
+    "path": "/vod/stjschool/2026/20260105",
+    "nid": 2928,
+    "cablecastShowId": 14820,
+    "date": "2026-01-05",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjschool20260105.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010526-14820"
   }
 ]

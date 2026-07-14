@@ -1,26 +1,41 @@
 [
   {
-    "title": "What's Going On? 2025 The Year of Deagel",
-    "path": "/vod/wgo/wgo20250103",
-    "nid": 2669,
-    "cablecastShowId": 13702,
-    "date": "2025-01-03",
-    "location": "KATV Studio",
+    "title": "2025 Danville Basketball: Varsity Boys vs WRV",
+    "path": "/vod/sports/2024/danvillevboys20241227",
+    "nid": 2666,
+    "cablecastShowId": 13668,
+    "date": "2024-12-27",
+    "location": "Danville",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/wgo20250103.jpg",
+    "teaserImage": "/assets/images/vod/2024/danvillevboys20241227.jpg",
     "videoSource": "vimeo",
-    "videoId": "1043851547"
+    "videoId": "1042790025"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs WRV",
+    "path": "/vod/sports/2024/danvillejvboys20241227",
+    "nid": 2665,
+    "cablecastShowId": 13667,
+    "date": "2024-12-27",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danvillejvboys20241227.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1042789826"
   },
   {
     "title": "What's Going On? Round & Round We Go",
@@ -46,44 +61,6 @@
     "videoId": "1042639310"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs WRV",
-    "path": "/vod/sports/2024/danvillejvboys20241227",
-    "nid": 2665,
-    "cablecastShowId": 13667,
-    "date": "2024-12-27",
-    "location": "Danville",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/danvillejvboys20241227.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1042789826"
-  },
-  {
-    "title": "2025 Danville Basketball: Varsity Boys vs WRV",
-    "path": "/vod/sports/2024/danvillevboys20241227",
-    "nid": 2666,
-    "cablecastShowId": 13668,
-    "date": "2024-12-27",
-    "location": "Danville",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/danvillevboys20241227.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1042790025"
-  },
-  {
     "title": "St. Johnsbury Select Board, 12/24/24",
     "path": "/vod/stjselect/2024/20241224",
     "nid": 2663,
@@ -107,23 +84,23 @@
     "videoId": "katv-stjselect-mtg-122324-13587"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Girls vs West Rutland",
-    "path": "/vod/sports/2024/danvillegirls20241221",
-    "nid": 2660,
-    "cablecastShowId": 13629,
+    "title": "St. J. Athenaeum: St. J Sparkles Holiday Celebration 2024",
+    "path": "/vod/stjath/2024/20241221",
+    "nid": 2662,
+    "cablecastShowId": 13586,
     "date": "2024-12-21",
-    "location": "Danville School",
+    "location": "St. Johnsbury Athenaeum",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Local Sports",
-        "path": "/vod/sports"
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/danvillegirls20241221.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjath20241221.jpg",
     "videoSource": "vimeo",
-    "videoId": "1041568114"
+    "videoId": "1041997741"
   },
   {
     "title": "2025 Danville Basketball: Varsity Boys vs Proctor",
@@ -145,23 +122,23 @@
     "videoId": "1041568450"
   },
   {
-    "title": "St. J. Athenaeum: St. J Sparkles Holiday Celebration 2024",
-    "path": "/vod/stjath/2024/20241221",
-    "nid": 2662,
-    "cablecastShowId": 13586,
+    "title": "2025 Danville Basketball: Varsity Girls vs West Rutland",
+    "path": "/vod/sports/2024/danvillegirls20241221",
+    "nid": 2660,
+    "cablecastShowId": 13629,
     "date": "2024-12-21",
-    "location": "St. Johnsbury Athenaeum",
+    "location": "Danville School",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjath20241221.jpg",
+    "teaserImage": "/assets/images/vod/2024/danvillegirls20241221.jpg",
     "videoSource": "vimeo",
-    "videoId": "1041997741"
+    "videoId": "1041568114"
   },
   {
     "title": "Danville School: 2024 HS Winter Concert",
@@ -187,29 +164,6 @@
     "videoId": "1040964035"
   },
   {
-    "title": "STJ Academy: 2024 Winter Concert",
-    "path": "/vod/concerts/2024/sja20241219",
-    "nid": 2657,
-    "cablecastShowId": 13589,
-    "date": "2024-12-18",
-    "location": "Fuller Hall, St. Johnsbury Academy",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/sja20241219.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1040962309"
-  },
-  {
     "title": "Groton Select Board, 12/18/24",
     "path": "/vod/grotonselect/2024/20241218",
     "nid": 2659,
@@ -233,23 +187,27 @@
     "videoId": "katv-grotonselect-mtg-121824-13628"
   },
   {
-    "title": "First Night North: Saint Johnsbury 2025",
-    "path": "/vod/studio/2024/firstnight20241217",
-    "nid": 2654,
-    "cablecastShowId": 13664,
-    "date": "2024-12-17",
-    "location": "KATV Studio",
+    "title": "STJ Academy: 2024 Winter Concert",
+    "path": "/vod/concerts/2024/sja20241219",
+    "nid": 2657,
+    "cablecastShowId": 13589,
+    "date": "2024-12-18",
+    "location": "Fuller Hall, St. Johnsbury Academy",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/firstnight20241217.jpg",
+    "teaserImage": "/assets/images/vod/2024/sja20241219.jpg",
     "videoSource": "vimeo",
-    "videoId": "1040616160"
+    "videoId": "1040962309"
   },
   {
     "title": "St. Johnsbury School Board, 12/16/24",
@@ -275,6 +233,25 @@
     "videoId": "katv-stjschool-mtg-121624-13626"
   },
   {
+    "title": "First Night North: Saint Johnsbury 2025",
+    "path": "/vod/studio/2024/firstnight20241217",
+    "nid": 2654,
+    "cablecastShowId": 13664,
+    "date": "2024-12-17",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/firstnight20241217.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1040616160"
+  },
+  {
     "title": "FM&P Presents: Night Owl Club - Rob Burgess",
     "path": "/vod/lectures/2024/fmp20241213",
     "nid": 2653,
@@ -298,29 +275,6 @@
     "videoId": "1039339964"
   },
   {
-    "title": "What's Going On? Z.O.G. Escalates Wars",
-    "path": "/vod/node/2651",
-    "nid": 2651,
-    "cablecastShowId": 13637,
-    "date": "2024-12-12",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20241212.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1039340892"
-  },
-  {
     "title": "Lyndon Inst.: 2024 Winter Concert",
     "path": "/vod/concerts/2024/liwinter20241212",
     "nid": 2652,
@@ -342,6 +296,29 @@
     "teaserImage": "/assets/images/vod/2024/liwinter20241212.jpg",
     "videoSource": "vimeo",
     "videoId": "1039339564"
+  },
+  {
+    "title": "What's Going On? Z.O.G. Escalates Wars",
+    "path": "/vod/node/2651",
+    "nid": 2651,
+    "cablecastShowId": 13637,
+    "date": "2024-12-12",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20241212.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1039340892"
   },
   {
     "title": "350 VT: Third Act, Orange East",
@@ -386,29 +363,6 @@
     "videoId": "1038402155"
   },
   {
-    "title": "St. Johnsbury Select Board, 12/9/24",
-    "path": "/vod/stjselect/2024/20241209",
-    "nid": 2649,
-    "cablecastShowId": 13583,
-    "date": "2024-12-09",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjselect20241209.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-120924-13583"
-  },
-  {
     "title": "St. Johnsbury School Board: Community Budget Forum, 12/9/24",
     "path": "/vod/stjschool/2024/budget20241209",
     "nid": 2655,
@@ -430,6 +384,29 @@
     "teaserImage": "/assets/images/vod/2024/stjschoolbudget20241209.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-budget-120924-13633"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/9/24",
+    "path": "/vod/stjselect/2024/20241209",
+    "nid": 2649,
+    "cablecastShowId": 13583,
+    "date": "2024-12-09",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20241209.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-120924-13583"
   },
   {
     "title": "North Country Chorus: 2024 Holiday Concert",
@@ -746,29 +723,6 @@
     "videoId": "1028747360"
   },
   {
-    "title": "What's Going On? They Tried but Couldn't Do It",
-    "path": "/vod/wgo/wgo20241107",
-    "nid": 2633,
-    "cablecastShowId": 13517,
-    "date": "2024-11-07",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20241107.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1027925994"
-  },
-  {
     "title": "Concord Select Board, 11/7/24",
     "path": "/vod/concordselect/2024/20241108",
     "nid": 2634,
@@ -790,6 +744,29 @@
     "teaserImage": "/assets/images/vod/2024/concordselect20241107.jpg",
     "videoSource": "vimeo",
     "videoId": "1027926247"
+  },
+  {
+    "title": "What's Going On? They Tried but Couldn't Do It",
+    "path": "/vod/wgo/wgo20241107",
+    "nid": 2633,
+    "cablecastShowId": 13517,
+    "date": "2024-11-07",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20241107.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1027925994"
   },
   {
     "title": "St. Johnsbury School Board, 11/4/24",
@@ -815,50 +792,23 @@
     "videoId": "1027283473"
   },
   {
-    "title": "Danville Town Band: 2024 Harvest Concert",
-    "path": "/vod/concerts/2024/danville20241031",
-    "nid": 2625,
-    "cablecastShowId": 13470,
+    "title": "Saint Johnsbury: Halloween Parade 2024",
+    "path": "/vod/other/2024/stjhalloween20241031",
+    "nid": 2631,
+    "cablecastShowId": 13474,
     "date": "2024-10-31",
-    "location": "Danville",
+    "location": "St. Johnsbury",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
+        "name": "Other Programs",
+        "path": "/vod/other"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/danville20241031.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjhalloween20241031.jpg",
     "videoSource": "vimeo",
-    "videoId": "1025730161"
-  },
-  {
-    "title": "OLLI Fall 2024: Restorative Justice",
-    "path": "/vod/osher/2024/20241031",
-    "nid": 2628,
-    "cablecastShowId": 13473,
-    "date": "2024-10-31",
-    "location": "Catamount Arts",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/osher20241031.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1025730426"
+    "videoId": "1025730848"
   },
   {
     "title": "What's Going On? D.O.D. Directive 5240.01 and More",
@@ -884,23 +834,50 @@
     "videoId": "1025730752"
   },
   {
-    "title": "Saint Johnsbury: Halloween Parade 2024",
-    "path": "/vod/other/2024/stjhalloween20241031",
-    "nid": 2631,
-    "cablecastShowId": 13474,
+    "title": "OLLI Fall 2024: Restorative Justice",
+    "path": "/vod/osher/2024/20241031",
+    "nid": 2628,
+    "cablecastShowId": 13473,
     "date": "2024-10-31",
-    "location": "St. Johnsbury",
+    "location": "Catamount Arts",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Other Programs",
-        "path": "/vod/other"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjhalloween20241031.jpg",
+    "teaserImage": "/assets/images/vod/2024/osher20241031.jpg",
     "videoSource": "vimeo",
-    "videoId": "1025730848"
+    "videoId": "1025730426"
+  },
+  {
+    "title": "Danville Town Band: 2024 Harvest Concert",
+    "path": "/vod/concerts/2024/danville20241031",
+    "nid": 2625,
+    "cablecastShowId": 13470,
+    "date": "2024-10-31",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danville20241031.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730161"
   },
   {
     "title": "STJ Academy: 2024 Fall Concert",
@@ -972,27 +949,27 @@
     "videoId": "1025731005"
   },
   {
-    "title": "OLLI Fall 2024: Forgotten Heroes",
-    "path": "/vod/osher/2024/20241024",
-    "nid": 2621,
-    "cablecastShowId": 13456,
+    "title": "Lyndon Institute: 2024 Fall Concert",
+    "path": "/vod/concerts/2024/lifall20241024",
+    "nid": 2623,
+    "cablecastShowId": 13457,
     "date": "2024-10-24",
-    "location": "Catamount Arts",
+    "location": "Lyndon Institute",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/osher20241024.jpg",
+    "teaserImage": "/assets/images/vod/2024/lifall20241024.jpg",
     "videoSource": "vimeo",
-    "videoId": "1023305898"
+    "videoId": "1023310719"
   },
   {
     "title": "What's Going On? The Dimming Part 2",
@@ -1018,50 +995,27 @@
     "videoId": "1023305022"
   },
   {
-    "title": "Lyndon Institute: 2024 Fall Concert",
-    "path": "/vod/concerts/2024/lifall20241024",
-    "nid": 2623,
-    "cablecastShowId": 13457,
+    "title": "OLLI Fall 2024: Forgotten Heroes",
+    "path": "/vod/osher/2024/20241024",
+    "nid": 2621,
+    "cablecastShowId": 13456,
     "date": "2024-10-24",
-    "location": "Lyndon Institute",
+    "location": "Catamount Arts",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/lifall20241024.jpg",
+    "teaserImage": "/assets/images/vod/2024/osher20241024.jpg",
     "videoSource": "vimeo",
-    "videoId": "1023310719"
-  },
-  {
-    "title": "St. Johnsbury School Board, 10/21/24",
-    "path": "/vod/stjschool/2024/20241021",
-    "nid": 2619,
-    "cablecastShowId": 13454,
-    "date": "2024-10-21",
-    "location": "St. Johnsbury School",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20241021.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1022235782"
+    "videoId": "1023305898"
   },
   {
     "title": "CCSU Board of Directors, 10/21/24",
@@ -1087,6 +1041,29 @@
     "videoId": "1022236351"
   },
   {
+    "title": "St. Johnsbury School Board, 10/21/24",
+    "path": "/vod/stjschool/2024/20241021",
+    "nid": 2619,
+    "cablecastShowId": 13454,
+    "date": "2024-10-21",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20241021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1022235782"
+  },
+  {
     "title": "OLLI Fall 2024: Songbirds",
     "path": "/vod/osher/2024/20241017",
     "nid": 2618,
@@ -1110,29 +1087,6 @@
     "videoId": "1021102255"
   },
   {
-    "title": "Groton Select Board, 10/16/24",
-    "path": "/vod/grotonselect/2024/20241016",
-    "nid": 2616,
-    "cablecastShowId": 13395,
-    "date": "2024-10-16",
-    "location": "Groton",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/grotonselect20241016.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1021101898"
-  },
-  {
     "title": "St. Johnsbury Select Board, 10/16/24",
     "path": "/vod/stjselect/2024/20241016",
     "nid": 2617,
@@ -1154,6 +1108,29 @@
     "teaserImage": "/assets/images/vod/2024/stjselect20241016.jpg",
     "videoSource": "vimeo",
     "videoId": "1021102100"
+  },
+  {
+    "title": "Groton Select Board, 10/16/24",
+    "path": "/vod/grotonselect/2024/20241016",
+    "nid": 2616,
+    "cablecastShowId": 13395,
+    "date": "2024-10-16",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20241016.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1021101898"
   },
   {
     "title": "St. Johnsbury School Board: Community Budget Forum 10/15/24",
@@ -1248,6 +1225,25 @@
     "videoId": "1016684710"
   },
   {
+    "title": "NEK Chamber: Innovation, Trends, And Possibilities of Growth for Co-Pyrolysis",
+    "path": "/vod/forums/2024/nekchamber20241002",
+    "nid": 2611,
+    "cablecastShowId": 13418,
+    "date": "2024-10-02",
+    "location": "Vermont State University Lyndon",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/nekchamber20241002.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1016684904"
+  },
+  {
     "title": "Concord Select Board, 10/1/24",
     "path": "/vod/concordselect/2024/20241001",
     "nid": 2610,
@@ -1269,25 +1265,6 @@
     "teaserImage": "/assets/images/vod/2024/concordselect20241001.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-100124-13394"
-  },
-  {
-    "title": "NEK Chamber: Innovation, Trends, And Possibilities of Growth for Co-Pyrolysis",
-    "path": "/vod/forums/2024/nekchamber20241002",
-    "nid": 2611,
-    "cablecastShowId": 13418,
-    "date": "2024-10-02",
-    "location": "Vermont State University Lyndon",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/nekchamber20241002.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1016684904"
   },
   {
     "title": "Fairbanks Museum Eddy Lecture: Musician Paul Winter",
@@ -1405,29 +1382,6 @@
     "videoId": "katv-grotonselect-mtg-091824-13355"
   },
   {
-    "title": "St. Johnsbury School Board, 9/16/24",
-    "path": "/vod/stjschool/2024/20240916",
-    "nid": 2603,
-    "cablecastShowId": 13354,
-    "date": "2024-09-16",
-    "location": "St. Johnsbury School",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240916.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-091624-13354"
-  },
-  {
     "title": "CCSU Board of Directors, 9/16/24 Special Meeting",
     "path": "/vod/ccsubod/2024/20240916sm",
     "nid": 2604,
@@ -1449,6 +1403,29 @@
     "teaserImage": "/assets/images/vod/2024/ccsubod20240916.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsudbod-mtg-091624-13363"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/16/24",
+    "path": "/vod/stjschool/2024/20240916",
+    "nid": 2603,
+    "cablecastShowId": 13354,
+    "date": "2024-09-16",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240916.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091624-13354"
   },
   {
     "title": "In Conversation: Rachel Hadas & Murray Dewart (St. Johnsbury Athenaeum)",
@@ -1730,29 +1707,6 @@
     "videoId": "katv-concordselect-mtg-082024-13281"
   },
   {
-    "title": "St. Johnsbury School Board, 8/19/24",
-    "path": "/vod/stjschool/2024/20240819",
-    "nid": 2588,
-    "cablecastShowId": 13263,
-    "date": "2024-08-19",
-    "location": "St. Johnsbury School",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240819.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-081924-13263"
-  },
-  {
     "title": "CCSU Board of Directors, 8/19/24",
     "path": "/vod/ccsubod/2024/20240819",
     "nid": 2590,
@@ -1774,6 +1728,29 @@
     "teaserImage": "/assets/images/vod/2024/ccsubod20240819.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-081924-13262"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/19/24",
+    "path": "/vod/stjschool/2024/20240819",
+    "nid": 2588,
+    "cablecastShowId": 13263,
+    "date": "2024-08-19",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240819.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-081924-13263"
   },
   {
     "title": "July Floods 2024: NEK Vermont",
@@ -1864,25 +1841,6 @@
     "videoId": "katv-grotonselect-mtg-080724-13216"
   },
   {
-    "title": "Green Mountain Care Board: St. Johnsbury Healthcare Community Meeting",
-    "path": "/vod/other/2024/gmcb20240806",
-    "nid": 2581,
-    "cablecastShowId": 13164,
-    "date": "2024-08-06",
-    "location": "St. Johnsbury",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/gmcb20240806.jpg",
-    "videoSource": "vimeo",
-    "videoId": "996897520"
-  },
-  {
     "title": "Concord Select Board, 8/6/24",
     "path": "/vod/concordselect/2024/20240806",
     "nid": 2582,
@@ -1904,6 +1862,25 @@
     "teaserImage": "/assets/images/vod/2024/concordselect20240806.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-080624-13215"
+  },
+  {
+    "title": "Green Mountain Care Board: St. Johnsbury Healthcare Community Meeting",
+    "path": "/vod/other/2024/gmcb20240806",
+    "nid": 2581,
+    "cablecastShowId": 13164,
+    "date": "2024-08-06",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/gmcb20240806.jpg",
+    "videoSource": "vimeo",
+    "videoId": "996897520"
   },
   {
     "title": "St. Johnsbury Select Board, 7/22/24",
@@ -1994,29 +1971,6 @@
     "videoId": "983229170"
   },
   {
-    "title": "Groton Select Board, 7/10/24",
-    "path": "/vod/grotonselect/2024/20240710",
-    "nid": 2576,
-    "cablecastShowId": 13140,
-    "date": "2024-07-10",
-    "location": "Groton",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/grotonselect20240710.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-071024-13140"
-  },
-  {
     "title": "Climate Solutions Caucus Tour (St. Johnsbury Athenaeum)",
     "path": "/vod/lectures/2024/stjath20240710",
     "nid": 2577,
@@ -2038,6 +1992,29 @@
     "teaserImage": "/assets/images/vod/2024/stjath20240710.jpg",
     "videoSource": "vimeo",
     "videoId": "983227320"
+  },
+  {
+    "title": "Groton Select Board, 7/10/24",
+    "path": "/vod/grotonselect/2024/20240710",
+    "nid": 2576,
+    "cablecastShowId": 13140,
+    "date": "2024-07-10",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240710.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-071024-13140"
   },
   {
     "title": "St. Johnsbury Select Board, 7/8/24",
@@ -2323,25 +2300,6 @@
     "videoId": "katv-grotonselect-mtg-060524-13068"
   },
   {
-    "title": "St. Johnsbury Academy 2024 Graduation",
-    "path": "/vod/grad/sja2024",
-    "nid": 2552,
-    "cablecastShowId": 13081,
-    "date": "2024-06-03",
-    "location": "St. Johnsbury Academy",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/sjagrad2024.jpg",
-    "videoSource": "vimeo",
-    "videoId": "953694986"
-  },
-  {
     "title": "St. Johnsbury School Board, 6/3/24",
     "path": "/vod/stjschool/2024/20240603",
     "nid": 2556,
@@ -2365,12 +2323,12 @@
     "videoId": "katv-stjschool-mtg-060324-13084"
   },
   {
-    "title": "Lyndon Institute 2024 Graduation",
-    "path": "/vod/grad/li2024",
-    "nid": 2551,
-    "cablecastShowId": 13080,
-    "date": "2024-06-02",
-    "location": "Lyndon Institute",
+    "title": "St. Johnsbury Academy 2024 Graduation",
+    "path": "/vod/grad/sja2024",
+    "nid": 2552,
+    "cablecastShowId": 13081,
+    "date": "2024-06-03",
+    "location": "St. Johnsbury Academy",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
@@ -2379,9 +2337,9 @@
         "path": "/vod/grad"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/ligrad2024.jpg",
+    "teaserImage": "/assets/images/vod/2024/sjagrad2024.jpg",
     "videoSource": "vimeo",
-    "videoId": "953694394"
+    "videoId": "953694986"
   },
   {
     "title": "St. Johnsbury Academy Senior Concert 2024",
@@ -2407,6 +2365,25 @@
     "videoId": "953695732"
   },
   {
+    "title": "Lyndon Institute 2024 Graduation",
+    "path": "/vod/grad/li2024",
+    "nid": 2551,
+    "cablecastShowId": 13080,
+    "date": "2024-06-02",
+    "location": "Lyndon Institute",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ligrad2024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "953694394"
+  },
+  {
     "title": "SJA Commencement Concert 2024",
     "path": "/vod/concerts/2024/sja20240522",
     "nid": 2549,
@@ -2428,29 +2405,6 @@
     "teaserImage": "/assets/images/vod/2024/sja20240522.jpg",
     "videoSource": "vimeo",
     "videoId": "949742106"
-  },
-  {
-    "title": "Danville School Spring Concert 2024 (6-8)",
-    "path": "/vod/concerts/2024/danville20240521",
-    "nid": 2547,
-    "cablecastShowId": 13036,
-    "date": "2024-05-21",
-    "location": "Danville School",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/danville20240521.jpg",
-    "videoSource": "vimeo",
-    "videoId": "949742407"
   },
   {
     "title": "Red Scare in the Green Mountains (St. Johnsbury Athenaeum)",
@@ -2476,23 +2430,50 @@
     "videoId": "949742646"
   },
   {
-    "title": "Legislative Breakfast, May 2024",
-    "path": "/vod/legbkfst/2024/20240520",
-    "nid": 2545,
-    "cablecastShowId": 13033,
-    "date": "2024-05-20",
-    "location": "St. Johnsbury House",
+    "title": "Danville School Spring Concert 2024 (6-8)",
+    "path": "/vod/concerts/2024/danville20240521",
+    "nid": 2547,
+    "cablecastShowId": 13036,
+    "date": "2024-05-21",
+    "location": "Danville School",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/legbkfst20240520.jpg",
+    "teaserImage": "/assets/images/vod/2024/danville20240521.jpg",
     "videoSource": "vimeo",
-    "videoId": "949034565"
+    "videoId": "949742407"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/20/24",
+    "path": "/vod/stjschool/2024/20240520",
+    "nid": 2550,
+    "cablecastShowId": 13034,
+    "date": "2024-05-20",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240520.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-052024-13034"
   },
   {
     "title": "Danville School Spring Concert 2024",
@@ -2518,27 +2499,23 @@
     "videoId": "949034889"
   },
   {
-    "title": "St. Johnsbury School Board, 5/20/24",
-    "path": "/vod/stjschool/2024/20240520",
-    "nid": 2550,
-    "cablecastShowId": 13034,
+    "title": "Legislative Breakfast, May 2024",
+    "path": "/vod/legbkfst/2024/20240520",
+    "nid": 2545,
+    "cablecastShowId": 13033,
     "date": "2024-05-20",
-    "location": "St. Johnsbury School",
+    "location": "St. Johnsbury House",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240520.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-052024-13034"
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240520.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949034565"
   },
   {
     "title": "FM&P: Panels and Pigeons (Eddy Lecture Series)",
@@ -2587,25 +2564,6 @@
     "videoId": "947582295"
   },
   {
-    "title": "The Ecology of Queer and Trans People in Education (VHC)",
-    "path": "/vod/lectures/2024/vhc20240515",
-    "nid": 2541,
-    "cablecastShowId": 13019,
-    "date": "2024-05-15",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/vhc20240515.jpg",
-    "videoSource": "vimeo",
-    "videoId": "947581995"
-  },
-  {
     "title": "Groton Select Board, 5/15/24",
     "path": "/vod/grotonselect/2024/20240515",
     "nid": 2542,
@@ -2627,6 +2585,25 @@
     "teaserImage": "/assets/images/vod/2024/grotonselect20240515.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-grotonselect-mtg-051524-13018"
+  },
+  {
+    "title": "The Ecology of Queer and Trans People in Education (VHC)",
+    "path": "/vod/lectures/2024/vhc20240515",
+    "nid": 2541,
+    "cablecastShowId": 13019,
+    "date": "2024-05-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/vhc20240515.jpg",
+    "videoSource": "vimeo",
+    "videoId": "947581995"
   },
   {
     "title": "St. Johnsbury Select Board, 5/13/24",
@@ -2721,25 +2698,6 @@
     "videoId": "katv-concordselect-mtg-050724-12994"
   },
   {
-    "title": "WGO: Censorship For the Controllers",
-    "path": "/vod/wgo/wgo20240502",
-    "nid": 2536,
-    "cablecastShowId": 12963,
-    "date": "2024-05-02",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20240502.jpg",
-    "videoSource": "vimeo",
-    "videoId": "942529476"
-  },
-  {
     "title": "OLLI Spring 2024: Mark Twain Introduces a Black Man to America",
     "path": "/vod/osher/2024/20240502",
     "nid": 2629,
@@ -2761,6 +2719,25 @@
     "teaserImage": "/assets/images/vod/2024/osher20240502.jpg",
     "videoSource": "vimeo",
     "videoId": "1027283851"
+  },
+  {
+    "title": "WGO: Censorship For the Controllers",
+    "path": "/vod/wgo/wgo20240502",
+    "nid": 2536,
+    "cablecastShowId": 12963,
+    "date": "2024-05-02",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240502.jpg",
+    "videoSource": "vimeo",
+    "videoId": "942529476"
   },
   {
     "title": "Groton Select Board, 5/1/24",
@@ -2824,29 +2801,6 @@
     "videoId": "942529169"
   },
   {
-    "title": "WGO: A Season of Treason",
-    "path": "/vod/wgo/wgo20240425",
-    "nid": 2531,
-    "cablecastShowId": 12978,
-    "date": "2024-04-25",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20240425.jpg",
-    "videoSource": "vimeo",
-    "videoId": "939763067"
-  },
-  {
     "title": "Osher: A Vermonter's Tale of Hiking the Pacific Crest Trail",
     "path": "/vod/osher/2024/20240425",
     "nid": 2533,
@@ -2868,6 +2822,29 @@
     "teaserImage": "/assets/images/vod/2024/osher20240425.jpg",
     "videoSource": "vimeo",
     "videoId": "941370620"
+  },
+  {
+    "title": "WGO: A Season of Treason",
+    "path": "/vod/wgo/wgo20240425",
+    "nid": 2531,
+    "cablecastShowId": 12978,
+    "date": "2024-04-25",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240425.jpg",
+    "videoSource": "vimeo",
+    "videoId": "939763067"
   },
   {
     "title": "VT's First NEVI Charging Site Celebration",
@@ -2912,27 +2889,23 @@
     "videoId": "katv-stjselect-mtg-042224-12899"
   },
   {
-    "title": "Osher: Looking for the Hidden Folk",
-    "path": "/vod/osher/2024/20240418",
-    "nid": 2524,
-    "cablecastShowId": 12919,
+    "title": "NEK Chamber Annual Meeting 2024",
+    "path": "/vod/forums/2024/nekchamber20240418",
+    "nid": 2526,
+    "cablecastShowId": 12918,
     "date": "2024-04-18",
-    "location": "United Community Church",
+    "location": "Vermont State University Lyndon",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/osher202401824.jpg",
+    "teaserImage": "/assets/images/vod/2024/nekchamber20240418.jpg",
     "videoSource": "vimeo",
-    "videoId": "936874839"
+    "videoId": "936874599"
   },
   {
     "title": "WGO: More Escalation Prep and Pray",
@@ -2958,23 +2931,27 @@
     "videoId": "936874969"
   },
   {
-    "title": "NEK Chamber Annual Meeting 2024",
-    "path": "/vod/forums/2024/nekchamber20240418",
-    "nid": 2526,
-    "cablecastShowId": 12918,
+    "title": "Osher: Looking for the Hidden Folk",
+    "path": "/vod/osher/2024/20240418",
+    "nid": 2524,
+    "cablecastShowId": 12919,
     "date": "2024-04-18",
-    "location": "Vermont State University Lyndon",
+    "location": "United Community Church",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/nekchamber20240418.jpg",
+    "teaserImage": "/assets/images/vod/2024/osher202401824.jpg",
     "videoSource": "vimeo",
-    "videoId": "936874599"
+    "videoId": "936874839"
   },
   {
     "title": "Groton Select Board, 4/17/24",
@@ -3000,23 +2977,27 @@
     "videoId": "katv-grotonselect-mtg-041724-12917"
   },
   {
-    "title": "Newmont Farm: The Farm Bill Connecticut River Joint Commissions",
-    "path": "/vod/forums/2024/newmontfarm20240415",
-    "nid": 2522,
-    "cablecastShowId": 12914,
+    "title": "St. Johnsbury School Board, 4/15/24",
+    "path": "/vod/stjschool/2024/20240415",
+    "nid": 2527,
+    "cablecastShowId": 12928,
     "date": "2024-04-15",
-    "location": "Gladstone Farm, Bradford",
+    "location": "St. Johnsbury School",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/newmontfarm20240415.jpg",
-    "videoSource": "vimeo",
-    "videoId": "936875145"
+    "teaserImage": "/assets/images/vod/2024/stjschool20240415.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-041524-12928"
   },
   {
     "title": "Economic Development Through Shared Energy Infrastructure (St. J. Energy Committee)",
@@ -3042,27 +3023,23 @@
     "videoId": "936875345"
   },
   {
-    "title": "St. Johnsbury School Board, 4/15/24",
-    "path": "/vod/stjschool/2024/20240415",
-    "nid": 2527,
-    "cablecastShowId": 12928,
+    "title": "Newmont Farm: The Farm Bill Connecticut River Joint Commissions",
+    "path": "/vod/forums/2024/newmontfarm20240415",
+    "nid": 2522,
+    "cablecastShowId": 12914,
     "date": "2024-04-15",
-    "location": "St. Johnsbury School",
+    "location": "Gladstone Farm, Bradford",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240415.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-041524-12928"
+    "teaserImage": "/assets/images/vod/2024/newmontfarm20240415.jpg",
+    "videoSource": "vimeo",
+    "videoId": "936875145"
   },
   {
     "title": "Osher: The Building of a Rural Community Health Center in Mali, West Africa",
@@ -3130,29 +3107,6 @@
     "videoId": "934553029"
   },
   {
-    "title": "Osher: Women, Philosophy, and Democracy",
-    "path": "/vod/osher/2024/20240404",
-    "nid": 2517,
-    "cablecastShowId": 12867,
-    "date": "2024-04-04",
-    "location": "United Community Church",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/osher20240404.jpg",
-    "videoSource": "vimeo",
-    "videoId": "931068777"
-  },
-  {
     "title": "FM&P: Bobby Farlice-Rubio (Night Owl Club)",
     "path": "/vod/lectures/2024/fmp20240404",
     "nid": 2561,
@@ -3174,6 +3128,29 @@
     "teaserImage": "/assets/images/vod/2024/fmp20240404.jpg",
     "videoSource": "vimeo",
     "videoId": "953693768"
+  },
+  {
+    "title": "Osher: Women, Philosophy, and Democracy",
+    "path": "/vod/osher/2024/20240404",
+    "nid": 2517,
+    "cablecastShowId": 12867,
+    "date": "2024-04-04",
+    "location": "United Community Church",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20240404.jpg",
+    "videoSource": "vimeo",
+    "videoId": "931068777"
   },
   {
     "title": "Groton Select Board, 4/3/24",
@@ -3222,29 +3199,6 @@
     "videoId": "katv-concordselect-mtg-040224-12865"
   },
   {
-    "title": "Osher: St. J Academy in a New World",
-    "path": "/vod/osher/2024/20240328",
-    "nid": 2513,
-    "cablecastShowId": 12850,
-    "date": "2024-03-28",
-    "location": "United Community Church",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/osher20240328.jpg",
-    "videoSource": "vimeo",
-    "videoId": "928756453"
-  },
-  {
     "title": "WGO: Eclipse - X Marks the Spot",
     "path": "/vod/wgo/wgo20240328",
     "nid": 2514,
@@ -3268,23 +3222,50 @@
     "videoId": "928846746"
   },
   {
-    "title": "Legislative Breakfast, March 2024",
-    "path": "/vod/legbkfst/2024/20240325",
-    "nid": 2510,
-    "cablecastShowId": 12847,
-    "date": "2024-03-25",
-    "location": "St. Johnsbury House",
+    "title": "Osher: St. J Academy in a New World",
+    "path": "/vod/osher/2024/20240328",
+    "nid": 2513,
+    "cablecastShowId": 12850,
+    "date": "2024-03-28",
+    "location": "United Community Church",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/legbkfst20240325.jpg",
+    "teaserImage": "/assets/images/vod/2024/osher20240328.jpg",
     "videoSource": "vimeo",
-    "videoId": "927244382"
+    "videoId": "928756453"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/25/24 Special Meeting",
+    "path": "/vod/stjselect/2024/20240325sm",
+    "nid": 2512,
+    "cablecastShowId": 12864,
+    "date": "2024-03-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240325sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032524-12864"
   },
   {
     "title": "St. Johnsbury Select Board, 3/25/24",
@@ -3310,27 +3291,23 @@
     "videoId": "katv-stjselect-mtg-032524-12848"
   },
   {
-    "title": "St. Johnsbury Select Board, 3/25/24 Special Meeting",
-    "path": "/vod/stjselect/2024/20240325sm",
-    "nid": 2512,
-    "cablecastShowId": 12864,
+    "title": "Legislative Breakfast, March 2024",
+    "path": "/vod/legbkfst/2024/20240325",
+    "nid": 2510,
+    "cablecastShowId": 12847,
     "date": "2024-03-25",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "St. Johnsbury House",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjselect20240325sm.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-032524-12864"
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240325.jpg",
+    "videoSource": "vimeo",
+    "videoId": "927244382"
   },
   {
     "title": "Osher: Mud Season and Other NEK Trauma Tales",
@@ -3425,12 +3402,12 @@
     "videoId": "923756494"
   },
   {
-    "title": "St. Johnsbury School Board, 3/11/24",
-    "path": "/vod/stjschool/2024/20240311",
-    "nid": 2503,
-    "cablecastShowId": 12829,
+    "title": "St. Johnsbury Select Board, 3/11/24 Special Meeting",
+    "path": "/vod/stjselect/2024/20240311sm",
+    "nid": 2505,
+    "cablecastShowId": 12828,
     "date": "2024-03-11",
-    "location": "St. Johnsbury School",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
@@ -3439,13 +3416,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240311.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjselect20240311sm.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-031124-12829"
+    "videoId": "katv-stjselect-specmtg-031124-12828"
   },
   {
     "title": "St. Johnsbury Select Board, 3/11/24",
@@ -3471,12 +3448,12 @@
     "videoId": "katv-stjselect-mtg-031124-12804"
   },
   {
-    "title": "St. Johnsbury Select Board, 3/11/24 Special Meeting",
-    "path": "/vod/stjselect/2024/20240311sm",
-    "nid": 2505,
-    "cablecastShowId": 12828,
+    "title": "St. Johnsbury School Board, 3/11/24",
+    "path": "/vod/stjschool/2024/20240311",
+    "nid": 2503,
+    "cablecastShowId": 12829,
     "date": "2024-03-11",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "St. Johnsbury School",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
@@ -3485,36 +3462,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjselect20240311sm.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjschool20240311.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-031124-12828"
-  },
-  {
-    "title": "Groton Select Board, 3/6/24",
-    "path": "/vod/grotonselect/2024/20240306",
-    "nid": 2501,
-    "cablecastShowId": 12780,
-    "date": "2024-03-07",
-    "location": "Groton Town Hall",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/grotonselect20240306.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-030624-12780"
+    "videoId": "katv-stjschool-mtg-031124-12829"
   },
   {
     "title": "Concord Select Board, 3/7/24",
@@ -3540,6 +3494,29 @@
     "videoId": "katv-concordselect-mtg-030724-12779"
   },
   {
+    "title": "Groton Select Board, 3/6/24",
+    "path": "/vod/grotonselect/2024/20240306",
+    "nid": 2501,
+    "cablecastShowId": 12780,
+    "date": "2024-03-07",
+    "location": "Groton Town Hall",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240306.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-030624-12780"
+  },
+  {
     "title": "The Chance of Ten Lifetimes (VHC)",
     "path": "/vod/lectures/2024/vhc20240306",
     "nid": 2500,
@@ -3557,29 +3534,6 @@
     "teaserImage": "/assets/images/vod/2024/vhc20240306.jpg",
     "videoSource": "vimeo",
     "videoId": "921327334"
-  },
-  {
-    "title": "WGO: Truth Will Prevail",
-    "path": "/vod/wgo/wgo20240229",
-    "nid": 2498,
-    "cablecastShowId": 12782,
-    "date": "2024-02-29",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20240229.jpg",
-    "videoSource": "vimeo",
-    "videoId": "918132584"
   },
   {
     "title": "WGO: Truth Will Prevail, Part 2",
@@ -3605,23 +3559,27 @@
     "videoId": "918132780"
   },
   {
-    "title": "Legislative Breakfast, February 2024",
-    "path": "/vod/legbkfst/2024/20240226",
-    "nid": 2496,
-    "cablecastShowId": 12758,
-    "date": "2024-02-26",
-    "location": "St. Johnsbury House",
+    "title": "WGO: Truth Will Prevail",
+    "path": "/vod/wgo/wgo20240229",
+    "nid": 2498,
+    "cablecastShowId": 12782,
+    "date": "2024-02-29",
+    "location": "KATV Studio",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/legbkfst20240226.jpg",
+    "teaserImage": "/assets/images/vod/2024/wgo20240229.jpg",
     "videoSource": "vimeo",
-    "videoId": "916761526"
+    "videoId": "918132584"
   },
   {
     "title": "St. Johnsbury Select Board, 2/26/24",
@@ -3647,27 +3605,23 @@
     "videoId": "katv-stjselect-mtg-022624-12759"
   },
   {
-    "title": "St. Johnsbury School Board, 2/19/24",
-    "path": "/vod/stjschool/2024/20240219",
-    "nid": 2494,
-    "cablecastShowId": 12739,
-    "date": "2024-02-19",
-    "location": "St. Johnsbury School",
+    "title": "Legislative Breakfast, February 2024",
+    "path": "/vod/legbkfst/2024/20240226",
+    "nid": 2496,
+    "cablecastShowId": 12758,
+    "date": "2024-02-26",
+    "location": "St. Johnsbury House",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240219.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-021924-12739"
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240226.jpg",
+    "videoSource": "vimeo",
+    "videoId": "916761526"
   },
   {
     "title": "CCSU Board of Directors, 2/19/24",
@@ -3693,6 +3647,48 @@
     "videoId": "katv-ccsubod-mtg-021924-12738"
   },
   {
+    "title": "St. Johnsbury School Board, 2/19/24",
+    "path": "/vod/stjschool/2024/20240219",
+    "nid": 2494,
+    "cablecastShowId": 12739,
+    "date": "2024-02-19",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021924-12739"
+  },
+  {
+    "title": "Creative Solutions to Rural Housing (USDA Rural Dev)",
+    "path": "/vod/lectures/2024/usda20240215",
+    "nid": 2493,
+    "cablecastShowId": 12751,
+    "date": "2024-02-15",
+    "location": "Fairbanks Museum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/usda20240215.jpg",
+    "videoSource": "vimeo",
+    "videoId": "913499534"
+  },
+  {
     "title": "Fairbanks: Tang Science Ribbon Cutting",
     "path": "/vod/lectures/2024/fmp20240215",
     "nid": 2492,
@@ -3716,23 +3712,27 @@
     "videoId": "913499872"
   },
   {
-    "title": "Creative Solutions to Rural Housing (USDA Rural Dev)",
-    "path": "/vod/lectures/2024/usda20240215",
-    "nid": 2493,
-    "cablecastShowId": 12751,
-    "date": "2024-02-15",
-    "location": "Fairbanks Museum",
+    "title": "St. Johnsbury Select Board, 2/12/24 Special Meeting",
+    "path": "/vod/stjselect/2024/20240212sm",
+    "nid": 2491,
+    "cablecastShowId": 12730,
+    "date": "2024-02-12",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/usda20240215.jpg",
-    "videoSource": "vimeo",
-    "videoId": "913499534"
+    "teaserImage": "/assets/images/vod/2024/stjselect20240212sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021224-12730"
   },
   {
     "title": "St. Johnsbury Select Board, 2/12/24",
@@ -3756,29 +3756,6 @@
     "teaserImage": "/assets/images/vod/2024/stjselect20240212.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-021224-12707"
-  },
-  {
-    "title": "St. Johnsbury Select Board, 2/12/24 Special Meeting",
-    "path": "/vod/stjselect/2024/20240212sm",
-    "nid": 2491,
-    "cablecastShowId": 12730,
-    "date": "2024-02-12",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjselect20240212sm.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-021224-12730"
   },
   {
     "title": "WGO: Reality Comes to Roost",
@@ -3873,29 +3850,6 @@
     "videoId": "katv-stjschool-mtg-020524-12679"
   },
   {
-    "title": "WGO: Into The Mind of Jacob Rothschild",
-    "path": "/vod/wgo/wgo20240201",
-    "nid": 2484,
-    "cablecastShowId": 12696,
-    "date": "2024-02-01",
-    "location": "KATV Studio",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/wgo20240201.jpg",
-    "videoSource": "vimeo",
-    "videoId": "909094633"
-  },
-  {
     "title": "FM&P: Mark Breen 2024 (Night Owl Club)",
     "path": "/vod/lectures/2024/fmp20240201",
     "nid": 2560,
@@ -3917,6 +3871,29 @@
     "teaserImage": "/assets/images/vod/2024/fmp20240201.jpg",
     "videoSource": "vimeo",
     "videoId": "953693401"
+  },
+  {
+    "title": "WGO: Into The Mind of Jacob Rothschild",
+    "path": "/vod/wgo/wgo20240201",
+    "nid": 2484,
+    "cablecastShowId": 12696,
+    "date": "2024-02-01",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240201.jpg",
+    "videoSource": "vimeo",
+    "videoId": "909094633"
   },
   {
     "title": "Legislative Breakfast, January 2024",
@@ -3984,29 +3961,6 @@
     "videoId": "905831693"
   },
   {
-    "title": "St. Johnsbury School Board, 1/22/24",
-    "path": "/vod/stjschool/2024/20240122",
-    "nid": 2480,
-    "cablecastShowId": 12627,
-    "date": "2024-01-22",
-    "location": "St. Johnsbury School",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240122.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-012224-12627"
-  },
-  {
     "title": "St. Johnsbury Select Board, 1/22/24",
     "path": "/vod/stjselect/2024/20240122",
     "nid": 2482,
@@ -4028,6 +3982,29 @@
     "teaserImage": "/assets/images/vod/2024/stjselect20240122.jpg",
     "videoSource": "archive",
     "videoId": "katv-show-12628"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/22/24",
+    "path": "/vod/stjschool/2024/20240122",
+    "nid": 2480,
+    "cablecastShowId": 12627,
+    "date": "2024-01-22",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240122.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-012224-12627"
   },
   {
     "title": "Groton Select Board, 1/17/24",
@@ -4053,12 +4030,12 @@
     "videoId": "katv-grotonselect-mtg-011724-12608"
   },
   {
-    "title": "St. Johnsbury Select Board, 1/8/24",
-    "path": "/vod/stjselect/2024/20240108",
-    "nid": 2476,
-    "cablecastShowId": 12591,
+    "title": "St. Johnsbury School Board, 1/8/24",
+    "path": "/vod/stjschool/2024/20240108",
+    "nid": 2478,
+    "cablecastShowId": 12590,
     "date": "2024-01-08",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "St. Johnsbury School",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
@@ -4067,13 +4044,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjselect20240108.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjschool20240108.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-010824-12591"
+    "videoId": "katv-stjschool-mtg-010824-12590"
   },
   {
     "title": "St. Johnsbury Select Board, 1/8/24 Special Meeting",
@@ -4099,12 +4076,12 @@
     "videoId": "katv-stjselect-specmtg-010824-12598"
   },
   {
-    "title": "St. Johnsbury School Board, 1/8/24",
-    "path": "/vod/stjschool/2024/20240108",
-    "nid": 2478,
-    "cablecastShowId": 12590,
+    "title": "St. Johnsbury Select Board, 1/8/24",
+    "path": "/vod/stjselect/2024/20240108",
+    "nid": 2476,
+    "cablecastShowId": 12591,
     "date": "2024-01-08",
-    "location": "St. Johnsbury School",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2024",
     "yearPath": "/vod/year/2024",
     "categories": [
@@ -4113,13 +4090,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2024/stjschool20240108.jpg",
+    "teaserImage": "/assets/images/vod/2024/stjselect20240108.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-010824-12590"
+    "videoId": "katv-stjselect-mtg-010824-12591"
   },
   {
     "title": "WGO: Tools of the True Controllers Cont.",
@@ -4189,28 +4166,5 @@
     "teaserImage": "/assets/images/vod/2024/concordselect20240102.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-010224-12585"
-  },
-  {
-    "title": "FM&P: Dr. Eilat Glikman (Night Owl Club)",
-    "path": "/vod/lectures/2024/fmp20230601",
-    "nid": 2554,
-    "cablecastShowId": 12043,
-    "date": "2023-06-01",
-    "location": "Fairbanks Museum",
-    "year": "2024",
-    "yearPath": "/vod/year/2024",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2024/fmp20230601.jpg",
-    "videoSource": "vimeo",
-    "videoId": "953696548"
   }
 ]

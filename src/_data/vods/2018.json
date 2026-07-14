@@ -1,26 +1,26 @@
 [
   {
-    "title": "St. Johnsbury Academy Winter Concert 2019",
-    "path": "/vod/concerts/2019/sjawinter121819",
-    "nid": 783,
-    "cablecastShowId": 8190,
-    "date": "2019-12-18",
-    "location": "South Congregational Church",
+    "title": "In & Around St. J: First Night 2018",
+    "path": "/vod/studio/2018/iastj122018",
+    "nid": 1632,
+    "cablecastShowId": 7242,
+    "date": "2018-12-20",
+    "location": "KATV Studio",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "380856215"
+    "videoId": "307815237"
   },
   {
     "title": "What's Going On? Missing Billions, and South African Genocide",
@@ -44,29 +44,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "307820547"
-  },
-  {
-    "title": "In & Around St. J: First Night 2018",
-    "path": "/vod/studio/2018/iastj122018",
-    "nid": 1632,
-    "cablecastShowId": 7242,
-    "date": "2018-12-20",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "In & Around St. J",
-        "path": "/vod/studio/iastj"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "307815237"
   },
   {
     "title": "St. Johnsbury School Board, 12/17/2018",
@@ -151,6 +128,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "307804861"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2018",
+    "path": "/vod/concerts/2018/sjawinter121218",
+    "nid": 772,
+    "cablecastShowId": 7214,
+    "date": "2018-12-12",
+    "location": "South Congregational Church",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307810830"
   },
   {
     "title": "St. Johnsbury Select Board, 12/10/18",
@@ -241,27 +241,27 @@
     "videoId": "307802474"
   },
   {
-    "title": "Lyndon Institute: Winter Concert 2018",
-    "path": "/vod/concerts/2018/liwinter2018",
-    "nid": 759,
-    "cablecastShowId": 7202,
+    "title": "What's Going On? JFK Warning to the American People",
+    "path": "/vod/wgo/wgo120618",
+    "nid": 1636,
+    "cablecastShowId": 7200,
     "date": "2018-12-06",
-    "location": "Lyndon Institute",
+    "location": "KATV Studio",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "305248383"
+    "videoId": "314953643"
   },
   {
     "title": "First Wednesday: Charles Dickens, A Christmas Carol",
@@ -287,27 +287,27 @@
     "videoId": "305251859"
   },
   {
-    "title": "What's Going On? JFK Warning to the American People",
-    "path": "/vod/wgo/wgo120618",
-    "nid": 1636,
-    "cablecastShowId": 7200,
+    "title": "Lyndon Institute: Winter Concert 2018",
+    "path": "/vod/concerts/2018/liwinter2018",
+    "nid": 759,
+    "cablecastShowId": 7202,
     "date": "2018-12-06",
-    "location": "KATV Studio",
+    "location": "Lyndon Institute",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "314953643"
+    "videoId": "305248383"
   },
   {
     "title": "Concord Select Board, 12/4/18",
@@ -356,6 +356,25 @@
     "videoId": "305245728"
   },
   {
+    "title": "United Community Church: Boston Children's Chorus 2018",
+    "path": "/vod/concerts/2018/ucc113018",
+    "nid": 1621,
+    "cablecastShowId": 7183,
+    "date": "2018-11-30",
+    "location": "North Church",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "305248607"
+  },
+  {
     "title": "What's Going On? The Last Sequence to War",
     "path": "/vod/wgo/wgo113018",
     "nid": 1619,
@@ -377,25 +396,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "303914792"
-  },
-  {
-    "title": "United Community Church: Boston Children's Chorus 2018",
-    "path": "/vod/concerts/2018/ucc113018",
-    "nid": 1621,
-    "cablecastShowId": 7183,
-    "date": "2018-11-30",
-    "location": "North Church",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "305248607"
   },
   {
     "title": "St. Johnsbury History & Heritage: Scale Room Tour",
@@ -524,48 +524,6 @@
     "videoId": "331913106"
   },
   {
-    "title": "St. Johnsbury Athenaeum Arts & Culture Series: Cyber Security 101",
-    "path": "/vod/lectures/2018/111518",
-    "nid": 1613,
-    "cablecastShowId": 7143,
-    "date": "2018-11-15",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "302542718"
-  },
-  {
-    "title": "The American Vinyl All Star Band: Hunger Fest",
-    "path": "/vod/concerts/2018/avasb111518",
-    "nid": 1614,
-    "cablecastShowId": 7144,
-    "date": "2018-11-15",
-    "location": "St. Johnsbury Academy",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "302544007"
-  },
-  {
     "title": "What's Going On? Move Along, Nothing to See",
     "path": "/vod/wgo/wgo111518",
     "nid": 1635,
@@ -587,6 +545,48 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "314953245"
+  },
+  {
+    "title": "The American Vinyl All Star Band: Hunger Fest",
+    "path": "/vod/concerts/2018/avasb111518",
+    "nid": 1614,
+    "cablecastShowId": 7144,
+    "date": "2018-11-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "302544007"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum Arts & Culture Series: Cyber Security 101",
+    "path": "/vod/lectures/2018/111518",
+    "nid": 1613,
+    "cablecastShowId": 7143,
+    "date": "2018-11-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "302542718"
   },
   {
     "title": "St. Johnsbury Athenaeum Arts & Culture Series: Writing from the Outside In",
@@ -830,29 +830,6 @@
     "videoId": "298273706"
   },
   {
-    "title": "Lyndon Institute: Fall Concert 2018",
-    "path": "/vod/concerts/2018/lifall102518",
-    "nid": 758,
-    "cablecastShowId": 7095,
-    "date": "2018-10-25",
-    "location": "Lyndon Institute",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "307820643"
-  },
-  {
     "title": "Osher: Biomedical Origins Monsters",
     "path": "/vod/osher/2018/102518",
     "nid": 1602,
@@ -876,12 +853,12 @@
     "videoId": "297401424"
   },
   {
-    "title": "St. Johnsbury Academy Fall Concert 2018",
-    "path": "/vod/concerts/2018/sjafall102418",
-    "nid": 781,
-    "cablecastShowId": 7091,
-    "date": "2018-10-24",
-    "location": "St. Johnsbury Academy",
+    "title": "Lyndon Institute: Fall Concert 2018",
+    "path": "/vod/concerts/2018/lifall102518",
+    "nid": 758,
+    "cablecastShowId": 7095,
+    "date": "2018-10-25",
+    "location": "Lyndon Institute",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
@@ -890,32 +867,13 @@
         "path": "/vod/concerts"
       },
       {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "298804107"
-  },
-  {
-    "title": "Kingdom Animal Shelter: New Home Update",
-    "path": "/vod/other/2018/kas102418",
-    "nid": 1600,
-    "cablecastShowId": 7092,
-    "date": "2018-10-24",
-    "location": "Kingdom Animal Shelter",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "296925955"
+    "videoId": "307820643"
   },
   {
     "title": "St. Johnsbury Athenaeum Arts & Culture Series: Applied Mindfulness, 10/24/18",
@@ -941,6 +899,67 @@
     "videoId": "297380706"
   },
   {
+    "title": "Kingdom Animal Shelter: New Home Update",
+    "path": "/vod/other/2018/kas102418",
+    "nid": 1600,
+    "cablecastShowId": 7092,
+    "date": "2018-10-24",
+    "location": "Kingdom Animal Shelter",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296925955"
+  },
+  {
+    "title": "St. Johnsbury Academy Fall Concert 2018",
+    "path": "/vod/concerts/2018/sjafall102418",
+    "nid": 781,
+    "cablecastShowId": 7091,
+    "date": "2018-10-24",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "298804107"
+  },
+  {
+    "title": "Leap Beyond Stereotype: Circle of Friends",
+    "path": "/vod/studio/2018/leapbeyond102218",
+    "nid": 1599,
+    "cablecastShowId": 7093,
+    "date": "2018-10-22",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297412665"
+  },
+  {
     "title": "Vermont Bench & Bar Listening Tour",
     "path": "/vod/forums/2018/stjath102218",
     "nid": 1598,
@@ -962,25 +981,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "296930603"
-  },
-  {
-    "title": "Leap Beyond Stereotype: Circle of Friends",
-    "path": "/vod/studio/2018/leapbeyond102218",
-    "nid": 1599,
-    "cablecastShowId": 7093,
-    "date": "2018-10-22",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "297412665"
   },
   {
     "title": "114th LI vs SJA Football 2018",
@@ -1523,29 +1523,6 @@
     "videoId": "katv-stjselect-mtg-082718-6962"
   },
   {
-    "title": "Kingdom Animal Shelter: New Home",
-    "path": "/vod/studio/2018/kas082318",
-    "nid": 1571,
-    "cablecastShowId": 6957,
-    "date": "2018-08-23",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "288872018"
-  },
-  {
     "title": "What's Going On? Tools of Warfare Against Lower Class, Part 12",
     "path": "/vod/wgo/wgo082318",
     "nid": 1572,
@@ -1567,6 +1544,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "288871751"
+  },
+  {
+    "title": "Kingdom Animal Shelter: New Home",
+    "path": "/vod/studio/2018/kas082318",
+    "nid": 1571,
+    "cablecastShowId": 6957,
+    "date": "2018-08-23",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "288872018"
   },
   {
     "title": "Peacham Library: The Art of Storytelling",
@@ -1611,29 +1611,6 @@
     "videoId": "285624342"
   },
   {
-    "title": "Fairbanks Museum and Planetarium: Guinness World Record Attempt",
-    "path": "/vod/forums/2018/fmp081018",
-    "nid": 1565,
-    "cablecastShowId": 6948,
-    "date": "2018-08-10",
-    "location": "North Congregational Church",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "285624902"
-  },
-  {
     "title": "What's Going On? Tools of Warfare Against Lower Class, Part 11",
     "path": "/vod/wgo/wgo081018",
     "nid": 1568,
@@ -1655,6 +1632,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "285628532"
+  },
+  {
+    "title": "Fairbanks Museum and Planetarium: Guinness World Record Attempt",
+    "path": "/vod/forums/2018/fmp081018",
+    "nid": 1565,
+    "cablecastShowId": 6948,
+    "date": "2018-08-10",
+    "location": "North Congregational Church",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "285624902"
   },
   {
     "title": "Concord Select Board, 8/7/18",
@@ -1680,25 +1680,6 @@
     "videoId": "katv-concordselect-mtg-080718-6937"
   },
   {
-    "title": "Fresh Tracks Capital: Road Pitch 2018",
-    "path": "/vod/lectures/2018/freshtrackers080218",
-    "nid": 1566,
-    "cablecastShowId": 6924,
-    "date": "2018-08-02",
-    "location": "Catamount Arts",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "283344167"
-  },
-  {
     "title": "What's Going On? Tools of Warfare Against Lower Class, Part 10",
     "path": "/vod/wgo/wgo080218",
     "nid": 1567,
@@ -1720,6 +1701,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "283343227"
+  },
+  {
+    "title": "Fresh Tracks Capital: Road Pitch 2018",
+    "path": "/vod/lectures/2018/freshtrackers080218",
+    "nid": 1566,
+    "cablecastShowId": 6924,
+    "date": "2018-08-02",
+    "location": "Catamount Arts",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "283344167"
   },
   {
     "title": "St. Johnsbury Academy Theatre Presents: Antony and Cleopatra",
@@ -1963,10 +1963,10 @@
     "videoId": "279594565"
   },
   {
-    "title": "Vermont Forest Industry Summit 2018: Morning Plenary",
-    "path": "/vod/forums/2018/vtforest062918a",
-    "nid": 1545,
-    "cablecastShowId": 6846,
+    "title": "Vermont Forest Industry Summit 2018: Closing Panel",
+    "path": "/vod/forums/2018/vtforest062918h",
+    "nid": 1553,
+    "cablecastShowId": 6853,
     "date": "2018-06-29",
     "location": "Burke Mountain Conference Center",
     "year": "2018",
@@ -1979,102 +1979,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "278980018"
-  },
-  {
-    "title": "Vermont Forest Industry Summit 2018: Mass Timber",
-    "path": "/vod/forums/2018/vtforest062918b",
-    "nid": 1546,
-    "cablecastShowId": 6848,
-    "date": "2018-06-29",
-    "location": "Burke Mountain Conference Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "278989605"
-  },
-  {
-    "title": "Vermont Forest Industry Summit 2018: The Forest Story",
-    "path": "/vod/forums/2018/vtforest062918c",
-    "nid": 1547,
-    "cablecastShowId": 6850,
-    "date": "2018-06-29",
-    "location": "Burke Mountain Conference Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "278992226"
-  },
-  {
-    "title": "Vermont Forest Industry Summit 2018: Beyond The Woodstove",
-    "path": "/vod/forums/2018/vtforest062918d",
-    "nid": 1548,
-    "cablecastShowId": 6847,
-    "date": "2018-06-29",
-    "location": "Burke Mountain Conference Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "279596521"
-  },
-  {
-    "title": "Vermont Forest Industry Summit 2018: Trends in Wood",
-    "path": "/vod/forums/2018/vtforest062918e",
-    "nid": 1550,
-    "cablecastShowId": 6852,
-    "date": "2018-06-29",
-    "location": "Burke Mountain Conference Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "279537336"
-  },
-  {
-    "title": "Vermont Forest Industry Summit 2018: Local Wood",
-    "path": "/vod/forums/2018/vtforest062918f",
-    "nid": 1551,
-    "cablecastShowId": 6849,
-    "date": "2018-06-29",
-    "location": "Burke Mountain Conference Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "278983872"
+    "videoId": "278998796"
   },
   {
     "title": "Vermont Forest Industry Summit 2018: Marketing & Communications",
@@ -2096,10 +2001,10 @@
     "videoId": "278994972"
   },
   {
-    "title": "Vermont Forest Industry Summit 2018: Closing Panel",
-    "path": "/vod/forums/2018/vtforest062918h",
-    "nid": 1553,
-    "cablecastShowId": 6853,
+    "title": "Vermont Forest Industry Summit 2018: Local Wood",
+    "path": "/vod/forums/2018/vtforest062918f",
+    "nid": 1551,
+    "cablecastShowId": 6849,
     "date": "2018-06-29",
     "location": "Burke Mountain Conference Center",
     "year": "2018",
@@ -2112,7 +2017,102 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "278998796"
+    "videoId": "278983872"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Trends in Wood",
+    "path": "/vod/forums/2018/vtforest062918e",
+    "nid": 1550,
+    "cablecastShowId": 6852,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279537336"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Beyond The Woodstove",
+    "path": "/vod/forums/2018/vtforest062918d",
+    "nid": 1548,
+    "cablecastShowId": 6847,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279596521"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: The Forest Story",
+    "path": "/vod/forums/2018/vtforest062918c",
+    "nid": 1547,
+    "cablecastShowId": 6850,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278992226"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Mass Timber",
+    "path": "/vod/forums/2018/vtforest062918b",
+    "nid": 1546,
+    "cablecastShowId": 6848,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278989605"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Morning Plenary",
+    "path": "/vod/forums/2018/vtforest062918a",
+    "nid": 1545,
+    "cablecastShowId": 6846,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278980018"
   },
   {
     "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Jeff Friedman",
@@ -2402,6 +2402,25 @@
     "videoId": "274353863"
   },
   {
+    "title": "Vermont Attorney General.: Elder Protection, Listening Tour",
+    "path": "/vod/forums/2018/vtatg053018",
+    "nid": 1528,
+    "cablecastShowId": 6763,
+    "date": "2018-05-30",
+    "location": "Good Living Senior Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "274349785"
+  },
+  {
     "title": "St. Johnsbury Select Board, 5/30/18",
     "path": "/vod/stjselect/2018/053018",
     "nid": 1527,
@@ -2423,25 +2442,6 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-053018-6764"
-  },
-  {
-    "title": "Vermont Attorney General.: Elder Protection, Listening Tour",
-    "path": "/vod/forums/2018/vtatg053018",
-    "nid": 1528,
-    "cablecastShowId": 6763,
-    "date": "2018-05-30",
-    "location": "Good Living Senior Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "274349785"
   },
   {
     "title": "Town of Saint Johnsbury Public Hearing, 5/29/18",
@@ -2628,29 +2628,6 @@
     "videoId": "282072939"
   },
   {
-    "title": "What's Going On? Tools of Warfare Against Lower Class, Part 2",
-    "path": "/vod/wgo/wgo051018",
-    "nid": 1519,
-    "cablecastShowId": 6702,
-    "date": "2018-05-10",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "269412290"
-  },
-  {
     "title": "Osher: Crows and Ravens",
     "path": "/vod/osher/2018/051018",
     "nid": 1520,
@@ -2672,6 +2649,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "269413185"
+  },
+  {
+    "title": "What's Going On? Tools of Warfare Against Lower Class, Part 2",
+    "path": "/vod/wgo/wgo051018",
+    "nid": 1519,
+    "cablecastShowId": 6702,
+    "date": "2018-05-10",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "269412290"
   },
   {
     "title": "In & Around St. J: Community Events 5/8/18",
@@ -2892,29 +2892,6 @@
     "videoId": "katv-stjselect-mtg-042318-6636"
   },
   {
-    "title": "What's Going On? Truth, A Dangerous Commodity",
-    "path": "/vod/wgo/wgo041918",
-    "nid": 1505,
-    "cablecastShowId": 6635,
-    "date": "2018-04-19",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "265912761"
-  },
-  {
     "title": "Osher: Learning to Walk Softly",
     "path": "/vod/osher/2018/041918",
     "nid": 1506,
@@ -2938,46 +2915,27 @@
     "videoId": "265921920"
   },
   {
-    "title": "Green Mountain Care Board: NVRH",
-    "path": "/vod/forums/2018/gmcb041818",
-    "nid": 1502,
-    "cablecastShowId": 6624,
-    "date": "2018-04-18",
-    "location": "NVRH",
+    "title": "What's Going On? Truth, A Dangerous Commodity",
+    "path": "/vod/wgo/wgo041918",
+    "nid": 1505,
+    "cablecastShowId": 6635,
+    "date": "2018-04-19",
+    "location": "KATV Studio",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "265918932"
-  },
-  {
-    "title": "St. Johnsbury Athenaeum: Poem Town Readers, 4/18/18",
-    "path": "/vod/lectures/2018/stjath041818",
-    "nid": 1503,
-    "cablecastShowId": 6621,
-    "date": "2018-04-18",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "265914832"
+    "videoId": "265912761"
   },
   {
     "title": "St. Johnsbury Athenaeum: Evening of Pulp Fiction, A&C Lecture",
@@ -3003,6 +2961,48 @@
     "videoId": "265922523"
   },
   {
+    "title": "St. Johnsbury Athenaeum: Poem Town Readers, 4/18/18",
+    "path": "/vod/lectures/2018/stjath041818",
+    "nid": 1503,
+    "cablecastShowId": 6621,
+    "date": "2018-04-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "265914832"
+  },
+  {
+    "title": "Green Mountain Care Board: NVRH",
+    "path": "/vod/forums/2018/gmcb041818",
+    "nid": 1502,
+    "cablecastShowId": 6624,
+    "date": "2018-04-18",
+    "location": "NVRH",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "265918932"
+  },
+  {
     "title": "St. Johnsbury Players: Nunsense Promo",
     "path": "/vod/studio/2018/stjplayers041618",
     "nid": 1501,
@@ -3020,52 +3020,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "265911943"
-  },
-  {
-    "title": "What's Going On? Traitor Phil",
-    "path": "/vod/wgo/wgo041218",
-    "nid": 1498,
-    "cablecastShowId": 6611,
-    "date": "2018-04-12",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "265911150"
-  },
-  {
-    "title": "Osher: My Journey as a Muslim",
-    "path": "/vod/osher/2018/041218",
-    "nid": 1499,
-    "cablecastShowId": 6606,
-    "date": "2018-04-12",
-    "location": "Catamount Arts",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "264879386"
   },
   {
     "title": "St. Johnsbury Athenaeum: The Full Vermonty: VT, Age of Trump",
@@ -3091,27 +3045,73 @@
     "videoId": "264884239"
   },
   {
-    "title": "Lyndon Institute Spring 2018 Concert",
-    "path": "/vod/concerts/2018/lispring041118",
-    "nid": 756,
-    "cablecastShowId": 6604,
-    "date": "2018-04-11",
-    "location": "Lyndon Institute",
+    "title": "Osher: My Journey as a Muslim",
+    "path": "/vod/osher/2018/041218",
+    "nid": 1499,
+    "cablecastShowId": 6606,
+    "date": "2018-04-12",
+    "location": "Catamount Arts",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "264876866"
+    "videoId": "264879386"
+  },
+  {
+    "title": "What's Going On? Traitor Phil",
+    "path": "/vod/wgo/wgo041218",
+    "nid": 1498,
+    "cablecastShowId": 6611,
+    "date": "2018-04-12",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "265911150"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Two Lives: Reeve Lindbergh",
+    "path": "/vod/lectures/2018/stjath041118b",
+    "nid": 1497,
+    "cablecastShowId": 6605,
+    "date": "2018-04-11",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "264878374"
   },
   {
     "title": "St. Johnsbury Athenaeum: Poem Town Readers, 4/11/18",
@@ -3137,27 +3137,27 @@
     "videoId": "264874004"
   },
   {
-    "title": "St. Johnsbury Athenaeum: Two Lives: Reeve Lindbergh",
-    "path": "/vod/lectures/2018/stjath041118b",
-    "nid": 1497,
-    "cablecastShowId": 6605,
+    "title": "Lyndon Institute Spring 2018 Concert",
+    "path": "/vod/concerts/2018/lispring041118",
+    "nid": 756,
+    "cablecastShowId": 6604,
     "date": "2018-04-11",
-    "location": "St. Johnsbury Athenaeum",
+    "location": "Lyndon Institute",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "264878374"
+    "videoId": "264876866"
   },
   {
     "title": "In & Around St. J: Summer 2018 Events",
@@ -3344,27 +3344,23 @@
     "videoId": "264775899"
   },
   {
-    "title": "Kingdom East School District Budget Presentation 2018",
-    "path": "/vod/studio/2018/kebudget032318",
-    "nid": 1430,
-    "cablecastShowId": 6543,
+    "title": "Leap Beyond Stereotype: Sonja Dietrich",
+    "path": "/vod/studio/2018/leap032318",
+    "nid": 1540,
+    "cablecastShowId": 6553,
     "date": "2018-03-23",
     "location": "KATV Studio",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261577392"
+    "videoId": "279503493"
   },
   {
     "title": "Osher: Bill Monroe and the Birth of Bluegrass",
@@ -3390,23 +3386,27 @@
     "videoId": "264772931"
   },
   {
-    "title": "Leap Beyond Stereotype: Sonja Dietrich",
-    "path": "/vod/studio/2018/leap032318",
-    "nid": 1540,
-    "cablecastShowId": 6553,
+    "title": "Kingdom East School District Budget Presentation 2018",
+    "path": "/vod/studio/2018/kebudget032318",
+    "nid": 1430,
+    "cablecastShowId": 6543,
     "date": "2018-03-23",
     "location": "KATV Studio",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "279503493"
+    "videoId": "261577392"
   },
   {
     "title": "What's Going On? G. O. V. Ed Cutler",
@@ -3432,25 +3432,6 @@
     "videoId": "265907017"
   },
   {
-    "title": "Island Pond Conserved Lands Public Forum",
-    "path": "/vod/lectures/2018/islandpond032018",
-    "nid": 1483,
-    "cablecastShowId": 6519,
-    "date": "2018-03-20",
-    "location": "Island Pond",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "264767168"
-  },
-  {
     "title": "In & Around St. J: Spring 2018 Events",
     "path": "/vod/studio/2018/iastj032018",
     "nid": 1484,
@@ -3472,6 +3453,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "264768706"
+  },
+  {
+    "title": "Island Pond Conserved Lands Public Forum",
+    "path": "/vod/lectures/2018/islandpond032018",
+    "nid": 1483,
+    "cablecastShowId": 6519,
+    "date": "2018-03-20",
+    "location": "Island Pond",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "264767168"
   },
   {
     "title": "St. Johnsbury School Board, 3/19/18",
@@ -3497,10 +3497,10 @@
     "videoId": "katv-stjschool-mtg-031918-6515"
   },
   {
-    "title": "Rotary Basketball 2018: Waterford vs. Lyndon",
-    "path": "/vod/sports/rotarybb2018-waterford-lyndon",
-    "nid": 1462,
-    "cablecastShowId": 6525,
+    "title": "Rotary Basketball 2018: Waterford vs. Colonel Town",
+    "path": "/vod/sports/rotarybb2018-waterford-ct",
+    "nid": 1466,
+    "cablecastShowId": 6529,
     "date": "2018-03-17",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -3517,53 +3517,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "263372764"
-  },
-  {
-    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Bethlehem",
-    "path": "/vod/sports/rotarybb2018-stj-beth",
-    "nid": 1463,
-    "cablecastShowId": 6526,
-    "date": "2018-03-17",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "263381067"
-  },
-  {
-    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Orleans",
-    "path": "/vod/sports/rotarybb2018-stj-orleans",
-    "nid": 1464,
-    "cablecastShowId": 6527,
-    "date": "2018-03-17",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "263387580"
+    "videoId": "263397579"
   },
   {
     "title": "Rotary Basketball 2018: Glover vs. St Johnsbury School",
@@ -3589,10 +3543,10 @@
     "videoId": "263394615"
   },
   {
-    "title": "Rotary Basketball 2018: Waterford vs. Colonel Town",
-    "path": "/vod/sports/rotarybb2018-waterford-ct",
-    "nid": 1466,
-    "cablecastShowId": 6529,
+    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Orleans",
+    "path": "/vod/sports/rotarybb2018-stj-orleans",
+    "nid": 1464,
+    "cablecastShowId": 6527,
     "date": "2018-03-17",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -3609,14 +3563,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "263397579"
+    "videoId": "263387580"
   },
   {
-    "title": "Rotary Basketball 2018: Hardwick vs. Lyndon Town School",
-    "path": "/vod/sports/rotarybb2018-hardwick-lyndonts",
-    "nid": 1459,
-    "cablecastShowId": 6520,
-    "date": "2018-03-16",
+    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Bethlehem",
+    "path": "/vod/sports/rotarybb2018-stj-beth",
+    "nid": 1463,
+    "cablecastShowId": 6526,
+    "date": "2018-03-17",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -3632,14 +3586,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "263348597"
+    "videoId": "263381067"
   },
   {
-    "title": "Rotary Basketball 2018: Orleans vs. Lyndon",
-    "path": "/vod/sports/rotarybb2018-orleans-lyndon",
-    "nid": 1460,
-    "cablecastShowId": 6521,
-    "date": "2018-03-16",
+    "title": "Rotary Basketball 2018: Waterford vs. Lyndon",
+    "path": "/vod/sports/rotarybb2018-waterford-lyndon",
+    "nid": 1462,
+    "cablecastShowId": 6525,
+    "date": "2018-03-17",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -3655,7 +3609,26 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "263351680"
+    "videoId": "263372764"
+  },
+  {
+    "title": "Leap Beyond Stereotype: Jay Bona",
+    "path": "/vod/studio/2018/leap031618",
+    "nid": 1539,
+    "cablecastShowId": 6523,
+    "date": "2018-03-16",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "263370204"
   },
   {
     "title": "Rotary Basketball 2018: Newport vs. St Johnsbury",
@@ -3681,30 +3654,11 @@
     "videoId": "263356226"
   },
   {
-    "title": "Leap Beyond Stereotype: Jay Bona",
-    "path": "/vod/studio/2018/leap031618",
-    "nid": 1539,
-    "cablecastShowId": 6523,
+    "title": "Rotary Basketball 2018: Orleans vs. Lyndon",
+    "path": "/vod/sports/rotarybb2018-orleans-lyndon",
+    "nid": 1460,
+    "cablecastShowId": 6521,
     "date": "2018-03-16",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "263370204"
-  },
-  {
-    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Danville",
-    "path": "/vod/sports/rotarybb2018-stj-danville",
-    "nid": 1452,
-    "cablecastShowId": 6505,
-    "date": "2018-03-15",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -3720,14 +3674,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262615406"
+    "videoId": "263351680"
   },
   {
-    "title": "Rotary Basketball 2018: Good Shepherd vs. CNSU Lyndon",
-    "path": "/vod/sports/rotarybb2018-goodshep-cnsulyndon",
-    "nid": 1453,
-    "cablecastShowId": 6506,
-    "date": "2018-03-15",
+    "title": "Rotary Basketball 2018: Hardwick vs. Lyndon Town School",
+    "path": "/vod/sports/rotarybb2018-hardwick-lyndonts",
+    "nid": 1459,
+    "cablecastShowId": 6520,
+    "date": "2018-03-16",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -3743,145 +3697,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262614901"
-  },
-  {
-    "title": "Rotary Basketball 2018: Campton vs. Saint Johnsbury",
-    "path": "/vod/sports/rotarybb2018-campton-stj",
-    "nid": 1454,
-    "cablecastShowId": 6507,
-    "date": "2018-03-15",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262617636"
-  },
-  {
-    "title": "Rotary Basketball 2018: Lyndon 5-6 vs. Newport",
-    "path": "/vod/sports/rotarybb2018-lyndon56-newport",
-    "nid": 1455,
-    "cablecastShowId": 6512,
-    "date": "2018-03-15",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262773981"
-  },
-  {
-    "title": "Rotary Basketball 2018: Danville vs. Lancaster",
-    "path": "/vod/sports/rotarybb2018-danville-lancaster",
-    "nid": 1456,
-    "cablecastShowId": 6513,
-    "date": "2018-03-15",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262776367"
-  },
-  {
-    "title": "Rotary Basketball 2018: Good Shepherd vs. Waterford",
-    "path": "/vod/sports/rotarybb2018-goodshep-waterford-031518",
-    "nid": 1457,
-    "cablecastShowId": 6515,
-    "date": "2018-03-15",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "263342655"
-  },
-  {
-    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Brighton",
-    "path": "/vod/sports/rotarybb2018-cnsulyndon-brighton",
-    "nid": 1458,
-    "cablecastShowId": 6514,
-    "date": "2018-03-15",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "263337370"
-  },
-  {
-    "title": "Osher: What Comes Next In The Middle East?",
-    "path": "/vod/osher/2018/031518",
-    "nid": 1480,
-    "cablecastShowId": 6500,
-    "date": "2018-03-15",
-    "location": "Catamount Arts",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262777563"
+    "videoId": "263348597"
   },
   {
     "title": "First Wednesday: Frederick Douglass & Abraham Lincoln",
@@ -3907,33 +3723,194 @@
     "videoId": "263343634"
   },
   {
-    "title": "Rotary Basketball 2018: Waterford vs. Littleton",
-    "path": "/vod/sports/rotarybb2018-waterford-littleton",
-    "nid": 1448,
-    "cablecastShowId": 6508,
-    "date": "2018-03-14",
-    "location": "St. Johnsbury School",
+    "title": "Osher: What Comes Next In The Middle East?",
+    "path": "/vod/osher/2018/031518",
+    "nid": 1480,
+    "cablecastShowId": 6500,
+    "date": "2018-03-15",
+    "location": "Catamount Arts",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Local Sports",
-        "path": "/vod/sports"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262618814"
+    "videoId": "262777563"
   },
   {
-    "title": "Rotary Basketball 2018: Danville vs. Waterford",
-    "path": "/vod/sports/rotarybb2018-danville-wateford",
-    "nid": 1449,
-    "cablecastShowId": 6509,
+    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Brighton",
+    "path": "/vod/sports/rotarybb2018-cnsulyndon-brighton",
+    "nid": 1458,
+    "cablecastShowId": 6514,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "263337370"
+  },
+  {
+    "title": "Rotary Basketball 2018: Good Shepherd vs. Waterford",
+    "path": "/vod/sports/rotarybb2018-goodshep-waterford-031518",
+    "nid": 1457,
+    "cablecastShowId": 6515,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "263342655"
+  },
+  {
+    "title": "Rotary Basketball 2018: Danville vs. Lancaster",
+    "path": "/vod/sports/rotarybb2018-danville-lancaster",
+    "nid": 1456,
+    "cablecastShowId": 6513,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262776367"
+  },
+  {
+    "title": "Rotary Basketball 2018: Lyndon 5-6 vs. Newport",
+    "path": "/vod/sports/rotarybb2018-lyndon56-newport",
+    "nid": 1455,
+    "cablecastShowId": 6512,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262773981"
+  },
+  {
+    "title": "Rotary Basketball 2018: Campton vs. Saint Johnsbury",
+    "path": "/vod/sports/rotarybb2018-campton-stj",
+    "nid": 1454,
+    "cablecastShowId": 6507,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262617636"
+  },
+  {
+    "title": "Rotary Basketball 2018: Good Shepherd vs. CNSU Lyndon",
+    "path": "/vod/sports/rotarybb2018-goodshep-cnsulyndon",
+    "nid": 1453,
+    "cablecastShowId": 6506,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262614901"
+  },
+  {
+    "title": "Rotary Basketball 2018: Saint Johnsbury vs. Danville",
+    "path": "/vod/sports/rotarybb2018-stj-danville",
+    "nid": 1452,
+    "cablecastShowId": 6505,
+    "date": "2018-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262615406"
+  },
+  {
+    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Waterford",
+    "path": "/vod/sports/rotarybb2018-cnsulyndon-waterford-031418",
+    "nid": 1451,
+    "cablecastShowId": 6511,
     "date": "2018-03-14",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -3950,7 +3927,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262620189"
+    "videoId": "262622699"
   },
   {
     "title": "Rotary Basketball 2018: Good Shepherd vs. Glover",
@@ -3976,10 +3953,10 @@
     "videoId": "262622514"
   },
   {
-    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Waterford",
-    "path": "/vod/sports/rotarybb2018-cnsulyndon-waterford-031418",
-    "nid": 1451,
-    "cablecastShowId": 6511,
+    "title": "Rotary Basketball 2018: Danville vs. Waterford",
+    "path": "/vod/sports/rotarybb2018-danville-wateford",
+    "nid": 1449,
+    "cablecastShowId": 6509,
     "date": "2018-03-14",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -3996,7 +3973,30 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262622699"
+    "videoId": "262620189"
+  },
+  {
+    "title": "Rotary Basketball 2018: Waterford vs. Littleton",
+    "path": "/vod/sports/rotarybb2018-waterford-littleton",
+    "nid": 1448,
+    "cablecastShowId": 6508,
+    "date": "2018-03-14",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "262618814"
   },
   {
     "title": "Concord Select Board, 3/13/18",
@@ -4045,10 +4045,10 @@
     "videoId": "katv-stjselect-mtg-031218-6482"
   },
   {
-    "title": "Rotary Basketball 2018: Bethlehem vs. Hardwick",
-    "path": "/vod/sports/rotarybb2018-beth-hardwick",
-    "nid": 1443,
-    "cablecastShowId": 6489,
+    "title": "Rotary Basketball 2018: Brighton vs. Barnet",
+    "path": "/vod/sports/rotarybb2018-brighton-barnet",
+    "nid": 1447,
+    "cablecastShowId": 6488,
     "date": "2018-03-12",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -4065,53 +4065,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262542493"
-  },
-  {
-    "title": "Rotary Basketball 2018: St Johnsbury vs. Lyndon",
-    "path": "/vod/sports/rotarybb2018-stj-lyndon",
-    "nid": 1444,
-    "cablecastShowId": 6490,
-    "date": "2018-03-12",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262544744"
-  },
-  {
-    "title": "Rotary Basketball 2018: Hardwick vs. St. Johnsbury",
-    "path": "/vod/sports/rotarybb2018-hardwick-stj",
-    "nid": 1445,
-    "cablecastShowId": 6486,
-    "date": "2018-03-12",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "262533707"
+    "videoId": "262537419"
   },
   {
     "title": "Rotary Basketball 2018: Good Shepherd vs. Waterford",
@@ -4137,10 +4091,10 @@
     "videoId": "262534438"
   },
   {
-    "title": "Rotary Basketball 2018: Brighton vs. Barnet",
-    "path": "/vod/sports/rotarybb2018-brighton-barnet",
-    "nid": 1447,
-    "cablecastShowId": 6488,
+    "title": "Rotary Basketball 2018: Hardwick vs. St. Johnsbury",
+    "path": "/vod/sports/rotarybb2018-hardwick-stj",
+    "nid": 1445,
+    "cablecastShowId": 6486,
     "date": "2018-03-12",
     "location": "St. Johnsbury School",
     "year": "2018",
@@ -4157,33 +4111,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "262537419"
+    "videoId": "262533707"
   },
   {
-    "title": "NEKYS: Jump Jazz Jubilee",
-    "path": "/vod/studio/2018/nekys030918",
-    "nid": 1429,
-    "cablecastShowId": 6469,
-    "date": "2018-03-09",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "261577546"
-  },
-  {
-    "title": "Rotary Basketball 2018: Danville vs. Cabot",
-    "path": "/vod/sports/rotarybb2018-danville-cabot",
-    "nid": 1435,
-    "cablecastShowId": 6471,
-    "date": "2018-03-09",
+    "title": "Rotary Basketball 2018: St Johnsbury vs. Lyndon",
+    "path": "/vod/sports/rotarybb2018-stj-lyndon",
+    "nid": 1444,
+    "cablecastShowId": 6490,
+    "date": "2018-03-12",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4199,14 +4134,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261628823"
+    "videoId": "262544744"
   },
   {
-    "title": "Rotary Basketball 2018: Barnet vs. Littleton",
-    "path": "/vod/sports/rotarybb2018-barnet-littleton",
-    "nid": 1436,
-    "cablecastShowId": 6472,
-    "date": "2018-03-09",
+    "title": "Rotary Basketball 2018: Bethlehem vs. Hardwick",
+    "path": "/vod/sports/rotarybb2018-beth-hardwick",
+    "nid": 1443,
+    "cablecastShowId": 6489,
+    "date": "2018-03-12",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4222,30 +4157,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261629402"
-  },
-  {
-    "title": "Rotary Basketball 2018: Campton vs. Profile",
-    "path": "/vod/sports/rotarybb2018-campton-profile",
-    "nid": 1437,
-    "cablecastShowId": 6473,
-    "date": "2018-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "261631599"
+    "videoId": "262542493"
   },
   {
     "title": "Rotary Basketball 2018: CNSU Lyndon vs. St. Johnsbury",
@@ -4271,11 +4183,11 @@
     "videoId": "261632148"
   },
   {
-    "title": "Rotary Basketball 2018: Newport vs. Hardwick",
-    "path": "/vod/sports/rotarybb2018-newport-hardwick",
-    "nid": 1439,
-    "cablecastShowId": 6466,
-    "date": "2018-03-08",
+    "title": "Rotary Basketball 2018: Campton vs. Profile",
+    "path": "/vod/sports/rotarybb2018-campton-profile",
+    "nid": 1437,
+    "cablecastShowId": 6473,
+    "date": "2018-03-09",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4291,14 +4203,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261619375"
+    "videoId": "261631599"
   },
   {
-    "title": "Rotary Basketball 2018: Barnet vs. Glover",
-    "path": "/vod/sports/rotarybb2018-barnet-glover",
-    "nid": 1440,
-    "cablecastShowId": 6467,
-    "date": "2018-03-08",
+    "title": "Rotary Basketball 2018: Barnet vs. Littleton",
+    "path": "/vod/sports/rotarybb2018-barnet-littleton",
+    "nid": 1436,
+    "cablecastShowId": 6472,
+    "date": "2018-03-09",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4314,14 +4226,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261618932"
+    "videoId": "261629402"
   },
   {
-    "title": "Rotary Basketball 2018: Orleans vs. Lyndon Town School",
-    "path": "/vod/sports/rotarybb2018-orleans-lts",
-    "nid": 1441,
-    "cablecastShowId": 6475,
-    "date": "2018-03-08",
+    "title": "Rotary Basketball 2018: Danville vs. Cabot",
+    "path": "/vod/sports/rotarybb2018-danville-cabot",
+    "nid": 1435,
+    "cablecastShowId": 6471,
+    "date": "2018-03-09",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4337,7 +4249,26 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "261626496"
+    "videoId": "261628823"
+  },
+  {
+    "title": "NEKYS: Jump Jazz Jubilee",
+    "path": "/vod/studio/2018/nekys030918",
+    "nid": 1429,
+    "cablecastShowId": 6469,
+    "date": "2018-03-09",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "261577546"
   },
   {
     "title": "Rotary Basketball 2018: Lancaster vs. St. Johnsbury",
@@ -4363,11 +4294,11 @@
     "videoId": "261625225"
   },
   {
-    "title": "Rotary Basketball 2018: Waterford vs. Barnet",
-    "path": "/vod/sports/rotarybb2018-waterford-barnet",
-    "nid": 1433,
-    "cablecastShowId": 6459,
-    "date": "2018-03-07",
+    "title": "Rotary Basketball 2018: Orleans vs. Lyndon Town School",
+    "path": "/vod/sports/rotarybb2018-orleans-lts",
+    "nid": 1441,
+    "cablecastShowId": 6475,
+    "date": "2018-03-08",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4383,14 +4314,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "259522924"
+    "videoId": "261626496"
   },
   {
-    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Waterford",
-    "path": "/vod/sports/rotarybb2018-cnsulyndon-waterford",
-    "nid": 1434,
-    "cablecastShowId": 6465,
-    "date": "2018-03-07",
+    "title": "Rotary Basketball 2018: Barnet vs. Glover",
+    "path": "/vod/sports/rotarybb2018-barnet-glover",
+    "nid": 1440,
+    "cablecastShowId": 6467,
+    "date": "2018-03-08",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4406,7 +4337,30 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "259523038"
+    "videoId": "261618932"
+  },
+  {
+    "title": "Rotary Basketball 2018: Newport vs. Hardwick",
+    "path": "/vod/sports/rotarybb2018-newport-hardwick",
+    "nid": 1439,
+    "cablecastShowId": 6466,
+    "date": "2018-03-08",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "261619375"
   },
   {
     "title": "What's Going On? Victims of an Amoral Society",
@@ -4432,11 +4386,11 @@
     "videoId": "272403180"
   },
   {
-    "title": "Rotary Basketball 2018: Colonel Town vs. Newport",
-    "path": "/vod/sports/rotarybb2018-colonel-newport",
-    "nid": 1431,
-    "cablecastShowId": 6457,
-    "date": "2018-03-05",
+    "title": "Rotary Basketball 2018: CNSU Lyndon vs. Waterford",
+    "path": "/vod/sports/rotarybb2018-cnsulyndon-waterford",
+    "nid": 1434,
+    "cablecastShowId": 6465,
+    "date": "2018-03-07",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
@@ -4452,7 +4406,30 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "259525489"
+    "videoId": "259523038"
+  },
+  {
+    "title": "Rotary Basketball 2018: Waterford vs. Barnet",
+    "path": "/vod/sports/rotarybb2018-waterford-barnet",
+    "nid": 1433,
+    "cablecastShowId": 6459,
+    "date": "2018-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "259522924"
   },
   {
     "title": "Rotary Basketball 2018: Danville vs. CNSU Lyndon",
@@ -4478,27 +4455,27 @@
     "videoId": "259525435"
   },
   {
-    "title": "St. Johnsbury School, Budget Presentation, 3/1/18",
-    "path": "/vod/stjschool/2018/budget030118",
-    "nid": 1428,
-    "cablecastShowId": 6446,
-    "date": "2018-03-01",
+    "title": "Rotary Basketball 2018: Colonel Town vs. Newport",
+    "path": "/vod/sports/rotarybb2018-colonel-newport",
+    "nid": 1431,
+    "cablecastShowId": 6457,
+    "date": "2018-03-05",
     "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-030118-6446"
+    "videoSource": "vimeo",
+    "videoId": "259525489"
   },
   {
     "title": "What's Going On? Fatherless \"Victims\"",
@@ -4524,12 +4501,12 @@
     "videoId": "272403191"
   },
   {
-    "title": "St. Johnsbury Select Board, 2/26/18",
-    "path": "/vod/stjselect/2018/022618",
-    "nid": 1424,
-    "cablecastShowId": 6434,
-    "date": "2018-02-26",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "St. Johnsbury School, Budget Presentation, 3/1/18",
+    "path": "/vod/stjschool/2018/budget030118",
+    "nid": 1428,
+    "cablecastShowId": 6446,
+    "date": "2018-03-01",
+    "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
@@ -4538,13 +4515,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-022618-6434"
+    "videoId": "katv-stjschool-mtg-030118-6446"
   },
   {
     "title": "Legislative Breakfast, February 2018",
@@ -4568,6 +4545,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "258359842"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/26/18",
+    "path": "/vod/stjselect/2018/022618",
+    "nid": 1424,
+    "cablecastShowId": 6434,
+    "date": "2018-02-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022618-6434"
   },
   {
     "title": "What's Going On? George Washington's Example",
@@ -4685,29 +4685,6 @@
     "videoId": "257424588"
   },
   {
-    "title": "St. Johnsbury Select Board, 2/12/18",
-    "path": "/vod/stjselect/2018/021218",
-    "nid": 1422,
-    "cablecastShowId": 6379,
-    "date": "2018-02-12",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-021218-6379"
-  },
-  {
     "title": "Vermont FY2019 State Budget Public Hearing, 2/12/18",
     "path": "/vod/politics/2018/vtbudget021218",
     "nid": 1423,
@@ -4729,6 +4706,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-vtstatebudget-021218-6380"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/12/18",
+    "path": "/vod/stjselect/2018/021218",
+    "nid": 1422,
+    "cablecastShowId": 6379,
+    "date": "2018-02-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021218-6379"
   },
   {
     "title": "Concord Select Board, 2/6/18",
@@ -4865,12 +4865,12 @@
     "videoId": "253009301"
   },
   {
-    "title": "St. Johnsbury School Board, 1/22/18",
-    "path": "/vod/stjschool/2018/012218",
-    "nid": 1414,
-    "cablecastShowId": 6306,
+    "title": "St. Johnsbury Select Board, 1/22/18 Special Meeting",
+    "path": "/vod/stjselect/2018/012218spec",
+    "nid": 1416,
+    "cablecastShowId": 6309,
     "date": "2018-01-22",
-    "location": "St. Johnsbury School",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
@@ -4879,13 +4879,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-012218-6306"
+    "videoId": "katv-stjselect-mtg-012218-6309"
   },
   {
     "title": "St. Johnsbury Select Board, 1/22/18",
@@ -4911,12 +4911,12 @@
     "videoId": "katv-stjselect-mtg-012218-6307"
   },
   {
-    "title": "St. Johnsbury Select Board, 1/22/18 Special Meeting",
-    "path": "/vod/stjselect/2018/012218spec",
-    "nid": 1416,
-    "cablecastShowId": 6309,
+    "title": "St. Johnsbury School Board, 1/22/18",
+    "path": "/vod/stjschool/2018/012218",
+    "nid": 1414,
+    "cablecastShowId": 6306,
     "date": "2018-01-22",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "St. Johnsbury School",
     "year": "2018",
     "yearPath": "/vod/year/2018",
     "categories": [
@@ -4925,13 +4925,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-012218-6309"
+    "videoId": "katv-stjschool-mtg-012218-6306"
   },
   {
     "title": "Lyndon Institute: A Lyndon Home Companion",
@@ -5026,29 +5026,6 @@
     "videoId": "katv-stjschool-mtg-011518-6283"
   },
   {
-    "title": "What's Going On? Justice Can Prevail, Crime Continues",
-    "path": "/vod/wgo/wgo011118",
-    "nid": 1409,
-    "cablecastShowId": 6278,
-    "date": "2018-01-11",
-    "location": "KATV Studio",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "250929620"
-  },
-  {
     "title": "Waterford School: 3-5 Grade Winter Concert 2018",
     "path": "/vod/concerts/2018/waterford011118",
     "nid": 1410,
@@ -5070,6 +5047,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "250928876"
+  },
+  {
+    "title": "What's Going On? Justice Can Prevail, Crime Continues",
+    "path": "/vod/wgo/wgo011118",
+    "nid": 1409,
+    "cablecastShowId": 6278,
+    "date": "2018-01-11",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "250929620"
   },
   {
     "title": "In & Around St. J: Concord Revitalized",
@@ -5095,29 +5095,6 @@
     "videoId": "251098039"
   },
   {
-    "title": "St. Johnsbury School Board, 1/18/18",
-    "path": "/vod/stjschool/2018/010818",
-    "nid": 1406,
-    "cablecastShowId": 6253,
-    "date": "2018-01-08",
-    "location": "St. Johnsbury School",
-    "year": "2018",
-    "yearPath": "/vod/year/2018",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-010818-6253"
-  },
-  {
     "title": "St. Johnsbury Select Board, 1/8/18",
     "path": "/vod/stjselect/2018/010818",
     "nid": 1408,
@@ -5139,6 +5116,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-010818-6254"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/18/18",
+    "path": "/vod/stjschool/2018/010818",
+    "nid": 1406,
+    "cablecastShowId": 6253,
+    "date": "2018-01-08",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010818-6253"
   },
   {
     "title": "What's Going On? Lavoy Finicum Assassination",

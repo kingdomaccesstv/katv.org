@@ -46,6 +46,29 @@
     "videoId": "34693143"
   },
   {
+    "title": "Where We Are [WGO 71]",
+    "path": "/vod/wgo/wgo71",
+    "nid": 172,
+    "cablecastShowId": 1241,
+    "date": "2011-12-20",
+    "location": "KATV Studio",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "63064751"
+  },
+  {
     "title": "Ten Years of Archaeological Research in Mongolia: Bruno Frohlich",
     "path": "/vod/lectures/2011/frohlich121511",
     "nid": 65,
@@ -63,6 +86,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "34442707"
+  },
+  {
+    "title": "The World is in Trouble [WGO 72]",
+    "path": "/vod/wgo/wgo72",
+    "nid": 173,
+    "cablecastShowId": 1249,
+    "date": "2011-12-14",
+    "location": "KATV Studio",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "63064752"
   },
   {
     "title": "St. Johnsbury Select Board, 12/12/11 ",
@@ -111,29 +157,6 @@
     "videoId": "34439773"
   },
   {
-    "title": "St. Johnsbury School Board, 12/5/11 ",
-    "path": "/vod/stjschool/2011/120511",
-    "nid": 61,
-    "cablecastShowId": 1222,
-    "date": "2011-12-05",
-    "location": "St. Johnsbury School",
-    "year": "2011",
-    "yearPath": "/vod/year/2011",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "33847295"
-  },
-  {
     "title": "Concord School Board, 12/5/11 ",
     "path": "/vod/concordschool/2011/120511",
     "nid": 62,
@@ -155,6 +178,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "34138551"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/5/11 ",
+    "path": "/vod/stjschool/2011/120511",
+    "nid": 61,
+    "cablecastShowId": 1222,
+    "date": "2011-12-05",
+    "location": "St. Johnsbury School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33847295"
   },
   {
     "title": "Waterford School Cabaret 2011",
@@ -318,25 +364,6 @@
     "videoId": "32355219"
   },
   {
-    "title": "Osher: Capturing Severe Weather through Photos",
-    "path": "/vod/osher/2011/111011",
-    "nid": 17,
-    "cablecastShowId": 123,
-    "date": "2011-11-10",
-    "location": "Catamount Arts",
-    "year": "2011",
-    "yearPath": "/vod/year/2011",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "31990476"
-  },
-  {
     "title": "NEK Chamber: Business Celebration 2011",
     "path": "/vod/other/2011/nekbuscel2011",
     "nid": 54,
@@ -358,6 +385,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "32718529"
+  },
+  {
+    "title": "Osher: Capturing Severe Weather through Photos",
+    "path": "/vod/osher/2011/111011",
+    "nid": 17,
+    "cablecastShowId": 123,
+    "date": "2011-11-10",
+    "location": "Catamount Arts",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "31990476"
   },
   {
     "title": "St. Johnsbury School Board, 11/7/11 ",
@@ -448,25 +494,6 @@
     "videoId": "31880644"
   },
   {
-    "title": "Osher: Future of Broadcast News",
-    "path": "/vod/osher/2011/102711",
-    "nid": 19,
-    "cablecastShowId": 21321,
-    "date": "2011-10-27",
-    "location": "Catamount Arts",
-    "year": "2011",
-    "yearPath": "/vod/year/2011",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "31635332"
-  },
-  {
     "title": "NEK Chamber: Member's Forum",
     "path": "/vod/nekchamber/2011/memberforum102711",
     "nid": 31,
@@ -484,6 +511,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "31280325"
+  },
+  {
+    "title": "Osher: Future of Broadcast News",
+    "path": "/vod/osher/2011/102711",
+    "nid": 19,
+    "cablecastShowId": 21321,
+    "date": "2011-10-27",
+    "location": "Catamount Arts",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "31635332"
   },
   {
     "title": "107th LI vs SJA Football 2011",
@@ -532,27 +578,27 @@
     "videoId": "31063724"
   },
   {
-    "title": "Osher: Duke Ellington",
-    "path": "/vod/osher/100611",
-    "nid": 48,
-    "cablecastShowId": 1108,
+    "title": "First Wednesday: Morte! Morte! ",
+    "path": "/vod/firstwed/2011/100611",
+    "nid": 51,
+    "cablecastShowId": 1103,
     "date": "2011-10-06",
-    "location": "Catamount Arts",
+    "location": "St. Johnsbury Athenaeum",
     "year": "2011",
     "yearPath": "/vod/year/2011",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
         "name": "Lectures and Forums",
         "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "30524998"
+    "videoId": "31283738"
   },
   {
     "title": "VDPS Public Hearing: VT Energy Plan",
@@ -578,27 +624,27 @@
     "videoId": "30520678"
   },
   {
-    "title": "First Wednesday: Morte! Morte! ",
-    "path": "/vod/firstwed/2011/100611",
-    "nid": 51,
-    "cablecastShowId": 1103,
+    "title": "Osher: Duke Ellington",
+    "path": "/vod/osher/100611",
+    "nid": 48,
+    "cablecastShowId": 1108,
     "date": "2011-10-06",
-    "location": "St. Johnsbury Athenaeum",
+    "location": "Catamount Arts",
     "year": "2011",
     "yearPath": "/vod/year/2011",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "31283738"
+    "videoId": "30524998"
   },
   {
     "title": "St. Johnsbury Select Board, 9/26/11",
@@ -625,9 +671,9 @@
   },
   {
     "title": "St. Johnsbury Planning Commission, 9/20/11",
-    "path": "/vod/stjselect/2011/092011",
-    "nid": 9,
-    "cablecastShowId": 1071,
+    "path": "/vod/stjselect/2011/plan092011",
+    "nid": 2033,
+    "cablecastShowId": null,
     "date": "2011-09-20",
     "location": "St. Johnsbury Municipal Building",
     "year": "2011",
@@ -636,6 +682,10 @@
       {
         "name": "Public Meetings",
         "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
@@ -667,9 +717,9 @@
   },
   {
     "title": "St. Johnsbury Planning Commission, 9/20/11",
-    "path": "/vod/stjselect/2011/plan092011",
-    "nid": 2033,
-    "cablecastShowId": null,
+    "path": "/vod/stjselect/2011/092011",
+    "nid": 9,
+    "cablecastShowId": 1071,
     "date": "2011-09-20",
     "location": "St. Johnsbury Municipal Building",
     "year": "2011",
@@ -678,10 +728,6 @@
       {
         "name": "Public Meetings",
         "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
@@ -750,29 +796,6 @@
     "videoId": "29936652"
   },
   {
-    "title": "St. Johnsbury School Board, 9/12/11",
-    "path": "/vod/stjschool/2011/091211",
-    "nid": 44,
-    "cablecastShowId": 1055,
-    "date": "2011-09-12",
-    "location": "St. Johnsbury School",
-    "year": "2011",
-    "yearPath": "/vod/year/2011",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "29133011"
-  },
-  {
     "title": "St. Johnsbury Select Board, 9/12/11",
     "path": "/vod/stjselect/2011/091211",
     "nid": 45,
@@ -796,6 +819,48 @@
     "videoId": "29464351"
   },
   {
+    "title": "St. Johnsbury School Board, 9/12/11",
+    "path": "/vod/stjschool/2011/091211",
+    "nid": 44,
+    "cablecastShowId": 1055,
+    "date": "2011-09-12",
+    "location": "St. Johnsbury School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "29133011"
+  },
+  {
+    "title": "NEK Collaborative 9/8/11",
+    "path": "/vod/other/2011/nekcollab090811",
+    "nid": 43,
+    "cablecastShowId": 1046,
+    "date": "2011-09-08",
+    "location": "Lyndon State College",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "29130203"
+  },
+  {
     "title": "Concord School Board, 9/8/11",
     "path": "/vod/concordschool/2011/090811",
     "nid": 12,
@@ -817,25 +882,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "28974376"
-  },
-  {
-    "title": "NEK Collaborative 9/8/11",
-    "path": "/vod/other/2011/nekcollab090811",
-    "nid": 43,
-    "cablecastShowId": 1046,
-    "date": "2011-09-08",
-    "location": "Lyndon State College",
-    "year": "2011",
-    "yearPath": "/vod/year/2011",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "29130203"
   },
   {
     "title": "Concord Select Board, 9/1/11",

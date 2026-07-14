@@ -42,29 +42,6 @@
     "videoId": "katv-stjselect-mtg-122820-9164"
   },
   {
-    "title": "St. Johnsbury School Board, 12/21/20",
-    "path": "/vod/stjschool/2020/122120",
-    "nid": 2026,
-    "cablecastShowId": 9158,
-    "date": "2020-12-21",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-122120-9158"
-  },
-  {
     "title": "CCSU Board of Directors, 12/21/20",
     "path": "/vod/pubmeetings/2020/ccsubod122120",
     "nid": 2027,
@@ -86,6 +63,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-122120-9157"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/21/20",
+    "path": "/vod/stjschool/2020/122120",
+    "nid": 2026,
+    "cablecastShowId": 9158,
+    "date": "2020-12-21",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-122120-9158"
   },
   {
     "title": "What's Going On? COVID-19 Inoculation is a Bioweapon",
@@ -249,29 +249,6 @@
     "videoId": "487953937"
   },
   {
-    "title": "CCSU Board of Directors, 11/16/20",
-    "path": "/vod/pubmeetings/2020/ccsubod111620",
-    "nid": 2016,
-    "cablecastShowId": 9070,
-    "date": "2020-11-16",
-    "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-111620-9070"
-  },
-  {
     "title": "St. Johnsbury School Board, 11/16/20",
     "path": "/vod/stjschool/2020/111620",
     "nid": 2017,
@@ -293,6 +270,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-111620-9069"
+  },
+  {
+    "title": "CCSU Board of Directors, 11/16/20",
+    "path": "/vod/pubmeetings/2020/ccsubod111620",
+    "nid": 2016,
+    "cablecastShowId": 9070,
+    "date": "2020-11-16",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-111620-9070"
   },
   {
     "title": "I Am Vermont Too: Kiah Morris",
@@ -364,29 +364,6 @@
     "videoId": "katv-stjselect-mtg-110920-9059"
   },
   {
-    "title": "St. Johnsbury Select Board, 10/26/20",
-    "path": "/vod/stjselect/2020/102620",
-    "nid": 2011,
-    "cablecastShowId": 9018,
-    "date": "2020-10-26",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-102620-9018"
-  },
-  {
     "title": "St. Johnsbury Select Board, Special Meeting, 10/26/20",
     "path": "/vod/stjselect/2020/102620spec",
     "nid": 2012,
@@ -410,11 +387,11 @@
     "videoId": "katv-stjselect-specmtg-102620-9019"
   },
   {
-    "title": "St. Johnsbury Development Review Board, 1/23/20",
-    "path": "/vod/pubmeetings/2020/stjdrb102320",
-    "nid": 1883,
-    "cablecastShowId": 8257,
-    "date": "2020-10-23",
+    "title": "St. Johnsbury Select Board, 10/26/20",
+    "path": "/vod/stjselect/2020/102620",
+    "nid": 2011,
+    "cablecastShowId": 9018,
+    "date": "2020-10-26",
     "location": "St. Johnsbury Welcome Center",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -430,7 +407,7 @@
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
-    "videoId": "katv-stj-devrvw-mtg-012320-8257"
+    "videoId": "katv-stjselect-mtg-102620-9018"
   },
   {
     "title": "In & Around St. J: Vermont Welcome Wagon",
@@ -456,11 +433,11 @@
     "videoId": "474449336"
   },
   {
-    "title": "St. Johnsbury School Board, 10/19/20",
-    "path": "/vod/stjschool/2020/101920",
-    "nid": 2008,
-    "cablecastShowId": 8995,
-    "date": "2020-10-19",
+    "title": "St. Johnsbury Development Review Board, 1/23/20",
+    "path": "/vod/pubmeetings/2020/stjdrb102320",
+    "nid": 1883,
+    "cablecastShowId": 8257,
+    "date": "2020-10-23",
     "location": "St. Johnsbury Welcome Center",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -470,13 +447,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-101920-8995"
+    "videoId": "katv-stj-devrvw-mtg-012320-8257"
   },
   {
     "title": "CCSU Board of Directors, 10/19/20",
@@ -502,23 +479,27 @@
     "videoId": "katv-ccsu-bod-101920-8997"
   },
   {
-    "title": "Old Stone House Museum: Mini Tour: Restoring The Fourth Floor",
-    "path": "/vod/other/2020/oshm101520",
-    "nid": 2006,
-    "cablecastShowId": 8984,
-    "date": "2020-10-15",
-    "location": "Old Stone House Museum",
+    "title": "St. Johnsbury School Board, 10/19/20",
+    "path": "/vod/stjschool/2020/101920",
+    "nid": 2008,
+    "cablecastShowId": 8995,
+    "date": "2020-10-19",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
     "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "469581110"
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-101920-8995"
   },
   {
     "title": "What's Going On? Not Based on Science, But Out of Fear",
@@ -544,27 +525,23 @@
     "videoId": "469575226"
   },
   {
-    "title": "St. Johnsbury Select Board, Special Meeting, 10/13/20",
-    "path": "/vod/stjselect/2020/101320spec",
-    "nid": 2004,
-    "cablecastShowId": 8975,
-    "date": "2020-10-13",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "Old Stone House Museum: Mini Tour: Restoring The Fourth Floor",
+    "path": "/vod/other/2020/oshm101520",
+    "nid": 2006,
+    "cablecastShowId": 8984,
+    "date": "2020-10-15",
+    "location": "Old Stone House Museum",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-101320-8975"
+    "videoSource": "vimeo",
+    "videoId": "469581110"
   },
   {
     "title": "St. Johnsbury Select Board, 10/13/20",
@@ -588,6 +565,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-101320-8976"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Special Meeting, 10/13/20",
+    "path": "/vod/stjselect/2020/101320spec",
+    "nid": 2004,
+    "cablecastShowId": 8975,
+    "date": "2020-10-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-101320-8975"
   },
   {
     "title": "What's Going On? History Repeating Itself?",
@@ -659,27 +659,23 @@
     "videoId": "464544148"
   },
   {
-    "title": "St. Johnsbury Select Board, 9/28/20",
-    "path": "/vod/stjselect/2020/092820",
-    "nid": 1998,
-    "cablecastShowId": 8935,
+    "title": "Creative Workforce Solutions: 2020 Awards - Marina Cole",
+    "path": "/vod/studio/2020/cws2020awards092820b",
+    "nid": 2000,
+    "cablecastShowId": 8934,
     "date": "2020-09-28",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "KATV Studio",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-092820-8935"
+    "videoSource": "vimeo",
+    "videoId": "464532689"
   },
   {
     "title": "Creative Workforce Solutions: 2020 Awards - Heather Spinney",
@@ -701,23 +697,27 @@
     "videoId": "464542292"
   },
   {
-    "title": "Creative Workforce Solutions: 2020 Awards - Marina Cole",
-    "path": "/vod/studio/2020/cws2020awards092820b",
-    "nid": 2000,
-    "cablecastShowId": 8934,
+    "title": "St. Johnsbury Select Board, 9/28/20",
+    "path": "/vod/stjselect/2020/092820",
+    "nid": 1998,
+    "cablecastShowId": 8935,
     "date": "2020-09-28",
-    "location": "KATV Studio",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "464532689"
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092820-8935"
   },
   {
     "title": "Saint Johnsbury Get Downtown Event, 9/26/20",
@@ -762,29 +762,6 @@
     "videoId": "462261485"
   },
   {
-    "title": "St. Johnsbury School Board, 9/21/20",
-    "path": "/vod/stjschool/2020/092120",
-    "nid": 1994,
-    "cablecastShowId": 8909,
-    "date": "2020-09-21",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-092120-8909"
-  },
-  {
     "title": "CCSU Board of Directors, 9/21/20",
     "path": "/vod/pubmeetings/2020/ccsubod092120",
     "nid": 1996,
@@ -806,6 +783,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-092120-8910"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/21/20",
+    "path": "/vod/stjschool/2020/092120",
+    "nid": 1994,
+    "cablecastShowId": 8909,
+    "date": "2020-09-21",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-092120-8909"
   },
   {
     "title": "In & Around St. J: Kingdom Recovery Center",
@@ -831,29 +831,6 @@
     "videoId": "459726100"
   },
   {
-    "title": "St. Johnsbury Select Board, Special Meeting, 9/14/20",
-    "path": "/vod/stjselect/2020/091420spec",
-    "nid": 1991,
-    "cablecastShowId": 8895,
-    "date": "2020-09-14",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-091420-8895"
-  },
-  {
     "title": "St. Johnsbury Select Board, 9/14/20",
     "path": "/vod/stjselect/2020/091420",
     "nid": 1992,
@@ -877,23 +854,27 @@
     "videoId": "katv-stjselect-mtg-091420-8896"
   },
   {
-    "title": "Orleans County COVID Recovery: Building Community Unity",
-    "path": "/vod/other/2020/caledoniacovid090320",
-    "nid": 1986,
-    "cablecastShowId": 8880,
-    "date": "2020-09-03",
-    "location": "Virtual",
+    "title": "St. Johnsbury Select Board, Special Meeting, 9/14/20",
+    "path": "/vod/stjselect/2020/091420spec",
+    "nid": 1991,
+    "cablecastShowId": 8895,
+    "date": "2020-09-14",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Other Programs",
-        "path": "/vod/other"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "455095516"
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-091420-8895"
   },
   {
     "title": "Orleans County COVID Recovery: Housing",
@@ -913,6 +894,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "462262952"
+  },
+  {
+    "title": "Orleans County COVID Recovery: Building Community Unity",
+    "path": "/vod/other/2020/caledoniacovid090320",
+    "nid": 1986,
+    "cablecastShowId": 8880,
+    "date": "2020-09-03",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "455095516"
   },
   {
     "title": "What's Going On? Are You Capable of Critical Thinking",
@@ -1053,27 +1053,23 @@
     "videoId": "katv-stjselect-mtg-081320-8818"
   },
   {
-    "title": "What's Going On? A Patriot Making a Difference",
-    "path": "/vod/wgo/wgo080620",
-    "nid": 1977,
-    "cablecastShowId": 8802,
+    "title": "Caledonia County COVID Recovery: Cultural & Civic Institutions",
+    "path": "/vod/other/2020/caledoniacovid080620b",
+    "nid": 1979,
+    "cablecastShowId": 8806,
     "date": "2020-08-06",
-    "location": "KATV Studio",
+    "location": "Virtual",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "446332902"
+    "videoId": "446332904"
   },
   {
     "title": "Caledonia County COVID Recovery: Local Food Systems & Access",
@@ -1095,23 +1091,27 @@
     "videoId": "446332903"
   },
   {
-    "title": "Caledonia County COVID Recovery: Cultural & Civic Institutions",
-    "path": "/vod/other/2020/caledoniacovid080620b",
-    "nid": 1979,
-    "cablecastShowId": 8806,
+    "title": "What's Going On? A Patriot Making a Difference",
+    "path": "/vod/wgo/wgo080620",
+    "nid": 1977,
+    "cablecastShowId": 8802,
     "date": "2020-08-06",
-    "location": "Virtual",
+    "location": "KATV Studio",
     "year": "2020",
     "yearPath": "/vod/year/2020",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "446332904"
+    "videoId": "446332902"
   },
   {
     "title": "St. Johnsbury 1830 Band: Summer 2020 Performance",
@@ -1501,25 +1501,6 @@
     "videoId": "katv-stjselect-mtg-060820-8715"
   },
   {
-    "title": "Peacham Library, John Swan Lecture: Library Freedom Project",
-    "path": "/vod/lectures/2020/johnswan060520",
-    "nid": 1964,
-    "cablecastShowId": 8714,
-    "date": "2020-06-05",
-    "location": "Virtual",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "426638200"
-  },
-  {
     "title": "St. Johnsbury School 2020 Graduation",
     "path": "/vod/graduations/2020/sjs060520",
     "nid": 1965,
@@ -1537,6 +1518,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "430035494"
+  },
+  {
+    "title": "Peacham Library, John Swan Lecture: Library Freedom Project",
+    "path": "/vod/lectures/2020/johnswan060520",
+    "nid": 1964,
+    "cablecastShowId": 8714,
+    "date": "2020-06-05",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "426638200"
   },
   {
     "title": "What's Going On? We're Financing Our Own Demise",
@@ -1884,29 +1884,6 @@
     "videoId": "406871287"
   },
   {
-    "title": "St. Johnsbury Select Board, 4/6/20",
-    "path": "/vod/stjselect/2020/040620",
-    "nid": 1944,
-    "cablecastShowId": 8515,
-    "date": "2020-04-06",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-040620-8515"
-  },
-  {
     "title": "St. Johnsbury School Board, 4/6/20",
     "path": "/vod/stjschool/2020/040620",
     "nid": 1945,
@@ -1928,6 +1905,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-040620-8519"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/6/20",
+    "path": "/vod/stjselect/2020/040620",
+    "nid": 1944,
+    "cablecastShowId": 8515,
+    "date": "2020-04-06",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-040620-8515"
   },
   {
     "title": "CCSU Board of Directors, 3/16/20",
@@ -1953,10 +1953,10 @@
     "videoId": "katv-ccsu-bod-031620-8435"
   },
   {
-    "title": "Rotary Basketball 2020: Derby vs. St. Johnsbury School",
-    "path": "/vod/sports/rotarybb2020-derbysjs-031420",
-    "nid": 1939,
-    "cablecastShowId": 8425,
+    "title": "Rotary Basketball 2020: Danville vs. Brighton/Charleston",
+    "path": "/vod/sports/rotarybb2020-danvillebc-031420",
+    "nid": 1942,
+    "cablecastShowId": 8428,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
     "year": "2020",
@@ -1973,30 +1973,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "403869053"
-  },
-  {
-    "title": "Rotary Basketball 2020: St. Johnsbury 6th vs. Lyndon B",
-    "path": "/vod/sports/rotarybb2020-stjlyndon-031420",
-    "nid": 1940,
-    "cablecastShowId": 8426,
-    "date": "2020-03-14",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "403869601"
+    "videoId": "403881246"
   },
   {
     "title": "Rotary Basketball 2020: Lyndon A vs. St Johnsbury School",
@@ -2022,10 +1999,10 @@
     "videoId": "403877259"
   },
   {
-    "title": "Rotary Basketball 2020: Danville vs. Brighton/Charleston",
-    "path": "/vod/sports/rotarybb2020-danvillebc-031420",
-    "nid": 1942,
-    "cablecastShowId": 8428,
+    "title": "Rotary Basketball 2020: St. Johnsbury 6th vs. Lyndon B",
+    "path": "/vod/sports/rotarybb2020-stjlyndon-031420",
+    "nid": 1940,
+    "cablecastShowId": 8426,
     "date": "2020-03-14",
     "location": "St. Johnsbury School",
     "year": "2020",
@@ -2042,7 +2019,30 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "403881246"
+    "videoId": "403869601"
+  },
+  {
+    "title": "Rotary Basketball 2020: Derby vs. St. Johnsbury School",
+    "path": "/vod/sports/rotarybb2020-derbysjs-031420",
+    "nid": 1939,
+    "cablecastShowId": 8425,
+    "date": "2020-03-14",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "403869053"
   },
   {
     "title": "Rotary Basketball 2020: Lyndon A vs Brighton/Charleston",
@@ -2091,11 +2091,11 @@
     "videoId": "397874896"
   },
   {
-    "title": "Rotary Basketball 2020: Derby vs. St Johnsbury School",
-    "path": "/vod/sports/rotarybb2020-derbysjs-031120",
-    "nid": 1931,
-    "cablecastShowId": 8410,
-    "date": "2020-03-11",
+    "title": "Rotary Basketball 2020: St. Johnsbury 6th vs Colonel Town",
+    "path": "/vod/sports/rotarybb2020-stj6ct-031220",
+    "nid": 1936,
+    "cablecastShowId": 8415,
+    "date": "2020-03-12",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2111,76 +2111,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "397879001"
-  },
-  {
-    "title": "Rotary Basketball 2020: Lyndon vs. Good Shepherd",
-    "path": "/vod/sports/rotarybb2020-lyndongs-031120",
-    "nid": 1932,
-    "cablecastShowId": 8411,
-    "date": "2020-03-11",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397880321"
-  },
-  {
-    "title": "Rotary Basketball 2020: Twinfield vs. Profile",
-    "path": "/vod/sports/rotarybb2020-twinfieldprofile-031120",
-    "nid": 1933,
-    "cablecastShowId": 8412,
-    "date": "2020-03-11",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397884612"
-  },
-  {
-    "title": "Rotary Basketball 2020: Danville vs. Derby",
-    "path": "/vod/sports/rotarybb2020-danvillederby-031120",
-    "nid": 1934,
-    "cablecastShowId": 8413,
-    "date": "2020-03-11",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397885268"
+    "videoId": "397889366"
   },
   {
     "title": "Rotary Basketball 2020: Lyndon Travel vs. Danville",
@@ -2206,11 +2137,11 @@
     "videoId": "397889363"
   },
   {
-    "title": "Rotary Basketball 2020: St Johnsbury School vs. Glover",
-    "path": "/vod/sports/rotarybb2020-sjsglover-031020",
-    "nid": 1927,
-    "cablecastShowId": 8402,
-    "date": "2020-03-10",
+    "title": "Rotary Basketball 2020: Danville vs. Derby",
+    "path": "/vod/sports/rotarybb2020-danvillederby-031120",
+    "nid": 1934,
+    "cablecastShowId": 8413,
+    "date": "2020-03-11",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2226,14 +2157,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "397869535"
+    "videoId": "397885268"
   },
   {
-    "title": "Rotary Basketball 2020: Brighton vs. Lyndon",
-    "path": "/vod/sports/rotarybb2020-brightonlyndon-031020",
-    "nid": 1928,
-    "cablecastShowId": 8403,
-    "date": "2020-03-10",
+    "title": "Rotary Basketball 2020: Twinfield vs. Profile",
+    "path": "/vod/sports/rotarybb2020-twinfieldprofile-031120",
+    "nid": 1933,
+    "cablecastShowId": 8412,
+    "date": "2020-03-11",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2249,7 +2180,53 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "397869921"
+    "videoId": "397884612"
+  },
+  {
+    "title": "Rotary Basketball 2020: Lyndon vs. Good Shepherd",
+    "path": "/vod/sports/rotarybb2020-lyndongs-031120",
+    "nid": 1932,
+    "cablecastShowId": 8411,
+    "date": "2020-03-11",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "397880321"
+  },
+  {
+    "title": "Rotary Basketball 2020: Derby vs. St Johnsbury School",
+    "path": "/vod/sports/rotarybb2020-derbysjs-031120",
+    "nid": 1931,
+    "cablecastShowId": 8410,
+    "date": "2020-03-11",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "397879001"
   },
   {
     "title": "Rotary Basketball 2020: Barnet vs. Colonel Town",
@@ -2275,11 +2252,11 @@
     "videoId": "397874301"
   },
   {
-    "title": "Rotary Basketball 2020: Barnet vs. Lyndon",
-    "path": "/vod/sports/rotarybb2020-barnetlyndon-030920",
-    "nid": 1919,
-    "cablecastShowId": 8390,
-    "date": "2020-03-09",
+    "title": "Rotary Basketball 2020: Brighton vs. Lyndon",
+    "path": "/vod/sports/rotarybb2020-brightonlyndon-031020",
+    "nid": 1928,
+    "cablecastShowId": 8403,
+    "date": "2020-03-10",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2295,14 +2272,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "398140170"
+    "videoId": "397869921"
   },
   {
-    "title": "Rotary Basketball 2020: St. Johnsbury vs. Hardwick",
-    "path": "/vod/sports/rotarybb2020-stjhardwick-030920",
-    "nid": 1920,
-    "cablecastShowId": 8393,
-    "date": "2020-03-09",
+    "title": "Rotary Basketball 2020: St Johnsbury School vs. Glover",
+    "path": "/vod/sports/rotarybb2020-sjsglover-031020",
+    "nid": 1927,
+    "cablecastShowId": 8402,
+    "date": "2020-03-10",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2318,122 +2295,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "397860918"
-  },
-  {
-    "title": "Rotary Basketball 2020: Brighton/Charleston vs. Glover",
-    "path": "/vod/sports/rotarybb2020-bcglover-030920",
-    "nid": 1921,
-    "cablecastShowId": 8394,
-    "date": "2020-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397861309"
-  },
-  {
-    "title": "Rotary Basketball 2020: Lyndon Travel vs. Saint Johnsbury",
-    "path": "/vod/sports/rotarybb2020-ltstj-030920",
-    "nid": 1922,
-    "cablecastShowId": 8395,
-    "date": "2020-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397865493"
-  },
-  {
-    "title": "Rotary Basketball 2020: Concord vs. Danville",
-    "path": "/vod/sports/rotarybb2020-concorddanville-030920",
-    "nid": 1923,
-    "cablecastShowId": 8391,
-    "date": "2020-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "398414519"
-  },
-  {
-    "title": "Rotary Basketball 2020: St. Johnsbury vs. Coventry",
-    "path": "/vod/sports/rotarybb2020-stjcov-030920",
-    "nid": 1924,
-    "cablecastShowId": 8392,
-    "date": "2020-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "398414517"
-  },
-  {
-    "title": "Rotary Basketball 2020: Cabot vs. St J. School",
-    "path": "/vod/sports/rotarybb2020-cabotstjschool-030920",
-    "nid": 1926,
-    "cablecastShowId": 8401,
-    "date": "2020-03-09",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397865272"
+    "videoId": "397869535"
   },
   {
     "title": "Rotary Basketball 2020: Troy vs. Cabot",
@@ -2459,11 +2321,11 @@
     "videoId": "397874896"
   },
   {
-    "title": "Rotary Basketball 2020: Colonel Town vs. Danville",
-    "path": "/vod/sports/rotarybb2020-ctdanville-030720",
-    "nid": 1914,
-    "cablecastShowId": 8385,
-    "date": "2020-03-07",
+    "title": "Rotary Basketball 2020: Cabot vs. St J. School",
+    "path": "/vod/sports/rotarybb2020-cabotstjschool-030920",
+    "nid": 1926,
+    "cablecastShowId": 8401,
+    "date": "2020-03-09",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2479,14 +2341,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396612870"
+    "videoId": "397865272"
   },
   {
-    "title": "Rotary Basketball 2020: Littleton vs. Danville",
-    "path": "/vod/sports/rotarybb2020-littletondanville-030720",
-    "nid": 1915,
-    "cablecastShowId": 8386,
-    "date": "2020-03-07",
+    "title": "Rotary Basketball 2020: St. Johnsbury vs. Coventry",
+    "path": "/vod/sports/rotarybb2020-stjcov-030920",
+    "nid": 1924,
+    "cablecastShowId": 8392,
+    "date": "2020-03-09",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2502,14 +2364,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396615032"
+    "videoId": "398414517"
   },
   {
-    "title": "Rotary Basketball 2020: Twinfield vs. St J School",
-    "path": "/vod/sports/rotarybb2020-twinfieldsjs-030720",
-    "nid": 1916,
-    "cablecastShowId": 8387,
-    "date": "2020-03-07",
+    "title": "Rotary Basketball 2020: Concord vs. Danville",
+    "path": "/vod/sports/rotarybb2020-concorddanville-030920",
+    "nid": 1923,
+    "cablecastShowId": 8391,
+    "date": "2020-03-09",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2525,14 +2387,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396617323"
+    "videoId": "398414519"
   },
   {
-    "title": "Rotary Basketball 2020: Waterford vs. Good Shepherd",
-    "path": "/vod/sports/rotarybb2020-waterfordgs-030720",
-    "nid": 1917,
-    "cablecastShowId": 8388,
-    "date": "2020-03-07",
+    "title": "Rotary Basketball 2020: Lyndon Travel vs. Saint Johnsbury",
+    "path": "/vod/sports/rotarybb2020-ltstj-030920",
+    "nid": 1922,
+    "cablecastShowId": 8395,
+    "date": "2020-03-09",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2548,7 +2410,76 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396618743"
+    "videoId": "397865493"
+  },
+  {
+    "title": "Rotary Basketball 2020: Brighton/Charleston vs. Glover",
+    "path": "/vod/sports/rotarybb2020-bcglover-030920",
+    "nid": 1921,
+    "cablecastShowId": 8394,
+    "date": "2020-03-09",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "397861309"
+  },
+  {
+    "title": "Rotary Basketball 2020: St. Johnsbury vs. Hardwick",
+    "path": "/vod/sports/rotarybb2020-stjhardwick-030920",
+    "nid": 1920,
+    "cablecastShowId": 8393,
+    "date": "2020-03-09",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "397860918"
+  },
+  {
+    "title": "Rotary Basketball 2020: Barnet vs. Lyndon",
+    "path": "/vod/sports/rotarybb2020-barnetlyndon-030920",
+    "nid": 1919,
+    "cablecastShowId": 8390,
+    "date": "2020-03-09",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "398140170"
   },
   {
     "title": "Rotary Basketball 2020: Glover vs. Lyndon",
@@ -2574,11 +2505,11 @@
     "videoId": "396619756"
   },
   {
-    "title": "Rotary Basketball 2020: Groveton vs. Barnet",
-    "path": "/vod/sports/rotarybb2020-grovetonbarnet-030620",
-    "nid": 1910,
-    "cablecastShowId": 8381,
-    "date": "2020-03-06",
+    "title": "Rotary Basketball 2020: Waterford vs. Good Shepherd",
+    "path": "/vod/sports/rotarybb2020-waterfordgs-030720",
+    "nid": 1917,
+    "cablecastShowId": 8388,
+    "date": "2020-03-07",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2594,14 +2525,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396605870"
+    "videoId": "396618743"
   },
   {
-    "title": "Rotary Basketball 2020: Derby vs. Lyndon Travel",
-    "path": "/vod/sports/rotarybb2020-derbylt-030620",
-    "nid": 1911,
-    "cablecastShowId": 8382,
-    "date": "2020-03-06",
+    "title": "Rotary Basketball 2020: Twinfield vs. St J School",
+    "path": "/vod/sports/rotarybb2020-twinfieldsjs-030720",
+    "nid": 1916,
+    "cablecastShowId": 8387,
+    "date": "2020-03-07",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2617,14 +2548,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396605268"
+    "videoId": "396617323"
   },
   {
-    "title": "Rotary Basketball 2020: Derby vs. Waterford",
-    "path": "/vod/sports/rotarybb2020-derbywaterford-030620",
-    "nid": 1912,
-    "cablecastShowId": 8383,
-    "date": "2020-03-06",
+    "title": "Rotary Basketball 2020: Littleton vs. Danville",
+    "path": "/vod/sports/rotarybb2020-littletondanville-030720",
+    "nid": 1915,
+    "cablecastShowId": 8386,
+    "date": "2020-03-07",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2640,7 +2571,30 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396609627"
+    "videoId": "396615032"
+  },
+  {
+    "title": "Rotary Basketball 2020: Colonel Town vs. Danville",
+    "path": "/vod/sports/rotarybb2020-ctdanville-030720",
+    "nid": 1914,
+    "cablecastShowId": 8385,
+    "date": "2020-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "396612870"
   },
   {
     "title": "Rotary Basketball 2020: Barnet vs. Profile",
@@ -2666,11 +2620,11 @@
     "videoId": "396610206"
   },
   {
-    "title": "Rotary Basketball 2020: Cabot vs. Waterford",
-    "path": "/vod/sports/rotarybb2020-cabotwaterford-030520",
-    "nid": 1905,
-    "cablecastShowId": 8361,
-    "date": "2020-03-05",
+    "title": "Rotary Basketball 2020: Derby vs. Waterford",
+    "path": "/vod/sports/rotarybb2020-derbywaterford-030620",
+    "nid": 1912,
+    "cablecastShowId": 8383,
+    "date": "2020-03-06",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2686,14 +2640,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396112445"
+    "videoId": "396609627"
   },
   {
-    "title": "Rotary Basketball 2020: Barnet vs. Danville",
-    "path": "/vod/sports/rotarybb2020-barnetdanville-030520",
-    "nid": 1906,
-    "cablecastShowId": 8362,
-    "date": "2020-03-05",
+    "title": "Rotary Basketball 2020: Derby vs. Lyndon Travel",
+    "path": "/vod/sports/rotarybb2020-derbylt-030620",
+    "nid": 1911,
+    "cablecastShowId": 8382,
+    "date": "2020-03-06",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2709,14 +2663,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396114820"
+    "videoId": "396605268"
   },
   {
-    "title": "Rotary Basketball 2020: Barnet vs. Cabot",
-    "path": "/vod/sports/rotarybb2020-barnetcabot-030520",
-    "nid": 1907,
-    "cablecastShowId": 8363,
-    "date": "2020-03-05",
+    "title": "Rotary Basketball 2020: Groveton vs. Barnet",
+    "path": "/vod/sports/rotarybb2020-grovetonbarnet-030620",
+    "nid": 1910,
+    "cablecastShowId": 8381,
+    "date": "2020-03-06",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2732,30 +2686,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396115034"
-  },
-  {
-    "title": "Rotary Basketball 2020: Good Shepherd vs. Lyndon Travel",
-    "path": "/vod/sports/rotarybb2020-gslt-030520",
-    "nid": 1908,
-    "cablecastShowId": 8364,
-    "date": "2020-03-05",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "396116957"
+    "videoId": "396605870"
   },
   {
     "title": "Rotary Basketball 2020: Waterford vs. Troy",
@@ -2781,11 +2712,11 @@
     "videoId": "396117110"
   },
   {
-    "title": "Rotary Basketball 2020: Danville vs. Coventry",
-    "path": "/vod/sports/rotarybb2020-danvillecoventry-030420",
-    "nid": 1897,
-    "cablecastShowId": 8356,
-    "date": "2020-03-04",
+    "title": "Rotary Basketball 2020: Good Shepherd vs. Lyndon Travel",
+    "path": "/vod/sports/rotarybb2020-gslt-030520",
+    "nid": 1908,
+    "cablecastShowId": 8364,
+    "date": "2020-03-05",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2801,14 +2732,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396107133"
+    "videoId": "396116957"
   },
   {
-    "title": "Rotary Basketball 2020: Danville vs. Coventry",
-    "path": "/vod/sports/rotarybb2020-dancov-030420",
-    "nid": 1898,
-    "cablecastShowId": 8356,
-    "date": "2020-03-04",
+    "title": "Rotary Basketball 2020: Barnet vs. Cabot",
+    "path": "/vod/sports/rotarybb2020-barnetcabot-030520",
+    "nid": 1907,
+    "cablecastShowId": 8363,
+    "date": "2020-03-05",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2824,14 +2755,14 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396107133"
+    "videoId": "396115034"
   },
   {
-    "title": "Rotary Basketball 2020: Burke B vs Brighton/Charleston",
-    "path": "/vod/sports/rotarybb2020-burkebc-030420",
-    "nid": 1899,
-    "cablecastShowId": 8357,
-    "date": "2020-03-04",
+    "title": "Rotary Basketball 2020: Barnet vs. Danville",
+    "path": "/vod/sports/rotarybb2020-barnetdanville-030520",
+    "nid": 1906,
+    "cablecastShowId": 8362,
+    "date": "2020-03-05",
     "location": "St. Johnsbury School",
     "year": "2020",
     "yearPath": "/vod/year/2020",
@@ -2847,13 +2778,36 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396106452"
+    "videoId": "396114820"
   },
   {
-    "title": "Rotary Basketball 2020: Berlin vs. Hardwick",
-    "path": "/vod/sports/rotarybb2020-berkhard-030420",
-    "nid": 1900,
-    "cablecastShowId": 8358,
+    "title": "Rotary Basketball 2020: Cabot vs. Waterford",
+    "path": "/vod/sports/rotarybb2020-cabotwaterford-030520",
+    "nid": 1905,
+    "cablecastShowId": 8361,
+    "date": "2020-03-05",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "396112445"
+  },
+  {
+    "title": "Rotary Basketball 2020: Brighton/Charleston vs Lyndon B",
+    "path": "/vod/sports/rotarybb2020-bclyndon-030420",
+    "nid": 1902,
+    "cablecastShowId": 8360,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
     "year": "2020",
@@ -2870,7 +2824,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396108968"
+    "videoId": "396111533"
   },
   {
     "title": "Rotary Basketball 2020: Littleton vs. Hardwick",
@@ -2896,10 +2850,10 @@
     "videoId": "396109484"
   },
   {
-    "title": "Rotary Basketball 2020: Brighton/Charleston vs Lyndon B",
-    "path": "/vod/sports/rotarybb2020-bclyndon-030420",
-    "nid": 1902,
-    "cablecastShowId": 8360,
+    "title": "Rotary Basketball 2020: Berlin vs. Hardwick",
+    "path": "/vod/sports/rotarybb2020-berkhard-030420",
+    "nid": 1900,
+    "cablecastShowId": 8358,
     "date": "2020-03-04",
     "location": "St. Johnsbury School",
     "year": "2020",
@@ -2916,7 +2870,76 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "396111533"
+    "videoId": "396108968"
+  },
+  {
+    "title": "Rotary Basketball 2020: Burke B vs Brighton/Charleston",
+    "path": "/vod/sports/rotarybb2020-burkebc-030420",
+    "nid": 1899,
+    "cablecastShowId": 8357,
+    "date": "2020-03-04",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "396106452"
+  },
+  {
+    "title": "Rotary Basketball 2020: Danville vs. Coventry",
+    "path": "/vod/sports/rotarybb2020-dancov-030420",
+    "nid": 1898,
+    "cablecastShowId": 8356,
+    "date": "2020-03-04",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "396107133"
+  },
+  {
+    "title": "Rotary Basketball 2020: Danville vs. Coventry",
+    "path": "/vod/sports/rotarybb2020-danvillecoventry-030420",
+    "nid": 1897,
+    "cablecastShowId": 8356,
+    "date": "2020-03-04",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "396107133"
   },
   {
     "title": "NEK Chamber 2020 Business Celebration",
@@ -2980,29 +3003,6 @@
     "videoId": "katv-stjselect-mtg-022420-8339"
   },
   {
-    "title": "Legislative Breakfast, February 2020",
-    "path": "/vod/legbkfst/2020/022420",
-    "nid": 1893,
-    "cablecastShowId": 8336,
-    "date": "2020-02-24",
-    "location": "St. Johnsbury House",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "394974014"
-  },
-  {
     "title": "In & Around St. J: NEK Broadband CUD",
     "path": "/vod/studio/2020/iastj022420",
     "nid": 1894,
@@ -3024,6 +3024,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "394978442"
+  },
+  {
+    "title": "Legislative Breakfast, February 2020",
+    "path": "/vod/legbkfst/2020/022420",
+    "nid": 1893,
+    "cablecastShowId": 8336,
+    "date": "2020-02-24",
+    "location": "St. Johnsbury House",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "394974014"
   },
   {
     "title": "St. Johnsbury School Board, 2/17/20",
@@ -3091,29 +3114,6 @@
     "videoId": "391852935"
   },
   {
-    "title": "St. Johnsbury Select Board, 2/10/20",
-    "path": "/vod/stjselect/2020/021020",
-    "nid": 1890,
-    "cablecastShowId": 8294,
-    "date": "2020-02-10",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-021020-8294"
-  },
-  {
     "title": "Governor's Recommended State Budget: Community-Based Public Hearings, 2/10/20",
     "path": "/vod/pubmeetings/2020/statebudget021020",
     "nid": 1892,
@@ -3135,6 +3135,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "394976592"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/10/20",
+    "path": "/vod/stjselect/2020/021020",
+    "nid": 1890,
+    "cablecastShowId": 8294,
+    "date": "2020-02-10",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021020-8294"
   },
   {
     "title": "Zenith Ensemble Presents: Handel's Dixit Dominus",
@@ -3179,25 +3202,6 @@
     "videoId": "391850673"
   },
   {
-    "title": "Green Mountain Power Open House, February 2020",
-    "path": "/vod/forums/2020/gmp020420",
-    "nid": 1886,
-    "cablecastShowId": 8283,
-    "date": "2020-02-04",
-    "location": "Green Mountain Power District Office",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "391839102"
-  },
-  {
     "title": "I Am Vermont Too: Aureon Nommik",
     "path": "/vod/studio/2020/iamvt020420",
     "nid": 1889,
@@ -3219,6 +3223,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "391843219"
+  },
+  {
+    "title": "Green Mountain Power Open House, February 2020",
+    "path": "/vod/forums/2020/gmp020420",
+    "nid": 1886,
+    "cablecastShowId": 8283,
+    "date": "2020-02-04",
+    "location": "Green Mountain Power District Office",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "391839102"
   },
   {
     "title": "St. Johnsbury School Board, 2/3/20",
@@ -3424,29 +3447,6 @@
     "videoId": "katv-concordselect-mtg-010720"
   },
   {
-    "title": "St. Johnsbury School Board, 1/6/20",
-    "path": "/vod/stjschool/2020/010620",
-    "nid": 1875,
-    "cablecastShowId": 8222,
-    "date": "2020-01-06",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-010619-8222"
-  },
-  {
     "title": "St. Johnsbury Select Board, 1/6/20 Special Meeting",
     "path": "/vod/stjselect/2020/010620sm",
     "nid": 1876,
@@ -3470,6 +3470,29 @@
     "videoId": "katv-stjselect-122319-8204"
   },
   {
+    "title": "St. Johnsbury School Board, 1/6/20",
+    "path": "/vod/stjschool/2020/010620",
+    "nid": 1875,
+    "cablecastShowId": 8222,
+    "date": "2020-01-06",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010619-8222"
+  },
+  {
     "title": "What's Going On? Is it Going to Go Kinetic",
     "path": "/vod/wgo/wgo010220",
     "nid": 1874,
@@ -3491,28 +3514,5 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "383001743"
-  },
-  {
-    "title": "Rotary Basketball 2020: St. Johnsbury 6th vs Colonel Town",
-    "path": "/vod/sports/rotarybb2020-stj6ct-031220",
-    "nid": 1936,
-    "cablecastShowId": 8415,
-    "date": "1930-03-12",
-    "location": "St. Johnsbury School",
-    "year": "2020",
-    "yearPath": "/vod/year/2020",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "397889366"
   }
 ]

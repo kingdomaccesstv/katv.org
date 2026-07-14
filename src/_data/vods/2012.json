@@ -1,97 +1,5 @@
 [
   {
-    "title": "St. Johnsbury Academy Winter Concert 2018",
-    "path": "/vod/concerts/2018/sjawinter121218",
-    "nid": 772,
-    "cablecastShowId": 7214,
-    "date": "2018-12-12",
-    "location": "South Congregational Church",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "307810830"
-  },
-  {
-    "title": "HealthQuest 16: NCHC",
-    "path": "/vod/studio/healthquest/ep16",
-    "nid": 258,
-    "cablecastShowId": 2394,
-    "date": "2013-09-02",
-    "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "75266770"
-  },
-  {
-    "title": "HealthQuest 15: National Community Health Center Week 2013",
-    "path": "/vod/studio/healthquest/ep15",
-    "nid": 253,
-    "cablecastShowId": 2349,
-    "date": "2013-08-06",
-    "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "75925272"
-  },
-  {
-    "title": "HealthQuest 14: Health Care Exchange, Navigator",
-    "path": "/vod/studio/healthquest/ep14",
-    "nid": 243,
-    "cablecastShowId": 2230,
-    "date": "2013-07-23",
-    "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "HealthQuest",
-        "path": "/vod/studio/healthquest"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "72520882"
-  },
-  {
     "title": "What's Going On? We Are Being Played",
     "path": "/vod/wgo/wgo102",
     "nid": 410,
@@ -230,29 +138,6 @@
     "videoId": "83644180"
   },
   {
-    "title": "St. Johnsbury Select Board, 12/3/12",
-    "path": "/vod/stjselect/2013/120312",
-    "nid": 149,
-    "cablecastShowId": 1862,
-    "date": "2012-12-03",
-    "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "57808333"
-  },
-  {
     "title": "HealthQuest 8: CHHC Hospice Director",
     "path": "/vod/studio/healthquest/ep8",
     "nid": 230,
@@ -274,6 +159,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "71617417"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/3/12",
+    "path": "/vod/stjselect/2013/120312",
+    "nid": 149,
+    "cablecastShowId": 1862,
+    "date": "2012-12-03",
+    "location": "Pomerleau Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "57808333"
   },
   {
     "title": "St. Johnsbury Select Board, 11/26/12",
@@ -391,27 +299,27 @@
     "videoId": "57238270"
   },
   {
-    "title": "St. Johnsbury Select Board, 10/29/12",
-    "path": "/vod/stjselect/2012/102912",
-    "nid": 144,
-    "cablecastShowId": 1807,
-    "date": "2012-10-29",
-    "location": "Pomerleau Building",
+    "title": "What's Going On? QE 3",
+    "path": "/vod/wgo/wgo94",
+    "nid": 326,
+    "cablecastShowId": 1819,
+    "date": "2012-11-03",
+    "location": "KATV Studio",
     "year": "2012",
     "yearPath": "/vod/year/2012",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "57224551"
+    "videoId": "81689413"
   },
   {
     "title": "HealthQuest 7: Nurse Family Partnership Program",
@@ -435,6 +343,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "71617416"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/29/12",
+    "path": "/vod/stjselect/2012/102912",
+    "nid": 144,
+    "cablecastShowId": 1807,
+    "date": "2012-10-29",
+    "location": "Pomerleau Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "57224551"
   },
   {
     "title": "What's Going On? Money As Debt, Part 1",
@@ -885,29 +816,6 @@
     "videoId": "79470696"
   },
   {
-    "title": "St. Johnsbury Select Board, 8/27/12",
-    "path": "/vod/stjselect/2012/082712",
-    "nid": 123,
-    "cablecastShowId": 1683,
-    "date": "2012-08-27",
-    "location": "Pomerleau Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "50402641"
-  },
-  {
     "title": "St. Johnsbury School Board, 8/27/12",
     "path": "/vod/stjschool/2012/082712",
     "nid": 127,
@@ -929,6 +837,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "51860841"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/27/12",
+    "path": "/vod/stjselect/2012/082712",
+    "nid": 123,
+    "cablecastShowId": 1683,
+    "date": "2012-08-27",
+    "location": "Pomerleau Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "50402641"
   },
   {
     "title": "Newark Neighbors United, 8/23/12",
@@ -992,6 +923,25 @@
     "videoId": "49277326"
   },
   {
+    "title": "Newark Planning Commission Meeting, 8/9/12",
+    "path": "/vod/other/newarkplan080912",
+    "nid": 125,
+    "cablecastShowId": 1659,
+    "date": "2012-08-09",
+    "location": "Newark School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "51326287"
+  },
+  {
     "title": "Courageous Conversation: Disabilities",
     "path": "/vod/lectures/2012/cc080912",
     "nid": 118,
@@ -1015,23 +965,27 @@
     "videoId": "48335572"
   },
   {
-    "title": "Newark Planning Commission Meeting, 8/9/12",
-    "path": "/vod/other/newarkplan080912",
-    "nid": 125,
-    "cablecastShowId": 1659,
-    "date": "2012-08-09",
-    "location": "Newark School",
+    "title": "What's Going On? Web of Debt",
+    "path": "/vod/wgo/wgo90",
+    "nid": 297,
+    "cablecastShowId": 1669,
+    "date": "2012-08-08",
+    "location": "KATV Studio",
     "year": "2012",
     "yearPath": "/vod/year/2012",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "51326287"
+    "videoId": "79055232"
   },
   {
     "title": "St. Johnsbury Select Board, 8/8/12",
@@ -1055,29 +1009,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "50884832"
-  },
-  {
-    "title": "What's Going On? Web of Debt",
-    "path": "/vod/wgo/wgo90",
-    "nid": 297,
-    "cablecastShowId": 1669,
-    "date": "2012-08-08",
-    "location": "KATV Studio",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "79055232"
   },
   {
     "title": "Concord Select Board, 8/2/12",
@@ -1325,6 +1256,25 @@
     "videoId": "45540524"
   },
   {
+    "title": "NCC: Solar Rollers",
+    "path": "/vod/ncc/061112",
+    "nid": 108,
+    "cablecastShowId": 1559,
+    "date": "2012-06-11",
+    "location": "UU Church",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "North Country Coalition",
+        "path": "/vod/ncc"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "45202158"
+  },
+  {
     "title": "St. Johnsbury Select Board, 6/11/12",
     "path": "/vod/stjselect/2012/061112",
     "nid": 104,
@@ -1346,25 +1296,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "44545214"
-  },
-  {
-    "title": "NCC: Solar Rollers",
-    "path": "/vod/ncc/061112",
-    "nid": 108,
-    "cablecastShowId": 1559,
-    "date": "2012-06-11",
-    "location": "UU Church",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "North Country Coalition",
-        "path": "/vod/ncc"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "45202158"
   },
   {
     "title": "Lyndon Institute 2012 Graduation",
@@ -1449,6 +1380,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "45736973"
+  },
+  {
+    "title": "What's Going On? Thoughts On NDAA",
+    "path": "/vod/wgo/wgo82",
+    "nid": 279,
+    "cablecastShowId": 1516,
+    "date": "2012-05-26",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78123687"
   },
   {
     "title": "Newark Wind with Ben Luce",
@@ -1581,29 +1535,6 @@
     "videoId": "42013904"
   },
   {
-    "title": "Concord Select Board, 4/19/12",
-    "path": "/vod/concordselect/2012/041912",
-    "nid": 99,
-    "cablecastShowId": 1469,
-    "date": "2012-04-19",
-    "location": "Concord Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "42395800"
-  },
-  {
     "title": "Osher: Northern Forest Come Alive",
     "path": "/vod/osher/2012/041912",
     "nid": 100,
@@ -1627,23 +1558,27 @@
     "videoId": "42440765"
   },
   {
-    "title": "CCPS Presents:The Nature of the Northern Forest",
-    "path": "/vod/lectures/2012/ccps041212",
-    "nid": 96,
-    "cablecastShowId": 1461,
-    "date": "2012-04-12",
-    "location": "Catamount Arts",
+    "title": "Concord Select Board, 4/19/12",
+    "path": "/vod/concordselect/2012/041912",
+    "nid": 99,
+    "cablecastShowId": 1469,
+    "date": "2012-04-19",
+    "location": "Concord Municipal Building",
     "year": "2012",
     "yearPath": "/vod/year/2012",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "41561450"
+    "videoId": "42395800"
   },
   {
     "title": "Bill Cotte Lecture Series Part 2",
@@ -1663,6 +1598,44 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "41986267"
+  },
+  {
+    "title": "CCPS Presents:The Nature of the Northern Forest",
+    "path": "/vod/lectures/2012/ccps041212",
+    "nid": 96,
+    "cablecastShowId": 1461,
+    "date": "2012-04-12",
+    "location": "Catamount Arts",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "41561450"
+  },
+  {
+    "title": "Bill Cotte Lecture Series Part 1",
+    "path": "/vod/lectures/2012/040912",
+    "nid": 95,
+    "cablecastShowId": 1450,
+    "date": "2012-04-09",
+    "location": "Lyndon State College",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "41247760"
   },
   {
     "title": "St. Johnsbury Select Board, 4/9/12",
@@ -1688,25 +1661,6 @@
     "videoId": "40730976"
   },
   {
-    "title": "Bill Cotte Lecture Series Part 1",
-    "path": "/vod/lectures/2012/040912",
-    "nid": 95,
-    "cablecastShowId": 1450,
-    "date": "2012-04-09",
-    "location": "Lyndon State College",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "41247760"
-  },
-  {
     "title": "What's Going On? Jessica Bernier",
     "path": "/vod/wgo/wgo80",
     "nid": 306,
@@ -1730,27 +1684,27 @@
     "videoId": "79476239"
   },
   {
-    "title": "Concord Select Board, 4/5/12",
-    "path": "/vod/concordselect/2012/040512",
-    "nid": 91,
-    "cablecastShowId": 1434,
+    "title": "Osher: A Vermonter's Stance - Civil War",
+    "path": "/vod/osher/2012/040512",
+    "nid": 94,
+    "cablecastShowId": 1436,
     "date": "2012-04-05",
-    "location": "Concord Municipal Building",
+    "location": "Catamount Arts",
     "year": "2012",
     "yearPath": "/vod/year/2012",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "40404183"
+    "videoId": "41172343"
   },
   {
     "title": "St. Johnsbury Select Board, 4/5/12",
@@ -1776,27 +1730,27 @@
     "videoId": "40756536"
   },
   {
-    "title": "Osher: A Vermonter's Stance - Civil War",
-    "path": "/vod/osher/2012/040512",
-    "nid": 94,
-    "cablecastShowId": 1436,
+    "title": "Concord Select Board, 4/5/12",
+    "path": "/vod/concordselect/2012/040512",
+    "nid": 91,
+    "cablecastShowId": 1434,
     "date": "2012-04-05",
-    "location": "Catamount Arts",
+    "location": "Concord Municipal Building",
     "year": "2012",
     "yearPath": "/vod/year/2012",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       },
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "41172343"
+    "videoId": "40404183"
   },
   {
     "title": "Concord School Board, 4/2/12",
@@ -1868,29 +1822,6 @@
     "videoId": "39510173"
   },
   {
-    "title": "St. Johnsbury Select Board Meeting, 3/8/12",
-    "path": "/vod/stjselect/2012/030812",
-    "nid": 85,
-    "cablecastShowId": 1390,
-    "date": "2012-03-08",
-    "location": "St. Johnsbury Municipal Building",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "38282108"
-  },
-  {
     "title": "Osher: Giving People the World",
     "path": "/vod/osher/030812",
     "nid": 86,
@@ -1912,6 +1843,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "39121904"
+  },
+  {
+    "title": "St. Johnsbury Select Board Meeting, 3/8/12",
+    "path": "/vod/stjselect/2012/030812",
+    "nid": 85,
+    "cablecastShowId": 1390,
+    "date": "2012-03-08",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "38282108"
   },
   {
     "title": "Concord Select Board, 3/1/12",
@@ -2006,29 +1960,6 @@
     "videoId": "38257014"
   },
   {
-    "title": "Concord School Board, 2/21/12 ",
-    "path": "/vod/concordschool/2012/022112",
-    "nid": 80,
-    "cablecastShowId": 1367,
-    "date": "2012-02-21",
-    "location": "Concord School",
-    "year": "2012",
-    "yearPath": "/vod/year/2012",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord School Board",
-        "path": "/vod//concordschool"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "37416134"
-  },
-  {
     "title": "4SNO St. Johnsbury Candidates Forum 2012",
     "path": "/vod/forums/2012/4snocand022112",
     "nid": 81,
@@ -2050,6 +1981,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "37903320"
+  },
+  {
+    "title": "Concord School Board, 2/21/12 ",
+    "path": "/vod/concordschool/2012/022112",
+    "nid": 80,
+    "cablecastShowId": 1367,
+    "date": "2012-02-21",
+    "location": "Concord School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "37416134"
   },
   {
     "title": "St. Johnsbury School Board, 2/20/12 ",

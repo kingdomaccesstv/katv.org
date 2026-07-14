@@ -111,6 +111,48 @@
     "videoId": "katv-stjschool-mtg-121817-6215"
   },
   {
+    "title": "St. Johnsbury Academy Winter Concert 2017",
+    "path": "/vod/concerts/2017/sja121417",
+    "nid": 774,
+    "cablecastShowId": 6208,
+    "date": "2017-12-14",
+    "location": "South Congregational Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "253008503"
+  },
+  {
+    "title": "NEK Chamber 2017 Business Celebration",
+    "path": "/vod/forums/2017/nekchamber121217",
+    "nid": 1398,
+    "cablecastShowId": 6186,
+    "date": "2017-12-12",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "248260121"
+  },
+  {
     "title": "In & Around St. J: First Night North 2017",
     "path": "/vod/studio/2017/iastj121217",
     "nid": 1397,
@@ -132,25 +174,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "248261189"
-  },
-  {
-    "title": "NEK Chamber 2017 Business Celebration",
-    "path": "/vod/forums/2017/nekchamber121217",
-    "nid": 1398,
-    "cablecastShowId": 6186,
-    "date": "2017-12-12",
-    "location": "Lyndon State College",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "248260121"
   },
   {
     "title": "St. Johnsbury Select Board, 12/11/17",
@@ -237,29 +260,6 @@
     "videoId": "246555686"
   },
   {
-    "title": "First Wednesday: Rembrandt and Vermeer",
-    "path": "/vod/firstwed/2017/120617",
-    "nid": 1393,
-    "cablecastShowId": 6165,
-    "date": "2017-12-06",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "246371173"
-  },
-  {
     "title": "What's Going On? Tom Rants II",
     "path": "/vod/wgo/wgo120617",
     "nid": 1394,
@@ -281,6 +281,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "246372356"
+  },
+  {
+    "title": "First Wednesday: Rembrandt and Vermeer",
+    "path": "/vod/firstwed/2017/120617",
+    "nid": 1393,
+    "cablecastShowId": 6165,
+    "date": "2017-12-06",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "246371173"
   },
   {
     "title": "St. Johnsbury School Board, 12/4/17",
@@ -482,25 +505,6 @@
     "videoId": "244291705"
   },
   {
-    "title": "Department of Public Service: Telecom Plan Public Hearing",
-    "path": "/vod/forums/2017/dpstelecom110817",
-    "nid": 1383,
-    "cablecastShowId": 6117,
-    "date": "2017-11-08",
-    "location": "Catamount Arts",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "242516365"
-  },
-  {
     "title": "What's Going On? Celebrating 300 Shows",
     "path": "/vod/wgo/wgo110817",
     "nid": 1384,
@@ -522,6 +526,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "242516301"
+  },
+  {
+    "title": "Department of Public Service: Telecom Plan Public Hearing",
+    "path": "/vod/forums/2017/dpstelecom110817",
+    "nid": 1383,
+    "cablecastShowId": 6117,
+    "date": "2017-11-08",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "242516365"
   },
   {
     "title": "Concord Select Board, 11/7/17",
@@ -654,29 +677,6 @@
     "videoId": "240667676"
   },
   {
-    "title": "Lyndon Institute: Fall Concert 2017",
-    "path": "/vod/concerts/2017/lifall2017",
-    "nid": 755,
-    "cablecastShowId": 6077,
-    "date": "2017-10-26",
-    "location": "Lyndon Institute",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "240258418"
-  },
-  {
     "title": "Osher: Climate Change in the NorthWoods",
     "path": "/vod/osher/2017/102617",
     "nid": 1375,
@@ -700,12 +700,12 @@
     "videoId": "240258811"
   },
   {
-    "title": "St. Johnsbury Academy Fall Concert 2017",
-    "path": "/vod/concerts/2017/stjafall102517",
-    "nid": 779,
-    "cablecastShowId": 6076,
-    "date": "2017-10-25",
-    "location": "St. Johnsbury Academy",
+    "title": "Lyndon Institute: Fall Concert 2017",
+    "path": "/vod/concerts/2017/lifall2017",
+    "nid": 755,
+    "cablecastShowId": 6077,
+    "date": "2017-10-26",
+    "location": "Lyndon Institute",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
@@ -714,13 +714,13 @@
         "path": "/vod/concerts"
       },
       {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "240181050"
+    "videoId": "240258418"
   },
   {
     "title": "What's Going On? America Under Siege: Antifa",
@@ -746,27 +746,27 @@
     "videoId": "240181121"
   },
   {
-    "title": "St. Johnsbury Select Board, Public Hearing, 10/24/17",
-    "path": "/vod/stjselect/2017/102417ph",
-    "nid": 1373,
-    "cablecastShowId": 6059,
-    "date": "2017-10-24",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "St. Johnsbury Academy Fall Concert 2017",
+    "path": "/vod/concerts/2017/stjafall102517",
+    "nid": 779,
+    "cablecastShowId": 6076,
+    "date": "2017-10-25",
+    "location": "St. Johnsbury Academy",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-ph-102417-6059"
+    "videoSource": "vimeo",
+    "videoId": "240181050"
   },
   {
     "title": "St. Johnsbury Select Board, Special Meeting, 10/24/17",
@@ -790,6 +790,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-102417-6060"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Public Hearing, 10/24/17",
+    "path": "/vod/stjselect/2017/102417ph",
+    "nid": 1373,
+    "cablecastShowId": 6059,
+    "date": "2017-10-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-ph-102417-6059"
   },
   {
     "title": "St. Johnsbury Select Board, 10/23/17",
@@ -999,27 +1022,23 @@
     "videoId": "katv-stjselect-mtg-101117-6028"
   },
   {
-    "title": "What's Going On? George Hagel Would be Proud",
-    "path": "/vod/wgo/wgo101117",
-    "nid": 1360,
-    "cablecastShowId": 6031,
+    "title": "Threading My Prayer Rug, A&C Lecture",
+    "path": "/vod/lectures/2017/stjath101117",
+    "nid": 1362,
+    "cablecastShowId": 6032,
     "date": "2017-10-11",
-    "location": "KATV Studio",
+    "location": "St. Johnsbury Athenaeum",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "239167670"
+    "videoId": "239144952"
   },
   {
     "title": "What's Going On? George Hagel Would be Proud",
@@ -1045,23 +1064,27 @@
     "videoId": "239167670"
   },
   {
-    "title": "Threading My Prayer Rug, A&C Lecture",
-    "path": "/vod/lectures/2017/stjath101117",
-    "nid": 1362,
-    "cablecastShowId": 6032,
+    "title": "What's Going On? George Hagel Would be Proud",
+    "path": "/vod/wgo/wgo101117",
+    "nid": 1360,
+    "cablecastShowId": 6031,
     "date": "2017-10-11",
-    "location": "St. Johnsbury Athenaeum",
+    "location": "KATV Studio",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "239144952"
+    "videoId": "239167670"
   },
   {
     "title": "Vermont College Fairs: Senator Bernie Sanders",
@@ -1198,6 +1221,25 @@
     "videoId": "236354360"
   },
   {
+    "title": "Depot Square Park: Ribbon Cutting Ceremony",
+    "path": "/vod/lectures/2017/depotsq092717",
+    "nid": 1354,
+    "cablecastShowId": 5993,
+    "date": "2017-09-27",
+    "location": "Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "236350902"
+  },
+  {
     "title": "What's Going On? N.F.L. = Useful Idiots",
     "path": "/vod/wgo/wgo092717",
     "nid": 1353,
@@ -1219,25 +1261,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "236356709"
-  },
-  {
-    "title": "Depot Square Park: Ribbon Cutting Ceremony",
-    "path": "/vod/lectures/2017/depotsq092717",
-    "nid": 1354,
-    "cablecastShowId": 5993,
-    "date": "2017-09-27",
-    "location": "Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "236350902"
   },
   {
     "title": "In & Around St. J: Community Connections",
@@ -1263,29 +1286,6 @@
     "videoId": "236353166"
   },
   {
-    "title": "St. Johnsbury Select Board, 9/25/17",
-    "path": "/vod/stjselect/2017/092517",
-    "nid": 1351,
-    "cablecastShowId": 5986,
-    "date": "2017-09-25",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-092517-5986"
-  },
-  {
     "title": "St. Johnsbury Select Board, 9/25/17 Special Meeting",
     "path": "/vod/stjselect/2017/092517specmtg",
     "nid": 1352,
@@ -1307,6 +1307,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-092517-5987"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/25/17",
+    "path": "/vod/stjselect/2017/092517",
+    "nid": 1351,
+    "cablecastShowId": 5986,
+    "date": "2017-09-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092517-5986"
   },
   {
     "title": "N.E. Vermont On Guard: Corporate Influence on Government",
@@ -1431,6 +1454,25 @@
     "videoId": "235596527"
   },
   {
+    "title": "NVDA Annual Meeting 2017",
+    "path": "/vod/lectures/2017/nvda2017",
+    "nid": 1343,
+    "cablecastShowId": 5963,
+    "date": "2017-09-14",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235593376"
+  },
+  {
     "title": "Osher: Kids Gardening for Pollinators in VT",
     "path": "/vod/osher/2017/091417",
     "nid": 1342,
@@ -1452,25 +1494,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "235592469"
-  },
-  {
-    "title": "NVDA Annual Meeting 2017",
-    "path": "/vod/lectures/2017/nvda2017",
-    "nid": 1343,
-    "cablecastShowId": 5963,
-    "date": "2017-09-14",
-    "location": "Lyndon State College",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "235593376"
   },
   {
     "title": "In & Around St. J: Colors of the Kingdom",
@@ -1584,29 +1607,6 @@
     "videoId": "231212420"
   },
   {
-    "title": "St. Johnsbury Select Board, 8/14/17",
-    "path": "/vod/stjselect/2017/081417",
-    "nid": 1335,
-    "cablecastShowId": 5886,
-    "date": "2017-08-14",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-081417-5886"
-  },
-  {
     "title": "St. Johnsbury School Board, 8/14/17",
     "path": "/vod/stjschool/2017/081417",
     "nid": 1336,
@@ -1628,6 +1628,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-081417-5885"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/14/17",
+    "path": "/vod/stjselect/2017/081417",
+    "nid": 1335,
+    "cablecastShowId": 5886,
+    "date": "2017-08-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081417-5886"
   },
   {
     "title": "Main Street Arts St. Andrew's: Primal Boys",
@@ -2020,29 +2043,6 @@
     "videoId": "katv-stjschool-mtg-071017-5794"
   },
   {
-    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Christina Hutchins",
-    "path": "/vod/lectures/2017/stjath070517",
-    "nid": 1312,
-    "cablecastShowId": 5783,
-    "date": "2017-07-05",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "225189134"
-  },
-  {
     "title": "What's Going On? Declaration of Independence",
     "path": "/vod/wgo/wgo070517",
     "nid": 1338,
@@ -2064,6 +2064,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "235585273"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Christina Hutchins",
+    "path": "/vod/lectures/2017/stjath070517",
+    "nid": 1312,
+    "cablecastShowId": 5783,
+    "date": "2017-07-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "225189134"
   },
   {
     "title": "Woodsville 4th of July Parade 2017",
@@ -2108,29 +2131,6 @@
     "videoId": "225188073"
   },
   {
-    "title": "What's Going On? Can't Cover it All in One Hour",
-    "path": "/vod/wgo/wgo062917",
-    "nid": 1309,
-    "cablecastShowId": 5767,
-    "date": "2017-06-29",
-    "location": "KATV Studio",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "224010596"
-  },
-  {
     "title": "St. Johnsbury Athenaeum: LWV, The Electoral College",
     "path": "/vod/lectures/2017/stjath062917",
     "nid": 1310,
@@ -2152,6 +2152,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "224007661"
+  },
+  {
+    "title": "What's Going On? Can't Cover it All in One Hour",
+    "path": "/vod/wgo/wgo062917",
+    "nid": 1309,
+    "cablecastShowId": 5767,
+    "date": "2017-06-29",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "224010596"
   },
   {
     "title": "St. Johnsbury Athenaeum: Osama Alomar",
@@ -2177,29 +2200,6 @@
     "videoId": "224005581"
   },
   {
-    "title": "St. Johnsbury Select Board, 6/26/17",
-    "path": "/vod/stjselect/2017/062617",
-    "nid": 1307,
-    "cablecastShowId": 5755,
-    "date": "2017-06-26",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-062617-5755"
-  },
-  {
     "title": "SJA Theatre Presents: Romeo & Juliet",
     "path": "/vod/other/2017/sjatheater062617",
     "nid": 1325,
@@ -2221,6 +2221,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "227952085"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/26/17",
+    "path": "/vod/stjselect/2017/062617",
+    "nid": 1307,
+    "cablecastShowId": 5755,
+    "date": "2017-06-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-062617-5755"
   },
   {
     "title": "What's Going On? Who Is In Charge?",
@@ -2246,29 +2269,6 @@
     "videoId": "222983726"
   },
   {
-    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Sydney Lea",
-    "path": "/vod/lectures/2017/stjath062117",
-    "nid": 1303,
-    "cablecastShowId": 5749,
-    "date": "2017-06-21",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "222981146"
-  },
-  {
     "title": "St. Johnsbury Athenaeum: Jon Gailmor",
     "path": "/vod/lectures/2017/stjath062117a",
     "nid": 1473,
@@ -2290,6 +2290,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "253001392"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Sydney Lea",
+    "path": "/vod/lectures/2017/stjath062117",
+    "nid": 1303,
+    "cablecastShowId": 5749,
+    "date": "2017-06-21",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "222981146"
   },
   {
     "title": "St. Johnsbury Planning Commission,6/20/17",
@@ -2353,6 +2376,25 @@
     "videoId": "222979052"
   },
   {
+    "title": "DART: Community Conversation, 6/13/17",
+    "path": "/vod/forums/2017/dart061317",
+    "nid": 1300,
+    "cablecastShowId": 5726,
+    "date": "2017-06-13",
+    "location": "North Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "222144424"
+  },
+  {
     "title": "In & Around St. J: 2017 Pet Parade",
     "path": "/vod/studio/2017/iastj061317",
     "nid": 1299,
@@ -2374,25 +2416,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "222142773"
-  },
-  {
-    "title": "DART: Community Conversation, 6/13/17",
-    "path": "/vod/forums/2017/dart061317",
-    "nid": 1300,
-    "cablecastShowId": 5726,
-    "date": "2017-06-13",
-    "location": "North Church",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "222144424"
   },
   {
     "title": "St. Johnsbury School Board, 6/12/17",
@@ -2418,6 +2441,25 @@
     "videoId": "katv-stjschool-mtg-061217-5721"
   },
   {
+    "title": "Community Concert: To Life! A Broadway Story",
+    "path": "/vod/concerts/2017/commconcert061117",
+    "nid": 1297,
+    "cablecastShowId": 5719,
+    "date": "2017-06-11",
+    "location": "South Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "222143795"
+  },
+  {
     "title": "What's Going On? A Russian Warning",
     "path": "/vod/wgo/wgo061117",
     "nid": 1185,
@@ -2439,25 +2481,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "204651306"
-  },
-  {
-    "title": "Community Concert: To Life! A Broadway Story",
-    "path": "/vod/concerts/2017/commconcert061117",
-    "nid": 1297,
-    "cablecastShowId": 5719,
-    "date": "2017-06-11",
-    "location": "South Church",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "222143795"
   },
   {
     "title": "Concord Select Board, 6/6/17",
@@ -2483,6 +2506,25 @@
     "videoId": "katv-concordselect-mtg-060617-5709"
   },
   {
+    "title": "St. Johnsbury Academy 2017 Graduation",
+    "path": "/vod/grad/sjagrad2017",
+    "nid": 1472,
+    "cablecastShowId": 5712,
+    "date": "2017-06-05",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "253000130"
+  },
+  {
     "title": "Concord School Board, 6/5/17",
     "path": "/vod/concordschool/2017/060517",
     "nid": 1296,
@@ -2504,25 +2546,6 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-concordschool-mtg-060517-5708"
-  },
-  {
-    "title": "St. Johnsbury Academy 2017 Graduation",
-    "path": "/vod/grad/sjagrad2017",
-    "nid": 1472,
-    "cablecastShowId": 5712,
-    "date": "2017-06-05",
-    "location": "St. Johnsbury Academy",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "253000130"
   },
   {
     "title": "Lyndon Institute 2017 Graduation",
@@ -2728,6 +2751,25 @@
     "videoId": "219416729"
   },
   {
+    "title": "St. Johnsbury Academy Capstone Concert 2017",
+    "path": "/vod/concerts/2017/sja051717",
+    "nid": 1287,
+    "cablecastShowId": 5654,
+    "date": "2017-05-17",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "218321826"
+  },
+  {
     "title": "Danville School: 2017 Spring Band Concert",
     "path": "/vod/concerts/2017/danville051717",
     "nid": 742,
@@ -2749,25 +2791,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "218323631"
-  },
-  {
-    "title": "St. Johnsbury Academy Capstone Concert 2017",
-    "path": "/vod/concerts/2017/sja051717",
-    "nid": 1287,
-    "cablecastShowId": 5654,
-    "date": "2017-05-17",
-    "location": "St. Johnsbury Academy",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "218321826"
   },
   {
     "title": "St. Johnsbury Planning Commission, 5/16/17",
@@ -2793,6 +2816,25 @@
     "videoId": "katv-stjplanning-mtg-051617-5653"
   },
   {
+    "title": "NEK Chamber Annual Meeting 2017",
+    "path": "/vod/forums/2017/nekchamber051617",
+    "nid": 1285,
+    "cablecastShowId": 5652,
+    "date": "2017-05-16",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "218324399"
+  },
+  {
     "title": "In & Around St. J: CALEX Fundraiser 2017",
     "path": "/vod/studio/2017/iastj051617",
     "nid": 1280,
@@ -2814,25 +2856,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "218324920"
-  },
-  {
-    "title": "NEK Chamber Annual Meeting 2017",
-    "path": "/vod/forums/2017/nekchamber051617",
-    "nid": 1285,
-    "cablecastShowId": 5652,
-    "date": "2017-05-16",
-    "location": "Lyndon State College",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "218324399"
   },
   {
     "title": "St. Johnsbury School Board, 5/15/17",
@@ -2858,27 +2881,23 @@
     "videoId": "katv-stjschool-mtg-051517-5650"
   },
   {
-    "title": "What's Going On? Our True Foundation",
-    "path": "/vod/wgo/wgo051017",
-    "nid": 1277,
-    "cablecastShowId": 5639,
+    "title": "Blazing A Trail: Economic Impact of VT Recreation Trails, Part 2",
+    "path": "/vod/forums/2017/vttrails051017p2",
+    "nid": 1279,
+    "cablecastShowId": 5635,
     "date": "2017-05-10",
-    "location": "KATV Studio",
+    "location": "Burke",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "218326924"
+    "videoId": "217256922"
   },
   {
     "title": "Blazing A Trail: Economic Impact of VT Recreation Trails, Part 1",
@@ -2900,23 +2919,27 @@
     "videoId": "217256497"
   },
   {
-    "title": "Blazing A Trail: Economic Impact of VT Recreation Trails, Part 2",
-    "path": "/vod/forums/2017/vttrails051017p2",
-    "nid": 1279,
-    "cablecastShowId": 5635,
+    "title": "What's Going On? Our True Foundation",
+    "path": "/vod/wgo/wgo051017",
+    "nid": 1277,
+    "cablecastShowId": 5639,
     "date": "2017-05-10",
-    "location": "Burke",
+    "location": "KATV Studio",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "217256922"
+    "videoId": "218326924"
   },
   {
     "title": "St. Johnsbury Select Board, 5/8/17",
@@ -2980,29 +3003,6 @@
     "videoId": "217251120"
   },
   {
-    "title": "NEK Community Orchestra: Spring Concert 2017",
-    "path": "/vod/concerts/2017/nekco050617",
-    "nid": 765,
-    "cablecastShowId": 5623,
-    "date": "2017-05-06",
-    "location": "Lyndon State College",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "NEK Community Orchestra",
-        "path": "/vod/concerts/nekco"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "217247215"
-  },
-  {
     "title": "Franklin Fairbanks Award 2017",
     "path": "/vod/fairbanks/2017/050617",
     "nid": 1275,
@@ -3026,6 +3026,48 @@
     "videoId": "217245212"
   },
   {
+    "title": "NEK Community Orchestra: Spring Concert 2017",
+    "path": "/vod/concerts/2017/nekco050617",
+    "nid": 765,
+    "cablecastShowId": 5623,
+    "date": "2017-05-06",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "217247215"
+  },
+  {
+    "title": "G2 Focused Information: Opioid Awareness 101",
+    "path": "/vod/forums/2017/opioid050317",
+    "nid": 1273,
+    "cablecastShowId": 5618,
+    "date": "2017-05-03",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "217243260"
+  },
+  {
     "title": "First Wednesday: World War II, American Perceptions",
     "path": "/vod/firstwed/2017/050317",
     "nid": 1272,
@@ -3047,25 +3089,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "217242951"
-  },
-  {
-    "title": "G2 Focused Information: Opioid Awareness 101",
-    "path": "/vod/forums/2017/opioid050317",
-    "nid": 1273,
-    "cablecastShowId": 5618,
-    "date": "2017-05-03",
-    "location": "Catamount Arts",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "217243260"
   },
   {
     "title": "St. Johnsbury School Board, 5/1/17",
@@ -3129,29 +3152,6 @@
     "videoId": "217238337"
   },
   {
-    "title": "Osher: Orchid Growing in Northeast Vermont",
-    "path": "/vod/osher/2017/042717",
-    "nid": 1268,
-    "cablecastShowId": 5595,
-    "date": "2017-04-27",
-    "location": "Catamount Arts",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "215295295"
-  },
-  {
     "title": "What's Going On? What Control of Money Is",
     "path": "/vod/wgo/wgo042717",
     "nid": 1269,
@@ -3175,27 +3175,27 @@
     "videoId": "218327277"
   },
   {
-    "title": "St. Johnsbury Select Board, 4/24/17",
-    "path": "/vod/stjselect/2017/042417",
-    "nid": 1267,
-    "cablecastShowId": 5584,
-    "date": "2017-04-24",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "Osher: Orchid Growing in Northeast Vermont",
+    "path": "/vod/osher/2017/042717",
+    "nid": 1268,
+    "cablecastShowId": 5595,
+    "date": "2017-04-27",
+    "location": "Catamount Arts",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-042417-5584"
+    "videoSource": "vimeo",
+    "videoId": "215295295"
   },
   {
     "title": "St. Johnsbury School Board, 4/24/17",
@@ -3219,6 +3219,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-042417-5585"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/24/17",
+    "path": "/vod/stjselect/2017/042417",
+    "nid": 1267,
+    "cablecastShowId": 5584,
+    "date": "2017-04-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-042417-5584"
   },
   {
     "title": "Legislative Breakfast, April 2017",
@@ -3267,25 +3290,6 @@
     "videoId": "215294164"
   },
   {
-    "title": "Aspire! Awards Ceremony 2017",
-    "path": "/vod/forums/2017/aspire041917",
-    "nid": 1264,
-    "cablecastShowId": 5578,
-    "date": "2017-04-19",
-    "location": "The Kingdom Taproom",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "215292556"
-  },
-  {
     "title": "What's Going On? U.S. Const. vs Shariah Law",
     "path": "/vod/wgo/wgo041917",
     "nid": 1427,
@@ -3307,6 +3311,25 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "252994610"
+  },
+  {
+    "title": "Aspire! Awards Ceremony 2017",
+    "path": "/vod/forums/2017/aspire041917",
+    "nid": 1264,
+    "cablecastShowId": 5578,
+    "date": "2017-04-19",
+    "location": "The Kingdom Taproom",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "215292556"
   },
   {
     "title": "In & Around St. J: Joe Fox",
@@ -3393,27 +3416,27 @@
     "videoId": "213478933"
   },
   {
-    "title": "What's Going On? Intel Agencies Not Trustworthy",
-    "path": "/vod/wgo/wgo041217",
-    "nid": 1258,
-    "cablecastShowId": 5558,
+    "title": "St. Johnsbury Athenaeum: Blogging the Madwoman",
+    "path": "/vod/stjath/2017/041217a",
+    "nid": 1260,
+    "cablecastShowId": 5555,
     "date": "2017-04-12",
-    "location": "KATV Studio",
+    "location": "St. Johnsbury Athenaeum",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "213476262"
+    "videoId": "213478103"
   },
   {
     "title": "St. Johnsbury Athenaeum: Poetry at Lunch",
@@ -3439,27 +3462,27 @@
     "videoId": "213474498"
   },
   {
-    "title": "St. Johnsbury Athenaeum: Blogging the Madwoman",
-    "path": "/vod/stjath/2017/041217a",
-    "nid": 1260,
-    "cablecastShowId": 5555,
+    "title": "What's Going On? Intel Agencies Not Trustworthy",
+    "path": "/vod/wgo/wgo041217",
+    "nid": 1258,
+    "cablecastShowId": 5558,
     "date": "2017-04-12",
-    "location": "St. Johnsbury Athenaeum",
+    "location": "KATV Studio",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "213478103"
+    "videoId": "213476262"
   },
   {
     "title": "In & Around St. J: Events in Spring 2017",
@@ -3485,29 +3508,6 @@
     "videoId": "212994920"
   },
   {
-    "title": "St. Johnsbury Select Board, Environmental Impact Hearing, 4/10/17",
-    "path": "/vod/stjselect/2017/041017environ",
-    "nid": 1255,
-    "cablecastShowId": 5547,
-    "date": "2017-04-10",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-specmtg-041017-5547"
-  },
-  {
     "title": "St. Johnsbury Select Board, 4/10/17",
     "path": "/vod/stjselect/2017/041017",
     "nid": 1256,
@@ -3529,6 +3529,29 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-041017-5540"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Environmental Impact Hearing, 4/10/17",
+    "path": "/vod/stjselect/2017/041017environ",
+    "nid": 1255,
+    "cablecastShowId": 5547,
+    "date": "2017-04-10",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-041017-5547"
   },
   {
     "title": "Osher: Biking the Heel of Italy's Boot",
@@ -3600,29 +3623,6 @@
     "videoId": "212994735"
   },
   {
-    "title": "What's Going On? More Lies for the Sheep",
-    "path": "/vod/wgo/wgo033017",
-    "nid": 1246,
-    "cablecastShowId": 5521,
-    "date": "2017-03-30",
-    "location": "KATV Studio",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "210859613"
-  },
-  {
     "title": "Osher: The French Connection",
     "path": "/vod/osher/2017/033017",
     "nid": 1248,
@@ -3646,23 +3646,27 @@
     "videoId": "211127189"
   },
   {
-    "title": "Vermont Agency of Transportation: Public Info Meeting, 3/29/17",
-    "path": "/vod/forums/2017/vtaot023917",
-    "nid": 1245,
-    "cablecastShowId": 5516,
-    "date": "2017-03-29",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "What's Going On? More Lies for the Sheep",
+    "path": "/vod/wgo/wgo033017",
+    "nid": 1246,
+    "cablecastShowId": 5521,
+    "date": "2017-03-30",
+    "location": "KATV Studio",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "210858990"
+    "videoId": "210859613"
   },
   {
     "title": "St. Johnsbury Athenaeum: Fake News, Alternative Facts & Social Media",
@@ -3688,6 +3692,25 @@
     "videoId": "211127476"
   },
   {
+    "title": "Vermont Agency of Transportation: Public Info Meeting, 3/29/17",
+    "path": "/vod/forums/2017/vtaot023917",
+    "nid": 1245,
+    "cablecastShowId": 5516,
+    "date": "2017-03-29",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210858990"
+  },
+  {
     "title": "St. Johnsbury Select Board, 3/27/17",
     "path": "/vod/stjselect/2017/032717",
     "nid": 1253,
@@ -3709,29 +3732,6 @@
     "teaserImage": null,
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-032717-5501"
-  },
-  {
-    "title": "Legislative Breakfast, March 2017",
-    "path": "/vod/legbkfst/2017/032717",
-    "nid": 1238,
-    "cablecastShowId": 5499,
-    "date": "2017-03-27",
-    "location": "St. Johnsbury House",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "210551706"
   },
   {
     "title": "St. Johnsbury Athenaeum: Celebrating the Abenaki Heritage",
@@ -3757,27 +3757,27 @@
     "videoId": "210551830"
   },
   {
-    "title": "What's Going On? Did You Know..?",
-    "path": "/vod/wgo/wgo032317",
-    "nid": 1236,
-    "cablecastShowId": 5487,
-    "date": "2017-03-23",
-    "location": "KATV Studio",
+    "title": "Legislative Breakfast, March 2017",
+    "path": "/vod/legbkfst/2017/032717",
+    "nid": 1238,
+    "cablecastShowId": 5499,
+    "date": "2017-03-27",
+    "location": "St. Johnsbury House",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Local Politics",
+        "path": "/vod/politics"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "209948618"
+    "videoId": "210551706"
   },
   {
     "title": "Osher: Silent Predator of the Night",
@@ -3803,6 +3803,29 @@
     "videoId": "209949169"
   },
   {
+    "title": "What's Going On? Did You Know..?",
+    "path": "/vod/wgo/wgo032317",
+    "nid": 1236,
+    "cablecastShowId": 5487,
+    "date": "2017-03-23",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "209948618"
+  },
+  {
     "title": "St. Johnsbury Planning Commission, 3/21/17",
     "path": "/vod/stjselect/2017/032117plan",
     "nid": 1252,
@@ -3826,29 +3849,6 @@
     "videoId": "katv-stjplanning-mtg-032117-5475"
   },
   {
-    "title": "St. Johnsbury Academy Spring Concert 2018",
-    "path": "/vod/concerts/2018/sjaspring032117",
-    "nid": 780,
-    "cablecastShowId": 6538,
-    "date": "2017-03-21",
-    "location": "St. Johnsbury Academy",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "264776452"
-  },
-  {
     "title": "In & Around St. J: Spring 2017 Events",
     "path": "/vod/studio/2017/iastj032117",
     "nid": 1235,
@@ -3870,6 +3870,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "209941604"
+  },
+  {
+    "title": "St. Johnsbury Academy Spring Concert 2018",
+    "path": "/vod/concerts/2018/sjaspring032117",
+    "nid": 780,
+    "cablecastShowId": 6538,
+    "date": "2017-03-21",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "264776452"
   },
   {
     "title": "St. Johnsbury School Board, 3/20/17",
@@ -3914,10 +3937,10 @@
     "videoId": "209942987"
   },
   {
-    "title": "Rotary Basketball 2017 [Boys Division C]",
-    "path": "/vod/sports/rotary2017boysC",
-    "nid": 1240,
-    "cablecastShowId": 5480,
+    "title": "Rotary Basketball 2017 [Girls Division A]",
+    "path": "/vod/sports/rotary2017girlsA",
+    "nid": 1244,
+    "cablecastShowId": 5481,
     "date": "2017-03-18",
     "location": "St. Johnsbury Academy",
     "year": "2017",
@@ -3934,53 +3957,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "210549195"
-  },
-  {
-    "title": "Rotary Basketball 2017 [Boys Division B]",
-    "path": "/vod/sports/rotary2017boysB",
-    "nid": 1241,
-    "cablecastShowId": 5479,
-    "date": "2017-03-18",
-    "location": "St. Johnsbury Academy",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "210547299"
-  },
-  {
-    "title": "Rotary Basketball 2017 [Girls Division B]",
-    "path": "/vod/sports/rotary2017girlsB",
-    "nid": 1242,
-    "cablecastShowId": 5482,
-    "date": "2017-03-18",
-    "location": "St. Johnsbury Academy",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      },
-      {
-        "name": "Rotary Basketball",
-        "path": "/vod/sports/rotarybb"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "210853863"
+    "videoId": "210549739"
   },
   {
     "title": "Rotary Basketball 2017 [Boys Division A]",
@@ -4006,10 +3983,10 @@
     "videoId": "210547043"
   },
   {
-    "title": "Rotary Basketball 2017 [Girls Division A]",
-    "path": "/vod/sports/rotary2017girlsA",
-    "nid": 1244,
-    "cablecastShowId": 5481,
+    "title": "Rotary Basketball 2017 [Girls Division B]",
+    "path": "/vod/sports/rotary2017girlsB",
+    "nid": 1242,
+    "cablecastShowId": 5482,
     "date": "2017-03-18",
     "location": "St. Johnsbury Academy",
     "year": "2017",
@@ -4026,60 +4003,68 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "210549739"
+    "videoId": "210853863"
   },
   {
-    "title": "Concord Select Board, 3/16/17",
-    "path": "/vod/concordselect/2017/031617",
-    "nid": 1230,
-    "cablecastShowId": 5464,
-    "date": "2017-03-16",
-    "location": "Concord Municipal Building",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-concordselect-mtg-031617-5464"
-  },
-  {
-    "title": "Senator Sanders, Student Town Meeting, SJA",
-    "path": "/vod/forums/2017/sanders031617",
-    "nid": 1228,
-    "cablecastShowId": 5466,
-    "date": "2017-03-16",
+    "title": "Rotary Basketball 2017 [Boys Division B]",
+    "path": "/vod/sports/rotary2017boysB",
+    "nid": 1241,
+    "cablecastShowId": 5479,
+    "date": "2017-03-18",
     "location": "St. Johnsbury Academy",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "208936758"
+    "videoId": "210547299"
   },
   {
-    "title": "Senator Sanders, Senior Town Meeting",
-    "path": "/vod/forums/2017/sanders03161702",
-    "nid": 1229,
-    "cablecastShowId": 5467,
-    "date": "2017-03-16",
-    "location": "St. Johnsbury House",
+    "title": "Rotary Basketball 2017 [Boys Division C]",
+    "path": "/vod/sports/rotary2017boysC",
+    "nid": 1240,
+    "cablecastShowId": 5480,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210549195"
+  },
+  {
+    "title": "Osher: Flexibility, Patience and a Sense of Humor",
+    "path": "/vod/osher/2017/031617",
+    "nid": 1232,
+    "cablecastShowId": 5465,
+    "date": "2017-03-16",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
       {
         "name": "Lectures and Forums",
         "path": "/vod/lectures-forums"
@@ -4087,7 +4072,7 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "208936678"
+    "videoId": "208940098"
   },
   {
     "title": "What's Going On? A Harsh Reality",
@@ -4113,19 +4098,38 @@
     "videoId": "208940123"
   },
   {
-    "title": "Osher: Flexibility, Patience and a Sense of Humor",
-    "path": "/vod/osher/2017/031617",
-    "nid": 1232,
-    "cablecastShowId": 5465,
+    "title": "Concord Select Board, 3/16/17",
+    "path": "/vod/concordselect/2017/031617",
+    "nid": 1230,
+    "cablecastShowId": 5464,
     "date": "2017-03-16",
-    "location": "Catamount Arts",
+    "location": "Concord Municipal Building",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-031617-5464"
+  },
+  {
+    "title": "Senator Sanders, Senior Town Meeting",
+    "path": "/vod/forums/2017/sanders03161702",
+    "nid": 1229,
+    "cablecastShowId": 5467,
+    "date": "2017-03-16",
+    "location": "St. Johnsbury House",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
       {
         "name": "Lectures and Forums",
         "path": "/vod/lectures-forums"
@@ -4133,7 +4137,26 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "208940098"
+    "videoId": "208936678"
+  },
+  {
+    "title": "Senator Sanders, Student Town Meeting, SJA",
+    "path": "/vod/forums/2017/sanders031617",
+    "nid": 1228,
+    "cablecastShowId": 5466,
+    "date": "2017-03-16",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208936758"
   },
   {
     "title": "St. Johnsbury School Board: Budget Input Session, 3/15/17",
@@ -4205,10 +4228,10 @@
     "videoId": "207751148"
   },
   {
-    "title": "NEK Youth Services: Cabin Fever Reliever",
-    "path": "/vod/studio/2017/nekys022817",
-    "nid": 1211,
-    "cablecastShowId": 5404,
+    "title": "NEKCA Prosperity Fund",
+    "path": "/vod/studio/2019/nekca082119",
+    "nid": 1791,
+    "cablecastShowId": 7942,
     "date": "2017-02-28",
     "location": "KATV Studio",
     "year": "2017",
@@ -4221,7 +4244,26 @@
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "206768573"
+    "videoId": "362732821"
+  },
+  {
+    "title": "Aspire Workshops: Circle of Support Orientation",
+    "path": "/vod/forums/2017/aspire022817",
+    "nid": 1213,
+    "cablecastShowId": 5401,
+    "date": "2017-02-28",
+    "location": "Springfield College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "206768915"
   },
   {
     "title": "Health and Wellness: A Healthy Lifestyle",
@@ -4243,23 +4285,23 @@
     "videoId": "206766074"
   },
   {
-    "title": "Aspire Workshops: Circle of Support Orientation",
-    "path": "/vod/forums/2017/aspire022817",
-    "nid": 1213,
-    "cablecastShowId": 5401,
+    "title": "NEK Youth Services: Cabin Fever Reliever",
+    "path": "/vod/studio/2017/nekys022817",
+    "nid": 1211,
+    "cablecastShowId": 5404,
     "date": "2017-02-28",
-    "location": "Springfield College",
+    "location": "KATV Studio",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       }
     ],
     "teaserImage": null,
     "videoSource": "vimeo",
-    "videoId": "206768915"
+    "videoId": "206768573"
   },
   {
     "title": "St. Johnsbury Select Board, 2/27/17",
@@ -4308,29 +4350,6 @@
     "videoId": "206763718"
   },
   {
-    "title": "Vermont Legislative Outreach: St. Johnsbury Forum",
-    "path": "/vod/forums/2017/vtleg022217",
-    "nid": 1196,
-    "cablecastShowId": 5388,
-    "date": "2017-02-22",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "205630340"
-  },
-  {
     "title": "What's Going On? Bill Flick, Stop Fake News",
     "path": "/vod/wgo/wgo022217",
     "nid": 1220,
@@ -4352,6 +4371,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "207749527"
+  },
+  {
+    "title": "Vermont Legislative Outreach: St. Johnsbury Forum",
+    "path": "/vod/forums/2017/vtleg022217",
+    "nid": 1196,
+    "cablecastShowId": 5388,
+    "date": "2017-02-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "205630340"
   },
   {
     "title": "St. Johnsbury Planning Commission, 2/21/17",
@@ -4672,6 +4714,25 @@
     "videoId": "207748224"
   },
   {
+    "title": "Center for Women & Enterprise: Growing Your Business",
+    "path": "/vod/forums/2017/cwe012717",
+    "nid": 1145,
+    "cablecastShowId": 5277,
+    "date": "2017-01-27",
+    "location": "Northern Vermont Regional Hospital",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "202673774"
+  },
+  {
     "title": "Lyndon Institute: A Lyndon Home Companion",
     "path": "/vod/concerts/2017/li012717",
     "nid": 754,
@@ -4693,25 +4754,6 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "202670004"
-  },
-  {
-    "title": "Center for Women & Enterprise: Growing Your Business",
-    "path": "/vod/forums/2017/cwe012717",
-    "nid": 1145,
-    "cablecastShowId": 5277,
-    "date": "2017-01-27",
-    "location": "Northern Vermont Regional Hospital",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "202673774"
   },
   {
     "title": "What's Going On? Educating the Masses, with Bill Flick",
@@ -4783,27 +4825,23 @@
     "videoId": "katv-stjschool-specmtg-012317-5298"
   },
   {
-    "title": "St. Johnsbury Planning Commission, 1/17/17",
-    "path": "/vod/stjselect/2017/011717plan",
-    "nid": 1132,
-    "cablecastShowId": 5279,
+    "title": "Center for Women & Enterprise: Steps to Starting your Business",
+    "path": "/vod/forums/2017/cwe011717a",
+    "nid": 1177,
+    "cablecastShowId": 5314,
     "date": "2017-01-17",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "Northern Vermont Regional Hospital",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
     "teaserImage": null,
-    "videoSource": "archive.org",
-    "videoId": "katv-stjplan-mtg-011718"
+    "videoSource": "vimeo",
+    "videoId": "203657897"
   },
   {
     "title": "Center for Women & Enterprise: Is Entrepreneurship Right for You?",
@@ -4825,23 +4863,27 @@
     "videoId": "202679960"
   },
   {
-    "title": "Center for Women & Enterprise: Steps to Starting your Business",
-    "path": "/vod/forums/2017/cwe011717a",
-    "nid": 1177,
-    "cablecastShowId": 5314,
+    "title": "St. Johnsbury Planning Commission, 1/17/17",
+    "path": "/vod/stjselect/2017/011717plan",
+    "nid": 1132,
+    "cablecastShowId": 5279,
     "date": "2017-01-17",
-    "location": "Northern Vermont Regional Hospital",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2017",
     "yearPath": "/vod/year/2017",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
     "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "203657897"
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-011718"
   },
   {
     "title": "Concord School Board, 1/16/17",
@@ -4867,29 +4909,6 @@
     "videoId": "katv-concordschool-mtg-011617-5276"
   },
   {
-    "title": "Waterford School: 3-5 Grade Winter Concert 2017",
-    "path": "/vod/concerts/2017/waterford011317",
-    "nid": 1138,
-    "cablecastShowId": 5269,
-    "date": "2017-01-13",
-    "location": "Waterford School",
-    "year": "2017",
-    "yearPath": "/vod/year/2017",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Waterford",
-        "path": "/vod/concerts/waterford"
-      }
-    ],
-    "teaserImage": null,
-    "videoSource": "vimeo",
-    "videoId": "199392673"
-  },
-  {
     "title": "In & Around St. J: Diana Henry",
     "path": "/vod/studio/2017/iastj011317",
     "nid": 1205,
@@ -4911,6 +4930,29 @@
     "teaserImage": null,
     "videoSource": "vimeo",
     "videoId": "206761656"
+  },
+  {
+    "title": "Waterford School: 3-5 Grade Winter Concert 2017",
+    "path": "/vod/concerts/2017/waterford011317",
+    "nid": 1138,
+    "cablecastShowId": 5269,
+    "date": "2017-01-13",
+    "location": "Waterford School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Waterford",
+        "path": "/vod/concerts/waterford"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "199392673"
   },
   {
     "title": "What's Going On? Out With Old, In With New",

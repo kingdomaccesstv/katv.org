@@ -23,29 +23,6 @@
     "videoId": "785115012"
   },
   {
-    "title": "St. Johnsbury Select Board, 12/28/22",
-    "path": "/vod/stjselect/2022/122822",
-    "nid": 2284,
-    "cablecastShowId": 11546,
-    "date": "2022-12-28",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20221228.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-122822-11546"
-  },
-  {
     "title": "St. Johnsbury Select Board, 12/28/22 Special Meeting",
     "path": "/vod/stjselect/2022/122822sm",
     "nid": 2285,
@@ -67,6 +44,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect20221228sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-122822-11545"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/28/22",
+    "path": "/vod/stjselect/2022/122822",
+    "nid": 2284,
+    "cablecastShowId": 11546,
+    "date": "2022-12-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221228.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122822-11546"
   },
   {
     "title": "St. Johnsbury Development Review Board, 12/22/22",
@@ -92,29 +92,6 @@
     "videoId": "katv-stjdrb-mtg-122222-11529"
   },
   {
-    "title": "Groton Select Board, 12/21/22",
-    "path": "/vod/grotonselect/2022/122122",
-    "nid": 2281,
-    "cablecastShowId": 11525,
-    "date": "2022-12-21",
-    "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/grotonselect20221221.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-122122-11525"
-  },
-  {
     "title": "The World Among The Caucasus Mountains - St. Johnsbury Athenaeum",
     "path": "/vod/lectures/2022/stjath122122",
     "nid": 2282,
@@ -138,6 +115,48 @@
     "videoId": "784034929"
   },
   {
+    "title": "Groton Select Board, 12/21/22",
+    "path": "/vod/grotonselect/2022/122122",
+    "nid": 2281,
+    "cablecastShowId": 11525,
+    "date": "2022-12-21",
+    "location": "Groton",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20221221.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-122122-11525"
+  },
+  {
+    "title": "CCSU Board of Directors, 12/19/22",
+    "path": "/vod/ccsubod/2022/121922",
+    "nid": 2280,
+    "cablecastShowId": 11528,
+    "date": "2022-12-19",
+    "location": "Danville School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ccsubod20221219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-121922-11528"
+  },
+  {
     "title": "St. Johnsbury School Board, 12/19/22",
     "path": "/vod/stjschool/2022/121922",
     "nid": 2279,
@@ -159,25 +178,6 @@
     "teaserImage": "/assets/images/vod/2022/stjschool20221219.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-121922-11520"
-  },
-  {
-    "title": "CCSU Board of Directors, 12/19/22",
-    "path": "/vod/ccsubod/2022/121922",
-    "nid": 2280,
-    "cablecastShowId": 11528,
-    "date": "2022-12-19",
-    "location": "Danville School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/ccsubod20221219.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-121922-11528"
   },
   {
     "title": "NKHS: Mental Health Treatment Facility Advocacy",
@@ -364,25 +364,6 @@
     "videoId": "katv-stjschool-mtg-120522-11457"
   },
   {
-    "title": "United Community Church: Rededication Service",
-    "path": "/vod/other/2022/ucc120422",
-    "nid": 2269,
-    "cablecastShowId": 11456,
-    "date": "2022-12-04",
-    "location": "United Community Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/ucc20221204.jpg",
-    "videoSource": "vimeo",
-    "videoId": "778269635"
-  },
-  {
     "title": "North Country Chorus: Holiday Concert 2022",
     "path": "/vod/concerts/2022/ncc120422",
     "nid": 2270,
@@ -400,6 +381,25 @@
     "teaserImage": "/assets/images/vod/2022/ncc20221204.jpg",
     "videoSource": "vimeo",
     "videoId": "778269342"
+  },
+  {
+    "title": "United Community Church: Rededication Service",
+    "path": "/vod/other/2022/ucc120422",
+    "nid": 2269,
+    "cablecastShowId": 11456,
+    "date": "2022-12-04",
+    "location": "United Community Church",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ucc20221204.jpg",
+    "videoSource": "vimeo",
+    "videoId": "778269635"
   },
   {
     "title": "WGO: Means of Manipulation",
@@ -532,29 +532,6 @@
     "videoId": "katv-grotonselect-mtg-111622-11425"
   },
   {
-    "title": "St. Johnsbury Select Board, 11/14/22",
-    "path": "/vod/stjselect/2022/111422",
-    "nid": 2261,
-    "cablecastShowId": 11424,
-    "date": "2022-11-14",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20221114.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-111422-11424"
-  },
-  {
     "title": "St. Johnsbury Select Board, 11/14/22 Special Meeting",
     "path": "/vod/stjselect/2022/111422sm",
     "nid": 2262,
@@ -576,6 +553,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect20221114sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-111422-11430"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/14/22",
+    "path": "/vod/stjselect/2022/111422",
+    "nid": 2261,
+    "cablecastShowId": 11424,
+    "date": "2022-11-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221114.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-111422-11424"
   },
   {
     "title": "St. Johnsbury Town Band: Veteran's Day Concert 2022",
@@ -777,29 +777,6 @@
     "videoId": "766959141"
   },
   {
-    "title": "St. Johnsbury Academy Fall Concert 2022",
-    "path": "/vod/concerts/2022/sjafall102622",
-    "nid": 2250,
-    "cablecastShowId": 11371,
-    "date": "2022-10-26",
-    "location": "South Church, St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "St. Johnsbury Academy",
-        "path": "/vod/concerts/sja"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/sjafall20221026.jpg",
-    "videoSource": "vimeo",
-    "videoId": "766960512"
-  },
-  {
     "title": "Memories of the St. Johnsbury/L.C. Railroad (Danville Historical Society)",
     "path": "/vod/studio/2022/dhs102622",
     "nid": 2258,
@@ -823,27 +800,27 @@
     "videoId": "772828323"
   },
   {
-    "title": "St. Johnsbury Select Board, 10/24/22",
-    "path": "/vod/stjselect/2022/102422",
-    "nid": 2248,
-    "cablecastShowId": 11370,
-    "date": "2022-10-24",
-    "location": "St. Johnsbury Welcome Center",
+    "title": "St. Johnsbury Academy Fall Concert 2022",
+    "path": "/vod/concerts/2022/sjafall102622",
+    "nid": 2250,
+    "cablecastShowId": 11371,
+    "date": "2022-10-26",
+    "location": "South Church, St. Johnsbury",
     "year": "2022",
     "yearPath": "/vod/year/2022",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20221024.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-102422-11370"
+    "teaserImage": "/assets/images/vod/2022/sjafall20221026.jpg",
+    "videoSource": "vimeo",
+    "videoId": "766960512"
   },
   {
     "title": "St. Johnsbury Select Board, Spec Mtg 10/24/22",
@@ -867,6 +844,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect20221024sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-smtg-102422-11369"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/24/22",
+    "path": "/vod/stjselect/2022/102422",
+    "nid": 2248,
+    "cablecastShowId": 11370,
+    "date": "2022-10-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221024.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-102422-11370"
   },
   {
     "title": "Osher: Another Piece Of The Puzzle",
@@ -915,29 +915,6 @@
     "videoId": "katv-grotonselect-mtg-101922-11349"
   },
   {
-    "title": "St. Johnsbury School Board, 10/17/22",
-    "path": "/vod/stjschool/2022/101722",
-    "nid": 2243,
-    "cablecastShowId": 11297,
-    "date": "2022-10-17",
-    "location": "St. Johnsbury School",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjschool20221017.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-101722-11297"
-  },
-  {
     "title": "CCSU Board of Directors, 10/17/22",
     "path": "/vod/ccsubod/2022/101722",
     "nid": 2246,
@@ -959,6 +936,29 @@
     "teaserImage": "/assets/images/vod/2022/ccsubod20221017.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-101722-11348"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/17/22",
+    "path": "/vod/stjschool/2022/101722",
+    "nid": 2243,
+    "cablecastShowId": 11297,
+    "date": "2022-10-17",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20221017.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-101722-11297"
   },
   {
     "title": "Osher: Natural Burial - Yesterday, Today, And Tomorrow",
@@ -984,29 +984,6 @@
     "videoId": "763172105"
   },
   {
-    "title": "St. Johnsbury Select Board, 10/11/22",
-    "path": "/vod/stjselect/2022/101122",
-    "nid": 2241,
-    "cablecastShowId": 11324,
-    "date": "2022-10-11",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20221011.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-101122-11324"
-  },
-  {
     "title": "St. Johnsbury Select Board, 10/11/22 Special Meeting",
     "path": "/vod/stjselect/2022/101122sm",
     "nid": 2242,
@@ -1028,6 +1005,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect20221011sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-101122-11336"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/11/22",
+    "path": "/vod/stjselect/2022/101122",
+    "nid": 2241,
+    "cablecastShowId": 11324,
+    "date": "2022-10-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221011.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-101122-11324"
   },
   {
     "title": "FM&P: Designing The Tang Science Annex",
@@ -1080,6 +1080,29 @@
     "videoId": "758160168"
   },
   {
+    "title": "First Wednesday: Maple Vermont Medicine of Connection",
+    "path": "/vod/firstwed/2022/100522",
+    "nid": 2238,
+    "cablecastShowId": 11300,
+    "date": "2022-10-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/firstwed20221005.jpg",
+    "videoSource": "vimeo",
+    "videoId": "757667428"
+  },
+  {
     "title": "Groton Select Board, 10/5/22",
     "path": "/vod/grotonselect/2022/100522",
     "nid": 2237,
@@ -1122,29 +1145,6 @@
     "videoId": "757637357"
   },
   {
-    "title": "First Wednesday: Maple Vermont Medicine of Connection",
-    "path": "/vod/firstwed/2022/100522",
-    "nid": 2238,
-    "cablecastShowId": 11300,
-    "date": "2022-10-05",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "First Wednesdays",
-        "path": "/vod/firstwed"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/firstwed20221005.jpg",
-    "videoSource": "vimeo",
-    "videoId": "757667428"
-  },
-  {
     "title": "Concord Select Board, 10/4/22",
     "path": "/vod/concordselect/2022/100422",
     "nid": 2236,
@@ -1166,52 +1166,6 @@
     "teaserImage": "/assets/images/vod/2022/concordselect20221004.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-100422-11298"
-  },
-  {
-    "title": "LWV: Candidates Forum For AG 2022",
-    "path": "/vod/other/2022/lwv092922",
-    "nid": 2231,
-    "cablecastShowId": 11282,
-    "date": "2022-09-29",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Local Politics",
-        "path": "/vod/politics"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/lwv20220929.jpg",
-    "videoSource": "vimeo",
-    "videoId": "755593441"
-  },
-  {
-    "title": "WGO: Escalation to WWIII",
-    "path": "/vod/wgo/wgo092922",
-    "nid": 2233,
-    "cablecastShowId": 11302,
-    "date": "2022-09-29",
-    "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/wgo20220929.jpg",
-    "videoSource": "vimeo",
-    "videoId": "755289300"
   },
   {
     "title": "Osher: Snowflake Bentley",
@@ -1237,6 +1191,52 @@
     "videoId": "755289639"
   },
   {
+    "title": "WGO: Escalation to WWIII",
+    "path": "/vod/wgo/wgo092922",
+    "nid": 2233,
+    "cablecastShowId": 11302,
+    "date": "2022-09-29",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20220929.jpg",
+    "videoSource": "vimeo",
+    "videoId": "755289300"
+  },
+  {
+    "title": "LWV: Candidates Forum For AG 2022",
+    "path": "/vod/other/2022/lwv092922",
+    "nid": 2231,
+    "cablecastShowId": 11282,
+    "date": "2022-09-29",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/lwv20220929.jpg",
+    "videoSource": "vimeo",
+    "videoId": "755593441"
+  },
+  {
     "title": "St. Johnsbury Select Board, 9/26/22",
     "path": "/vod/stjselect/2022/092622",
     "nid": 2232,
@@ -1260,27 +1260,27 @@
     "videoId": "katv-stjselect-mtg-092622-11280"
   },
   {
-    "title": "St. Johnsbury Zoning Board, 9/22/22",
-    "path": "/vod/stjselect/2022/zoning092222",
-    "nid": 2225,
-    "cablecastShowId": 11273,
+    "title": "Osher: Gordon's Granite Calliope",
+    "path": "/vod/osher/2022/092222",
+    "nid": 2230,
+    "cablecastShowId": 11272,
     "date": "2022-09-22",
-    "location": "St. Johnsbury Welcome Center",
+    "location": "Catamount Arts",
     "year": "2022",
     "yearPath": "/vod/year/2022",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Osher",
+        "path": "/vod/osher"
       },
       {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/stjzone20220922.png",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjzoning-mtg-092222-11273"
+    "teaserImage": "/assets/images/vod/2022/osher20220922.jpg",
+    "videoSource": "vimeo",
+    "videoId": "753033270"
   },
   {
     "title": "WGO: They Think They're Above God",
@@ -1306,27 +1306,27 @@
     "videoId": "753032580"
   },
   {
-    "title": "Osher: Gordon's Granite Calliope",
-    "path": "/vod/osher/2022/092222",
-    "nid": 2230,
-    "cablecastShowId": 11272,
+    "title": "St. Johnsbury Zoning Board, 9/22/22",
+    "path": "/vod/stjselect/2022/zoning092222",
+    "nid": 2225,
+    "cablecastShowId": 11273,
     "date": "2022-09-22",
-    "location": "Catamount Arts",
+    "location": "St. Johnsbury Welcome Center",
     "year": "2022",
     "yearPath": "/vod/year/2022",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       },
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/osher20220922.jpg",
-    "videoSource": "vimeo",
-    "videoId": "753033270"
+    "teaserImage": "/assets/images/vod/2022/stjzone20220922.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjzoning-mtg-092222-11273"
   },
   {
     "title": "LWV: Candidates Forum For LT. Governor",
@@ -1509,10 +1509,10 @@
     "videoId": "743485613"
   },
   {
-    "title": "St. Johnsbury Select Board, 8/22/22 Special Meeting",
-    "path": "/vod/stjselect/2022/082222sm",
-    "nid": 2214,
-    "cablecastShowId": 11189,
+    "title": "St. Johnsbury Select Board, 8/22/22",
+    "path": "/vod/stjselect/2022/082222",
+    "nid": 2217,
+    "cablecastShowId": 11177,
     "date": "2022-08-22",
     "location": "St. Johnsbury Welcome Center",
     "year": "2022",
@@ -1527,9 +1527,9 @@
         "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20220822sm.jpg",
+    "teaserImage": "/assets/images/vod/2022/stjselect20220822.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-082222-11189"
+    "videoId": "katv-stjselect-rmtg-082222-11177"
   },
   {
     "title": "St. Johnsbury School Board, 8/22/22",
@@ -1555,10 +1555,10 @@
     "videoId": "katv-stjschool-mtg-082222-11178"
   },
   {
-    "title": "St. Johnsbury Select Board, 8/22/22",
-    "path": "/vod/stjselect/2022/082222",
-    "nid": 2217,
-    "cablecastShowId": 11177,
+    "title": "St. Johnsbury Select Board, 8/22/22 Special Meeting",
+    "path": "/vod/stjselect/2022/082222sm",
+    "nid": 2214,
+    "cablecastShowId": 11189,
     "date": "2022-08-22",
     "location": "St. Johnsbury Welcome Center",
     "year": "2022",
@@ -1573,9 +1573,9 @@
         "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/stjselect20220822.jpg",
+    "teaserImage": "/assets/images/vod/2022/stjselect20220822sm.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjselect-rmtg-082222-11177"
+    "videoId": "katv-stjselect-mtg-082222-11189"
   },
   {
     "title": "CCSU Board of Directors, 8/15/22",
@@ -1731,6 +1731,25 @@
     "videoId": "katv-concordselect-mtg-080222-11125"
   },
   {
+    "title": "I Am Vermont Too: Sahra Ali",
+    "path": "/vod/studio/2022/iamvt072822",
+    "nid": 2207,
+    "cablecastShowId": 11124,
+    "date": "2022-07-28",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/iamvt072822.jpg",
+    "videoSource": "vimeo",
+    "videoId": "736178190"
+  },
+  {
     "title": "WGO: Taking Us To War",
     "path": "/vod/wgo/wgo072822",
     "nid": 2206,
@@ -1752,25 +1771,6 @@
     "teaserImage": "/assets/images/vod/2022/wgo072822.jpg",
     "videoSource": "vimeo",
     "videoId": "736177932"
-  },
-  {
-    "title": "I Am Vermont Too: Sahra Ali",
-    "path": "/vod/studio/2022/iamvt072822",
-    "nid": 2207,
-    "cablecastShowId": 11124,
-    "date": "2022-07-28",
-    "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/iamvt072822.jpg",
-    "videoSource": "vimeo",
-    "videoId": "736178190"
   },
   {
     "title": "St. Johnsbury Select Board, 7/25/22",
@@ -1842,29 +1842,6 @@
     "videoId": "katv-stjselect-mtg-071122-11070"
   },
   {
-    "title": "Groton Select Board, 7/7/22",
-    "path": "/vod/grotonselect/2022/groton070722",
-    "nid": 2201,
-    "cablecastShowId": 11060,
-    "date": "2022-07-07",
-    "location": "Groton Community Building",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/grotonselect20220707.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-070722-11060"
-  },
-  {
     "title": "WGO: Words of Sgt. Carl Dekel, USMC",
     "path": "/vod/wgo/wgo070722",
     "nid": 2202,
@@ -1886,6 +1863,29 @@
     "teaserImage": "/assets/images/vod/2022/wgo070722.jpg",
     "videoSource": "vimeo",
     "videoId": "729439521"
+  },
+  {
+    "title": "Groton Select Board, 7/7/22",
+    "path": "/vod/grotonselect/2022/groton070722",
+    "nid": 2201,
+    "cablecastShowId": 11060,
+    "date": "2022-07-07",
+    "location": "Groton Community Building",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20220707.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-070722-11060"
   },
   {
     "title": "Concord Select Board, 7/5/22",
@@ -2041,29 +2041,6 @@
     "videoId": "724901328"
   },
   {
-    "title": "St. Johnsbury Select Board, 6/13/22",
-    "path": "/vod/stjselect/2022/061322",
-    "nid": 2191,
-    "cablecastShowId": 10974,
-    "date": "2022-06-13",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect061322.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-061322-10974"
-  },
-  {
     "title": "St. Johnsbury Select Board, 6/13/22 Spec Mtg",
     "path": "/vod/stjselect/2022/061322spec",
     "nid": 2192,
@@ -2087,6 +2064,29 @@
     "videoId": "katv-stjselect-mtg-061322-10973"
   },
   {
+    "title": "St. Johnsbury Select Board, 6/13/22",
+    "path": "/vod/stjselect/2022/061322",
+    "nid": 2191,
+    "cablecastShowId": 10974,
+    "date": "2022-06-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect061322.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-061322-10974"
+  },
+  {
     "title": "Danville School 2022 Graduation",
     "path": "/vod/grad/danville2022",
     "nid": 2190,
@@ -2104,63 +2104,6 @@
     "teaserImage": "/assets/images/vod/2022/danvillegrad2022.jpg",
     "videoSource": "vimeo",
     "videoId": "720250351"
-  },
-  {
-    "title": "Investing In Our Forest Future - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022e",
-    "nid": 2186,
-    "cablecastShowId": 10913,
-    "date": "2022-06-10",
-    "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022e.jpg",
-    "videoSource": "vimeo",
-    "videoId": "720447338"
-  },
-  {
-    "title": "Finding Workers - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022f",
-    "nid": 2187,
-    "cablecastShowId": 10914,
-    "date": "2022-06-10",
-    "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022f.jpg",
-    "videoSource": "vimeo",
-    "videoId": "720447662"
-  },
-  {
-    "title": "Local Forest Products In Mass Timber Construction - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022g",
-    "nid": 2188,
-    "cablecastShowId": 10915,
-    "date": "2022-06-10",
-    "location": "Burke Mountain",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022g.jpg",
-    "videoSource": "vimeo",
-    "videoId": "720447986"
   },
   {
     "title": "Investing In The Forest Economy - Vermont Forest Industry Summit 2022",
@@ -2182,11 +2125,11 @@
     "videoId": "720448243"
   },
   {
-    "title": "The Future Of Our Forests - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022a",
-    "nid": 2182,
-    "cablecastShowId": 10909,
-    "date": "2022-06-09",
+    "title": "Local Forest Products In Mass Timber Construction - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022g",
+    "nid": 2188,
+    "cablecastShowId": 10915,
+    "date": "2022-06-10",
     "location": "Burke Mountain",
     "year": "2022",
     "yearPath": "/vod/year/2022",
@@ -2196,15 +2139,53 @@
         "path": "/vod/other"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022a.jpg",
+    "teaserImage": "/assets/images/vod/2022/vtforest2022g.jpg",
     "videoSource": "vimeo",
-    "videoId": "720448507"
+    "videoId": "720447986"
   },
   {
-    "title": "Business Roundtable - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022b",
-    "nid": 2183,
-    "cablecastShowId": 10910,
+    "title": "Finding Workers - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022f",
+    "nid": 2187,
+    "cablecastShowId": 10914,
+    "date": "2022-06-10",
+    "location": "Burke Mountain",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/vtforest2022f.jpg",
+    "videoSource": "vimeo",
+    "videoId": "720447662"
+  },
+  {
+    "title": "Investing In Our Forest Future - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022e",
+    "nid": 2186,
+    "cablecastShowId": 10913,
+    "date": "2022-06-10",
+    "location": "Burke Mountain",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/vtforest2022e.jpg",
+    "videoSource": "vimeo",
+    "videoId": "720447338"
+  },
+  {
+    "title": "Outdoor Recreation And Forest Products Sectors - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022d",
+    "nid": 2185,
+    "cablecastShowId": 10912,
     "date": "2022-06-09",
     "location": "Burke Mountain",
     "year": "2022",
@@ -2215,9 +2196,9 @@
         "path": "/vod/other"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022b.jpg",
+    "teaserImage": "/assets/images/vod/2022/vtforest2022d.jpg",
     "videoSource": "vimeo",
-    "videoId": "720448784"
+    "videoId": "720449281"
   },
   {
     "title": "Communication In The Age Of Misinformation - Vermont Forest Industry Summit 2022",
@@ -2239,10 +2220,10 @@
     "videoId": "720448993"
   },
   {
-    "title": "Outdoor Recreation And Forest Products Sectors - Vermont Forest Industry Summit 2022",
-    "path": "/vod/other/2022/vtfis2022d",
-    "nid": 2185,
-    "cablecastShowId": 10912,
+    "title": "Business Roundtable - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022b",
+    "nid": 2183,
+    "cablecastShowId": 10910,
     "date": "2022-06-09",
     "location": "Burke Mountain",
     "year": "2022",
@@ -2253,9 +2234,28 @@
         "path": "/vod/other"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/vtforest2022d.jpg",
+    "teaserImage": "/assets/images/vod/2022/vtforest2022b.jpg",
     "videoSource": "vimeo",
-    "videoId": "720449281"
+    "videoId": "720448784"
+  },
+  {
+    "title": "The Future Of Our Forests - Vermont Forest Industry Summit 2022",
+    "path": "/vod/other/2022/vtfis2022a",
+    "nid": 2182,
+    "cablecastShowId": 10909,
+    "date": "2022-06-09",
+    "location": "Burke Mountain",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/vtforest2022a.jpg",
+    "videoSource": "vimeo",
+    "videoId": "720448507"
   },
   {
     "title": "Bette Ann Libby - Catamount STJ Art On The Street: 2022 Summer Showcase",
@@ -2300,6 +2300,25 @@
     "videoId": "720250686"
   },
   {
+    "title": "St. Johnsbury Academy 2022 Graduation",
+    "path": "/vod/grad/sja2022",
+    "nid": 2180,
+    "cablecastShowId": 10906,
+    "date": "2022-06-06",
+    "location": "St. Johnsbury Academy",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/sjagrad2022.jpg",
+    "videoSource": "vimeo",
+    "videoId": "720249318"
+  },
+  {
     "title": "St. Johnsbury School Board, 6/6/22",
     "path": "/vod/stjschool/2022/060622",
     "nid": 2179,
@@ -2323,25 +2342,6 @@
     "videoId": "katv-stjschool-mtg-060622-10907"
   },
   {
-    "title": "St. Johnsbury Academy 2022 Graduation",
-    "path": "/vod/grad/sja2022",
-    "nid": 2180,
-    "cablecastShowId": 10906,
-    "date": "2022-06-06",
-    "location": "St. Johnsbury Academy",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Graduations",
-        "path": "/vod/grad"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/sjagrad2022.jpg",
-    "videoSource": "vimeo",
-    "videoId": "720249318"
-  },
-  {
     "title": "Lyndon Institute 2022 Graduation",
     "path": "/vod/grad/li2022",
     "nid": 2178,
@@ -2359,6 +2359,25 @@
     "teaserImage": "/assets/images/vod/2022/ligrad2022.jpg",
     "videoSource": "vimeo",
     "videoId": "720251091"
+  },
+  {
+    "title": "St. Johnsbury Pet Parade 2022",
+    "path": "/vod/other/2022/petparade060422",
+    "nid": 2174,
+    "cablecastShowId": 10903,
+    "date": "2022-06-04",
+    "location": "St. Johnsbury",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/petparade2022.png",
+    "videoSource": "vimeo",
+    "videoId": "718389349"
   },
   {
     "title": "Danville School Spring Concert 2022",
@@ -2382,25 +2401,6 @@
     "teaserImage": "/assets/images/vod/2022/danville20220604.jpg",
     "videoSource": "vimeo",
     "videoId": "716823377"
-  },
-  {
-    "title": "St. Johnsbury Pet Parade 2022",
-    "path": "/vod/other/2022/petparade060422",
-    "nid": 2174,
-    "cablecastShowId": 10903,
-    "date": "2022-06-04",
-    "location": "St. Johnsbury",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/petparade2022.png",
-    "videoSource": "vimeo",
-    "videoId": "718389349"
   },
   {
     "title": "St. Johnsbury Academy Senior Concert 2022",
@@ -2495,29 +2495,6 @@
     "videoId": "713585978"
   },
   {
-    "title": "St. Johnsbury Select Board, 5/23/22",
-    "path": "/vod/stjselect/2022/052322",
-    "nid": 2168,
-    "cablecastShowId": 10868,
-    "date": "2022-05-23",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect052322.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-052322-10868"
-  },
-  {
     "title": "St. Johnsbury Select Board, 5/23/22 Spec Mtg",
     "path": "/vod/stjselect/2022/052322spec",
     "nid": 2169,
@@ -2539,6 +2516,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect052322spec.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-052322-10879"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/23/22",
+    "path": "/vod/stjselect/2022/052322",
+    "nid": 2168,
+    "cablecastShowId": 10868,
+    "date": "2022-05-23",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect052322.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052322-10868"
   },
   {
     "title": "Legislative Breakfast, May 2022",
@@ -2629,25 +2629,6 @@
     "videoId": "katv-stjschool-mtg-051622-10852"
   },
   {
-    "title": "North Country Chorus: Spring Concert 2022",
-    "path": "/vod/concerts/2022/ncc043022",
-    "nid": 2158,
-    "cablecastShowId": 10780,
-    "date": "2022-05-13",
-    "location": "South Church",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/ncc043022.jpg",
-    "videoSource": "vimeo",
-    "videoId": "708985326"
-  },
-  {
     "title": "WGO: Larry Johnson CIA Analyst",
     "path": "/vod/wgo/wgo051322",
     "nid": 2163,
@@ -2669,6 +2650,25 @@
     "teaserImage": "/assets/images/vod/2022/wgo051222.jpg",
     "videoSource": "vimeo",
     "videoId": "709314800"
+  },
+  {
+    "title": "North Country Chorus: Spring Concert 2022",
+    "path": "/vod/concerts/2022/ncc043022",
+    "nid": 2158,
+    "cablecastShowId": 10780,
+    "date": "2022-05-13",
+    "location": "South Church",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ncc043022.jpg",
+    "videoSource": "vimeo",
+    "videoId": "708985326"
   },
   {
     "title": "Sheri Howe, Catamount Art On The Street 2022 Spring Showcase",
@@ -2740,29 +2740,6 @@
     "videoId": "708985105"
   },
   {
-    "title": "Fairbanks: Tang Science Annex Groundbreaking",
-    "path": "/vod/lectures/2022/fairbanks050422",
-    "nid": 2159,
-    "cablecastShowId": 10793,
-    "date": "2022-05-04",
-    "location": "Fairbanks Museum",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "Fairbanks Museum",
-        "path": "/vod/fairbanks"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/fmp050422.jpg",
-    "videoSource": "vimeo",
-    "videoId": "708985667"
-  },
-  {
     "title": "Saint Johnsbury Academy Spring Concert 2022",
     "path": "/vod/concerts/2022/sjaspring050422",
     "nid": 2160,
@@ -2784,6 +2761,29 @@
     "teaserImage": "/assets/images/vod/2022/sjaspring050422.jpg",
     "videoSource": "vimeo",
     "videoId": "708984187"
+  },
+  {
+    "title": "Fairbanks: Tang Science Annex Groundbreaking",
+    "path": "/vod/lectures/2022/fairbanks050422",
+    "nid": 2159,
+    "cablecastShowId": 10793,
+    "date": "2022-05-04",
+    "location": "Fairbanks Museum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/fmp050422.jpg",
+    "videoSource": "vimeo",
+    "videoId": "708985667"
   },
   {
     "title": "St. Johnsbury School Board, 4/25/22",
@@ -2828,29 +2828,6 @@
     "videoId": "704014558"
   },
   {
-    "title": "Groton Select Board, 4/21/22",
-    "path": "/vod/grotonselect/2022/042122",
-    "nid": 2154,
-    "cablecastShowId": 10727,
-    "date": "2022-04-21",
-    "location": "Groton",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/grotonselect042122.png",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-042122-10727"
-  },
-  {
     "title": "WGO: Slavery Through Debt",
     "path": "/vod/wgo/wgo042122",
     "nid": 2155,
@@ -2872,6 +2849,29 @@
     "teaserImage": "/assets/images/vod/2022/wgo042122.png",
     "videoSource": "vimeo",
     "videoId": "702198790"
+  },
+  {
+    "title": "Groton Select Board, 4/21/22",
+    "path": "/vod/grotonselect/2022/042122",
+    "nid": 2154,
+    "cablecastShowId": 10727,
+    "date": "2022-04-21",
+    "location": "Groton",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect042122.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-042122-10727"
   },
   {
     "title": "FM&P - Eddy Lecture Series: Night Sky",
@@ -2966,27 +2966,27 @@
     "videoId": "700103285"
   },
   {
-    "title": "Lyndon Institute Spring Concert 2022",
-    "path": "/vod/concerts/2022/lispring040722",
-    "nid": 2148,
-    "cablecastShowId": 10664,
+    "title": "WGO: A Hard Lesson in Economics Coming",
+    "path": "/vod/wgo/wgo040722",
+    "nid": 2150,
+    "cablecastShowId": 10679,
     "date": "2022-04-07",
-    "location": "Lyndon Institute",
+    "location": "KATV Studio",
     "year": "2022",
     "yearPath": "/vod/year/2022",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/lispring040722.png",
+    "teaserImage": "/assets/images/vod/2022/wgo040722.png",
     "videoSource": "vimeo",
-    "videoId": "697710933"
+    "videoId": "697710712"
   },
   {
     "title": "Osher: Songs Of America",
@@ -3012,27 +3012,27 @@
     "videoId": "697710409"
   },
   {
-    "title": "WGO: A Hard Lesson in Economics Coming",
-    "path": "/vod/wgo/wgo040722",
-    "nid": 2150,
-    "cablecastShowId": 10679,
+    "title": "Lyndon Institute Spring Concert 2022",
+    "path": "/vod/concerts/2022/lispring040722",
+    "nid": 2148,
+    "cablecastShowId": 10664,
     "date": "2022-04-07",
-    "location": "KATV Studio",
+    "location": "Lyndon Institute",
     "year": "2022",
     "yearPath": "/vod/year/2022",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
-    "teaserImage": "/assets/images/vod/2022/wgo040722.png",
+    "teaserImage": "/assets/images/vod/2022/lispring040722.png",
     "videoSource": "vimeo",
-    "videoId": "697710712"
+    "videoId": "697710933"
   },
   {
     "title": "VT Physicians National Health Program, 4/5/22",
@@ -3052,29 +3052,6 @@
     "teaserImage": "/assets/images/vod/2022/vtphnp040522.png",
     "videoSource": "vimeo",
     "videoId": "700103102"
-  },
-  {
-    "title": "WGO: Ukraine On Fire, Part 2",
-    "path": "/vod/wgo/wgo033122",
-    "nid": 2145,
-    "cablecastShowId": 10658,
-    "date": "2022-03-31",
-    "location": "KATV Studio",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/wgo033122.png",
-    "videoSource": "vimeo",
-    "videoId": "696360707"
   },
   {
     "title": "Osher: Writing About Harriet Tubman",
@@ -3098,6 +3075,29 @@
     "teaserImage": "/assets/images/vod/2022/osher033122.png",
     "videoSource": "vimeo",
     "videoId": "696361058"
+  },
+  {
+    "title": "WGO: Ukraine On Fire, Part 2",
+    "path": "/vod/wgo/wgo033122",
+    "nid": 2145,
+    "cablecastShowId": 10658,
+    "date": "2022-03-31",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo033122.png",
+    "videoSource": "vimeo",
+    "videoId": "696360707"
   },
   {
     "title": "LVRT Management Plan: Lamoille Valley Rail Trail Update",
@@ -3280,29 +3280,6 @@
     "videoId": "katv-stjselect-mtg-031422-10554"
   },
   {
-    "title": "Osher: Songs and Spirits",
-    "path": "/vod/osher/2022/031022",
-    "nid": 2135,
-    "cablecastShowId": 10542,
-    "date": "2022-03-10",
-    "location": "Catamount Arts",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/osher031022.png",
-    "videoSource": "vimeo",
-    "videoId": "690941731"
-  },
-  {
     "title": "WGO: Escalate The Fear, Bill Flick Interview",
     "path": "/vod/wgo/wgo031022",
     "nid": 2136,
@@ -3326,6 +3303,29 @@
     "videoId": "690941403"
   },
   {
+    "title": "Osher: Songs and Spirits",
+    "path": "/vod/osher/2022/031022",
+    "nid": 2135,
+    "cablecastShowId": 10542,
+    "date": "2022-03-10",
+    "location": "Catamount Arts",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/osher031022.png",
+    "videoSource": "vimeo",
+    "videoId": "690941731"
+  },
+  {
     "title": "St. Johnsbury Public Arts Proposal Finalists 2022",
     "path": "/vod/other/2022/stjpap030622",
     "nid": 2134,
@@ -3343,6 +3343,25 @@
     "teaserImage": "/assets/images/vod/2022/stjpap030622.png",
     "videoSource": "vimeo",
     "videoId": "692653652"
+  },
+  {
+    "title": "NVRH: Nursing Roundtable with Rep. Peter Welch",
+    "path": "/vod/other/2022/nvrh022422",
+    "nid": 2220,
+    "cablecastShowId": 10480,
+    "date": "2022-02-24",
+    "location": "Northeastern Vermont Regional Hospital",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/nvrh20220224.jpg",
+    "videoSource": "vimeo",
+    "videoId": "750165739"
   },
   {
     "title": "WGO: Gary Hartsock Interview",
@@ -3366,25 +3385,6 @@
     "teaserImage": "/assets/images/vod/2022/wgo022422.jpg",
     "videoSource": "vimeo",
     "videoId": "683540391"
-  },
-  {
-    "title": "NVRH: Nursing Roundtable with Rep. Peter Welch",
-    "path": "/vod/other/2022/nvrh022422",
-    "nid": 2220,
-    "cablecastShowId": 10480,
-    "date": "2022-02-24",
-    "location": "Northeastern Vermont Regional Hospital",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/nvrh20220224.jpg",
-    "videoSource": "vimeo",
-    "videoId": "750165739"
   },
   {
     "title": "I Am Vermont Too: Alana Harte",
@@ -3433,29 +3433,6 @@
     "videoId": "katv-grotonselect-mtg-021722-10457"
   },
   {
-    "title": "St. Johnsbury Select Board, 2/14/22",
-    "path": "/vod/stjselect/2022/021422",
-    "nid": 2129,
-    "cablecastShowId": 10450,
-    "date": "2022-02-14",
-    "location": "Virtual",
-    "year": "2022",
-    "yearPath": "/vod/year/2022",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2022/stjselect021422.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-021422-10450"
-  },
-  {
     "title": "CCSU Board of Directors, 2/14/22",
     "path": "/vod/ccsubod/2022/021422",
     "nid": 2130,
@@ -3477,6 +3454,29 @@
     "teaserImage": "/assets/images/vod/2022/ccsubod021422.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-021422-10449"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/14/22",
+    "path": "/vod/stjselect/2022/021422",
+    "nid": 2129,
+    "cablecastShowId": 10450,
+    "date": "2022-02-14",
+    "location": "Virtual",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect021422.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021422-10450"
   },
   {
     "title": "St. Johnsbury School Board, 2/7/22",
@@ -3565,6 +3565,29 @@
     "teaserImage": "/assets/images/vod/2022/stjselect012422.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-012422-10388"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/17/22",
+    "path": "/vod/stjschool/2022/011722",
+    "nid": 2125,
+    "cablecastShowId": 10359,
+    "date": "2022-01-17",
+    "location": "Virtual",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjschool011722.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-011722-10359"
   },
   {
     "title": "St. Johnsbury Select Board, 1/10/22",

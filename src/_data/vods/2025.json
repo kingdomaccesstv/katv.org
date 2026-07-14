@@ -65,6 +65,25 @@
     "videoId": "katv-grotonselect-mtg-121825-14774"
   },
   {
+    "title": "Danville School District, 12/17/25 Special Meeting",
+    "path": "/vod/pubmtgs/2025/danvilleschool20251217",
+    "nid": 2923,
+    "cablecastShowId": 14745,
+    "date": "2025-12-17",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvilleschool20251217.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-specmtg-121725-14745"
+  },
+  {
     "title": "STJ Academy: 2025 Holiday Concert",
     "path": "/vod/concerts/2025/sja20251217",
     "nid": 2921,
@@ -86,67 +105,6 @@
     "teaserImage": "/assets/images/vod/2025/sja20251217.jpg",
     "videoSource": "vimeo",
     "videoId": "1147888848"
-  },
-  {
-    "title": "Danville School District, 12/17/25 Special Meeting",
-    "path": "/vod/pubmtgs/2025/danvilleschool20251217",
-    "nid": 2923,
-    "cablecastShowId": 14745,
-    "date": "2025-12-17",
-    "location": "Danville School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvilleschool20251217.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-specmtg-121725-14745"
-  },
-  {
-    "title": "Danville School: 2025, HS Winter Concert",
-    "path": "/vod/concerts/2025/danville20251216",
-    "nid": 2917,
-    "cablecastShowId": 14787,
-    "date": "2025-12-16",
-    "location": "Danville School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville20251216.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1147516907"
-  },
-  {
-    "title": "Press Conf. Treasurer Pieciak: Baby Bonds Pilot Program In NEK",
-    "path": "/vod/other/2025/bonds20251216",
-    "nid": 2918,
-    "cablecastShowId": 14788,
-    "date": "2025-12-16",
-    "location": "Lyndon Center",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/bonds20251216.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1147713162"
   },
   {
     "title": "Danville School: 2025, 6-8 Winter Concert",
@@ -172,6 +130,48 @@
     "videoId": "1147712805"
   },
   {
+    "title": "Press Conf. Treasurer Pieciak: Baby Bonds Pilot Program In NEK",
+    "path": "/vod/other/2025/bonds20251216",
+    "nid": 2918,
+    "cablecastShowId": 14788,
+    "date": "2025-12-16",
+    "location": "Lyndon Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/bonds20251216.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147713162"
+  },
+  {
+    "title": "Danville School: 2025, HS Winter Concert",
+    "path": "/vod/concerts/2025/danville20251216",
+    "nid": 2917,
+    "cablecastShowId": 14787,
+    "date": "2025-12-16",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville20251216.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147516907"
+  },
+  {
     "title": "Lyndon Select Board, 12/15/25",
     "path": "/vod/pubmtgs/2025/lyndonselect20251215",
     "nid": 2919,
@@ -195,25 +195,6 @@
     "videoId": "katv-lyndonselect-mtg-121525-14772"
   },
   {
-    "title": "St. J. Athenaeum: 2025 St. J Sparkles Holiday Celebration",
-    "path": "/vod/stjath/2025/20251213a",
-    "nid": 2915,
-    "cablecastShowId": 14747,
-    "date": "2025-12-13",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjath20251213a.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1147023690"
-  },
-  {
     "title": "St. J. Sparkles: Highlands View Chamber Ensemble",
     "path": "/vod/concerts/2025/20251213",
     "nid": 2916,
@@ -231,6 +212,25 @@
     "teaserImage": "/assets/images/vod/2025/stjath20251213.jpg",
     "videoSource": "vimeo",
     "videoId": "1147024057"
+  },
+  {
+    "title": "St. J. Athenaeum: 2025 St. J Sparkles Holiday Celebration",
+    "path": "/vod/stjath/2025/20251213a",
+    "nid": 2915,
+    "cablecastShowId": 14747,
+    "date": "2025-12-13",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20251213a.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147023690"
   },
   {
     "title": "What's Going On? Murder, Unaccounted Funds, and Your Sweat Equity",
@@ -275,29 +275,6 @@
     "videoId": "1146232357"
   },
   {
-    "title": "St. Johnsbury Select Board, 12/8/25",
-    "path": "/vod/stjselect/2025/20251208",
-    "nid": 2910,
-    "cablecastShowId": 14744,
-    "date": "2025-12-08",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjselect20251208.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-120825-14744"
-  },
-  {
     "title": "St. Johnsbury School Board, 12/8/25",
     "path": "/vod/stjschool/2025/20251208",
     "nid": 2914,
@@ -321,6 +298,29 @@
     "videoId": "katv-stjschool-mtg-120825-14743"
   },
   {
+    "title": "St. Johnsbury Select Board, 12/8/25",
+    "path": "/vod/stjselect/2025/20251208",
+    "nid": 2910,
+    "cablecastShowId": 14744,
+    "date": "2025-12-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20251208.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-120825-14744"
+  },
+  {
     "title": "Caledonia Food Co-op: 12/7/25 Public Meeting",
     "path": "/vod/other/2025/calfoodcoop20251207",
     "nid": 2909,
@@ -338,25 +338,6 @@
     "teaserImage": "/assets/images/vod/2025/calfoodcoop20251207.jpg",
     "videoSource": "vimeo",
     "videoId": "1146184335"
-  },
-  {
-    "title": "North Country Chorus: 2025 Holiday Concert",
-    "path": "/vod/concerts/2025/ncc20251206",
-    "nid": 2908,
-    "cablecastShowId": 14728,
-    "date": "2025-12-06",
-    "location": "UBC Church",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/ncc20251206.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1146184552"
   },
   {
     "title": "Danville School District Meeting, 12/6/25 Special Meeting",
@@ -378,27 +359,46 @@
     "videoId": "1147517111"
   },
   {
-    "title": "What's Going On? Clemency, Corruption and Profit",
-    "path": "/vod/node/2905",
-    "nid": 2905,
-    "cablecastShowId": 14761,
-    "date": "2025-12-04",
-    "location": "KATV Studio",
+    "title": "North Country Chorus: 2025 Holiday Concert",
+    "path": "/vod/concerts/2025/ncc20251206",
+    "nid": 2908,
+    "cablecastShowId": 14728,
+    "date": "2025-12-06",
+    "location": "UBC Church",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/wgo20251204.jpg",
+    "teaserImage": "/assets/images/vod/2025/ncc20251206.jpg",
     "videoSource": "vimeo",
-    "videoId": "1144134761"
+    "videoId": "1146184552"
+  },
+  {
+    "title": "Lyndon Institute: 2025 Holiday Concert",
+    "path": "/vod/concerts/2025/liholiday2025",
+    "nid": 2907,
+    "cablecastShowId": 14726,
+    "date": "2025-12-04",
+    "location": "Lyndon Institute",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/liholiday2025.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146232449"
   },
   {
     "title": "St. J. Athenaeum: NEK Author Tyler Alexander",
@@ -424,27 +424,27 @@
     "videoId": "1144132932"
   },
   {
-    "title": "Lyndon Institute: 2025 Holiday Concert",
-    "path": "/vod/concerts/2025/liholiday2025",
-    "nid": 2907,
-    "cablecastShowId": 14726,
+    "title": "What's Going On? Clemency, Corruption and Profit",
+    "path": "/vod/node/2905",
+    "nid": 2905,
+    "cablecastShowId": 14761,
     "date": "2025-12-04",
-    "location": "Lyndon Institute",
+    "location": "KATV Studio",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/liholiday2025.jpg",
+    "teaserImage": "/assets/images/vod/2025/wgo20251204.jpg",
     "videoSource": "vimeo",
-    "videoId": "1146232449"
+    "videoId": "1144134761"
   },
   {
     "title": "Concord Select Board, 12/2/25",
@@ -608,6 +608,25 @@
     "videoId": "katv-lyndonselect-mtg-111725-14686"
   },
   {
+    "title": "VTRC: Truth Telling Event",
+    "path": "/vod/other/2025/vtr20251115",
+    "nid": 2925,
+    "cablecastShowId": 14648,
+    "date": "2025-11-15",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/vtrc20251115.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-vtrc-111525-14658"
+  },
+  {
     "title": "St. J. Athenaeum: 2050-VT Take A Swipe At The Future",
     "path": "/vod/stjath/2025/20251115",
     "nid": 2897,
@@ -631,25 +650,6 @@
     "videoId": "1137937631"
   },
   {
-    "title": "VTRC: Truth Telling Event",
-    "path": "/vod/other/2025/vtr20251115",
-    "nid": 2925,
-    "cablecastShowId": 14648,
-    "date": "2025-11-15",
-    "location": "St. Johnsbury School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/vtrc20251115.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-vtrc-111525-14658"
-  },
-  {
     "title": "VT Outdoor Summit 2025",
     "path": "/vod/other/2025/vtoutdoor20251113",
     "nid": 2896,
@@ -667,29 +667,6 @@
     "teaserImage": "/assets/images/vod/2025/vtoutdoor20251113.jpg",
     "videoSource": "vimeo",
     "videoId": "1137507007"
-  },
-  {
-    "title": "St. Johnsbury Select Board, 11/10/25",
-    "path": "/vod/stjselect/2025/20251110",
-    "nid": 2894,
-    "cablecastShowId": 14646,
-    "date": "2025-11-10",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjselect20251110.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-111025-14646"
   },
   {
     "title": "St. Johnsbury Select Board, 11/10/25 Special Meeting",
@@ -713,6 +690,29 @@
     "teaserImage": "/assets/images/vod/2025/stjselect20251110sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-111025-14690"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/10/25",
+    "path": "/vod/stjselect/2025/20251110",
+    "nid": 2894,
+    "cablecastShowId": 14646,
+    "date": "2025-11-10",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20251110.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-111025-14646"
   },
   {
     "title": "STJ Town Band: A Musical Salute To Veterans",
@@ -757,6 +757,44 @@
     "videoId": "1134809848"
   },
   {
+    "title": "Danville School Board, Informational Meeting, 11/4/25",
+    "path": "/vod/pubmtgs/2025/danvilleschoolinfo20251104",
+    "nid": 2891,
+    "cablecastShowId": 14663,
+    "date": "2025-11-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvilleschoolinfo20251104.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-infomtg-110425-14663"
+  },
+  {
+    "title": "Danville School Board, 11/4/25",
+    "path": "/vod/pubmtgs/2025/danvilleschool20251104",
+    "nid": 2890,
+    "cablecastShowId": 14664,
+    "date": "2025-11-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvilleschool20251104.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-mtg-110425-14664"
+  },
+  {
     "title": "Concord Select Board, 11/4/25",
     "path": "/vod/concordselect/2025/20251104",
     "nid": 2889,
@@ -780,42 +818,27 @@
     "videoId": "katv-concordselect-mtg-110425-14620"
   },
   {
-    "title": "Danville School Board, 11/4/25",
-    "path": "/vod/pubmtgs/2025/danvilleschool20251104",
-    "nid": 2890,
-    "cablecastShowId": 14664,
-    "date": "2025-11-04",
-    "location": "Danville",
+    "title": "Lyndon Select Board, 11/3/25",
+    "path": "/vod/lyndonselect/2025/20251103",
+    "nid": 2888,
+    "cablecastShowId": 14618,
+    "date": "2025-11-03",
+    "location": "Lyndon Municipal Building",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
         "name": "Public Meetings",
         "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvilleschool20251104.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-mtg-110425-14664"
-  },
-  {
-    "title": "Danville School Board, Informational Meeting, 11/4/25",
-    "path": "/vod/pubmtgs/2025/danvilleschoolinfo20251104",
-    "nid": 2891,
-    "cablecastShowId": 14663,
-    "date": "2025-11-04",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
+      },
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvilleschoolinfo20251104.jpg",
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20251103.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-danvilleschool-infomtg-110425-14663"
+    "videoId": "katv-lyndonselect-mtg-110325-14618"
   },
   {
     "title": "St. Johnsbury School Board, 11/3/25",
@@ -839,29 +862,6 @@
     "teaserImage": "/assets/images/vod/2025/stjschool20251103.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-110325-14619"
-  },
-  {
-    "title": "Lyndon Select Board, 11/3/25",
-    "path": "/vod/lyndonselect/2025/20251103",
-    "nid": 2888,
-    "cablecastShowId": 14618,
-    "date": "2025-11-03",
-    "location": "Lyndon Municipal Building",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/lyndonselect20251103.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-lyndonselect-mtg-110325-14618"
   },
   {
     "title": "Saint Johnsbury: 2025 Halloween Parade",
@@ -998,29 +998,6 @@
     "videoId": "1130717092"
   },
   {
-    "title": "Groton Select Board, 10/22/25",
-    "path": "/vod/grotonselect/2025/20251022",
-    "nid": 2879,
-    "cablecastShowId": 14550,
-    "date": "2025-10-22",
-    "location": "Groton",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/grotonselect20251022.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-101525-14550"
-  },
-  {
     "title": "St. J. Athenaeum: The Other Side of Hope",
     "path": "/vod/lectures/2025/stjath20251022",
     "nid": 2880,
@@ -1044,12 +1021,12 @@
     "videoId": "1130703313"
   },
   {
-    "title": "St. Johnsbury School Board, 10/20/25",
-    "path": "/vod/stjschool/2025/20251020",
-    "nid": 2876,
-    "cablecastShowId": 14580,
-    "date": "2025-10-20",
-    "location": "St. Johnsbury School",
+    "title": "Groton Select Board, 10/22/25",
+    "path": "/vod/grotonselect/2025/20251022",
+    "nid": 2879,
+    "cablecastShowId": 14550,
+    "date": "2025-10-22",
+    "location": "Groton",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
@@ -1058,13 +1035,36 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/stjschool20251020.jpg",
+    "teaserImage": "/assets/images/vod/2025/grotonselect20251022.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-102025-14580"
+    "videoId": "katv-grotonselect-mtg-101525-14550"
+  },
+  {
+    "title": "Lyndon Select Board, 10/20/25",
+    "path": "/vod/pubmtgs/2025/lyndonselect20251020",
+    "nid": 2878,
+    "cablecastShowId": 14579,
+    "date": "2025-10-20",
+    "location": "Lyndon Municipal Building",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20251020.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-102025-14579"
   },
   {
     "title": "CCSU Board of Directors, 10/20/25",
@@ -1090,12 +1090,12 @@
     "videoId": "katv-ccsubod-mtg-102025-14581"
   },
   {
-    "title": "Lyndon Select Board, 10/20/25",
-    "path": "/vod/pubmtgs/2025/lyndonselect20251020",
-    "nid": 2878,
-    "cablecastShowId": 14579,
+    "title": "St. Johnsbury School Board, 10/20/25",
+    "path": "/vod/stjschool/2025/20251020",
+    "nid": 2876,
+    "cablecastShowId": 14580,
     "date": "2025-10-20",
-    "location": "Lyndon Municipal Building",
+    "location": "St. Johnsbury School",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
@@ -1104,13 +1104,13 @@
         "path": "/vod/public-meetings"
       },
       {
-        "name": "Lyndon Select Board",
-        "path": "/vod/lyndonselect"
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/lyndonselect20251020.jpg",
+    "teaserImage": "/assets/images/vod/2025/stjschool20251020.jpg",
     "videoSource": "archive.org",
-    "videoId": "katv-lyndonselect-mtg-102025-14579"
+    "videoId": "katv-stjschool-mtg-102025-14580"
   },
   {
     "title": "No Kings Protest: Saint Johnsbury, VT",
@@ -1155,29 +1155,6 @@
     "videoId": "1129668840"
   },
   {
-    "title": "OLLI Fall 2025: Ten Lifetimes",
-    "path": "/vod/osher/2025/20251016",
-    "nid": 2867,
-    "cablecastShowId": 14551,
-    "date": "2025-10-16",
-    "location": "Catamount Arts",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/osher20251016.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1128347115"
-  },
-  {
     "title": "What's Going On? Comparing Best Bang for the Buck",
     "path": "/vod/wgo/wgo20251016",
     "nid": 2874,
@@ -1199,6 +1176,29 @@
     "teaserImage": "/assets/images/vod/2025/wgo20251016.jpg",
     "videoSource": "vimeo",
     "videoId": "1128347448"
+  },
+  {
+    "title": "OLLI Fall 2025: Ten Lifetimes",
+    "path": "/vod/osher/2025/20251016",
+    "nid": 2867,
+    "cablecastShowId": 14551,
+    "date": "2025-10-16",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20251016.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1128347115"
   },
   {
     "title": "St. Johnsbury Select Board, 10/14/25",
@@ -1224,25 +1224,6 @@
     "videoId": "katv-stjselect-mtg-101425-14548"
   },
   {
-    "title": "VT Agency of Administration: School Redistricting Task Force, Oxbow S1",
-    "path": "/vod/pubmtgs/2025/vtaoa20251010s1",
-    "nid": 2870,
-    "cablecastShowId": 14549,
-    "date": "2025-10-10",
-    "location": "Bradford",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/vtaoa20251010s1.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-vtaoadmin-101025-14549"
-  },
-  {
     "title": "VT Agency of Administration: School Redistricting Task Force, Oxbow S2",
     "path": "/vod/pubmtgs/2025/vtaoa20251010s2",
     "nid": 2873,
@@ -1262,27 +1243,46 @@
     "videoId": "katv-vtaoadmin-101025-14555"
   },
   {
-    "title": "What's Going On? C.K. Follow Up, Dollar Shock",
-    "path": "/vod/wgo/wgo20251009",
-    "nid": 2866,
-    "cablecastShowId": 14573,
-    "date": "2025-10-09",
-    "location": "KATV Studio",
+    "title": "VT Agency of Administration: School Redistricting Task Force, Oxbow S1",
+    "path": "/vod/pubmtgs/2025/vtaoa20251010s1",
+    "nid": 2870,
+    "cablecastShowId": 14549,
+    "date": "2025-10-10",
+    "location": "Bradford",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/wgo20251009.jpg",
+    "teaserImage": "/assets/images/vod/2025/vtaoa20251010s1.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-vtaoadmin-101025-14549"
+  },
+  {
+    "title": "OLLI Fall 2025: Maple Sugaring",
+    "path": "/vod/osher/2025/20251009",
+    "nid": 2869,
+    "cablecastShowId": 14530,
+    "date": "2025-10-09",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20251009.jpg",
     "videoSource": "vimeo",
-    "videoId": "1126204437"
+    "videoId": "1128523115"
   },
   {
     "title": "Lyndon Institute: 2025 Fall Concert",
@@ -1308,27 +1308,27 @@
     "videoId": "1128398975"
   },
   {
-    "title": "OLLI Fall 2025: Maple Sugaring",
-    "path": "/vod/osher/2025/20251009",
-    "nid": 2869,
-    "cablecastShowId": 14530,
+    "title": "What's Going On? C.K. Follow Up, Dollar Shock",
+    "path": "/vod/wgo/wgo20251009",
+    "nid": 2866,
+    "cablecastShowId": 14573,
     "date": "2025-10-09",
-    "location": "Catamount Arts",
+    "location": "KATV Studio",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Osher",
-        "path": "/vod/osher"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/osher20251009.jpg",
+    "teaserImage": "/assets/images/vod/2025/wgo20251009.jpg",
     "videoSource": "vimeo",
-    "videoId": "1128523115"
+    "videoId": "1126204437"
   },
   {
     "title": "St. J. Athenaeum: Supporting Those Who Seek Refuge",
@@ -1419,25 +1419,6 @@
     "videoId": "1125359025"
   },
   {
-    "title": "What's Going On? Prepping for war, Charlie Kirk Assassination.",
-    "path": "/vod/wgo/wgo20251002",
-    "nid": 2860,
-    "cablecastShowId": 14546,
-    "date": "2025-10-02",
-    "location": "KATV Studio",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/wgo20251002.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1124220561"
-  },
-  {
     "title": "OLLI Fall 2025: History Of The American Acoustic Guitar",
     "path": "/vod/osher/2025/20251002",
     "nid": 2861,
@@ -1459,6 +1440,25 @@
     "teaserImage": "/assets/images/vod/2025/osher20251002.jpg",
     "videoSource": "vimeo",
     "videoId": "1124620472"
+  },
+  {
+    "title": "What's Going On? Prepping for war, Charlie Kirk Assassination.",
+    "path": "/vod/wgo/wgo20251002",
+    "nid": 2860,
+    "cablecastShowId": 14546,
+    "date": "2025-10-02",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20251002.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1124220561"
   },
   {
     "title": "St. J. Athenaeum: Poets Chard deNiord and Rachel Hadas",
@@ -1507,29 +1507,6 @@
     "videoId": "1123534828"
   },
   {
-    "title": "What's Going On? What a Difference 200 Feet Makes",
-    "path": "/vod/wgo/wgo20250925",
-    "nid": 2855,
-    "cablecastShowId": 14519,
-    "date": "2025-09-25",
-    "location": "KATV Studio",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/wgo20250925.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1122308585"
-  },
-  {
     "title": "OLLI Fall 2025: VT Writer, Beth Kanell",
     "path": "/vod/osher/2025/20250925",
     "nid": 2856,
@@ -1551,6 +1528,29 @@
     "teaserImage": "/assets/images/vod/2025/osher20250925.jpg",
     "videoSource": "vimeo",
     "videoId": "1122307762"
+  },
+  {
+    "title": "What's Going On? What a Difference 200 Feet Makes",
+    "path": "/vod/wgo/wgo20250925",
+    "nid": 2855,
+    "cablecastShowId": 14519,
+    "date": "2025-09-25",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250925.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1122308585"
   },
   {
     "title": "Groton Select Board, 9/24/25",
@@ -1599,6 +1599,25 @@
     "videoId": "katv-stjselect-mtg-092225-14481"
   },
   {
+    "title": "LVRT: Danville Train Station Grand Opening!",
+    "path": "/vod/other/2025/lvrt20250918",
+    "nid": 2853,
+    "cablecastShowId": 14493,
+    "date": "2025-09-18",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lvrt20250918.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1120308150"
+  },
+  {
     "title": "OLLI Fall 2025: Bess O’Brien",
     "path": "/vod/osher/2025/20250918",
     "nid": 2852,
@@ -1620,25 +1639,6 @@
     "teaserImage": "/assets/images/vod/2025/osher20250918.jpg",
     "videoSource": "vimeo",
     "videoId": "1120307546"
-  },
-  {
-    "title": "LVRT: Danville Train Station Grand Opening!",
-    "path": "/vod/other/2025/lvrt20250918",
-    "nid": 2853,
-    "cablecastShowId": 14493,
-    "date": "2025-09-18",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/lvrt20250918.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1120308150"
   },
   {
     "title": "St. J. Athenaeum: VT Movies? Why? And How?",
@@ -1664,29 +1664,6 @@
     "videoId": "1119991783"
   },
   {
-    "title": "CCSU Board of Directors, 9/15/25",
-    "path": "/vod/ccsubod/2025/20250915",
-    "nid": 2849,
-    "cablecastShowId": 14475,
-    "date": "2025-09-15",
-    "location": "Danville School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      },
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/ccsubod20250915.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-091525-14475"
-  },
-  {
     "title": "St. Johnsbury School Board, 9/15/25",
     "path": "/vod/stjschool/2025/20250915",
     "nid": 2850,
@@ -1710,6 +1687,29 @@
     "videoId": "katv-stjschool-mtg-091525-14408"
   },
   {
+    "title": "CCSU Board of Directors, 9/15/25",
+    "path": "/vod/ccsubod/2025/20250915",
+    "nid": 2849,
+    "cablecastShowId": 14475,
+    "date": "2025-09-15",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/ccsubod20250915.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-091525-14475"
+  },
+  {
     "title": "Caledonia Food Coop: A Call to Action, 9/14 meeting",
     "path": "/vod/forums/2025/20250914",
     "nid": 2848,
@@ -1727,29 +1727,6 @@
     "teaserImage": "/assets/images/vod/2025/stjath20250914.jpg",
     "videoSource": "vimeo",
     "videoId": "1119174374"
-  },
-  {
-    "title": "St. J. Athenaeum: VT Treasurer Pieciak",
-    "path": "/vod/lectures/2025/stjath20250911",
-    "nid": 2846,
-    "cablecastShowId": 14478,
-    "date": "2025-09-11",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjath20250911.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1118443687"
   },
   {
     "title": "OLLI Fall 2025: Building Resilience",
@@ -1773,6 +1750,29 @@
     "teaserImage": "/assets/images/vod/2025/osher20250911.jpg",
     "videoSource": "vimeo",
     "videoId": "1118443785"
+  },
+  {
+    "title": "St. J. Athenaeum: VT Treasurer Pieciak",
+    "path": "/vod/lectures/2025/stjath20250911",
+    "nid": 2846,
+    "cablecastShowId": 14478,
+    "date": "2025-09-11",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250911.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1118443687"
   },
   {
     "title": "St. Johnsbury Select Board, 9/8/25",
@@ -1817,29 +1817,6 @@
     "videoId": "1117446660"
   },
   {
-    "title": "Concord Select Board, 9/2/25",
-    "path": "/vod/concordselect/2025/20250902",
-    "nid": 2839,
-    "cablecastShowId": 14449,
-    "date": "2025-09-02",
-    "location": "Concord",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Concord Select Board",
-        "path": "/vod/concordselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/concordselect20250902.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-concordselect-mtg-090225-14449"
-  },
-  {
     "title": "Lyndon Select Board, 9/2/25",
     "path": "/vod/lyndonselect/2025/20250902",
     "nid": 2843,
@@ -1861,6 +1838,29 @@
     "teaserImage": "/assets/images/vod/2025/lyndonselect20250902.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-lyndonselect-mtg-090225-14448"
+  },
+  {
+    "title": "Concord Select Board, 9/2/25",
+    "path": "/vod/concordselect/2025/20250902",
+    "nid": 2839,
+    "cablecastShowId": 14449,
+    "date": "2025-09-02",
+    "location": "Concord",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/concordselect20250902.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090225-14449"
   },
   {
     "title": "Joe's Pond Association: Fall Meeting, Eurasian Watermilfoil Update P3",
@@ -1928,29 +1928,6 @@
     "videoId": "1112557539"
   },
   {
-    "title": "CCSU Board of Directors, 8/18/25",
-    "path": "/vod/ccsubod/2025/20250818",
-    "nid": 2835,
-    "cablecastShowId": 14345,
-    "date": "2025-08-18",
-    "location": "Virtual",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "CCSU Board of Directors",
-        "path": "/vod/ccsubod"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/ccsubod20250818.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-ccsubod-mtg-081825-14345"
-  },
-  {
     "title": "Lyndon Select Board, 8/18/25",
     "path": "/vod/lyndonselect/2025/20250818",
     "nid": 2837,
@@ -1974,23 +1951,27 @@
     "videoId": "katv-lyndonselect-mtg-081825-14407"
   },
   {
-    "title": "River Scenic St. J 8/14/25",
-    "path": "/vod/other/2025/river20250814",
-    "nid": 2833,
-    "cablecastShowId": 14424,
-    "date": "2025-08-14",
-    "location": "St. Johnsbury",
+    "title": "CCSU Board of Directors, 8/18/25",
+    "path": "/vod/ccsubod/2025/20250818",
+    "nid": 2835,
+    "cablecastShowId": 14345,
+    "date": "2025-08-18",
+    "location": "Virtual",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Other Programs",
-        "path": "/vod/other"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/river20250814.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1110897492"
+    "teaserImage": "/assets/images/vod/2025/ccsubod20250818.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-081825-14345"
   },
   {
     "title": "What's Going On? Facts, Figures, and the Non-Money System",
@@ -2014,6 +1995,25 @@
     "teaserImage": "/assets/images/vod/2025/wgo20250814.jpg",
     "videoSource": "vimeo",
     "videoId": "1110897538"
+  },
+  {
+    "title": "River Scenic St. J 8/14/25",
+    "path": "/vod/other/2025/river20250814",
+    "nid": 2833,
+    "cablecastShowId": 14424,
+    "date": "2025-08-14",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/river20250814.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1110897492"
   },
   {
     "title": "St. Johnsbury Select Board, 8/11/25",
@@ -2062,25 +2062,6 @@
     "videoId": "1108697060"
   },
   {
-    "title": "Wells River VT: Building Wellness",
-    "path": "/vod/other/2025/wellsriver20250806",
-    "nid": 2828,
-    "cablecastShowId": 14398,
-    "date": "2025-08-06",
-    "location": "Wells River",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/wellsriver20250806.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1108697374"
-  },
-  {
     "title": "Groton Select Board, 8/6/25",
     "path": "/vod/grotonselect/2025/20250806",
     "nid": 2829,
@@ -2102,6 +2083,25 @@
     "teaserImage": "/assets/images/vod/2025/grotonselect20250806.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-grotonselect-mtg-080625-14384"
+  },
+  {
+    "title": "Wells River VT: Building Wellness",
+    "path": "/vod/other/2025/wellsriver20250806",
+    "nid": 2828,
+    "cablecastShowId": 14398,
+    "date": "2025-08-06",
+    "location": "Wells River",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wellsriver20250806.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1108697374"
   },
   {
     "title": "Concord Select Board, 8/5/25",
@@ -2150,6 +2150,25 @@
     "videoId": "katv-lyndonselect-mtg-080425-14382"
   },
   {
+    "title": "United Community Church, UCC Service 8/3/25",
+    "path": "/vod/other/2025/ucc20250803",
+    "nid": 2832,
+    "cablecastShowId": 62,
+    "date": "2025-08-03",
+    "location": "United Community Church",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/ucc20250803.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1112557188"
+  },
+  {
     "title": "St. J. Athenaeum: Poets Scudder Parker & Angela Patten",
     "path": "/vod/stjath/2025/20250803",
     "nid": 2825,
@@ -2171,25 +2190,6 @@
     "teaserImage": "/assets/images/vod/2025/stjath20250803.jpg",
     "videoSource": "vimeo",
     "videoId": "1107576864"
-  },
-  {
-    "title": "United Community Church, UCC Service 8/3/25",
-    "path": "/vod/other/2025/ucc20250803",
-    "nid": 2832,
-    "cablecastShowId": 62,
-    "date": "2025-08-03",
-    "location": "United Community Church",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/ucc20250803.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1112557188"
   },
   {
     "title": "What's Going On? Deception, Lies, and Profits",
@@ -2697,29 +2697,6 @@
     "videoId": "1092220148"
   },
   {
-    "title": "St. Johnsbury Select Board, Armory Project Bond Vote Public Info Meeting, 5/27/25",
-    "path": "/vod/stjselect/2025/20250527armory",
-    "nid": 2800,
-    "cablecastShowId": 14217,
-    "date": "2025-05-27",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjselect20250527armory.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-052725-14217"
-  },
-  {
     "title": "St. Johnsbury Select Board, 5/27/25",
     "path": "/vod/stjselect/2025/20250527",
     "nid": 2802,
@@ -2741,6 +2718,29 @@
     "teaserImage": "/assets/images/vod/2025/stjselect20250527.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-052725-14218"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Armory Project Bond Vote Public Info Meeting, 5/27/25",
+    "path": "/vod/stjselect/2025/20250527armory",
+    "nid": 2800,
+    "cablecastShowId": 14217,
+    "date": "2025-05-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250527armory.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052725-14217"
   },
   {
     "title": "Joe's Pond Association: Eurasian Watermilfoil Management Training P1",
@@ -2785,29 +2785,6 @@
     "videoId": "1087357461"
   },
   {
-    "title": "Groton Select Board, 5/21/25",
-    "path": "/vod/grotonselect/2025/20250521",
-    "nid": 2799,
-    "cablecastShowId": 14201,
-    "date": "2025-05-21",
-    "location": "Groton",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "Groton Select Board",
-        "path": "/vod/grotonselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/grotonselect20250521.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-grotonselect-mtg-052125-14201"
-  },
-  {
     "title": "STJ Academy 2025 Commencement Concert",
     "path": "/vod/concerts/2025/sja20250521",
     "nid": 2801,
@@ -2831,23 +2808,27 @@
     "videoId": "1088441772"
   },
   {
-    "title": "NEK Chamber: 5/19/25 Legislative Breakfast",
-    "path": "/vod/legbkfst/2025/20250519",
-    "nid": 2795,
-    "cablecastShowId": 14198,
-    "date": "2025-05-19",
-    "location": "St. Johnsbury Athenaeum",
+    "title": "Groton Select Board, 5/21/25",
+    "path": "/vod/grotonselect/2025/20250521",
+    "nid": 2799,
+    "cablecastShowId": 14201,
+    "date": "2025-05-21",
+    "location": "Groton",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/legbkfst20250519.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1085943531"
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250521.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-052125-14201"
   },
   {
     "title": "Lyndon Select Board, 5/19/25",
@@ -2873,6 +2854,25 @@
     "videoId": "katv-lyndonselect-mtg-051925-14199"
   },
   {
+    "title": "NEK Chamber: 5/19/25 Legislative Breakfast",
+    "path": "/vod/legbkfst/2025/20250519",
+    "nid": 2795,
+    "cablecastShowId": 14198,
+    "date": "2025-05-19",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/legbkfst20250519.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1085943531"
+  },
+  {
     "title": "VTSU Lyndon: 2025 Commencement",
     "path": "/vod/grad/2025/vtsul20250518",
     "nid": 2797,
@@ -2890,52 +2890,6 @@
     "teaserImage": "/assets/images/vod/2025/vtsul20250518.jpg",
     "videoSource": "vimeo",
     "videoId": "1087357768"
-  },
-  {
-    "title": "St. Johnsbury Select Board: Armory Project Bond Vote Public Info Meeting 5/13/25",
-    "path": "/vod/stjselect/2025/armoryinfo20250513",
-    "nid": 2791,
-    "cablecastShowId": 14203,
-    "date": "2025-05-13",
-    "location": "St. Johnsbury Welcome Center",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjarmoryinfo20250513.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-051225-14203"
-  },
-  {
-    "title": "St. Johnsbury Armory Bond Vote Discussion, 5/13/24",
-    "path": "/vod/stjselect/2025/armorydiscuss20250513",
-    "nid": 2792,
-    "cablecastShowId": 14204,
-    "date": "2025-05-13",
-    "location": "KATV Studio",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury Select Board",
-        "path": "/vod/stjselect"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/armorydiscuss20250513.png",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-bondvote-051325-14204"
   },
   {
     "title": "Danville School: 2025 6-8 Spring Concert",
@@ -2961,27 +2915,50 @@
     "videoId": "1084467387"
   },
   {
-    "title": "Danville School: 2025, 2nd HS Spring Concert",
-    "path": "/vod/concerts/2025/danville20250512",
-    "nid": 2790,
-    "cablecastShowId": 14166,
-    "date": "2025-05-12",
-    "location": "Danville School",
+    "title": "St. Johnsbury Armory Bond Vote Discussion, 5/13/24",
+    "path": "/vod/stjselect/2025/armorydiscuss20250513",
+    "nid": 2792,
+    "cablecastShowId": 14204,
+    "date": "2025-05-13",
+    "location": "KATV Studio",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
       },
       {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville20250512.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1084015135"
+    "teaserImage": "/assets/images/vod/2025/armorydiscuss20250513.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-bondvote-051325-14204"
+  },
+  {
+    "title": "St. Johnsbury Select Board: Armory Project Bond Vote Public Info Meeting 5/13/25",
+    "path": "/vod/stjselect/2025/armoryinfo20250513",
+    "nid": 2791,
+    "cablecastShowId": 14203,
+    "date": "2025-05-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjarmoryinfo20250513.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-051225-14203"
   },
   {
     "title": "St. Johnsbury Select Board, 5/12/25",
@@ -3005,6 +2982,29 @@
     "teaserImage": "/assets/images/vod/2025/stjselect20250512.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-051225-14165"
+  },
+  {
+    "title": "Danville School: 2025, 2nd HS Spring Concert",
+    "path": "/vod/concerts/2025/danville20250512",
+    "nid": 2790,
+    "cablecastShowId": 14166,
+    "date": "2025-05-12",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville20250512.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1084015135"
   },
   {
     "title": "NEK Community Orchestra: 2025 Mothers Day Concert",
@@ -3076,25 +3076,6 @@
     "videoId": "1083045613"
   },
   {
-    "title": "Burke Mountain Resort: 5/6/25 Press Conference",
-    "path": "/vod/other/2025/burke20250506",
-    "nid": 2779,
-    "cablecastShowId": 14162,
-    "date": "2025-05-06",
-    "location": "Burke Mountain Resort",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/burke20250506.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1082234670"
-  },
-  {
     "title": "St. J. Athenaeum: Menopause Panel",
     "path": "/vod/stjath/2025/20250506",
     "nid": 2785,
@@ -3118,6 +3099,44 @@
     "videoId": "1082233429"
   },
   {
+    "title": "Burke Mountain Resort: 5/6/25 Press Conference",
+    "path": "/vod/other/2025/burke20250506",
+    "nid": 2779,
+    "cablecastShowId": 14162,
+    "date": "2025-05-06",
+    "location": "Burke Mountain Resort",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/burke20250506.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1082234670"
+  },
+  {
+    "title": "Lyndon Selectboard, 5/5/25",
+    "path": "/vod/pubmtgs/2025/lyndonselect20250505",
+    "nid": 2787,
+    "cablecastShowId": 14139,
+    "date": "2025-05-05",
+    "location": "Virtual",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20250505.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-050525-14139"
+  },
+  {
     "title": "St. Johnsbury School Board, 5/5/25",
     "path": "/vod/stjschool/2025/20250505",
     "nid": 2784,
@@ -3139,25 +3158,6 @@
     "teaserImage": "/assets/images/vod/2025/stjschool20250505.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-14140-050525"
-  },
-  {
-    "title": "Lyndon Selectboard, 5/5/25",
-    "path": "/vod/pubmtgs/2025/lyndonselect20250505",
-    "nid": 2787,
-    "cablecastShowId": 14139,
-    "date": "2025-05-05",
-    "location": "Virtual",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/lyndonselect20250505.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-lyndonselect-mtg-050525-14139"
   },
   {
     "title": "North Country Chorus: 2025 Spring Concert",
@@ -3225,25 +3225,6 @@
     "videoId": "1080416163"
   },
   {
-    "title": "Danville Historical Society: 2025 Annual Meeting",
-    "path": "/vod/other/2025/dhs20250427",
-    "nid": 2778,
-    "cablecastShowId": 14133,
-    "date": "2025-04-27",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/dhs20250427.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1079779719"
-  },
-  {
     "title": "Catamount Arts: Poem Town Poets",
     "path": "/vod/lectures/2025/catamount20250427",
     "nid": 2780,
@@ -3265,6 +3246,25 @@
     "teaserImage": "/assets/images/vod/2025/catamount20250427.jpg",
     "videoSource": "vimeo",
     "videoId": "1079779043"
+  },
+  {
+    "title": "Danville Historical Society: 2025 Annual Meeting",
+    "path": "/vod/other/2025/dhs20250427",
+    "nid": 2778,
+    "cablecastShowId": 14133,
+    "date": "2025-04-27",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/dhs20250427.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1079779719"
   },
   {
     "title": "What's Going On? Multitude of Hot Spots",
@@ -3355,27 +3355,27 @@
     "videoId": "1076733252"
   },
   {
-    "title": "What's Going On? Larry Johnson Former CIA Analyst",
-    "path": "/vod/wgo/wgo20250416",
-    "nid": 2771,
-    "cablecastShowId": 14119,
+    "title": "Danville School: 2025 HS Spring Concert 4/16/25",
+    "path": "/vod/concerts/2025/danville20250416",
+    "nid": 2786,
+    "cablecastShowId": 14077,
     "date": "2025-04-16",
-    "location": "KATV Studio",
+    "location": "Danville School",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
+        "name": "Concerts",
+        "path": "/vod/concerts"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/wgo20250416.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville20250416.jpg",
     "videoSource": "vimeo",
-    "videoId": "1076734008"
+    "videoId": "1083713578"
   },
   {
     "title": "Groton Select Board, 4/16/25",
@@ -3401,27 +3401,27 @@
     "videoId": "katv-grotonselect-mtg-041625-14027"
   },
   {
-    "title": "Danville School: 2025 HS Spring Concert 4/16/25",
-    "path": "/vod/concerts/2025/danville20250416",
-    "nid": 2786,
-    "cablecastShowId": 14077,
+    "title": "What's Going On? Larry Johnson Former CIA Analyst",
+    "path": "/vod/wgo/wgo20250416",
+    "nid": 2771,
+    "cablecastShowId": 14119,
     "date": "2025-04-16",
-    "location": "Danville School",
+    "location": "KATV Studio",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
       },
       {
-        "name": "Danville",
-        "path": "/vod/concerts/danville"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville20250416.jpg",
+    "teaserImage": "/assets/images/vod/2025/wgo20250416.jpg",
     "videoSource": "vimeo",
-    "videoId": "1083713578"
+    "videoId": "1076734008"
   },
   {
     "title": "Barnet School: 2025 Spring Musical",
@@ -3489,23 +3489,27 @@
     "videoId": "1074974089"
   },
   {
-    "title": "NEK Chamber: 2025 Annual Meeting",
-    "path": "/vod/forums/2025/nekchamber20250410",
-    "nid": 2766,
-    "cablecastShowId": 14055,
+    "title": "Lyndon Institute: 2025 Spring Concert",
+    "path": "/vod/concerts/2025/li20250410",
+    "nid": 2768,
+    "cablecastShowId": 14057,
     "date": "2025-04-10",
-    "location": "VTSU Lyndon",
+    "location": "Lyndon Institute",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "NEK Chamber",
-        "path": "/vod/nekchamber"
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/nekchamber20250410.jpg",
+    "teaserImage": "/assets/images/vod/2025/li20250410.jpg",
     "videoSource": "vimeo",
-    "videoId": "1074973462"
+    "videoId": "1074974654"
   },
   {
     "title": "OLLI Spring 2025: The Caledonia Food Cooperative",
@@ -3531,27 +3535,23 @@
     "videoId": "1074974287"
   },
   {
-    "title": "Lyndon Institute: 2025 Spring Concert",
-    "path": "/vod/concerts/2025/li20250410",
-    "nid": 2768,
-    "cablecastShowId": 14057,
+    "title": "NEK Chamber: 2025 Annual Meeting",
+    "path": "/vod/forums/2025/nekchamber20250410",
+    "nid": 2766,
+    "cablecastShowId": 14055,
     "date": "2025-04-10",
-    "location": "Lyndon Institute",
+    "location": "VTSU Lyndon",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      },
-      {
-        "name": "Lyndon Institute",
-        "path": "/vod/concerts/li"
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/li20250410.jpg",
+    "teaserImage": "/assets/images/vod/2025/nekchamber20250410.jpg",
     "videoSource": "vimeo",
-    "videoId": "1074974654"
+    "videoId": "1074973462"
   },
   {
     "title": "St. J. Athenaeum: Kingdom Mountain Dulcimers",
@@ -3684,29 +3684,6 @@
     "videoId": "1072164328"
   },
   {
-    "title": "What's Going On? Creating a Prison Planet Cont.",
-    "path": "/vod/wgo/wgo20250327",
-    "nid": 2759,
-    "cablecastShowId": 14040,
-    "date": "2025-03-27",
-    "location": "KATV Studio",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Studio Programs",
-        "path": "/vod/studio"
-      },
-      {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/wgo20250327.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1070166831"
-  },
-  {
     "title": "OLLI Spring 2025: How To Spot Made-up, Misleading, And Murky Information",
     "path": "/vod/osher/2025/20250327",
     "nid": 2760,
@@ -3730,23 +3707,27 @@
     "videoId": "1072647180"
   },
   {
-    "title": "Danville Historical Society: Patriots In Petticoats",
-    "path": "/vod/lectures/2025/dhs20250326",
-    "nid": 2755,
-    "cablecastShowId": 14003,
-    "date": "2025-03-26",
-    "location": "Danville",
+    "title": "What's Going On? Creating a Prison Planet Cont.",
+    "path": "/vod/wgo/wgo20250327",
+    "nid": 2759,
+    "cablecastShowId": 14040,
+    "date": "2025-03-27",
+    "location": "KATV Studio",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/dhs20250326.jpg",
+    "teaserImage": "/assets/images/vod/2025/wgo20250327.jpg",
     "videoSource": "vimeo",
-    "videoId": "1070167204"
+    "videoId": "1070166831"
   },
   {
     "title": "STJ Academy: 2025 Spring Concert",
@@ -3768,27 +3749,23 @@
     "videoId": "1070166451"
   },
   {
-    "title": "OLLI Spring 2025: Anatomy Of Flooding In VT",
-    "path": "/vod/osher/2025/20250320",
-    "nid": 2752,
-    "cablecastShowId": 13975,
-    "date": "2025-03-20",
-    "location": "Catamount Arts",
+    "title": "Danville Historical Society: Patriots In Petticoats",
+    "path": "/vod/lectures/2025/dhs20250326",
+    "nid": 2755,
+    "cablecastShowId": 14003,
+    "date": "2025-03-26",
+    "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
       {
         "name": "Lectures and Forums",
         "path": "/vod/lectures-forums"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/osher20250320.jpg",
+    "teaserImage": "/assets/images/vod/2025/dhs20250326.jpg",
     "videoSource": "vimeo",
-    "videoId": "1068373461"
+    "videoId": "1070167204"
   },
   {
     "title": "What's Going On? Creating a Prison Planet",
@@ -3812,6 +3789,29 @@
     "teaserImage": "/assets/images/vod/2025/wgo20250320.jpg",
     "videoSource": "vimeo",
     "videoId": "1070166038"
+  },
+  {
+    "title": "OLLI Spring 2025: Anatomy Of Flooding In VT",
+    "path": "/vod/osher/2025/20250320",
+    "nid": 2752,
+    "cablecastShowId": 13975,
+    "date": "2025-03-20",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250320.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1068373461"
   },
   {
     "title": "Groton Select Board, 3/19/25",
@@ -3856,10 +3856,10 @@
     "videoId": "katv-lyndonselect-mtg-031725-14007"
   },
   {
-    "title": "What's Going On? DD-214 with Current Events",
-    "path": "/vod/wgo/wgo20250313",
-    "nid": 2747,
-    "cablecastShowId": 13991,
+    "title": "St. J. Athenaeum: Chapters: Kacy Guill",
+    "path": "/vod/studio/2025/20250313a",
+    "nid": 2750,
+    "cablecastShowId": 13993,
     "date": "2025-03-13",
     "location": "KATV Studio",
     "year": "2025",
@@ -3870,36 +3870,13 @@
         "path": "/vod/studio"
       },
       {
-        "name": "What's Going On?",
-        "path": "/vod/studio/wgo"
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/wgo20250313.jpg",
+    "teaserImage": "/assets/images/vod/2025/stjath20250313a.jpg",
     "videoSource": "vimeo",
-    "videoId": "1066251478"
-  },
-  {
-    "title": "OLLI Spring 2025: A Celtic Concert",
-    "path": "/vod/osher/2025/20250313",
-    "nid": 2748,
-    "cablecastShowId": 13956,
-    "date": "2025-03-13",
-    "location": "Catamount Arts",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Osher",
-        "path": "/vod/osher"
-      },
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/osher20250313.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1066251266"
+    "videoId": "1066251690"
   },
   {
     "title": "St. J. Athenaeum: Chapters: Bob Joly",
@@ -3925,10 +3902,33 @@
     "videoId": "1066251633"
   },
   {
-    "title": "St. J. Athenaeum: Chapters: Kacy Guill",
-    "path": "/vod/studio/2025/20250313a",
-    "nid": 2750,
-    "cablecastShowId": 13993,
+    "title": "OLLI Spring 2025: A Celtic Concert",
+    "path": "/vod/osher/2025/20250313",
+    "nid": 2748,
+    "cablecastShowId": 13956,
+    "date": "2025-03-13",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250313.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251266"
+  },
+  {
+    "title": "What's Going On? DD-214 with Current Events",
+    "path": "/vod/wgo/wgo20250313",
+    "nid": 2747,
+    "cablecastShowId": 13991,
     "date": "2025-03-13",
     "location": "KATV Studio",
     "year": "2025",
@@ -3939,36 +3939,13 @@
         "path": "/vod/studio"
       },
       {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/stjath20250313a.jpg",
+    "teaserImage": "/assets/images/vod/2025/wgo20250313.jpg",
     "videoSource": "vimeo",
-    "videoId": "1066251690"
-  },
-  {
-    "title": "St. J. Athenaeum: NEK Council on Aging",
-    "path": "/vod/lectures/2025/stjath20250312",
-    "nid": 2745,
-    "cablecastShowId": 13954,
-    "date": "2025-03-12",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Lectures and Forums",
-        "path": "/vod/lectures-forums"
-      },
-      {
-        "name": "St. Johnsbury Athenaeum",
-        "path": "/vod/stjath"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjath20250312.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1065335715"
+    "videoId": "1066251478"
   },
   {
     "title": "St. J. Athenaeum: David Martin",
@@ -3994,6 +3971,29 @@
     "videoId": "1066251757"
   },
   {
+    "title": "St. J. Athenaeum: NEK Council on Aging",
+    "path": "/vod/lectures/2025/stjath20250312",
+    "nid": 2745,
+    "cablecastShowId": 13954,
+    "date": "2025-03-12",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250312.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1065335715"
+  },
+  {
     "title": "St. J. Athenaeum: NEK People and History",
     "path": "/vod/lectures/2025/stjath20250311",
     "nid": 2744,
@@ -4017,25 +4017,6 @@
     "videoId": "1065335939"
   },
   {
-    "title": "St. Johnsbury Select Board, 3/10/25",
-    "path": "/vod/stjselect/2025/20250310",
-    "nid": 2742,
-    "cablecastShowId": 13952,
-    "date": "2025-03-10",
-    "location": "St. Johnsbury",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjselect20250310.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjselect-mtg-031025-13952"
-  },
-  {
     "title": "St. Johnsbury Select Board, 3/10/25 Special Meeting",
     "path": "/vod/stjselect/2025/20250310sm",
     "nid": 2743,
@@ -4057,6 +4038,44 @@
     "teaserImage": "/assets/images/vod/2025/stjselect20250310sm.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-specmtg-031025-13976"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/10/25",
+    "path": "/vod/stjselect/2025/20250310",
+    "nid": 2742,
+    "cablecastShowId": 13952,
+    "date": "2025-03-10",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250310.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-031025-13952"
+  },
+  {
+    "title": "STJ HUB: 2025 Benefit Concert",
+    "path": "/vod/concerts/2025/stjhub20250308",
+    "nid": 2741,
+    "cablecastShowId": 13926,
+    "date": "2025-03-08",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjhub20250308.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1064980304"
   },
   {
     "title": "St. Johnsbury Informational Town Meeting, 3/3/25",
@@ -4084,25 +4103,6 @@
     "teaserImage": "/assets/images/vod/2025/stjtownmeeting2025.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stj-townmeeting-20250305"
-  },
-  {
-    "title": "STJ HUB: 2025 Benefit Concert",
-    "path": "/vod/concerts/2025/stjhub20250308",
-    "nid": 2741,
-    "cablecastShowId": 13926,
-    "date": "2025-03-08",
-    "location": "St. Johnsbury",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Concerts",
-        "path": "/vod/concerts"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjhub20250308.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1064980304"
   },
   {
     "title": "2025 Danville Basketball: Lady Bears vs. Rivendell",
@@ -4170,25 +4170,6 @@
     "videoId": "1066256442"
   },
   {
-    "title": "NEK Chamber: 2/24/25 Legislative Breakfast",
-    "path": "/vod/legbkfst/2025/20250224",
-    "nid": 2732,
-    "cablecastShowId": 13908,
-    "date": "2025-02-24",
-    "location": "St. Johnsbury",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/legbkfst20250224.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1059862398"
-  },
-  {
     "title": "St. Johnsbury Select Board, 2/24/25",
     "path": "/vod/stjselect/2025/20250224",
     "nid": 2735,
@@ -4212,23 +4193,23 @@
     "videoId": "katv-stjselect-mtg-022425-13909"
   },
   {
-    "title": "2025 Danville Basketball: 8 Boys vs Good Shepherd",
-    "path": "/vod/sports/2025/danville8b20250221",
-    "nid": 2731,
-    "cablecastShowId": 13930,
-    "date": "2025-02-21",
-    "location": "Danville",
+    "title": "NEK Chamber: 2/24/25 Legislative Breakfast",
+    "path": "/vod/legbkfst/2025/20250224",
+    "nid": 2732,
+    "cablecastShowId": 13908,
+    "date": "2025-02-24",
+    "location": "St. Johnsbury",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Local Sports",
-        "path": "/vod/sports"
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville8b20250221.jpg",
+    "teaserImage": "/assets/images/vod/2025/legbkfst20250224.jpg",
     "videoSource": "vimeo",
-    "videoId": "1059863958"
+    "videoId": "1059862398"
   },
   {
     "title": "2025 Danville Basketball: 7 Boys vs Good Shepherd",
@@ -4250,11 +4231,11 @@
     "videoId": "1059863247"
   },
   {
-    "title": "2025 Danville Basketball: 7/8 Girls vs North Country",
-    "path": "/vod/sports/2025/danville78g20250220",
-    "nid": 2728,
-    "cablecastShowId": 13870,
-    "date": "2025-02-20",
+    "title": "2025 Danville Basketball: 8 Boys vs Good Shepherd",
+    "path": "/vod/sports/2025/danville8b20250221",
+    "nid": 2731,
+    "cablecastShowId": 13930,
+    "date": "2025-02-21",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4264,9 +4245,28 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville78g20250220.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville8b20250221.jpg",
     "videoSource": "vimeo",
-    "videoId": "1059326057"
+    "videoId": "1059863958"
+  },
+  {
+    "title": "St. Johnsbury Public Safety Forum, 2/20/25",
+    "path": "/vod/pubmtgs/2025/stjpsf20250220",
+    "nid": 2730,
+    "cablecastShowId": 13917,
+    "date": "2025-02-20",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjpsf20250220.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1059325678"
   },
   {
     "title": "2025 Danville Basketball: 8 Boys vs North Country",
@@ -4288,23 +4288,23 @@
     "videoId": "1059325349"
   },
   {
-    "title": "St. Johnsbury Public Safety Forum, 2/20/25",
-    "path": "/vod/pubmtgs/2025/stjpsf20250220",
-    "nid": 2730,
-    "cablecastShowId": 13917,
+    "title": "2025 Danville Basketball: 7/8 Girls vs North Country",
+    "path": "/vod/sports/2025/danville78g20250220",
+    "nid": 2728,
+    "cablecastShowId": 13870,
     "date": "2025-02-20",
-    "location": "St. Johnsbury",
+    "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/stjpsf20250220.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville78g20250220.jpg",
     "videoSource": "vimeo",
-    "videoId": "1059325678"
+    "videoId": "1059326057"
   },
   {
     "title": "Groton Select Board, 2/19/25",
@@ -4330,25 +4330,6 @@
     "videoId": "katv-grotonselect-mtg-021925-13869"
   },
   {
-    "title": "2025 Danville Basketball: 7 Boys vs Hazen",
-    "path": "/vod/sports/2025/danville7b20250218",
-    "nid": 2726,
-    "cablecastShowId": 13867,
-    "date": "2025-02-18",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville7b20250218.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1058579454"
-  },
-  {
     "title": "2025 Danville Basketball: 8 Boys vs Hazen",
     "path": "/vod/sports/2025/danville8b20250218",
     "nid": 2727,
@@ -4368,27 +4349,23 @@
     "videoId": "1058578904"
   },
   {
-    "title": "St. Johnsbury School Board, 2/17/25",
-    "path": "/vod/stjschool/2025/20250217",
-    "nid": 2724,
-    "cablecastShowId": 13865,
-    "date": "2025-02-17",
-    "location": "St. Johnsbury",
+    "title": "2025 Danville Basketball: 7 Boys vs Hazen",
+    "path": "/vod/sports/2025/danville7b20250218",
+    "nid": 2726,
+    "cablecastShowId": 13867,
+    "date": "2025-02-18",
+    "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/stjschool20250217.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-021725-13865"
+    "teaserImage": "/assets/images/vod/2025/danville7b20250218.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1058579454"
   },
   {
     "title": "CCSU Board of Directors, 2/17/25",
@@ -4414,23 +4391,46 @@
     "videoId": "katv-ccsubod-mtg-021725-13866"
   },
   {
-    "title": "VT Department of Corrections: 181th Academy Graduation",
-    "path": "/vod/other/2025/vtdoc20250214",
-    "nid": 2719,
-    "cablecastShowId": 13872,
-    "date": "2025-02-14",
-    "location": "VTSU Lyndon",
+    "title": "St. Johnsbury School Board, 2/17/25",
+    "path": "/vod/stjschool/2025/20250217",
+    "nid": 2724,
+    "cablecastShowId": 13865,
+    "date": "2025-02-17",
+    "location": "St. Johnsbury",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Other Programs",
-        "path": "/vod/other"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/vtdoc20250214.jpg",
+    "teaserImage": "/assets/images/vod/2025/stjschool20250217.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021725-13865"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs Northfield",
+    "path": "/vod/sports/2025/danvillevb20250214",
+    "nid": 2723,
+    "cablecastShowId": 13838,
+    "date": "2025-02-14",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevb20250214.jpg",
     "videoSource": "vimeo",
-    "videoId": "1057265286"
+    "videoId": "1057973307"
   },
   {
     "title": "2025 Danville Basketball: JV Boys vs Christ Cove",
@@ -4452,23 +4452,23 @@
     "videoId": "1057974739"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs Northfield",
-    "path": "/vod/sports/2025/danvillevb20250214",
-    "nid": 2723,
-    "cablecastShowId": 13838,
+    "title": "VT Department of Corrections: 181th Academy Graduation",
+    "path": "/vod/other/2025/vtdoc20250214",
+    "nid": 2719,
+    "cablecastShowId": 13872,
     "date": "2025-02-14",
-    "location": "Danville",
+    "location": "VTSU Lyndon",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Local Sports",
-        "path": "/vod/sports"
+        "name": "Other Programs",
+        "path": "/vod/other"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillevb20250214.jpg",
+    "teaserImage": "/assets/images/vod/2025/vtdoc20250214.jpg",
     "videoSource": "vimeo",
-    "videoId": "1057973307"
+    "videoId": "1057265286"
   },
   {
     "title": "What's Going On? Who Started World War II",
@@ -4494,25 +4494,6 @@
     "videoId": "1056874022"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs Blue Mountain",
-    "path": "/vod/sports/2025/danvillejvb20250212",
-    "nid": 2717,
-    "cablecastShowId": 13835,
-    "date": "2025-02-12",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvillejvb20250212.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1057265999"
-  },
-  {
     "title": "2025 Danville Basketball: Varsity Boys vs Blue Mountain",
     "path": "/vod/sports/2025/danvillevb20250212",
     "nid": 2718,
@@ -4530,6 +4511,25 @@
     "teaserImage": "/assets/images/vod/2025/danvillevb20250212.jpg",
     "videoSource": "vimeo",
     "videoId": "1057266451"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Blue Mountain",
+    "path": "/vod/sports/2025/danvillejvb20250212",
+    "nid": 2717,
+    "cablecastShowId": 13835,
+    "date": "2025-02-12",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvb20250212.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1057265999"
   },
   {
     "title": "St. Johnsbury Select Board, 2/10/25",
@@ -4555,44 +4555,6 @@
     "videoId": "katv-stjselect-mtg-021025-13834"
   },
   {
-    "title": "2025 Danville Basketball: 8 Boys vs Oxbow",
-    "path": "/vod/sports/2025/danville8b20250207",
-    "nid": 2714,
-    "cablecastShowId": 13807,
-    "date": "2025-02-07",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville8b20250207.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1057265528"
-  },
-  {
-    "title": "2025 Danville Basketball: 7/8 Girls vs Oxbow",
-    "path": "/vod/sports/2025/danville78g20250207",
-    "nid": 2715,
-    "cablecastShowId": 13806,
-    "date": "2025-02-07",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville78g20250207.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1055302615"
-  },
-  {
     "title": "What's Going On? Quotes of History",
     "path": "/vod/wgo/wgo20250207",
     "nid": 2720,
@@ -4614,6 +4576,44 @@
     "teaserImage": "/assets/images/vod/2025/wgo20250207.jpg",
     "videoSource": "vimeo",
     "videoId": "1055304259"
+  },
+  {
+    "title": "2025 Danville Basketball: 7/8 Girls vs Oxbow",
+    "path": "/vod/sports/2025/danville78g20250207",
+    "nid": 2715,
+    "cablecastShowId": 13806,
+    "date": "2025-02-07",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville78g20250207.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1055302615"
+  },
+  {
+    "title": "2025 Danville Basketball: 8 Boys vs Oxbow",
+    "path": "/vod/sports/2025/danville8b20250207",
+    "nid": 2714,
+    "cablecastShowId": 13807,
+    "date": "2025-02-07",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville8b20250207.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1057265528"
   },
   {
     "title": "FM&P Presents: Night Owl Club - African Constellations & Cultures",
@@ -4639,6 +4639,63 @@
     "videoId": "1068176186"
   },
   {
+    "title": "VT Civic Health Index: VT's First Civic Health Index",
+    "path": "/vod/other/2025/vthealth20250205",
+    "nid": 2713,
+    "cablecastShowId": 13804,
+    "date": "2025-02-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/vthealth20250205.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1055301739"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Winooski",
+    "path": "/vod/sports/2025/danvillejvb20250205",
+    "nid": 2712,
+    "cablecastShowId": 13802,
+    "date": "2025-02-05",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvb20250205.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1055308945"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs Winooski",
+    "path": "/vod/sports/2025/danvillevb20250205",
+    "nid": 2711,
+    "cablecastShowId": 13803,
+    "date": "2025-02-05",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevb20250205.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1055300674"
+  },
+  {
     "title": "Groton Select Board, 2/5/25",
     "path": "/vod/grotonselect/2025/20250205",
     "nid": 2709,
@@ -4662,11 +4719,11 @@
     "videoId": "katv-grotonselect-mtg-020525-13808"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs Winooski",
-    "path": "/vod/sports/2025/danvillevb20250205",
-    "nid": 2711,
-    "cablecastShowId": 13803,
-    "date": "2025-02-05",
+    "title": "2025 Danville Basketball: 7/8 Girls vs Kingdom East-North",
+    "path": "/vod/sports/2025/danville78g20250204",
+    "nid": 2710,
+    "cablecastShowId": 13799,
+    "date": "2025-02-04",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4676,16 +4733,16 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillevb20250205.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville78g20250204.jpg",
     "videoSource": "vimeo",
-    "videoId": "1055300674"
+    "videoId": "1055307428"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs Winooski",
-    "path": "/vod/sports/2025/danvillejvb20250205",
-    "nid": 2712,
-    "cablecastShowId": 13802,
-    "date": "2025-02-05",
+    "title": "2025 Danville Basketball: 8 Boys vs Kingdom East-North",
+    "path": "/vod/sports/2025/danville8b20250204",
+    "nid": 2708,
+    "cablecastShowId": 13801,
+    "date": "2025-02-04",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4695,28 +4752,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillejvb20250205.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville8b20250204.jpg",
     "videoSource": "vimeo",
-    "videoId": "1055308945"
-  },
-  {
-    "title": "VT Civic Health Index: VT's First Civic Health Index",
-    "path": "/vod/other/2025/vthealth20250205",
-    "nid": 2713,
-    "cablecastShowId": 13804,
-    "date": "2025-02-05",
-    "location": "St. Johnsbury Athenaeum",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Other Programs",
-        "path": "/vod/other"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/vthealth20250205.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1055301739"
+    "videoId": "1055308239"
   },
   {
     "title": "Concord Select Board, 2/4/25",
@@ -4742,11 +4780,11 @@
     "videoId": "katv-concordselect-mtg-020425-13800"
   },
   {
-    "title": "2025 Danville Basketball: 8 Boys vs Kingdom East-North",
-    "path": "/vod/sports/2025/danville8b20250204",
-    "nid": 2708,
-    "cablecastShowId": 13801,
-    "date": "2025-02-04",
+    "title": "2025 Danville Basketball: JV Boys vs Williamstown",
+    "path": "/vod/sports/2025/danvillebjv20250203",
+    "nid": 2706,
+    "cablecastShowId": 13796,
+    "date": "2025-02-03",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4756,16 +4794,16 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville8b20250204.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillebjv20250203.jpg",
     "videoSource": "vimeo",
-    "videoId": "1055308239"
+    "videoId": "1055305110"
   },
   {
-    "title": "2025 Danville Basketball: 7/8 Girls vs Kingdom East-North",
-    "path": "/vod/sports/2025/danville78g20250204",
-    "nid": 2710,
-    "cablecastShowId": 13799,
-    "date": "2025-02-04",
+    "title": "2025 Danville Basketball: Varsity Boys vs Williamstown",
+    "path": "/vod/sports/2025/danvillebv20250203",
+    "nid": 2705,
+    "cablecastShowId": 13797,
+    "date": "2025-02-03",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4775,9 +4813,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danville78g20250204.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillebv20250203.jpg",
     "videoSource": "vimeo",
-    "videoId": "1055307428"
+    "videoId": "1055306332"
   },
   {
     "title": "St. Johnsbury School Board, 2/3/25",
@@ -4803,63 +4841,6 @@
     "videoId": "katv-stjschool-mtg-020325-13798"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs Williamstown",
-    "path": "/vod/sports/2025/danvillebv20250203",
-    "nid": 2705,
-    "cablecastShowId": 13797,
-    "date": "2025-02-03",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvillebv20250203.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1055306332"
-  },
-  {
-    "title": "2025 Danville Basketball: JV Boys vs Williamstown",
-    "path": "/vod/sports/2025/danvillebjv20250203",
-    "nid": 2706,
-    "cablecastShowId": 13796,
-    "date": "2025-02-03",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvillebjv20250203.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1055305110"
-  },
-  {
-    "title": "2025 Danville Basketball: 8 Boys vs STJ",
-    "path": "/vod/sports/2025/danville8b20250131",
-    "nid": 2703,
-    "cablecastShowId": 13772,
-    "date": "2025-01-31",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville8b20250131.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1053262518"
-  },
-  {
     "title": "2025 Danville Basketball: 7/8 Girls vs STJ",
     "path": "/vod/sports/2025/danville78girls20250131",
     "nid": 2739,
@@ -4879,11 +4860,11 @@
     "videoId": "1066256697"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Girls vs Winooski",
-    "path": "/vod/sports/2025/danvillegv20250130",
-    "nid": 2701,
-    "cablecastShowId": 13771,
-    "date": "2025-01-30",
+    "title": "2025 Danville Basketball: 8 Boys vs STJ",
+    "path": "/vod/sports/2025/danville8b20250131",
+    "nid": 2703,
+    "cablecastShowId": 13772,
+    "date": "2025-01-31",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4893,9 +4874,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillegv20250130.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville8b20250131.jpg",
     "videoSource": "vimeo",
-    "videoId": "1053262061"
+    "videoId": "1053262518"
   },
   {
     "title": "What's Going On? Connecting the Dots of History with Bill Flick",
@@ -4921,11 +4902,11 @@
     "videoId": "1055303457"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs Richford",
-    "path": "/vod/sports/2025/danvillebv20250129",
-    "nid": 2699,
-    "cablecastShowId": 13770,
-    "date": "2025-01-29",
+    "title": "2025 Danville Basketball: Varsity Girls vs Winooski",
+    "path": "/vod/sports/2025/danvillegv20250130",
+    "nid": 2701,
+    "cablecastShowId": 13771,
+    "date": "2025-01-30",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -4935,9 +4916,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillebv20250129.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillegv20250130.jpg",
     "videoSource": "vimeo",
-    "videoId": "1053261728"
+    "videoId": "1053262061"
   },
   {
     "title": "2025 Danville Basketball: JV Boys vs Richford",
@@ -4959,23 +4940,23 @@
     "videoId": "1053262851"
   },
   {
-    "title": "NEK Chamber: 1/27/25 Legislative Breakfast",
-    "path": "/vod/legbkfst/2025/20250127",
-    "nid": 2697,
-    "cablecastShowId": 13768,
-    "date": "2025-01-27",
-    "location": "St. Johnsbury Athenaeum",
+    "title": "2025 Danville Basketball: Varsity Boys vs Richford",
+    "path": "/vod/sports/2025/danvillebv20250129",
+    "nid": 2699,
+    "cablecastShowId": 13770,
+    "date": "2025-01-29",
+    "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "NEK Legislative Breakfast",
-        "path": "/vod/neklegbkfst"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/nekchamber20250127.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillebv20250129.jpg",
     "videoSource": "vimeo",
-    "videoId": "1050973391"
+    "videoId": "1053261728"
   },
   {
     "title": "St. Johnsbury Select Board, 1/27/25",
@@ -5001,6 +4982,25 @@
     "videoId": "katv-stjselect-mtg-012725-13706"
   },
   {
+    "title": "NEK Chamber: 1/27/25 Legislative Breakfast",
+    "path": "/vod/legbkfst/2025/20250127",
+    "nid": 2697,
+    "cablecastShowId": 13768,
+    "date": "2025-01-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/nekchamber20250127.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050973391"
+  },
+  {
     "title": "2025 Danville Basketball: Varsity Girls vs Stowe",
     "path": "/vod/sports/2025/danvillevg20250125",
     "nid": 2696,
@@ -5018,6 +5018,25 @@
     "teaserImage": "/assets/images/vod/2025/danvillegv20250125.jpg",
     "videoSource": "vimeo",
     "videoId": "1050972801"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Hazen",
+    "path": "/vod/sports/2025/danvillegv20250123",
+    "nid": 2695,
+    "cablecastShowId": 13755,
+    "date": "2025-01-23",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillegv20250123.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050091777"
   },
   {
     "title": "What's Going On? Who Are They? Part III",
@@ -5043,11 +5062,11 @@
     "videoId": "1050090923"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Girls vs Hazen",
-    "path": "/vod/sports/2025/danvillegv20250123",
-    "nid": 2695,
-    "cablecastShowId": 13755,
-    "date": "2025-01-23",
+    "title": "2025 Danville Basketball: Varsity Boys vs BFA Fairfax",
+    "path": "/vod/sports/2025/danvillevb20250122",
+    "nid": 2693,
+    "cablecastShowId": 13754,
+    "date": "2025-01-22",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -5057,9 +5076,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillegv20250123.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillevb20250122.jpg",
     "videoSource": "vimeo",
-    "videoId": "1050091777"
+    "videoId": "1050089810"
   },
   {
     "title": "2025 Danville Basketball: JV Boys vs BFA Fairfax",
@@ -5081,25 +5100,6 @@
     "videoId": "1050088582"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs BFA Fairfax",
-    "path": "/vod/sports/2025/danvillevb20250122",
-    "nid": 2693,
-    "cablecastShowId": 13754,
-    "date": "2025-01-22",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvillevb20250122.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1050089810"
-  },
-  {
     "title": "2025 Danville Basketball: 7/8 Girls vs Hazen",
     "path": "/vod/sports/2025/danville78girls20250121",
     "nid": 2691,
@@ -5117,29 +5117,6 @@
     "teaserImage": "/assets/images/vod/2025/danville78girls20250121.jpg",
     "videoSource": "vimeo",
     "videoId": "1050092928"
-  },
-  {
-    "title": "St. Johnsbury School Board, 1/20/25",
-    "path": "/vod/stjschool/2025/20250120",
-    "nid": 2689,
-    "cablecastShowId": 13750,
-    "date": "2025-01-20",
-    "location": "St. Johnsbury School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/stjschool20250120.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-012025-13750"
   },
   {
     "title": "CCSU Board of Directors, 1/20/25 Special Meeting",
@@ -5163,6 +5140,29 @@
     "teaserImage": "/assets/images/vod/2025/ccsubod20250120.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-ccsubod-mtg-012025-13751"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/20/25",
+    "path": "/vod/stjschool/2025/20250120",
+    "nid": 2689,
+    "cablecastShowId": 13750,
+    "date": "2025-01-20",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjschool20250120.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-012025-13750"
   },
   {
     "title": "What's Going On? Who Are They? Continued",
@@ -5249,27 +5249,42 @@
     "videoId": "1047460450"
   },
   {
-    "title": "St. Johnsbury School Board, 1/6/25",
-    "path": "/vod/stjschool/2025/20250106",
-    "nid": 2676,
-    "cablecastShowId": 13688,
+    "title": "2025 Danville Basketball: Varsity Boys vs Oxbow",
+    "path": "/vod/sports/2025/danvillevboys20250110",
+    "nid": 2684,
+    "cablecastShowId": 13696,
     "date": "2025-01-10",
-    "location": "St. Johnsbury",
+    "location": "Danville School",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Public Meetings",
-        "path": "/vod/public-meetings"
-      },
-      {
-        "name": "St. Johnsbury School Board",
-        "path": "/vod/stjschool"
+        "name": "Local Sports",
+        "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/stjschool20250106.jpg",
-    "videoSource": "archive.org",
-    "videoId": "katv-stjschool-mtg-010625-13688"
+    "teaserImage": "/assets/images/vod/2025/danvillevboys20250110.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1046621176"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Oxbow",
+    "path": "/vod/sports/2025/danvillejvboys20250110",
+    "nid": 2683,
+    "cablecastShowId": 13695,
+    "date": "2025-01-10",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250110.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1046621637"
   },
   {
     "title": "What's Going On? Who Are They?",
@@ -5295,30 +5310,34 @@
     "videoId": "1046223486"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs Oxbow",
-    "path": "/vod/sports/2025/danvillejvboys20250110",
-    "nid": 2683,
-    "cablecastShowId": 13695,
+    "title": "St. Johnsbury School Board, 1/6/25",
+    "path": "/vod/stjschool/2025/20250106",
+    "nid": 2676,
+    "cablecastShowId": 13688,
     "date": "2025-01-10",
-    "location": "Danville School",
+    "location": "St. Johnsbury",
     "year": "2025",
     "yearPath": "/vod/year/2025",
     "categories": [
       {
-        "name": "Local Sports",
-        "path": "/vod/sports"
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250110.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1046621637"
+    "teaserImage": "/assets/images/vod/2025/stjschool20250106.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010625-13688"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Boys vs Oxbow",
-    "path": "/vod/sports/2025/danvillevboys20250110",
-    "nid": 2684,
-    "cablecastShowId": 13696,
-    "date": "2025-01-10",
+    "title": "2025 Danville Basketball: Varsity Girls vs Twinfield",
+    "path": "/vod/sports/2025/danvillevgirls20250109",
+    "nid": 2681,
+    "cablecastShowId": 13692,
+    "date": "2025-01-09",
     "location": "Danville School",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -5328,9 +5347,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillevboys20250110.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillevgirls20250109.jpg",
     "videoSource": "vimeo",
-    "videoId": "1046621176"
+    "videoId": "1045883092"
   },
   {
     "title": "St. Johnsbury Select Board: 2025 Budget Presentation",
@@ -5356,11 +5375,11 @@
     "videoId": "katv-stjselect-mtg-010825-13712"
   },
   {
-    "title": "2025 Danville Basketball: Varsity Girls vs Twinfield",
-    "path": "/vod/sports/2025/danvillevgirls20250109",
-    "nid": 2681,
+    "title": "2025 Danville Basketball: JV Boys vs Twinfield",
+    "path": "/vod/sports/2025/danvillejvboys20250108",
+    "nid": 2678,
     "cablecastShowId": 13692,
-    "date": "2025-01-09",
+    "date": "2025-01-08",
     "location": "Danville School",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -5370,9 +5389,9 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillevgirls20250109.jpg",
+    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250108.jpg",
     "videoSource": "vimeo",
-    "videoId": "1045883092"
+    "videoId": "1045774776"
   },
   {
     "title": "Concord Select Board, 1/8/25",
@@ -5398,25 +5417,6 @@
     "videoId": "katv-concordselect-mtg-010725-13689"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs Twinfield",
-    "path": "/vod/sports/2025/danvillejvboys20250108",
-    "nid": 2678,
-    "cablecastShowId": 13692,
-    "date": "2025-01-08",
-    "location": "Danville School",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250108.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1045774776"
-  },
-  {
     "title": "Swinging Epiphany: 2025 Concert",
     "path": "/vod/concerts/2025/se20250106",
     "nid": 2675,
@@ -5434,44 +5434,6 @@
     "teaserImage": "/assets/images/vod/2025/se20250106.jpg",
     "videoSource": "vimeo",
     "videoId": "1044402369"
-  },
-  {
-    "title": "2025 Danville Basketball: 8 Boys vs Haverhill",
-    "path": "/vod/sports/2025/danville8bh20250104",
-    "nid": 2672,
-    "cablecastShowId": 13709,
-    "date": "2025-01-04",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville8bh20250104.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1044401247"
-  },
-  {
-    "title": "2025 Danville Basketball: 7/8 Girls vs Haverhill",
-    "path": "/vod/sports/2025/danville78gh20250104",
-    "nid": 2673,
-    "cablecastShowId": 13710,
-    "date": "2025-01-04",
-    "location": "Danville",
-    "year": "2025",
-    "yearPath": "/vod/year/2025",
-    "categories": [
-      {
-        "name": "Local Sports",
-        "path": "/vod/sports"
-      }
-    ],
-    "teaserImage": "/assets/images/vod/2025/danville78gh20250104.jpg",
-    "videoSource": "vimeo",
-    "videoId": "1044401861"
   },
   {
     "title": "2025 Danville Basketball: 7 Boys vs Haverhill",
@@ -5493,11 +5455,11 @@
     "videoId": "1044400632"
   },
   {
-    "title": "2025 Danville Basketball: JV Boys vs Stowe",
-    "path": "/vod/sports/2025/danvillebjv20250103",
-    "nid": 2670,
-    "cablecastShowId": 13683,
-    "date": "2025-01-03",
+    "title": "2025 Danville Basketball: 7/8 Girls vs Haverhill",
+    "path": "/vod/sports/2025/danville78gh20250104",
+    "nid": 2673,
+    "cablecastShowId": 13710,
+    "date": "2025-01-04",
     "location": "Danville",
     "year": "2025",
     "yearPath": "/vod/year/2025",
@@ -5507,9 +5469,28 @@
         "path": "/vod/sports"
       }
     ],
-    "teaserImage": "/assets/images/vod/2025/danvillebjv20250103.jpg",
+    "teaserImage": "/assets/images/vod/2025/danville78gh20250104.jpg",
     "videoSource": "vimeo",
-    "videoId": "1044008412"
+    "videoId": "1044401861"
+  },
+  {
+    "title": "2025 Danville Basketball: 8 Boys vs Haverhill",
+    "path": "/vod/sports/2025/danville8bh20250104",
+    "nid": 2672,
+    "cablecastShowId": 13709,
+    "date": "2025-01-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville8bh20250104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044401247"
   },
   {
     "title": "2025 Danville Basketball: Varsity Boys vs Stowe",
@@ -5529,6 +5510,48 @@
     "teaserImage": "/assets/images/vod/2025/danvillebv20250103.jpg",
     "videoSource": "vimeo",
     "videoId": "1044008165"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Stowe",
+    "path": "/vod/sports/2025/danvillebjv20250103",
+    "nid": 2670,
+    "cablecastShowId": 13683,
+    "date": "2025-01-03",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillebjv20250103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044008412"
+  },
+  {
+    "title": "What's Going On? 2025 The Year of Deagel",
+    "path": "/vod/wgo/wgo20250103",
+    "nid": 2669,
+    "cablecastShowId": 13702,
+    "date": "2025-01-03",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20250103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1043851547"
   },
   {
     "title": "Groton Select Board, 1/2/25",
