@@ -5,6 +5,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   // If we downloaded any Drupal files directly or want to serve themes
   eleventyConfig.addPassthroughCopy("src/sites");
+  // Pass through root favicon
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
 
   // Date formatting filter
   eleventyConfig.addFilter("postDate", (dateObj) => {
