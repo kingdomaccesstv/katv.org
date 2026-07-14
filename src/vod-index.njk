@@ -24,8 +24,11 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
         <label for="filterCategory">Program Category</label>
         <select id="filterCategory">
           <option value="">- Any -</option>
-          {% for cat in categories %}
-            <option value="{{ cat.name }}">{{ cat.name }}</option>
+          {% for parent in nestedCategories %}
+            <option value="{{ parent.name }}">{{ parent.name }}</option>
+            {% for child in parent.children %}
+              <option value="{{ child.name }}">&nbsp;&nbsp;&nbsp;&nbsp;— {{ child.name }}</option>
+            {% endfor %}
           {% endfor %}
         </select>
       </div>
@@ -160,6 +163,7 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
   <!-- Client-side filter interactive enhancements -->
   <script>
     (function() {
+      const CATEGORY_HIERARCHY = {{ categoryHierarchy | dump | safe }};
       let indexData = [];
       let filteredData = [];
       let currentPage = 0;
@@ -221,8 +225,13 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
 
         // Filter
         filteredData = indexData.filter(item => {
-          if (selectedCat && !(item.categories && item.categories.includes(selectedCat))) {
-            return false;
+          if (selectedCat) {
+            const matchDirect = item.categories && item.categories.includes(selectedCat);
+            const subCats = CATEGORY_HIERARCHY[selectedCat] || [];
+            const matchSub = item.categories && item.categories.some(cat => subCats.includes(cat));
+            if (!matchDirect && !matchSub) {
+              return false;
+            }
           }
           if (selectedYear && item.year !== selectedYear) {
             return false;

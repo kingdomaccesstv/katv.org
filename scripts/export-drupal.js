@@ -323,6 +323,51 @@ async function run() {
     console.error('Error fetching normal pages:', err.message);
   }
 
+  // 1.5. Fetch category taxonomy hierarchy and write to categoryHierarchy.json
+  try {
+    console.log('Fetching category taxonomy terms...');
+    let catUrl = `${BASE_URL}/jsonapi/taxonomy_term/program_category?page[limit]=50`;
+    const terms = [];
+    while (catUrl) {
+      const res = await fetch(catUrl);
+      if (!res.ok) {
+        throw new Error(`Failed to fetch categories: ${res.statusText}`);
+      }
+      const json = await res.json();
+      terms.push(...json.data);
+      catUrl = json.links && json.links.next ? json.links.next.href : null;
+    }
+
+    const termMap = {};
+    terms.forEach(term => {
+      const parentRef = term.relationships.parent && term.relationships.parent.data && term.relationships.parent.data[0];
+      const parentId = (parentRef && parentRef.id !== 'virtual') ? parentRef.id : null;
+      termMap[term.id] = {
+        name: term.attributes.name,
+        parentId: parentId
+      };
+    });
+
+    const hierarchy = {};
+    Object.values(termMap).forEach(term => {
+      if (term.parentId) {
+        const parent = termMap[term.parentId];
+        if (parent) {
+          if (!hierarchy[parent.name]) {
+            hierarchy[parent.name] = [];
+          }
+          hierarchy[parent.name].push(term.name);
+        }
+      }
+    });
+
+    const hierarchyFilePath = path.join(__dirname, '../src/_data/categoryHierarchy.json');
+    fs.writeFileSync(hierarchyFilePath, JSON.stringify(hierarchy, null, 2), 'utf8');
+    console.log(`Saved category hierarchy to ${hierarchyFilePath}`);
+  } catch (err) {
+    console.error('Error exporting category hierarchy:', err.message);
+  }
+
   // 2. Crawl all VODs with pagination
   let nextUrl = VOD_API_URL;
   while (nextUrl) {
