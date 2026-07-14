@@ -45,6 +45,11 @@
     <header class="dxpr-theme-header" id="navbar">
       <div class="navbar-container">
         <a class="navbar-brand" href="/">Kingdom Access TV</a>
+        <button class="navbar-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
         <nav role="navigation" id="main-menu">
           <ul class="menu nav">
             <li class="{% if page.url == '/vod/' or page.url.startsWith('/vod/') %}active{% endif %}">
@@ -173,17 +178,25 @@
       }
 
       function startAnimation() {
-        (function animate2() {
-          setTimeout(function animate() {
-            $("#liveOnKatv").fadeOut(1000, function () {
-              let self = $(this);
-              index = (index + 1) % entries.length;
-              self.html(entries[index]);
-            }).fadeIn(1000, animate2);
-          }, 5000);
-        })();
+        let combinedText = entries.join(" &nbsp;&nbsp;&bull;&nbsp;&nbsp; ");
+        $("#liveOnKatv").html(combinedText);
       }
     })();
+  </script>
+
+  <!-- Mobile Navbar Toggle Script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const toggle = document.querySelector('.navbar-toggle');
+      const menu = document.getElementById('main-menu');
+      if (toggle && menu) {
+        toggle.addEventListener('click', function() {
+          const isOpen = toggle.classList.toggle('open');
+          menu.classList.toggle('open');
+          toggle.setAttribute('aria-expanded', isOpen);
+        });
+      }
+    });
   </script>
 </body>
 </html>
