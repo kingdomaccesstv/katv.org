@@ -1,0 +1,381 @@
+[
+  {
+    "title": "Groton Select Board, 5/1/24",
+    "path": "/vod/grotonselect/2024/20240501",
+    "nid": 2534,
+    "cablecastShowId": 12961,
+    "date": "2024-05-01",
+    "location": "Groton Community Building",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240501.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-050124-12961"
+  },
+  {
+    "title": "WGO: Censorship For the Controllers",
+    "path": "/vod/wgo/wgo20240502",
+    "nid": 2536,
+    "cablecastShowId": 12963,
+    "date": "2024-05-02",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240502.jpg",
+    "videoSource": "vimeo",
+    "videoId": "942529476"
+  },
+  {
+    "title": "Concord Select Board, 5/7/24",
+    "path": "/vod/concordselect/2024/20240507",
+    "nid": 2537,
+    "cablecastShowId": 12994,
+    "date": "2024-05-07",
+    "location": "Concord Municipal Building",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20240507.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-050724-12994"
+  },
+  {
+    "title": "WGO: The United States Has Declared War on America",
+    "path": "/vod/wgo/wgo20240510",
+    "nid": 2538,
+    "cablecastShowId": 13026,
+    "date": "2024-05-10",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240510.jpg",
+    "videoSource": "vimeo",
+    "videoId": "945404103"
+  },
+  {
+    "title": "NEK Community Orchestra: Mother's Day Concert 2024",
+    "path": "/vod/concerts/2024/nekco20240512",
+    "nid": 2539,
+    "cablecastShowId": 13016,
+    "date": "2024-05-12",
+    "location": "Vermont State University Lyndon",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/nekco20240512.jpg",
+    "videoSource": "vimeo",
+    "videoId": "947582540"
+  },
+  {
+    "title": "The Ecology of Queer and Trans People in Education (VHC)",
+    "path": "/vod/lectures/2024/vhc20240515",
+    "nid": 2541,
+    "cablecastShowId": 13019,
+    "date": "2024-05-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/vhc20240515.jpg",
+    "videoSource": "vimeo",
+    "videoId": "947581995"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/13/24",
+    "path": "/vod/stjselect/2024/20240513",
+    "nid": 2540,
+    "cablecastShowId": 13017,
+    "date": "2024-05-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240513.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-051324-13017"
+  },
+  {
+    "title": "Groton Select Board, 5/15/24",
+    "path": "/vod/grotonselect/2024/20240515",
+    "nid": 2542,
+    "cablecastShowId": 13018,
+    "date": "2024-05-15",
+    "location": "Groton Town Hall",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240515.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-051524-13018"
+  },
+  {
+    "title": "WGO: Wars, Pocketbooks, and Corruption",
+    "path": "/vod/wgo/wgo20240516",
+    "nid": 2543,
+    "cablecastShowId": 13044,
+    "date": "2024-05-16",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240516.jpg",
+    "videoSource": "vimeo",
+    "videoId": "947582295"
+  },
+  {
+    "title": "FM&P: Panels and Pigeons (Eddy Lecture Series)",
+    "path": "/vod/lectures/2024/fmp20240517",
+    "nid": 2544,
+    "cablecastShowId": 13053,
+    "date": "2024-05-17",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/fmp20240517.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949036291"
+  },
+  {
+    "title": "Legislative Breakfast, May 2024",
+    "path": "/vod/legbkfst/2024/20240520",
+    "nid": 2545,
+    "cablecastShowId": 13033,
+    "date": "2024-05-20",
+    "location": "St. Johnsbury House",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240520.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949034565"
+  },
+  {
+    "title": "Danville School Spring Concert 2024",
+    "path": "/vod/concerts/2024/danville20240520",
+    "nid": 2546,
+    "cablecastShowId": 13035,
+    "date": "2024-05-20",
+    "location": "Danville School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danville20240520.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949034889"
+  },
+  {
+    "title": "Danville School Spring Concert 2024 (6-8)",
+    "path": "/vod/concerts/2024/danville20240521",
+    "nid": 2547,
+    "cablecastShowId": 13036,
+    "date": "2024-05-21",
+    "location": "Danville School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danville20240521.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949742407"
+  },
+  {
+    "title": "Red Scare in the Green Mountains (St. Johnsbury Athenaeum)",
+    "path": "/vod/lectures/2024/stjath20240521",
+    "nid": 2548,
+    "cablecastShowId": 13042,
+    "date": "2024-05-21",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjath20240521.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949742646"
+  },
+  {
+    "title": "SJA Commencement Concert 2024",
+    "path": "/vod/concerts/2024/sja20240522",
+    "nid": 2549,
+    "cablecastShowId": 13059,
+    "date": "2024-05-22",
+    "location": "South Church, St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/sja20240522.jpg",
+    "videoSource": "vimeo",
+    "videoId": "949742106"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/20/24",
+    "path": "/vod/stjschool/2024/20240520",
+    "nid": 2550,
+    "cablecastShowId": 13034,
+    "date": "2024-05-20",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240520.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-052024-13034"
+  },
+  {
+    "title": "OLLI Spring 2024: Mark Twain Introduces a Black Man to America",
+    "path": "/vod/osher/2024/20240502",
+    "nid": 2629,
+    "cablecastShowId": 12962,
+    "date": "2024-05-02",
+    "location": "United Community Church",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20240502.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1027283851"
+  }
+]

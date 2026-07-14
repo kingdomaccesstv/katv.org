@@ -1,0 +1,20 @@
+---
+permalink: "/search-index.json"
+---
+[
+  {%- for vod in vods %}
+  {
+    "title": {{ vod.title | dump | safe }},
+    "path": "{{ vod.path }}",
+    "date": "{{ vod.date }}",
+    "location": {{ vod.location | dump | safe }},
+    "year": "{{ vod.year }}",
+    "categories": [
+      {%- for cat in vod.categories -%}
+      {{ cat.name | dump | safe }}{%- if not loop.last -%},{%- endif -%}
+      {%- endfor -%}
+    ],
+    "teaserImage": "{{ vod.teaserImage }}"
+  }{%- if not loop.last -%},{%- endif -%}
+  {%- endfor %}
+]

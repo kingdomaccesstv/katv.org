@@ -1,0 +1,16 @@
+{
+  "name": "katv.org",
+  "version": "1.0.0",
+  "description": "Kingdom Access TV static website generated with Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "export": "node scripts/export-drupal.js"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "luxon": "^3.4.4",
+    "node-fetch": "^2.7.0"
+  }
+}

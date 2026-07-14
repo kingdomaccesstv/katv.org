@@ -1,0 +1,484 @@
+[
+  {
+    "title": "Concord School Board, 8/3/15",
+    "path": "/vod/concordschool/2015/080315",
+    "nid": 841,
+    "cablecastShowId": 4045,
+    "date": "2015-08-03",
+    "location": "Concord School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-080315-4045"
+  },
+  {
+    "title": "Concord Select Board, 8/4/15",
+    "path": "/vod/concordselect/2015/080415",
+    "nid": 842,
+    "cablecastShowId": 4050,
+    "date": "2015-08-04",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-080415-4050"
+  },
+  {
+    "title": "Concord Select Board: Civil Authority Hearing, 8/4/15",
+    "path": "/vod/concordselect/2015/080415cah",
+    "nid": 843,
+    "cablecastShowId": 4051,
+    "date": "2015-08-04",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-cah-080415-4051"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/10/15",
+    "path": "/vod/stjselect/2015/081015",
+    "nid": 844,
+    "cablecastShowId": 4066,
+    "date": "2015-08-10",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081015-4066"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 8/12/15",
+    "path": "/vod/stjselect/2015/plan081215",
+    "nid": 845,
+    "cablecastShowId": 4075,
+    "date": "2015-08-12",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-081215-4075"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/17/15",
+    "path": "/vod/stjschool/2015/081715",
+    "nid": 846,
+    "cablecastShowId": 4080,
+    "date": "2015-08-17",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-081715-4080"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 8/18/15",
+    "path": "/vod/stjselect/2015/plan081815",
+    "nid": 860,
+    "cablecastShowId": 4083,
+    "date": "2015-08-18",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-081815-4083"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/24/15",
+    "path": "/vod/stjselect/2015/082415",
+    "nid": 865,
+    "cablecastShowId": 4098,
+    "date": "2015-08-24",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-082415-4098"
+  },
+  {
+    "title": "SJA Theatre Presents: Shakespeare's The Tempest",
+    "path": "/vod/concerts/2015/sja080715",
+    "nid": 776,
+    "cablecastShowId": 4070,
+    "date": "2015-08-07",
+    "location": "St. Johnsbury Academy",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "136997956"
+  },
+  {
+    "title": "Music In The Park: August 12th, Tritium Well",
+    "path": "/vod/studio/2015/musicpark080315",
+    "nid": 827,
+    "cablecastShowId": 4049,
+    "date": "2015-08-03",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "135635307"
+  },
+  {
+    "title": "It's Up to US: \"ABOLISH the VT-DEPT. of EDU!!!\"",
+    "path": "/vod/studio/2015/iutu080415",
+    "nid": 828,
+    "cablecastShowId": 4061,
+    "date": "2015-08-04",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "135638145"
+  },
+  {
+    "title": "Writing from Life, Laura Stevenson",
+    "path": "/vod/stjath/2015/080515",
+    "nid": 829,
+    "cablecastShowId": 4059,
+    "date": "2015-08-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "135641106"
+  },
+  {
+    "title": "NEK Collaborative: Future Ideas, Decision Session",
+    "path": "/vod/forums/2015/nekcollab080615",
+    "nid": 833,
+    "cablecastShowId": 4062,
+    "date": "2015-08-06",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "136992212"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery, 8/11/15",
+    "path": "/vod/forums/2015/dart081115",
+    "nid": 834,
+    "cablecastShowId": 4068,
+    "date": "2015-08-11",
+    "location": "North Congregational Church",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "136999896"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Volunteers Needed",
+    "path": "/vod/studio/2015/kas081515",
+    "nid": 835,
+    "cablecastShowId": 4077,
+    "date": "2015-08-15",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "136998973"
+  },
+  {
+    "title": "It's Up to US!: NO WAY S.1787!!!",
+    "path": "/vod/studio/2015/iutu081215",
+    "nid": 836,
+    "cablecastShowId": 4079,
+    "date": "2015-08-12",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "137000331"
+  },
+  {
+    "title": "NVRH Health & Wellness: e-cigarettes",
+    "path": "/vod/studio/2015/nvrh082015",
+    "nid": 837,
+    "cablecastShowId": 4100,
+    "date": "2015-08-20",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "137001076"
+  },
+  {
+    "title": "Cannabis Conversations: Economic Impact",
+    "path": "/vod/forums/2015/cannabis082115",
+    "nid": 839,
+    "cablecastShowId": 4094,
+    "date": "2015-08-21",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "137003060"
+  },
+  {
+    "title": "What's Going On? Enough is Enough, Bill Flick",
+    "path": "/vod/wgo/wgo080515",
+    "nid": 1105,
+    "cablecastShowId": 4060,
+    "date": "2015-08-05",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198403188"
+  },
+  {
+    "title": "What's Going On? Time for a Revival, Bill Flick",
+    "path": "/vod/wgo/wgo081215",
+    "nid": 1106,
+    "cablecastShowId": 4078,
+    "date": "2015-08-12",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198403333"
+  },
+  {
+    "title": "What's Going On? At The Cliff, Looking Down",
+    "path": "/vod/wgo/wgo082015",
+    "nid": 1107,
+    "cablecastShowId": 4102,
+    "date": "2015-08-20",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198408331"
+  },
+  {
+    "title": "What's Going On? Currency Wars Escalate",
+    "path": "/vod/wgo/wgo082715",
+    "nid": 1157,
+    "cablecastShowId": 4106,
+    "date": "2015-08-27",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200247391"
+  }
+]

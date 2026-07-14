@@ -1,0 +1,274 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 2/5/18",
+    "path": "/vod/stjschool/2018/020518",
+    "nid": 1420,
+    "cablecastShowId": 6360,
+    "date": "2018-02-05",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-020518-6360"
+  },
+  {
+    "title": "Concord Select Board, 2/6/18",
+    "path": "/vod/concordselect/2018/020618",
+    "nid": 1421,
+    "cablecastShowId": 6363,
+    "date": "2018-02-06",
+    "location": "Concord Municipal Building",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-020618-6363"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/12/18",
+    "path": "/vod/stjselect/2018/021218",
+    "nid": 1422,
+    "cablecastShowId": 6379,
+    "date": "2018-02-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021218-6379"
+  },
+  {
+    "title": "Vermont FY2019 State Budget Public Hearing, 2/12/18",
+    "path": "/vod/politics/2018/vtbudget021218",
+    "nid": 1423,
+    "cablecastShowId": 6380,
+    "date": "2018-02-12",
+    "location": "St. Johnsbury House",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-vtstatebudget-021218-6380"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/26/18",
+    "path": "/vod/stjselect/2018/022618",
+    "nid": 1424,
+    "cablecastShowId": 6434,
+    "date": "2018-02-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022618-6434"
+  },
+  {
+    "title": "NEK Community Orchestra: Winter Concert 2018",
+    "path": "/vod/concerts/2018/nekco021818",
+    "nid": 769,
+    "cablecastShowId": 6208,
+    "date": "2018-02-18",
+    "location": "Lyndon State College",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "257426957"
+  },
+  {
+    "title": "What's Going On? Venezuela, a Socialist Paradise",
+    "path": "/vod/wgo/wgo021518",
+    "nid": 1425,
+    "cablecastShowId": 6401,
+    "date": "2018-02-15",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "257424588"
+  },
+  {
+    "title": "What's Going On? George Washington's Example",
+    "path": "/vod/wgo/wgo022218",
+    "nid": 1426,
+    "cablecastShowId": 6427,
+    "date": "2018-02-22",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "257423884"
+  },
+  {
+    "title": "In & Around St. J: A Creative Economy",
+    "path": "/vod/studio/2018/iastj022018",
+    "nid": 1467,
+    "cablecastShowId": 6408,
+    "date": "2018-02-20",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "257427601"
+  },
+  {
+    "title": "First Wednesday: Why Facts, Change People's Minds",
+    "path": "/vod/firstwed/2018/022118",
+    "nid": 1468,
+    "cablecastShowId": 6425,
+    "date": "2018-02-21",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "257428781"
+  },
+  {
+    "title": "Legislative Breakfast, February 2018",
+    "path": "/vod/legbkfst/2018/022618",
+    "nid": 1469,
+    "cablecastShowId": 6433,
+    "date": "2018-02-26",
+    "location": "St. Johnsbury House",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "258359842"
+  },
+  {
+    "title": "What's All the Hype About CBD?",
+    "path": "/vod/lectures/2018/hypecbd020318",
+    "nid": 1489,
+    "cablecastShowId": 6359,
+    "date": "2018-02-03",
+    "location": "Grindstone Café",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "254509377"
+  }
+]

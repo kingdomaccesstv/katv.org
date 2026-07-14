@@ -1,0 +1,232 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 1/25/21",
+    "path": "/vod/stjselect/2021/012521",
+    "nid": 5,
+    "cablecastShowId": 9243,
+    "date": "2021-01-25",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect20210125.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-012521-9243"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/11/21",
+    "path": "/vod/stjschool/2021/011121",
+    "nid": 2031,
+    "cablecastShowId": 9211,
+    "date": "2021-01-11",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjschool011121.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-011121-9211"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/11/21",
+    "path": "/vod/stjselect/2021/011121",
+    "nid": 2032,
+    "cablecastShowId": 9212,
+    "date": "2021-01-11",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect011121.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-011121-9212"
+  },
+  {
+    "title": "CCSU Board of Directors, 1/25/21 Special Meeting",
+    "path": "/vod/ccsubod/2021/012521",
+    "nid": 2041,
+    "cablecastShowId": 9250,
+    "date": "2021-01-25",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/ccsu012521.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-012521-9250"
+  },
+  {
+    "title": "I Am Vermont Too: Mia Schultz",
+    "path": "/vod/studio/2021/iamvttoo011121",
+    "nid": 6,
+    "cablecastShowId": 9213,
+    "date": "2021-01-11",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
+      },
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/iamvttoo011121.jpg",
+    "videoSource": "vimeo",
+    "videoId": "500708443"
+  },
+  {
+    "title": "What's Going On? Who Gains",
+    "path": "/vod/node/7",
+    "nid": 7,
+    "cablecastShowId": 9201,
+    "date": "2021-01-07",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      },
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo20210107.jpg",
+    "videoSource": "vimeo",
+    "videoId": "498402182"
+  },
+  {
+    "title": "What's Going On? A View From Washington",
+    "path": "/vod/wgo/wgo011421",
+    "nid": 42,
+    "cablecastShowId": 9226,
+    "date": "2021-01-14",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "501465132"
+  },
+  {
+    "title": "What's Going On? Who Gains",
+    "path": "/vod/wgo/wgo010721",
+    "nid": 2029,
+    "cablecastShowId": 9201,
+    "date": "2021-01-07",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "498402182"
+  },
+  {
+    "title": "I Am Vermont Too: Mia Schults",
+    "path": "/vod/studio/2021/iamvt011121",
+    "nid": 2030,
+    "cablecastShowId": 9213,
+    "date": "2021-01-11",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "500708443"
+  },
+  {
+    "title": "WGO: White Christian Males are DHS Targets",
+    "path": "/vod/wgo/wgo012821",
+    "nid": 2035,
+    "cablecastShowId": 9268,
+    "date": "2021-01-28",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo012821.jpg",
+    "videoSource": "vimeo",
+    "videoId": "506846143"
+  }
+]

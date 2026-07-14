@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title }} | Kingdom Access TV</title>
+  
+  <meta name="description" content="{{ description or 'Kingdom Access Television (KATV) public access television site in Saint Johnsbury, VT' }}" />
+  {% if page.url %}
+  <link rel="canonical" href="https://katv.org{{ page.url }}" />
+  {% endif %}
+
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <div class="dxpr-theme-boxed-container">
+    
+    <!-- Secondary Header (Live Ticker) -->
+    <header id="secondary-header" class="dxpr-theme-secondary-header">
+      <span id="liveOnKatv"><strong>LIVE ON KATV</strong></span>
+    </header>
+
+    <!-- Main Navigation Header -->
+    <header class="dxpr-theme-header" id="navbar">
+      <div class="navbar-container">
+        <a class="navbar-brand" href="/">Kingdom Access TV</a>
+        <nav role="navigation" id="main-menu">
+          <ul class="menu nav">
+            <li class="{% if page.url == '/vod/' or page.url.startsWith('/vod/') %}active{% endif %}">
+              <a href="/vod/">On Demand</a>
+            </li>
+            <li class="{% if page.url == '/live/' %}active{% endif %}">
+              <a href="/live/">Watch Live</a>
+            </li>
+            <li class="{% if page.url == '/bulletin-board/' %}active{% endif %}">
+              <a href="/bulletin-board/">Bulletin Board</a>
+            </li>
+            <li>
+              <a href="https://frontdoor.katv.org/CablecastPublicSite/schedule?channel=2" target="_blank">Schedule</a>
+            </li>
+            <li class="{% if page.url == '/search/' %}active{% endif %}">
+              <a href="/search/">Search</a>
+            </li>
+            <li class="{% if page.url == '/about/' %}active{% endif %}">
+              <a href="/about/">About</a>
+            </li>
+            <li>
+              <a href="https://www.paypal.com/donate/?hosted_button_id=ETA6KVWW54P6L" target="_blank">Support Us</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    {{ content | safe }}
+
+    <!-- Footer -->
+    <footer class="dxpr-theme-footer">
+      <p>Copyright © 2026 Kingdom Access Television, Inc. • <a href="/jobs/">Jobs</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=ETA6KVWW54P6L" target="_blank" style="font-weight: bold">Support KATV</a></p>
+      <p style="margin-top: 10px; font-size: 0.85rem; opacity: 0.8;">515 Bay Street, Suite 202, Saint Johnsbury, VT 05819 • Phone (802) 751-8103</p>
+    </footer>
+
+  </div>
+
+  <!-- Dynamic Live Ticker Script -->
+  <script>
+    (function() {
+      let entries = ["<strong>LIVE ON KATV</strong>"];
+      let index = 0;
+      $("#liveOnKatv").html(entries[0]);
+
+      let now = new Date();
+      let nowEpoch = Math.floor(Date.now() / 1000);
+      let nowPlayingData = {};
+      let forceRefresh = false;
+      let channelMap = { 2: 192, 6: 194 };
+
+      let startMinutes = [0, 1, 29, 30, 59];
+      if (startMinutes.includes(now.getMinutes())) {
+        forceRefresh = true;
+      }
+
+      async function fetchShows(channelId) {
+        let fetchUrl = `https://frontdoor.katv.org/cablecastapi/v1/scheduleItems?channel=${channelId}&end=${now.toISOString()}&include=show&include_cg_exempt=false&page_size=1&start=${now.toISOString()}`;
+
+        try {
+          let response = await fetch(fetchUrl);
+          return await response.json();
+        } catch (error) {
+          console.error("Could not get show information from Cablecast channel " + channelId);
+          return null;
+        }
+      }
+
+      async function processChannelData(channelId) {
+        let showData = await fetchShows(channelId);
+        let channel = channelMap[channelId];
+        if (showData && showData.shows && showData.shows.length > 0) {
+          let text = showData.shows[0]["cgTitle"];
+          let fullText = `<strong>Channel ${channel}: </strong>${text}`;
+          entries.push(fullText);
+          return text;
+        } else {
+          let text = "Community Bulletin Board";
+          let fullText = `<strong>Channel ${channel}: </strong>${text}`;
+          entries.push(fullText);
+          return text;
+        }
+      }
+
+      function updateTextFromCache(channelId, input) {
+        let value = input[`nowPlayingCh${channelId}`];
+        let channel = channelMap[channelId];
+        if (value && value.length > 0) {
+          let text = value;
+          let fullText = `<strong>Channel ${channel}:</strong> ${text}`;
+          entries.push(fullText);
+          return text;
+        } else {
+          let text = "Community Bulletin Board";
+          let fullText = `<strong>Channel ${channel}:</strong> ${text}`;
+          entries.push(fullText);
+          return text;
+        }
+      }
+
+      if (sessionStorage.nowPlayingData) {
+        try {
+          nowPlayingData = JSON.parse(sessionStorage.nowPlayingData);
+        } catch(e) {
+          nowPlayingData = {};
+        }
+      }
+
+      if (nowPlayingData.lastRefresh && ((nowPlayingData.lastRefresh + 300) > nowEpoch) && !forceRefresh) {
+        updateTextFromCache(2, nowPlayingData);
+        updateTextFromCache(6, nowPlayingData);
+        startAnimation();
+      } else {
+        (async function () {
+          let show2 = await processChannelData(2);
+          let show6 = await processChannelData(6);
+          let nowPlayingData = {
+            nowPlayingCh2: show2 || "Community Bulletin Board",
+            nowPlayingCh6: show6 || "Community Bulletin Board",
+            lastRefresh: nowEpoch
+          };
+          sessionStorage.setItem('nowPlayingData', JSON.stringify(nowPlayingData));
+          startAnimation();
+        }());
+      }
+
+      function startAnimation() {
+        (function animate2() {
+          setTimeout(function animate() {
+            $("#liveOnKatv").fadeOut(1000, function () {
+              let self = $(this);
+              index = (index + 1) % entries.length;
+              self.html(entries[index]);
+            }).fadeIn(1000, animate2);
+          }, 5000);
+        })();
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,304 @@
+[
+  {
+    "title": "Green Mountain Care Board: St. Johnsbury Healthcare Community Meeting",
+    "path": "/vod/other/2024/gmcb20240806",
+    "nid": 2581,
+    "cablecastShowId": 13164,
+    "date": "2024-08-06",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/gmcb20240806.jpg",
+    "videoSource": "vimeo",
+    "videoId": "996897520"
+  },
+  {
+    "title": "Concord Select Board, 8/6/24",
+    "path": "/vod/concordselect/2024/20240806",
+    "nid": 2582,
+    "cablecastShowId": 13215,
+    "date": "2024-08-06",
+    "location": "Concord",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20240806.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-080624-13215"
+  },
+  {
+    "title": "Groton Select Board, 8/7/24",
+    "path": "/vod/grotonselect/2024/20240807",
+    "nid": 2583,
+    "cablecastShowId": 13216,
+    "date": "2024-08-07",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240807.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-080724-13216"
+  },
+  {
+    "title": "WGO: False Flags Await Us",
+    "path": "/vod/wgo/wgo20240808",
+    "nid": 2584,
+    "cablecastShowId": 13257,
+    "date": "2024-08-08",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240808.jpg",
+    "videoSource": "vimeo",
+    "videoId": "996897938"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/12/24",
+    "path": "/vod/stjselect/2024/20240812",
+    "nid": 2585,
+    "cablecastShowId": 13250,
+    "date": "2024-08-12",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240812.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081224-13250"
+  },
+  {
+    "title": "July Floods 2024: NEK Vermont",
+    "path": "/vod/other/2024/nekfloods20240816",
+    "nid": 2587,
+    "cablecastShowId": 13282,
+    "date": "2024-08-16",
+    "location": "Northeast Kingdom",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/nekfloods20240816.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1000088142"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/19/24",
+    "path": "/vod/stjschool/2024/20240819",
+    "nid": 2588,
+    "cablecastShowId": 13263,
+    "date": "2024-08-19",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240819.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-081924-13263"
+  },
+  {
+    "title": "Concord Select Board, 8/20/24 SM",
+    "path": "/vod/concordselect/2024/20240820",
+    "nid": 2589,
+    "cablecastShowId": 13281,
+    "date": "2024-08-20",
+    "location": "Concord",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20240820.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-082024-13281"
+  },
+  {
+    "title": "CCSU Board of Directors, 8/19/24",
+    "path": "/vod/ccsubod/2024/20240819",
+    "nid": 2590,
+    "cablecastShowId": 13262,
+    "date": "2024-08-19",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ccsubod20240819.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-081924-13262"
+  },
+  {
+    "title": "WGO: Era of Shock Events & Bail-ins",
+    "path": "/vod/wgo/wgo20240822",
+    "nid": 2591,
+    "cablecastShowId": 13284,
+    "date": "2024-08-22",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240822.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1003175012"
+  },
+  {
+    "title": "Researching Slavery & The Precarious States of Freedom in Northeastern VT",
+    "path": "/vod/lectures/2024/ghs20240824",
+    "nid": 2592,
+    "cablecastShowId": 13270,
+    "date": "2024-08-24",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ghs20240824.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1003174587"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/26/24",
+    "path": "/vod/stjselect/2024/20240826",
+    "nid": 2594,
+    "cablecastShowId": 13283,
+    "date": "2024-08-26",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240826.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-082624-13283"
+  },
+  {
+    "title": "Caledonia County Senate Race (League of Women Voters)",
+    "path": "/vod/other/2024/lwv20240829",
+    "nid": 2595,
+    "cablecastShowId": 13301,
+    "date": "2024-08-29",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/lwv20240829.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1004710744"
+  },
+  {
+    "title": "Special Ecumenical Worship Service (UCC)",
+    "path": "/vod/other/2024/ucc20240825",
+    "nid": 2593,
+    "cablecastShowId": 13286,
+    "date": "2024-08-25",
+    "location": "United Community Church",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ucc20240825.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1006649222"
+  }
+]

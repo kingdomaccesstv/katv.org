@@ -1,0 +1,266 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 7/10/17",
+    "path": "/vod/stjselect/2017/071017",
+    "nid": 1315,
+    "cablecastShowId": 5794,
+    "date": "2017-07-10",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-071017-5794"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/12/17",
+    "path": "/vod/stjselect/2017/071217",
+    "nid": 1316,
+    "cablecastShowId": 5804,
+    "date": "2017-07-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-071217-5804"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/24/17",
+    "path": "/vod/stjselect/2017/072417",
+    "nid": 1323,
+    "cablecastShowId": 5833,
+    "date": "2017-07-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072417-5833"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Christina Hutchins",
+    "path": "/vod/lectures/2017/stjath070517",
+    "nid": 1312,
+    "cablecastShowId": 5783,
+    "date": "2017-07-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "225189134"
+  },
+  {
+    "title": "Woodsville 4th of July Parade 2017",
+    "path": "/vod/other/2017/woodsville4th070417",
+    "nid": 1313,
+    "cablecastShowId": 5782,
+    "date": "2017-07-04",
+    "location": "Woodsville, NH",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "225187142"
+  },
+  {
+    "title": "In & Around St. J: July & August Events 2017",
+    "path": "/vod/studio/2017/iastj071117",
+    "nid": 1314,
+    "cablecastShowId": 5803,
+    "date": "2017-07-11",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "225188968"
+  },
+  {
+    "title": "Academy Theatre: Romeo & Juliet Promo, Summer 2017",
+    "path": "/vod/studio/2017/academytheatre071717",
+    "nid": 1317,
+    "cablecastShowId": 5817,
+    "date": "2017-07-17",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "226504310"
+  },
+  {
+    "title": "What's Going On? More Lies, More Profits",
+    "path": "/vod/wgo/wgo071917",
+    "nid": 1321,
+    "cablecastShowId": 5818,
+    "date": "2017-07-19",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "227211106"
+  },
+  {
+    "title": "Main Street Arts: Constitution Brass Quintet",
+    "path": "/vod/lectures/2017/msa072317",
+    "nid": 1322,
+    "cablecastShowId": 5832,
+    "date": "2017-07-23",
+    "location": "St. Andrew's Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "226840386"
+  },
+  {
+    "title": "What's Going On? The Use of Fear, The Making of Debt",
+    "path": "/vod/wgo/wgo072617",
+    "nid": 1324,
+    "cablecastShowId": 5841,
+    "date": "2017-07-26",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "227323390"
+  },
+  {
+    "title": "What's Going On? Declaration of Independence",
+    "path": "/vod/wgo/wgo070517",
+    "nid": 1338,
+    "cablecastShowId": 5784,
+    "date": "2017-07-05",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235585273"
+  },
+  {
+    "title": "What's Going On? Global Pedophelia Exposed",
+    "path": "/vod/wgo/wgo071317",
+    "nid": 1561,
+    "cablecastShowId": null,
+    "date": "2017-07-13",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "227208345"
+  }
+]

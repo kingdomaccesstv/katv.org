@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Lyndon 2010 Commencement",
+    "path": "/vod/grad/lsc2010",
+    "nid": 10,
+    "cablecastShowId": null,
+    "date": "2010-05-16",
+    "location": "Lyndon State College",
+    "year": "2010",
+    "yearPath": "/vod/year/2010",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79069916"
+  }
+]

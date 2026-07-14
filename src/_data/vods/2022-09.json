@@ -1,0 +1,301 @@
+[
+  {
+    "title": "Groton Select Board, 9/1/22",
+    "path": "/vod/grotonselect/2022/groton090122",
+    "nid": 2222,
+    "cablecastShowId": 11217,
+    "date": "2022-09-01",
+    "location": "Groton",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20220901.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-090122-11217"
+  },
+  {
+    "title": "Concord Select Board, 9/6/22",
+    "path": "/vod/concordselect/2022/090622",
+    "nid": 2223,
+    "cablecastShowId": 11227,
+    "date": "2022-09-06",
+    "location": "Concord Community Building",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/concordselect20220906.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090622-11227"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/12/22",
+    "path": "/vod/stjselect/2022/091222",
+    "nid": 2224,
+    "cablecastShowId": 11232,
+    "date": "2022-09-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20220912.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091222-11232"
+  },
+  {
+    "title": "St. Johnsbury Zoning Board, 9/22/22",
+    "path": "/vod/stjselect/2022/zoning092222",
+    "nid": 2225,
+    "cablecastShowId": 11273,
+    "date": "2022-09-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjzone20220922.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjzoning-mtg-092222-11273"
+  },
+  {
+    "title": "St. Johnsbury School Board 9/19/22",
+    "path": "/vod/stjschool/2022/091922",
+    "nid": 2227,
+    "cablecastShowId": 11247,
+    "date": "2022-09-19",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20220919.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091922-11247"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/26/22",
+    "path": "/vod/stjselect/2022/092622",
+    "nid": 2232,
+    "cablecastShowId": 11280,
+    "date": "2022-09-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20220926.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092622-11280"
+  },
+  {
+    "title": "WGO: Global Madness with Bill Flick",
+    "path": "/vod/wgo/wgo091522",
+    "nid": 2226,
+    "cablecastShowId": 11263,
+    "date": "2022-09-15",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20220915.jpg",
+    "videoSource": "vimeo",
+    "videoId": "750148911"
+  },
+  {
+    "title": "LWV: Candidates Forum For LT. Governor",
+    "path": "/vod/forums/2022/lwvltgov092122",
+    "nid": 2228,
+    "cablecastShowId": 11248,
+    "date": "2022-09-21",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/lwvltgov20220921.jpg",
+    "videoSource": "vimeo",
+    "videoId": "753032864"
+  },
+  {
+    "title": "WGO: They Think They're Above God",
+    "path": "/vod/wgo/wgo092222",
+    "nid": 2229,
+    "cablecastShowId": 11277,
+    "date": "2022-09-22",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20220922.jpg",
+    "videoSource": "vimeo",
+    "videoId": "753032580"
+  },
+  {
+    "title": "Osher: Gordon's Granite Calliope",
+    "path": "/vod/osher/2022/092222",
+    "nid": 2230,
+    "cablecastShowId": 11272,
+    "date": "2022-09-22",
+    "location": "Catamount Arts",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/osher20220922.jpg",
+    "videoSource": "vimeo",
+    "videoId": "753033270"
+  },
+  {
+    "title": "LWV: Candidates Forum For AG 2022",
+    "path": "/vod/other/2022/lwv092922",
+    "nid": 2231,
+    "cablecastShowId": 11282,
+    "date": "2022-09-29",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/lwv20220929.jpg",
+    "videoSource": "vimeo",
+    "videoId": "755593441"
+  },
+  {
+    "title": "WGO: Escalation to WWIII",
+    "path": "/vod/wgo/wgo092922",
+    "nid": 2233,
+    "cablecastShowId": 11302,
+    "date": "2022-09-29",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20220929.jpg",
+    "videoSource": "vimeo",
+    "videoId": "755289300"
+  },
+  {
+    "title": "Osher: Snowflake Bentley",
+    "path": "/vod/osher/2022/092922",
+    "nid": 2234,
+    "cablecastShowId": 11281,
+    "date": "2022-09-29",
+    "location": "Catamount Arts",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/osher20220929.jpg",
+    "videoSource": "vimeo",
+    "videoId": "755289639"
+  }
+]

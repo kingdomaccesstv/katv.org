@@ -1,0 +1,312 @@
+[
+  {
+    "title": "Concord Select Board, 12/1/15",
+    "path": "/vod/concordselect/2015/120115",
+    "nid": 900,
+    "cablecastShowId": 4392,
+    "date": "2015-12-01",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-120115-4392"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/7/15",
+    "path": "/vod/stjschool/2015/120715",
+    "nid": 903,
+    "cablecastShowId": 4397,
+    "date": "2015-12-07",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-120715-4397"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/14/15 Special Meeting",
+    "path": "/vod/stjschool/2015/121415specmtg",
+    "nid": 905,
+    "cablecastShowId": 4417,
+    "date": "2015-12-14",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-specmtg-121415-4417"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/14/15",
+    "path": "/vod/stjselect/2015/121415",
+    "nid": 906,
+    "cablecastShowId": 4418,
+    "date": "2015-12-14",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121415-4418"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/28/15",
+    "path": "/vod/stjselect/2015/122815",
+    "nid": 909,
+    "cablecastShowId": 4438,
+    "date": "2015-12-28",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122815-4446"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/21/15 Special Meeting",
+    "path": "/vod/stjselect/2015/122115specmtg",
+    "nid": 910,
+    "cablecastShowId": 4438,
+    "date": "2015-12-21",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-122115-4438"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/21/15",
+    "path": "/vod/stjschool/2015/122115",
+    "nid": 1143,
+    "cablecastShowId": 4437,
+    "date": "2015-12-21",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-122115-4437"
+  },
+  {
+    "title": "Lyndon Institute: Winter Dance Recital 2015",
+    "path": "/vod/concerts/2015/lidance120315",
+    "nid": 747,
+    "cablecastShowId": 4396,
+    "date": "2015-12-03",
+    "location": "Lyndon Institute",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149986326"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2015",
+    "path": "/vod/concerts/2015/sjawinter121615",
+    "nid": 778,
+    "cablecastShowId": 4432,
+    "date": "2015-12-16",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149995349"
+  },
+  {
+    "title": "First Wednesdays: Literary Achievement of Chaucer's Canterbury",
+    "path": "/vod/firstwed/2015/120215",
+    "nid": 897,
+    "cablecastShowId": 4391,
+    "date": "2015-12-02",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "147842195"
+  },
+  {
+    "title": "It's Up to US!: Education Is Favorable To Liberty",
+    "path": "/vod/studio/2015/iutu120315",
+    "nid": 901,
+    "cablecastShowId": 4401,
+    "date": "2015-12-03",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149990662"
+  },
+  {
+    "title": "NCHC: Governance Presentation",
+    "path": "/vod/lectures/2015/nchc120315",
+    "nid": 902,
+    "cablecastShowId": 4390,
+    "date": "2015-12-03",
+    "location": "NVRH",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149990865"
+  },
+  {
+    "title": "Swing North: Swingin' Holiday Concert 2015",
+    "path": "/vod/concerts/2015/swingin121115",
+    "nid": 904,
+    "cablecastShowId": 4415,
+    "date": "2015-12-11",
+    "location": "Lyndon Institute",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149992836"
+  },
+  {
+    "title": "Pumpkin Hill Singers: Winter Concert 2015",
+    "path": "/vod/concerts/2015/pumkinhill121915",
+    "nid": 908,
+    "cablecastShowId": 4435,
+    "date": "2015-12-19",
+    "location": "North Congregational Church",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "149999079"
+  }
+]

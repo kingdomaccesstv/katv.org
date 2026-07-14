@@ -1,0 +1,163 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 11/9/20",
+    "path": "/vod/stjselect/2020/110920",
+    "nid": 2013,
+    "cablecastShowId": 9059,
+    "date": "2020-11-09",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-110920-9059"
+  },
+  {
+    "title": "CCSU Board of Directors, 11/16/20",
+    "path": "/vod/pubmeetings/2020/ccsubod111620",
+    "nid": 2016,
+    "cablecastShowId": 9070,
+    "date": "2020-11-16",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-111620-9070"
+  },
+  {
+    "title": "St. Johnsbury School Board, 11/16/20",
+    "path": "/vod/stjschool/2020/111620",
+    "nid": 2017,
+    "cablecastShowId": 9069,
+    "date": "2020-11-16",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-111620-9069"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/23/20",
+    "path": "/vod/stjselect/2020/112320",
+    "nid": 2019,
+    "cablecastShowId": 9086,
+    "date": "2020-11-23",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-112320-9086"
+  },
+  {
+    "title": "What's Going On? Search for Truth",
+    "path": "/vod/wgo/wgo111220",
+    "nid": 2014,
+    "cablecastShowId": 9065,
+    "date": "2020-11-12",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "487963184"
+  },
+  {
+    "title": "I Am Vermont Too: Kiah Morris",
+    "path": "/vod/studio/2020/iamvt111320",
+    "nid": 2015,
+    "cablecastShowId": 9072,
+    "date": "2020-11-13",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "487960674"
+  },
+  {
+    "title": "What's Going On? Interview with Ryan Burns",
+    "path": "/vod/wgo/wgo111920",
+    "nid": 2018,
+    "cablecastShowId": 9080,
+    "date": "2020-11-19",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "487953937"
+  }
+]

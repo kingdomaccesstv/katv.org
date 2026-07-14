@@ -1,0 +1,285 @@
+[
+  {
+    "title": "Concord Select Board, 8/1/17",
+    "path": "/vod/concordselect/2017/080117",
+    "nid": 1326,
+    "cablecastShowId": 5849,
+    "date": "2017-08-01",
+    "location": "Concord Municipal Building",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-080117-5849"
+  },
+  {
+    "title": "Concord School Board 8/7/17",
+    "path": "/vod/concordschool/2017/080717",
+    "nid": 1330,
+    "cablecastShowId": 5868,
+    "date": "2017-08-07",
+    "location": "Concord School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-080717-5868"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/14/17",
+    "path": "/vod/stjselect/2017/081417",
+    "nid": 1335,
+    "cablecastShowId": 5886,
+    "date": "2017-08-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081417-5886"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/14/17",
+    "path": "/vod/stjschool/2017/081417",
+    "nid": 1336,
+    "cablecastShowId": 5885,
+    "date": "2017-08-14",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-081417-5885"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/28/17",
+    "path": "/vod/stjselect/2017/082817",
+    "nid": 1339,
+    "cablecastShowId": 5905,
+    "date": "2017-08-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-082817-5905"
+  },
+  {
+    "title": "What's Going On? Banker's Gains",
+    "path": "/vod/wgo/wgo080217",
+    "nid": 1327,
+    "cablecastShowId": 5860,
+    "date": "2017-08-02",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "228449510"
+  },
+  {
+    "title": "Main Street Arts St. Andrew's: Jorge Garcia Herranz",
+    "path": "/vod/lectures/2017/msa080317",
+    "nid": 1328,
+    "cablecastShowId": 5861,
+    "date": "2017-08-03",
+    "location": "St. Andrew's Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "228449097"
+  },
+  {
+    "title": "Fresh Tracks Capital: Road Pitch 2017",
+    "path": "/vod/lectures/2017/ftc080417",
+    "nid": 1329,
+    "cablecastShowId": 5862,
+    "date": "2017-08-04",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "229077148"
+  },
+  {
+    "title": "St. Johnsbury Players: 80ish Anniversary Musical Review Promo",
+    "path": "/vod/studio/2017/stjplayers080817",
+    "nid": 1331,
+    "cablecastShowId": 5871,
+    "date": "2017-08-08",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "229076375"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: The Northeast Kingdom and a License Plate",
+    "path": "/vod/lectures/2017/stjath080917",
+    "nid": 1332,
+    "cablecastShowId": 5872,
+    "date": "2017-08-09",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "229217425"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Brexit and the Future of Europe",
+    "path": "/vod/lectures/2017/stjath081117",
+    "nid": 1333,
+    "cablecastShowId": 5883,
+    "date": "2017-08-11",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "229661735"
+  },
+  {
+    "title": "Main Street Arts St. Andrew's: Primal Boys",
+    "path": "/vod/lectures/2017/msa081317",
+    "nid": 1334,
+    "cablecastShowId": 5884,
+    "date": "2017-08-13",
+    "location": "St. Andrew's Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "229662636"
+  },
+  {
+    "title": "What's Going On? They Fear Us Coming Together",
+    "path": "/vod/wgo/wgo082417",
+    "nid": 1337,
+    "cablecastShowId": 5901,
+    "date": "2017-08-24",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "231212420"
+  }
+]

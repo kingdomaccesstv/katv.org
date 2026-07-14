@@ -1,0 +1,251 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 1/6/20",
+    "path": "/vod/stjschool/2020/010620",
+    "nid": 1875,
+    "cablecastShowId": 8222,
+    "date": "2020-01-06",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010619-8222"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/6/20 Special Meeting",
+    "path": "/vod/stjselect/2020/010620sm",
+    "nid": 1876,
+    "cablecastShowId": 8223,
+    "date": "2020-01-06",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-122319-8204"
+  },
+  {
+    "title": "Concord Select Board, 1/7/20",
+    "path": "/vod/concordselect/2020/010720",
+    "nid": 1877,
+    "cablecastShowId": 8226,
+    "date": "2020-01-07",
+    "location": "Concord Municipal Building",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-010720"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/13/20",
+    "path": "/vod/stjselect/2020/011320",
+    "nid": 1881,
+    "cablecastShowId": 8230,
+    "date": "2020-01-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-011320-8230"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/20/20",
+    "path": "/vod/stjschool/2020/012020",
+    "nid": 1882,
+    "cablecastShowId": 8254,
+    "date": "2020-01-20",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-012020-8254"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/27/20",
+    "path": "/vod/stjselect/2020/012720",
+    "nid": 1885,
+    "cablecastShowId": 8260,
+    "date": "2020-01-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-012620-8260"
+  },
+  {
+    "title": "What's Going On? Is it Going to Go Kinetic",
+    "path": "/vod/wgo/wgo010220",
+    "nid": 1874,
+    "cablecastShowId": 8221,
+    "date": "2020-01-02",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "383001743"
+  },
+  {
+    "title": "First Wednesday: Reading Thoreau In The 21st Century",
+    "path": "/vod/firstwed/2020/010820",
+    "nid": 1878,
+    "cablecastShowId": 8228,
+    "date": "2020-01-08",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "385681346"
+  },
+  {
+    "title": "A Leap Beyond: Walter George",
+    "path": "/vod/studio/2020/leapbeyond011320",
+    "nid": 1879,
+    "cablecastShowId": 8231,
+    "date": "2020-01-13",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "385680596"
+  },
+  {
+    "title": "What's Going On? Re-education Camps Exposed",
+    "path": "/vod/wgo/wgo011620",
+    "nid": 1880,
+    "cablecastShowId": 8237,
+    "date": "2020-01-16",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "385684220"
+  },
+  {
+    "title": "Legislative Breakfast, January 2020",
+    "path": "/vod/legbkfst/2020/012720",
+    "nid": 1884,
+    "cablecastShowId": 8258,
+    "date": "2020-01-27",
+    "location": "St. Johnsbury House",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "391843301"
+  }
+]

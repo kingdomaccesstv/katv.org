@@ -1,0 +1,50 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: years
+  size: 1
+  alias: year
+permalink: "/vod/year/{{ year.name }}/index.html"
+eleventyComputed:
+  title: "VODs from Year {{ year.name }}"
+---
+
+<div class="page-title-full-width-container" id="page-title-full-width-container">
+  <header role="banner" id="page-title" class="container page-title-container">
+    <h1 class="page-title">Programs from {{ year.name }}</h1>
+  </header>
+</div>
+
+<main role="main" class="main-container container">
+  
+  <div style="margin-bottom: 35px;">
+    <a href="/vod/" style="font-weight: 600;">&larr; Back to On Demand Library</a>
+  </div>
+
+  <!-- VOD Cards Grid -->
+  <div class="views-element-container">
+    <div class="view view-vod-year">
+      <div class="views-view-grid">
+        {% for vod in year.vods %}
+          <article class="vod teaser">
+            <div class="field--name-field-show-teaser-image">
+              <a href="{{ vod.path }}/">
+                {% if vod.teaserImage %}
+                  <img src="{{ vod.teaserImage }}" alt="{{ vod.title }}" loading="lazy" />
+                {% else %}
+                  <div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">
+                    No Image Available
+                  </div>
+                {% endif %}
+              </a>
+            </div>
+            <h2>
+              <a href="{{ vod.path }}/">{{ vod.title }}</a>
+            </h2>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+</main>

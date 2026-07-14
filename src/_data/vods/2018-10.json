@@ -1,0 +1,488 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 10/1/18",
+    "path": "/vod/stjschool/2018/100118",
+    "nid": 1591,
+    "cablecastShowId": 7028,
+    "date": "2018-10-01",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-100118-7028"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/15/18",
+    "path": "/vod/stjschool/2018/101518",
+    "nid": 1594,
+    "cablecastShowId": 7069,
+    "date": "2018-10-15",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-101518-7069"
+  },
+  {
+    "title": "Lyndon Institute: Fall Concert 2018",
+    "path": "/vod/concerts/2018/lifall102518",
+    "nid": 758,
+    "cablecastShowId": 7095,
+    "date": "2018-10-25",
+    "location": "Lyndon Institute",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307820643"
+  },
+  {
+    "title": "St. Johnsbury Academy Fall Concert 2018",
+    "path": "/vod/concerts/2018/sjafall102418",
+    "nid": 781,
+    "cablecastShowId": 7091,
+    "date": "2018-10-24",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "298804107"
+  },
+  {
+    "title": "In & Around St. J: The Saint Johnsbury School",
+    "path": "/vod/studio/2018/iastj100218",
+    "nid": 1582,
+    "cablecastShowId": 7041,
+    "date": "2018-10-02",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "293751770"
+  },
+  {
+    "title": "First Wednesday: Bread and Roses, Katherine Paterson",
+    "path": "/vod/firstwed/2018/100318",
+    "nid": 1583,
+    "cablecastShowId": 7042,
+    "date": "2018-10-03",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "293752530"
+  },
+  {
+    "title": "What's Going On? Tell The Lie Often",
+    "path": "/vod/wgo/wgo100518",
+    "nid": 1584,
+    "cablecastShowId": 7043,
+    "date": "2018-10-05",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296235428"
+  },
+  {
+    "title": "In & Around St. J: October 2018 Events",
+    "path": "/vod/studio/2018/iastj100918",
+    "nid": 1585,
+    "cablecastShowId": 7045,
+    "date": "2018-10-09",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296235090"
+  },
+  {
+    "title": "What's Going On? The Circus Continues",
+    "path": "/vod/wgo/wgo101518",
+    "nid": 1586,
+    "cablecastShowId": 7027,
+    "date": "2018-10-15",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296234410"
+  },
+  {
+    "title": "United Community Church: Candidates Forum 2018",
+    "path": "/vod/forums/2018/ucc101718",
+    "nid": 1587,
+    "cablecastShowId": 7075,
+    "date": "2018-10-17",
+    "location": "UCC",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296238183"
+  },
+  {
+    "title": "Osher: The History of Spices",
+    "path": "/vod/osher/2018/101818",
+    "nid": 1588,
+    "cablecastShowId": 7080,
+    "date": "2018-10-18",
+    "location": "Catamount Arts",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296237823"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum Arts & Culture Series: Applied Mindfulness, 10/10/18",
+    "path": "/vod/lectures/2018/101018",
+    "nid": 1592,
+    "cablecastShowId": 7068,
+    "date": "2018-10-10",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297411153"
+  },
+  {
+    "title": "Osher: Count Basie & Trajectory of Swing",
+    "path": "/vod/osher/2018/101118",
+    "nid": 1593,
+    "cablecastShowId": 7067,
+    "date": "2018-10-11",
+    "location": "Catamount Arts",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297407421"
+  },
+  {
+    "title": "114th LI vs SJA Football 2018",
+    "path": "/vod/sports/stjli2018",
+    "nid": 1595,
+    "cablecastShowId": 7082,
+    "date": "2018-10-21",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "SJA vs LI Football",
+        "path": "/vod/sports/sjlifb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296670165"
+  },
+  {
+    "title": "League of Women Voters: State Rep. Forum 2018",
+    "path": "/vod/forums/2018/lwv103018",
+    "nid": 1596,
+    "cablecastShowId": 7101,
+    "date": "2018-10-30",
+    "location": "St. Johnsbury",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "298274224"
+  },
+  {
+    "title": "Vermont Bench & Bar Listening Tour",
+    "path": "/vod/forums/2018/stjath102218",
+    "nid": 1598,
+    "cablecastShowId": 7088,
+    "date": "2018-10-22",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296930603"
+  },
+  {
+    "title": "Leap Beyond Stereotype: Circle of Friends",
+    "path": "/vod/studio/2018/leapbeyond102218",
+    "nid": 1599,
+    "cablecastShowId": 7093,
+    "date": "2018-10-22",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297412665"
+  },
+  {
+    "title": "Kingdom Animal Shelter: New Home Update",
+    "path": "/vod/other/2018/kas102418",
+    "nid": 1600,
+    "cablecastShowId": 7092,
+    "date": "2018-10-24",
+    "location": "Kingdom Animal Shelter",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "296925955"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum Arts & Culture Series: Applied Mindfulness, 10/24/18",
+    "path": "/vod/lectures/2018/stjath102418",
+    "nid": 1601,
+    "cablecastShowId": 7089,
+    "date": "2018-10-24",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297380706"
+  },
+  {
+    "title": "Osher: Biomedical Origins Monsters",
+    "path": "/vod/osher/2018/102518",
+    "nid": 1602,
+    "cablecastShowId": 7096,
+    "date": "2018-10-25",
+    "location": "Catamount Arts",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "297401424"
+  },
+  {
+    "title": "Danville Town Band: Harvest Concert 2018",
+    "path": "/vod/concerts/2018/danvilleharvest102818",
+    "nid": 1603,
+    "cablecastShowId": 7097,
+    "date": "2018-10-28",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "298273706"
+  },
+  {
+    "title": "What's Going On? Participate... Vote",
+    "path": "/vod/wgo/wgo103118",
+    "nid": 1604,
+    "cablecastShowId": 7110,
+    "date": "2018-10-31",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "298279384"
+  }
+]

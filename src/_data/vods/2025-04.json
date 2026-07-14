@@ -1,0 +1,465 @@
+[
+  {
+    "title": "Concord Select Board, 4/1/25",
+    "path": "/vod/concordselect/2025/20250401",
+    "nid": 2757,
+    "cablecastShowId": 14026,
+    "date": "2025-04-01",
+    "location": "Concord",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/concordselect20250401.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-040125-14026"
+  },
+  {
+    "title": "What's Going On?: The Rise of the Nobodies",
+    "path": "/vod/wgo/wgo20250403",
+    "nid": 2762,
+    "cablecastShowId": 14066,
+    "date": "2025-04-03",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250403.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1072646792"
+  },
+  {
+    "title": "St. Johnsbury School Board, 4/7/25",
+    "path": "/vod/stjschool/2025/20250407",
+    "nid": 2764,
+    "cablecastShowId": 14053,
+    "date": "2025-04-07",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjschool20250407.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-040725-14053"
+  },
+  {
+    "title": "St. J. Athenaeum: Kingdom Mountain Dulcimers",
+    "path": "/vod/stjath/2025/20250409",
+    "nid": 2765,
+    "cablecastShowId": 14054,
+    "date": "2025-04-09",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250409.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1074973787"
+  },
+  {
+    "title": "NEK Chamber: 2025 Annual Meeting",
+    "path": "/vod/forums/2025/nekchamber20250410",
+    "nid": 2766,
+    "cablecastShowId": 14055,
+    "date": "2025-04-10",
+    "location": "VTSU Lyndon",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/nekchamber20250410.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1074973462"
+  },
+  {
+    "title": "OLLI Spring 2025: The Caledonia Food Cooperative",
+    "path": "/vod/osher/2025/20250410",
+    "nid": 2767,
+    "cablecastShowId": 14056,
+    "date": "2025-04-10",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250410.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1074974287"
+  },
+  {
+    "title": "Lyndon Institute: 2025 Spring Concert",
+    "path": "/vod/concerts/2025/li20250410",
+    "nid": 2768,
+    "cablecastShowId": 14057,
+    "date": "2025-04-10",
+    "location": "Lyndon Institute",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/li20250410.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1074974654"
+  },
+  {
+    "title": "What's Going On? Not the Usual Bernie and Much More",
+    "path": "/vod/wgo/wgo20250411",
+    "nid": 2769,
+    "cablecastShowId": 14082,
+    "date": "2025-04-11",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250411.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1074974089"
+  },
+  {
+    "title": "FM&P Presents: Night Owl Club Annual Astronomy Review",
+    "path": "/vod/lectures/2025/fmp20250404",
+    "nid": 2763,
+    "cablecastShowId": 14074,
+    "date": "2025-04-04",
+    "location": "Virtual",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/fmp20250404.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1076936422"
+  },
+  {
+    "title": "What's Going On? Larry Johnson Former CIA Analyst",
+    "path": "/vod/wgo/wgo20250416",
+    "nid": 2771,
+    "cablecastShowId": 14119,
+    "date": "2025-04-16",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250416.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1076734008"
+  },
+  {
+    "title": "OLLI Spring 2025: The Parkinson’s Pantomime Project!",
+    "path": "/vod/osher/2025/20250417",
+    "nid": 2772,
+    "cablecastShowId": 14078,
+    "date": "2025-04-17",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250417.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1076733252"
+  },
+  {
+    "title": "VT Department of Corrections: 182th Academy Graduation",
+    "path": "/vod/grad/2025/vtdoc20250418",
+    "nid": 2773,
+    "cablecastShowId": 14104,
+    "date": "2025-04-18",
+    "location": "VTSU Lyndon",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/vtdoc20250418.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1076936190"
+  },
+  {
+    "title": "Barnet School: 2025 Spring Musical",
+    "path": "/vod/concerts/2025/barnet20250415",
+    "nid": 2770,
+    "cablecastShowId": 14076,
+    "date": "2025-04-15",
+    "location": "Barnet School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/barnet20250415.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1076734586"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/14/25",
+    "path": "/vod/stjselect/2025/20250414",
+    "nid": 2774,
+    "cablecastShowId": 14075,
+    "date": "2025-04-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250414.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-041425-14027"
+  },
+  {
+    "title": "Groton Select Board, 4/16/25",
+    "path": "/vod/grotonselect/2025/202503416",
+    "nid": 2775,
+    "cablecastShowId": 14027,
+    "date": "2025-04-16",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250416.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-041625-14027"
+  },
+  {
+    "title": "OLLI Spring 2025: Nip, Snip & Slice Your Way To More Plants!",
+    "path": "/vod/osher/2025/20250424",
+    "nid": 2776,
+    "cablecastShowId": 14102,
+    "date": "2025-04-24",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250424.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1079775983"
+  },
+  {
+    "title": "What's Going On? Multitude of Hot Spots",
+    "path": "/vod/wgo/wgo20250425",
+    "nid": 2777,
+    "cablecastShowId": 14149,
+    "date": "2025-04-25",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250425.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1079775413"
+  },
+  {
+    "title": "Danville Historical Society: 2025 Annual Meeting",
+    "path": "/vod/other/2025/dhs20250427",
+    "nid": 2778,
+    "cablecastShowId": 14133,
+    "date": "2025-04-27",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/dhs20250427.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1079779719"
+  },
+  {
+    "title": "Catamount Arts: Poem Town Poets",
+    "path": "/vod/lectures/2025/catamount20250427",
+    "nid": 2780,
+    "cablecastShowId": 14130,
+    "date": "2025-04-27",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/catamount20250427.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1079779043"
+  },
+  {
+    "title": "St. J. Athenaeum: Poet April Ossman",
+    "path": "/vod/lectures/2025/stjath20250430",
+    "nid": 2781,
+    "cablecastShowId": 14117,
+    "date": "2025-04-30",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250430.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1080416163"
+  },
+  {
+    "title": "Danville School: 2025 HS Spring Concert 4/16/25",
+    "path": "/vod/concerts/2025/danville20250416",
+    "nid": 2786,
+    "cablecastShowId": 14077,
+    "date": "2025-04-16",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville20250416.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1083713578"
+  }
+]

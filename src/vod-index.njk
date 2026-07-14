@@ -1,0 +1,396 @@
+---
+layout: layouts/base.njk
+title: "On Demand VODs"
+pagination:
+  data: vods
+  size: 12
+  alias: pageVods
+permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+---
+
+<div class="page-title-full-width-container" id="page-title-full-width-container">
+  <header role="banner" id="page-title" class="container page-title-container">
+    <h1 class="page-title">On Demand Library</h1>
+  </header>
+</div>
+
+<main role="main" class="main-container container">
+  
+  <!-- Dropdown Filters (Drupal Replication) -->
+  <div class="filters-container">
+    <div class="filters-row">
+      <div class="filter-group large">
+        <label for="filterCategory">Program Category</label>
+        <select id="filterCategory">
+          <option value="">- Any -</option>
+          {% for cat in categories %}
+            <option value="{{ cat.name }}">{{ cat.name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filterYear">Year</label>
+        <select id="filterYear">
+          <option value="">- Any -</option>
+          {% for yr in years %}
+            <option value="{{ yr.name }}">{{ yr.name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filterSort">Sort by</label>
+        <select id="filterSort">
+          <option value="date" selected>Date</option>
+          <option value="title">Title</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filterOrder">Order</label>
+        <select id="filterOrder">
+          <option value="desc" selected>Desc</option>
+          <option value="asc">Asc</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filterLimit">Items per page</label>
+        <select id="filterLimit">
+          <option value="10">10</option>
+          <option value="12" selected>12</option>
+          <option value="24">24</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="filters-actions" style="margin-top: 15px;">
+      <button id="applyFilters" class="btn-apply">Apply</button>
+    </div>
+  </div>
+
+  <!-- VOD Cards Grid -->
+  <div class="views-element-container">
+    <div class="view view-vod-index">
+      <div class="views-view-grid">
+        {% for vod in pageVods %}
+          <article class="vod teaser">
+            <div class="field--name-field-show-teaser-image">
+              <a href="{{ vod.path }}/">
+                {% if vod.teaserImage %}
+                  <img src="{{ vod.teaserImage }}" alt="{{ vod.title }}" loading="lazy" />
+                {% else %}
+                  <div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">
+                    No Image Available
+                  </div>
+                {% endif %}
+              </a>
+            </div>
+            <h2>
+              <a href="{{ vod.path }}/">{{ vod.title }}</a>
+            </h2>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Pagination Navigation -->
+    {% if pagination.pages.length > 1 %}
+    <nav class="pager-nav text-center" role="navigation">
+      <ul class="pagination">
+        <!-- First Page Link -->
+        {% if pagination.pageNumber > 0 %}
+          <li>
+            <a href="{{ pagination.href.first }}">« First</a>
+          </li>
+        {% endif %}
+
+        {% if pagination.href.previous %}
+          <li>
+            <a href="{{ pagination.href.previous }}">‹ Prev</a>
+          </li>
+        {% endif %}
+
+        <!-- Previous Block Link -->
+        {% set prevBlock = pagination.pageNumber | prevBlockPage %}
+        {% if prevBlock !== null %}
+          <li>
+            <a href="{{ pagination.hrefs[prevBlock] }}" title="Previous 10 Pages">...</a>
+          </li>
+        {% endif %}
+
+        <!-- Individual Page Numbers -->
+        {% set pagesToShow = pagination.pageNumber | pageRange(pagination.pages.length) %}
+        {% for idx in pagesToShow %}
+          <li class="{% if pagination.pageNumber == idx %}active{% endif %}">
+            <a href="{{ pagination.hrefs[idx] }}">{{ idx + 1 }}</a>
+          </li>
+        {% endfor %}
+
+        <!-- Next Block Link (Overflow) -->
+        {% set nextBlock = pagination.pageNumber | nextBlockPage(pagination.pages.length) %}
+        {% if nextBlock !== null %}
+          <li>
+            <a href="{{ pagination.hrefs[nextBlock] }}" title="Next 10 Pages">...</a>
+          </li>
+        {% endif %}
+
+        {% if pagination.href.next %}
+          <li>
+            <a href="{{ pagination.href.next }}">Next ›</a>
+          </li>
+        {% endif %}
+
+        <!-- Last Page Link -->
+        {% if pagination.pageNumber < pagination.pages.length - 1 %}
+          <li>
+            <a href="{{ pagination.href.last }}">Last »</a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+
+  </div>
+
+  <!-- Client-side filter interactive enhancements -->
+  <script>
+    (function() {
+      let indexData = [];
+      let filteredData = [];
+      let currentPage = 0;
+      let itemsPerPage = 12;
+
+      const filterCategory = document.getElementById('filterCategory');
+      const filterYear = document.getElementById('filterYear');
+      const filterSort = document.getElementById('filterSort');
+      const filterOrder = document.getElementById('filterOrder');
+      const filterLimit = document.getElementById('filterLimit');
+      const applyFiltersBtn = document.getElementById('applyFilters');
+
+      const viewsGrid = document.querySelector('.view-vod-index .views-view-grid');
+      const pagerNav = document.querySelector('.pager-nav');
+
+      // Fetch search index JSON
+      fetch('/search-index.json')
+        .then(response => response.json())
+        .then(data => {
+          indexData = data;
+          filteredData = [...indexData]; // default to all
+          
+          // Listen to "Apply" button
+          applyFiltersBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            currentPage = 0;
+            runFiltering();
+          });
+
+          // Check if arriving with query parameter filters (category/year)
+          const urlParams = new URLSearchParams(window.location.search);
+          const categoryParam = urlParams.get('category');
+          const yearParam = urlParams.get('year');
+          let shouldFilter = false;
+
+          if (categoryParam) {
+            filterCategory.value = categoryParam;
+            shouldFilter = true;
+          }
+          if (yearParam) {
+            filterYear.value = yearParam;
+            shouldFilter = true;
+          }
+
+          if (shouldFilter) {
+            runFiltering();
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load catalog index for filtering:', err);
+        });
+
+      function runFiltering() {
+        const selectedCat = filterCategory.value;
+        const selectedYear = filterYear.value;
+        const sortBy = filterSort.value;
+        const order = filterOrder.value;
+        itemsPerPage = parseInt(filterLimit.value, 10);
+
+        // Filter
+        filteredData = indexData.filter(item => {
+          if (selectedCat && !(item.categories && item.categories.includes(selectedCat))) {
+            return false;
+          }
+          if (selectedYear && item.year !== selectedYear) {
+            return false;
+          }
+          return true;
+        });
+
+        // Sort
+        filteredData.sort((a, b) => {
+          let valA = a[sortBy] || '';
+          let valB = b[sortBy] || '';
+          
+          if (sortBy === 'title') {
+            valA = valA.toLowerCase();
+            valB = valB.toLowerCase();
+          }
+
+          if (valA < valB) return order === 'asc' ? -1 : 1;
+          if (valA > valB) return order === 'asc' ? 1 : -1;
+          return 0;
+        });
+
+        renderCurrentPage();
+      }
+
+      function renderCurrentPage() {
+        // Calculate slices
+        const totalItems = filteredData.length;
+        const totalPages = Math.ceil(totalItems / itemsPerPage);
+        
+        // Safety check for active page
+        if (currentPage >= totalPages && totalPages > 0) {
+          currentPage = totalPages - 1;
+        }
+
+        const startIdx = currentPage * itemsPerPage;
+        const endIdx = Math.min(startIdx + itemsPerPage, totalItems);
+        const pageItems = filteredData.slice(startIdx, endIdx);
+
+        // Render cards
+        viewsGrid.innerHTML = '';
+        if (pageItems.length === 0) {
+          viewsGrid.innerHTML = '<div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #666; font-size: 1.1rem;">No matching programs found. Please select other filter options.</div>';
+          pagerNav.innerHTML = '';
+          return;
+        }
+
+        pageItems.forEach(item => {
+          const article = document.createElement('article');
+          article.className = 'vod teaser';
+          
+          let imageHtml = '';
+          if (item.teaserImage) {
+            imageHtml = `<img src="${item.teaserImage}" alt="${item.title}" loading="lazy" />`;
+          } else {
+            imageHtml = `<div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">No Image Available</div>`;
+          }
+
+          article.innerHTML = `
+            <div class="field--name-field-show-teaser-image">
+              <a href="${item.path}/">
+                ${imageHtml}
+              </a>
+            </div>
+            <h2>
+              <a href="${item.path}/">${item.title}</a>
+            </h2>
+          `;
+          viewsGrid.appendChild(article);
+        });
+
+        // Render pager
+        renderPager(totalPages);
+      }
+
+      function renderPager(totalPages) {
+        pagerNav.innerHTML = '';
+        if (totalPages <= 1) return;
+
+        const ul = document.createElement('ul');
+        ul.className = 'pagination';
+
+        // First Page
+        if (currentPage > 0) {
+          const liFirst = document.createElement('li');
+          const aFirst = document.createElement('a');
+          aFirst.href = '#';
+          aFirst.innerHTML = '« First';
+          aFirst.addEventListener('click', (e) => { e.preventDefault(); currentPage = 0; renderCurrentPage(); window.scrollTo(0, 300); });
+          liFirst.appendChild(aFirst);
+          ul.appendChild(liFirst);
+
+          // Prev Page
+          const liPrev = document.createElement('li');
+          const aPrev = document.createElement('a');
+          aPrev.href = '#';
+          aPrev.innerHTML = '‹ Prev';
+          aPrev.addEventListener('click', (e) => { e.preventDefault(); currentPage--; renderCurrentPage(); window.scrollTo(0, 300); });
+          liPrev.appendChild(aPrev);
+          ul.appendChild(liPrev);
+        }
+
+        // Calculate 10-page block
+        const blockSize = 10;
+        const currentBlock = Math.floor(currentPage / blockSize);
+        const startPage = currentBlock * blockSize;
+        const endPage = Math.min(startPage + blockSize, totalPages);
+
+        // Prev Block (...)
+        if (startPage > 0) {
+          const liPrevBlock = document.createElement('li');
+          const aPrevBlock = document.createElement('a');
+          aPrevBlock.href = '#';
+          aPrevBlock.innerHTML = '...';
+          aPrevBlock.title = 'Previous 10 Pages';
+          aPrevBlock.addEventListener('click', (e) => { e.preventDefault(); currentPage = startPage - 1; renderCurrentPage(); window.scrollTo(0, 300); });
+          liPrevBlock.appendChild(aPrevBlock);
+          ul.appendChild(liPrevBlock);
+        }
+
+        // Individual page buttons
+        for (let i = startPage; i < endPage; i++) {
+          const li = document.createElement('li');
+          if (currentPage === i) {
+            li.className = 'active';
+          }
+          const a = document.createElement('a');
+          a.href = '#';
+          a.innerHTML = i + 1;
+          a.addEventListener('click', (e) => { e.preventDefault(); currentPage = i; renderCurrentPage(); window.scrollTo(0, 300); });
+          li.appendChild(a);
+          ul.appendChild(li);
+        }
+
+        // Next Block (...)
+        if (endPage < totalPages) {
+          const liNextBlock = document.createElement('li');
+          const aNextBlock = document.createElement('a');
+          aNextBlock.href = '#';
+          aNextBlock.innerHTML = '...';
+          aNextBlock.title = 'Next 10 Pages';
+          aNextBlock.addEventListener('click', (e) => { e.preventDefault(); currentPage = endPage; renderCurrentPage(); window.scrollTo(0, 300); });
+          liNextBlock.appendChild(aNextBlock);
+          ul.appendChild(liNextBlock);
+        }
+
+        // Next Page
+        if (currentPage < totalPages - 1) {
+          const liNext = document.createElement('li');
+          const aNext = document.createElement('a');
+          aNext.href = '#';
+          aNext.innerHTML = 'Next ›';
+          aNext.addEventListener('click', (e) => { e.preventDefault(); currentPage++; renderCurrentPage(); window.scrollTo(0, 300); });
+          liNext.appendChild(aNext);
+          ul.appendChild(liNext);
+
+          // Last Page
+          const liLast = document.createElement('li');
+          const aLast = document.createElement('a');
+          aLast.href = '#';
+          aLast.innerHTML = 'Last »';
+          aLast.addEventListener('click', (e) => { e.preventDefault(); currentPage = totalPages - 1; renderCurrentPage(); window.scrollTo(0, 300); });
+          liLast.appendChild(aLast);
+          ul.appendChild(liLast);
+        }
+
+        pagerNav.appendChild(ul);
+      }
+    })();
+  </script>
+
+</main>

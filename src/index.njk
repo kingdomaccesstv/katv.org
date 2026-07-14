@@ -1,0 +1,104 @@
+---
+layout: layouts/base.njk
+title: "Home"
+pagination:
+  data: vods
+  size: 10
+  alias: pageVods
+permalink: "/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+---
+
+<!-- Highlighted Banner Image (matching Drupal front page banner) -->
+<div class="region region-highlighted">
+  <section class="block">
+    <img alt="KATV Studio Banner" src="/assets/images/banner-studio-1.jpg" style="width: 100%; display: block; border-bottom: 4px solid var(--primary-color);" />
+  </section>
+</div>
+
+<main role="main" class="main-container container">
+  
+  <!-- VOD Cards Grid -->
+  <div class="views-element-container">
+    <div class="view view-frontpage">
+      <div class="views-view-grid">
+        {% for vod in pageVods %}
+          <article class="vod teaser">
+            <div class="field--name-field-show-teaser-image">
+              <a href="{{ vod.path }}/">
+                {% if vod.teaserImage %}
+                  <img src="{{ vod.teaserImage }}" alt="{{ vod.title }}" loading="lazy" />
+                {% else %}
+                  <div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">
+                    No Image Available
+                  </div>
+                {% endif %}
+              </a>
+            </div>
+            <h2>
+              <a href="{{ vod.path }}/">{{ vod.title }}</a>
+            </h2>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Pagination Navigation -->
+    {% if pagination.pages.length > 1 %}
+    <nav class="pager-nav text-center" role="navigation">
+      <ul class="pagination">
+        <!-- First Page Link -->
+        {% if pagination.pageNumber > 0 %}
+          <li>
+            <a href="{{ pagination.href.first }}">« First</a>
+          </li>
+        {% endif %}
+
+        {% if pagination.href.previous %}
+          <li>
+            <a href="{{ pagination.href.previous }}">‹ Prev</a>
+          </li>
+        {% endif %}
+
+        <!-- Previous Block Link -->
+        {% set prevBlock = pagination.pageNumber | prevBlockPage %}
+        {% if prevBlock !== null %}
+          <li>
+            <a href="{{ pagination.hrefs[prevBlock] }}" title="Previous 10 Pages">...</a>
+          </li>
+        {% endif %}
+
+        <!-- Individual Page Numbers -->
+        {% set pagesToShow = pagination.pageNumber | pageRange(pagination.pages.length) %}
+        {% for idx in pagesToShow %}
+          <li class="{% if pagination.pageNumber == idx %}active{% endif %}">
+            <a href="{{ pagination.hrefs[idx] }}">{{ idx + 1 }}</a>
+          </li>
+        {% endfor %}
+
+        <!-- Next Block Link (Overflow) -->
+        {% set nextBlock = pagination.pageNumber | nextBlockPage(pagination.pages.length) %}
+        {% if nextBlock !== null %}
+          <li>
+            <a href="{{ pagination.hrefs[nextBlock] }}" title="Next 10 Pages">...</a>
+          </li>
+        {% endif %}
+
+        {% if pagination.href.next %}
+          <li>
+            <a href="{{ pagination.href.next }}">Next ›</a>
+          </li>
+        {% endif %}
+
+        <!-- Last Page Link -->
+        {% if pagination.pageNumber < pagination.pages.length - 1 %}
+          <li>
+            <a href="{{ pagination.href.last }}">Last »</a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+
+  </div>
+
+</main>

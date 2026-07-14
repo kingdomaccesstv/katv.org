@@ -1,0 +1,300 @@
+[
+  {
+    "title": "Concord Select Board, 5/2/23",
+    "path": "/vod/concordselect/2023/20230502",
+    "nid": 2356,
+    "cablecastShowId": 11942,
+    "date": "2023-05-02",
+    "location": "Concord Town Hall",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/concordselect20230502.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-050223-11942"
+  },
+  {
+    "title": "Groton Select Board, 5/3/23",
+    "path": "/vod/grotonselect/2023/20230503",
+    "nid": 2357,
+    "cablecastShowId": 11943,
+    "date": "2023-05-03",
+    "location": "Groton Community Building",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/grotonselect20230503.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-050323-11943"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/15/23",
+    "path": "/vod/stjschool/2023/20230515",
+    "nid": 2362,
+    "cablecastShowId": 11981,
+    "date": "2023-05-15",
+    "location": "St. Johnsbury School",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/stjschool20230515.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-051523-11987"
+  },
+  {
+    "title": "Groton Select Board, 5/17/23",
+    "path": "/vod/grotonselect/2023/20230517",
+    "nid": 2364,
+    "cablecastShowId": 11983,
+    "date": "2023-05-17",
+    "location": "Groton Community Building",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/grotonselect20230517.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-051723-11983"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/22/23",
+    "path": "/vod/stjselect/2023/20230522",
+    "nid": 2366,
+    "cablecastShowId": 11985,
+    "date": "2023-05-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/stjselect20230522.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052223-11985"
+  },
+  {
+    "title": "St. Johnsbury Zoning Board, 5/25/23",
+    "path": "/vod/stjselect/2023/zoning20230525",
+    "nid": 2375,
+    "cablecastShowId": 11987,
+    "date": "2023-05-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/stjzoning20230525.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjzoning-mtg-052523-11987"
+  },
+  {
+    "title": "WGO: Waco, A New Revelation, Part 3",
+    "path": "/vod/wgo/wgo20230504",
+    "nid": 2358,
+    "cablecastShowId": 11955,
+    "date": "2023-05-04",
+    "location": "KATV Studio",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/wgo20230504.png",
+    "videoSource": "vimeo",
+    "videoId": "823947780"
+  },
+  {
+    "title": "North Country Chorus: Spring Concert 2023",
+    "path": "/vod/concerts/2023/ncc20230506",
+    "nid": 2360,
+    "cablecastShowId": 11956,
+    "date": "2023-05-06",
+    "location": "South Church",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/ncc20230506.png",
+    "videoSource": "vimeo",
+    "videoId": "828172932"
+  },
+  {
+    "title": "NEK Community Orchestra: Mother's Day Concert 2023",
+    "path": "/vod/concerts/2023/nekco20230514",
+    "nid": 2361,
+    "cablecastShowId": 11980,
+    "date": "2023-05-14",
+    "location": "Northeastern Vermont University",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/nekco20230514.png",
+    "videoSource": "vimeo",
+    "videoId": "827326330"
+  },
+  {
+    "title": "Barnet School Spring Musical 2023",
+    "path": "/vod/concerts/2023/barnet20230516",
+    "nid": 2363,
+    "cablecastShowId": 11982,
+    "date": "2023-05-16",
+    "location": "Barnet School",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/barnet20230516.png",
+    "videoSource": "vimeo",
+    "videoId": "828173182"
+  },
+  {
+    "title": "Legislative Breakfast, May 2023",
+    "path": "/vod/legbkfst/2023/20230522",
+    "nid": 2365,
+    "cablecastShowId": 11984,
+    "date": "2023-05-22",
+    "location": "St. Johnsbury House",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/legbkfst20230522.png",
+    "videoSource": "vimeo",
+    "videoId": "830633154"
+  },
+  {
+    "title": "Route 2 Resurfacing Project - Danville/Marshfield",
+    "path": "/vod/pubmtgs/2023/rt2danville20230522",
+    "nid": 2367,
+    "cablecastShowId": 11998,
+    "date": "2023-05-22",
+    "location": "Danville Town Hall",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/rt2danville20230522.png",
+    "videoSource": "vimeo",
+    "videoId": "830632876"
+  },
+  {
+    "title": "LVRT Amenities Plan: Local Concerns Meeting, 5/24/23",
+    "path": "/vod/pubmtgs/2023/lvrt20230524",
+    "nid": 2368,
+    "cablecastShowId": 11986,
+    "date": "2023-05-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/lvrt20230524_2.png",
+    "videoSource": "vimeo",
+    "videoId": "830633413"
+  },
+  {
+    "title": "Tap Into Film: 72 Hour Film Slam",
+    "path": "/vod/other/2023/tapintofilm20230514",
+    "nid": 2374,
+    "cablecastShowId": 12048,
+    "date": "2023-05-14",
+    "location": "St. Johnsbury",
+    "year": "2023",
+    "yearPath": "/vod/year/2023",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2023/tapintofilm20230514.jpg",
+    "videoSource": "vimeo",
+    "videoId": "834919025"
+  }
+]

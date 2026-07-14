@@ -1,0 +1,331 @@
+[
+  {
+    "title": "Concord School Board, 12/6/16",
+    "path": "/vod/concordschool/2016/120616",
+    "nid": 1080,
+    "cablecastShowId": 5187,
+    "date": "2016-12-06",
+    "location": "Concord School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-120616-5187"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/5/16",
+    "path": "/vod/stjschool/2016/120516",
+    "nid": 1082,
+    "cablecastShowId": 5183,
+    "date": "2016-12-05",
+    "location": "St. Johnsbury School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-120516-5183"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/12/16",
+    "path": "/vod/stjselect/2016/121216",
+    "nid": 1085,
+    "cablecastShowId": 5203,
+    "date": "2016-12-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121216-5203"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/19/16",
+    "path": "/vod/stjschool/2016/121916",
+    "nid": 1088,
+    "cablecastShowId": 5217,
+    "date": "2016-12-19",
+    "location": "St. Johnsbury School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121916-5217"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/27/16",
+    "path": "/vod/stjselect/2016/122716",
+    "nid": 1089,
+    "cablecastShowId": 5236,
+    "date": "2016-12-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122716-5236"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Special Meeting, 12/27/16",
+    "path": "/vod/stjselect/2016/122716spec",
+    "nid": 1090,
+    "cablecastShowId": 5235,
+    "date": "2016-12-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-122716-5235"
+  },
+  {
+    "title": "Lyndon Institute: Winter Concert 2016",
+    "path": "/vod/concerts/2016/liwinter2016",
+    "nid": 752,
+    "cablecastShowId": 5193,
+    "date": "2016-12-08",
+    "location": "Lyndon Institute",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "195241132"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2016",
+    "path": "/vod/concerts/2016/sjawinter121416",
+    "nid": 773,
+    "cablecastShowId": 5206,
+    "date": "2016-12-14",
+    "location": "South Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196819234"
+  },
+  {
+    "title": "North Country Chorus: A Christmas Cantina 2016",
+    "path": "/vod/concerts/2016/ncc120416",
+    "nid": 1079,
+    "cablecastShowId": 5182,
+    "date": "2016-12-04",
+    "location": "Peacham",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "195240782"
+  },
+  {
+    "title": "Pumpkin Hill Singers: Winter Concert 2016",
+    "path": "/vod/concerts/2016/pumkinhill121016",
+    "nid": 1083,
+    "cablecastShowId": 5194,
+    "date": "2016-12-10",
+    "location": "Grace Church",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196817231"
+  },
+  {
+    "title": "In & Around St. J: First Night North 2016",
+    "path": "/vod/studio/2016/iastj121216",
+    "nid": 1084,
+    "cablecastShowId": 5205,
+    "date": "2016-12-12",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196815190"
+  },
+  {
+    "title": "NVDA: Brownfield Clean Up",
+    "path": "/vod/forums/2016/nvda121416",
+    "nid": 1086,
+    "cablecastShowId": 5207,
+    "date": "2016-12-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196819649"
+  },
+  {
+    "title": "Health and Wellness: E-Cigarettes",
+    "path": "/vod/studio/2016/healthwell122016",
+    "nid": 1087,
+    "cablecastShowId": 5221,
+    "date": "2016-12-20",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "196820335"
+  },
+  {
+    "title": "What's Going On? Propaganda System",
+    "path": "/vod/wgo/wgo120616",
+    "nid": 1203,
+    "cablecastShowId": 5188,
+    "date": "2016-12-06",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207029020"
+  },
+  {
+    "title": "What's Going On? Lies Continue",
+    "path": "/vod/wgo/wgo121416",
+    "nid": 1204,
+    "cablecastShowId": 5204,
+    "date": "2016-12-14",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207233458"
+  }
+]

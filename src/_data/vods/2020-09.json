@@ -1,0 +1,258 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, Special Meeting, 9/14/20",
+    "path": "/vod/stjselect/2020/091420spec",
+    "nid": 1991,
+    "cablecastShowId": 8895,
+    "date": "2020-09-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-091420-8895"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/14/20",
+    "path": "/vod/stjselect/2020/091420",
+    "nid": 1992,
+    "cablecastShowId": 8896,
+    "date": "2020-09-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091420-8896"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/21/20",
+    "path": "/vod/stjschool/2020/092120",
+    "nid": 1994,
+    "cablecastShowId": 8909,
+    "date": "2020-09-21",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-092120-8909"
+  },
+  {
+    "title": "CCSU Board of Directors, 9/21/20",
+    "path": "/vod/pubmeetings/2020/ccsubod092120",
+    "nid": 1996,
+    "cablecastShowId": 8910,
+    "date": "2020-09-21",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-092120-8910"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/28/20",
+    "path": "/vod/stjselect/2020/092820",
+    "nid": 1998,
+    "cablecastShowId": 8935,
+    "date": "2020-09-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092820-8935"
+  },
+  {
+    "title": "Orleans County COVID Recovery: Building Community Unity",
+    "path": "/vod/other/2020/caledoniacovid090320",
+    "nid": 1986,
+    "cablecastShowId": 8880,
+    "date": "2020-09-03",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "455095516"
+  },
+  {
+    "title": "In & Around St. J: Kingdom Recovery Center",
+    "path": "/vod/studio/2020/iastj091520",
+    "nid": 1990,
+    "cablecastShowId": 8899,
+    "date": "2020-09-15",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "459726100"
+  },
+  {
+    "title": "Orleans County COVID Recovery: Housing",
+    "path": "/vod/forums/2020/occrhousing090320",
+    "nid": 1993,
+    "cablecastShowId": 8881,
+    "date": "2020-09-03",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "462262952"
+  },
+  {
+    "title": "In & Around St. J: Restorative Justice",
+    "path": "/vod/studio/2020/iastj092220",
+    "nid": 1995,
+    "cablecastShowId": 8913,
+    "date": "2020-09-22",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "462261485"
+  },
+  {
+    "title": "Saint Johnsbury Get Downtown Event, 9/26/20",
+    "path": "/vod/other/2020/stjgetdt092620",
+    "nid": 1997,
+    "cablecastShowId": 8932,
+    "date": "2020-09-26",
+    "location": "St. Johnsbury",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "464535222"
+  },
+  {
+    "title": "Creative Workforce Solutions: 2020 Awards - Heather Spinney",
+    "path": "/vod/studio/2020/cws2020awards092820a",
+    "nid": 1999,
+    "cablecastShowId": 8933,
+    "date": "2020-09-28",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "464542292"
+  },
+  {
+    "title": "Creative Workforce Solutions: 2020 Awards - Marina Cole",
+    "path": "/vod/studio/2020/cws2020awards092820b",
+    "nid": 2000,
+    "cablecastShowId": 8934,
+    "date": "2020-09-28",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "464532689"
+  }
+]

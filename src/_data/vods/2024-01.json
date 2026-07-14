@@ -1,0 +1,274 @@
+[
+  {
+    "title": "Concord Select Board, 1/2/24",
+    "path": "/vod/concordselect/2024/20240102",
+    "nid": 2473,
+    "cablecastShowId": 12585,
+    "date": "2024-01-02",
+    "location": "Concord",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20240102.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-010224-12585"
+  },
+  {
+    "title": "Groton Select Board, 1/3/24",
+    "path": "/vod/grotonselect/2024/20240103",
+    "nid": 2474,
+    "cablecastShowId": 12586,
+    "date": "2024-01-03",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240103.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-010324-12586"
+  },
+  {
+    "title": "WGO: Tools of the True Controllers Cont.",
+    "path": "/vod/wgo/wgo20240104",
+    "nid": 2475,
+    "cablecastShowId": 12597,
+    "date": "2024-01-04",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "900157427"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/8/24",
+    "path": "/vod/stjselect/2024/20240108",
+    "nid": 2476,
+    "cablecastShowId": 12591,
+    "date": "2024-01-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240108.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-010824-12591"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/8/24 Special Meeting",
+    "path": "/vod/stjselect/2024/20240108sm",
+    "nid": 2477,
+    "cablecastShowId": 12598,
+    "date": "2024-01-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240108sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-010824-12598"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/8/24",
+    "path": "/vod/stjschool/2024/20240108",
+    "nid": 2478,
+    "cablecastShowId": 12590,
+    "date": "2024-01-08",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240108.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010824-12590"
+  },
+  {
+    "title": "Groton Select Board, 1/17/24",
+    "path": "/vod/grotonselect/2024/20240117",
+    "nid": 2479,
+    "cablecastShowId": 12608,
+    "date": "2024-01-17",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240117.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-011724-12608"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/22/24",
+    "path": "/vod/stjschool/2024/20240122",
+    "nid": 2480,
+    "cablecastShowId": 12627,
+    "date": "2024-01-22",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240122.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-012224-12627"
+  },
+  {
+    "title": "WGO: The Great Taking by the Takers",
+    "path": "/vod/wgo/wgo20240123",
+    "nid": 2481,
+    "cablecastShowId": 12643,
+    "date": "2024-01-23",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240119.jpg",
+    "videoSource": "vimeo",
+    "videoId": "905831693"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/22/24",
+    "path": "/vod/stjselect/2024/20240122",
+    "nid": 2482,
+    "cablecastShowId": 12628,
+    "date": "2024-01-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240122.jpg",
+    "videoSource": "archive",
+    "videoId": "katv-show-12628"
+  },
+  {
+    "title": "Legislative Breakfast, January 2024",
+    "path": "/vod/legbkfst/2024/20240129",
+    "nid": 2483,
+    "cablecastShowId": 12651,
+    "date": "2024-01-29",
+    "location": "St. Johnsbury House",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240129.jpg",
+    "videoSource": "vimeo",
+    "videoId": "908040020"
+  },
+  {
+    "title": "WGO: Laws For Thee... Not For Me",
+    "path": "/vod/wgo/wgo20240125",
+    "nid": 2485,
+    "cablecastShowId": 12669,
+    "date": "2024-01-25",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240125.jpg",
+    "videoSource": "vimeo",
+    "videoId": "909095018"
+  }
+]

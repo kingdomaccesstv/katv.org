@@ -1,0 +1,347 @@
+[
+  {
+    "title": "Concord School Board, 2/1/16",
+    "path": "/vod/concordschool/2016/020116",
+    "nid": 921,
+    "cablecastShowId": 4512,
+    "date": "2016-02-01",
+    "location": "Concord School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-020116-4512"
+  },
+  {
+    "title": "Concord Select Board, 2/2/16",
+    "path": "/vod/concordselect/2016/020216",
+    "nid": 924,
+    "cablecastShowId": 4513,
+    "date": "2016-02-02",
+    "location": "Concord Municipal Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-020216-4513"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 2/2/16",
+    "path": "/vod/stjselect/2016/020216plan",
+    "nid": 927,
+    "cablecastShowId": 4514,
+    "date": "2016-02-02",
+    "location": "Pomerleau Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-020216-4514"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/8/16",
+    "path": "/vod/stjselect/2016/020816",
+    "nid": 928,
+    "cablecastShowId": 4535,
+    "date": "2016-02-08",
+    "location": "Pomerleau Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-020816-4535"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/15/16",
+    "path": "/vod/stjschool/2016/021516",
+    "nid": 929,
+    "cablecastShowId": 4553,
+    "date": "2016-02-15",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021516-4553"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/22/16",
+    "path": "/vod/stjselect/2016/022216",
+    "nid": 930,
+    "cablecastShowId": 4568,
+    "date": "2016-02-22",
+    "location": "Pomerleau Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022216-4568"
+  },
+  {
+    "title": "In & Around St. J.: CoSA Re-entry Program",
+    "path": "/vod/studio/2016/iastj020216",
+    "nid": 923,
+    "cablecastShowId": 4514,
+    "date": "2016-02-02",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "155255994"
+  },
+  {
+    "title": "First Wednesdays: Celebrating EB White",
+    "path": "/vod/firstwed/2016/020316",
+    "nid": 925,
+    "cablecastShowId": 4520,
+    "date": "2016-02-03",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "155263424"
+  },
+  {
+    "title": "In & Around St. J.: DART 2.0",
+    "path": "/vod/studio/2016/iastj020916",
+    "nid": 926,
+    "cablecastShowId": 4539,
+    "date": "2016-02-09",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "155258688"
+  },
+  {
+    "title": "Legislative Breakfast, February 2016",
+    "path": "/vod/legbkfst/2016/022916",
+    "nid": 931,
+    "cablecastShowId": 4578,
+    "date": "2016-02-29",
+    "location": "St. Johnsbury House",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161267825"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Battle Against ALS, Dan Swainbank",
+    "path": "/vod/stjath/2016/stjath021016",
+    "nid": 936,
+    "cablecastShowId": 4540,
+    "date": "2016-02-10",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "155262604"
+  },
+  {
+    "title": "What's Going On? Laws that Protect the Lawless Bankers",
+    "path": "/vod/wgo/wgo020416",
+    "nid": 1165,
+    "cablecastShowId": 4530,
+    "date": "2016-02-04",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201617368"
+  },
+  {
+    "title": "What's Going On? It Can't Happen Here, Really??",
+    "path": "/vod/wgo/wgo021116",
+    "nid": 1166,
+    "cablecastShowId": 4554,
+    "date": "2016-02-11",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201620882"
+  },
+  {
+    "title": "What's Going On? War is in the Wind, Mysterious Death of a Judge",
+    "path": "/vod/wgo/wgo021916",
+    "nid": 1167,
+    "cablecastShowId": 4563,
+    "date": "2016-02-19",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201623350"
+  },
+  {
+    "title": "What's Going On? Truth!",
+    "path": "/vod/wgo/wgo022416",
+    "nid": 1168,
+    "cablecastShowId": 4572,
+    "date": "2016-02-24",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201627510"
+  }
+]

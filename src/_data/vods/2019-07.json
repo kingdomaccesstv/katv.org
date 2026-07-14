@@ -1,0 +1,350 @@
+[
+  {
+    "title": "Concord Select Board, 7/2/19",
+    "path": "/vod/concordselect/2019/070219",
+    "nid": 1768,
+    "cablecastShowId": 7791,
+    "date": "2019-07-02",
+    "location": "Concord Municipal Building",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "concordselect-mtg-070219-7791"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Special Meeting, 7/8/19",
+    "path": "/vod/stjselect/2019/070819specmtg",
+    "nid": 1770,
+    "cablecastShowId": 7801,
+    "date": "2019-07-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-070819-7801"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/8/19",
+    "path": "/vod/stjselect/2019/070819",
+    "nid": 1780,
+    "cablecastShowId": 7802,
+    "date": "2019-07-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-070819-7802"
+  },
+  {
+    "title": "St. Johnsbury School Board, 7/15/19",
+    "path": "/vod/stjschool/2019/071519",
+    "nid": 1781,
+    "cablecastShowId": 7823,
+    "date": "2019-07-15",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-0715199-7823"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/22/19",
+    "path": "/vod/stjselect/2019/072219",
+    "nid": 1782,
+    "cablecastShowId": 7836,
+    "date": "2019-07-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072219-7836"
+  },
+  {
+    "title": "Kingdom Animal Shelter: Available Cats, July 2019",
+    "path": "/vod/studio/2019/kas070919",
+    "nid": 1771,
+    "cablecastShowId": 7805,
+    "date": "2019-07-09",
+    "location": "Kingdom Animal Shelter",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "348090464"
+  },
+  {
+    "title": "I Am Vermont Too: Joan Javier-Duval",
+    "path": "/vod/studio/2019/iamvt071019",
+    "nid": 1772,
+    "cablecastShowId": 7813,
+    "date": "2019-07-10",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "348094077"
+  },
+  {
+    "title": "Lights for Liberty: Human Detention Camps",
+    "path": "/vod/forums/2019/lightsforlib071219",
+    "nid": 1773,
+    "cablecastShowId": 7822,
+    "date": "2019-07-12",
+    "location": "St. Johnsbury",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "349809026"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Author Talk, Charles Fergus",
+    "path": "/vod/lectures/2019/stjath071719",
+    "nid": 1775,
+    "cablecastShowId": 7831,
+    "date": "2019-07-17",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "349823703"
+  },
+  {
+    "title": "Community Conversations: 20th Century Development & Progress",
+    "path": "/vod/forums/2019/commconv071819",
+    "nid": 1776,
+    "cablecastShowId": 7832,
+    "date": "2019-07-18",
+    "location": "Catamount Arts",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "349842412"
+  },
+  {
+    "title": "Catamount Arts: Village Harmony Concert",
+    "path": "/vod/concerts/2019/catamount071919",
+    "nid": 1777,
+    "cablecastShowId": 7835,
+    "date": "2019-07-19",
+    "location": "Catamount Arts",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "350985549"
+  },
+  {
+    "title": "39th Annual Stars and Stripes Parade",
+    "path": "/vod/other/2019/starsstripes072019",
+    "nid": 1778,
+    "cablecastShowId": 7834,
+    "date": "2019-07-20",
+    "location": "Lyndonville",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "349838729"
+  },
+  {
+    "title": "Newbury Historical Society: Frances Parkinson Keyes",
+    "path": "/vod/lectures/2019/nhs072119",
+    "nid": 1779,
+    "cablecastShowId": 7837,
+    "date": "2019-07-21",
+    "location": "Newbury Historical Society",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "349863265"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Applied Mindfulness, Communication",
+    "path": "/vod/lectures/2019/stjath072419",
+    "nid": 1795,
+    "cablecastShowId": 7841,
+    "date": "2019-07-24",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "359448495"
+  },
+  {
+    "title": "What's Going On? Stifling Knowledge & Protecting Pedophiles",
+    "path": "/vod/wgo/wgo071819",
+    "nid": 1807,
+    "cablecastShowId": 7833,
+    "date": "2019-07-18",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "362200384"
+  },
+  {
+    "title": "What's Going On? Effective Censorship Against Knowledge",
+    "path": "/vod/wgo/wgo072519",
+    "nid": 1808,
+    "cablecastShowId": 7845,
+    "date": "2019-07-25",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "362198600"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Concord Select Board, 11/1/22",
+    "path": "/vod/concordselect/2022/110122",
+    "nid": 2254,
+    "cablecastShowId": 11386,
+    "date": "2022-11-01",
+    "location": "Concord",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/concordselect20221101.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-110122-11386"
+  },
+  {
+    "title": "Groton Select Board, 11/2/22",
+    "path": "/vod/grotonselect/2022/110222",
+    "nid": 2256,
+    "cablecastShowId": 11387,
+    "date": "2022-11-02",
+    "location": "Groton Community Building",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20221102.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-110222-11387"
+  },
+  {
+    "title": "St. Johnsbury School Board, 11/7/22",
+    "path": "/vod/stjschool/2022/110722",
+    "nid": 2259,
+    "cablecastShowId": 11413,
+    "date": "2022-11-07",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20221107.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-110722-11413"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/14/22",
+    "path": "/vod/stjselect/2022/111422",
+    "nid": 2261,
+    "cablecastShowId": 11424,
+    "date": "2022-11-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221114.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-111422-11424"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/14/22 Special Meeting",
+    "path": "/vod/stjselect/2022/111422sm",
+    "nid": 2262,
+    "cablecastShowId": 11430,
+    "date": "2022-11-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221114sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-111422-11430"
+  },
+  {
+    "title": "Groton Select Board, 11/16/22",
+    "path": "/vod/grotonselect/2022/111622",
+    "nid": 2263,
+    "cablecastShowId": 11425,
+    "date": "2022-11-16",
+    "location": "Groton Community Building",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20221116.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-111622-11425"
+  },
+  {
+    "title": "St. Johnsbury School Board, 11/21/22",
+    "path": "/vod/stjschool/2022/112122",
+    "nid": 2265,
+    "cablecastShowId": 11434,
+    "date": "2022-11-21",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20221121.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-112122-11434"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/28/22",
+    "path": "/vod/stjselect/2022/112822",
+    "nid": 2267,
+    "cablecastShowId": 11450,
+    "date": "2022-11-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221128.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-112822-11450"
+  },
+  {
+    "title": "First Wednesday: Diasporic Immigrant Superheroes",
+    "path": "/vod/firstwed/2022/110222",
+    "nid": 2255,
+    "cablecastShowId": 11388,
+    "date": "2022-11-02",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/firstwed20221102.jpg",
+    "videoSource": "vimeo",
+    "videoId": "766959714"
+  },
+  {
+    "title": "Osher: Using Music to Enhance Your Own Life and The Lives of Others",
+    "path": "/vod/osher/2022/110322",
+    "nid": 2257,
+    "cablecastShowId": 11389,
+    "date": "2022-11-03",
+    "location": "Catamount Arts",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/osher20221103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "767344731"
+  },
+  {
+    "title": "St. Johnsbury Town Band: Veteran's Day Concert 2022",
+    "path": "/vod/concerts/2022/stjtownband111122",
+    "nid": 2260,
+    "cablecastShowId": 11412,
+    "date": "2022-11-11",
+    "location": "United Community Church",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjtownband20221111.jpg",
+    "videoSource": "vimeo",
+    "videoId": "772340171"
+  },
+  {
+    "title": "Danville Historical Society: Local Author Awards 2022",
+    "path": "/vod/2022/other/dhs111722",
+    "nid": 2264,
+    "cablecastShowId": 11422,
+    "date": "2022-11-17",
+    "location": "Danville",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/dhs20221117.jpg",
+    "videoSource": "vimeo",
+    "videoId": "772340030"
+  },
+  {
+    "title": "St. Johnsbury Town Band: Holiday Concert 2022",
+    "path": "/vod/concerts/2022/stjtownband112722",
+    "nid": 2266,
+    "cablecastShowId": 11449,
+    "date": "2022-11-27",
+    "location": "St. Johnsbury United Community Church",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjtownband20221127.jpg",
+    "videoSource": "vimeo",
+    "videoId": "775934333"
+  }
+]

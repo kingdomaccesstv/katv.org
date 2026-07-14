@@ -1,0 +1,182 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 7/16/12",
+    "path": "/vod/stjselect/2012/071612",
+    "nid": 112,
+    "cablecastShowId": 1614,
+    "date": "2012-07-16",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "46391036"
+  },
+  {
+    "title": "Concord School Board, 7/2/12",
+    "path": "/vod/concordschool/2012/070212",
+    "nid": 113,
+    "cablecastShowId": 1594,
+    "date": "2012-07-02",
+    "location": "Concord School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "46952133"
+  },
+  {
+    "title": "Neward Wind: DPS Hearing",
+    "path": "/vod/forums/2012/newarkwind071712",
+    "nid": 114,
+    "cablecastShowId": 1619,
+    "date": "2012-07-17",
+    "location": "Newark School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "46848499"
+  },
+  {
+    "title": "Concord Select Board, 7/5/12",
+    "path": "/vod/concordselect/2012/070512",
+    "nid": 115,
+    "cablecastShowId": 1602,
+    "date": "2012-07-05",
+    "location": "Concord Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "46898965"
+  },
+  {
+    "title": "NEK Audubon: Birds of the Boreal Forest",
+    "path": "/vod/lectures/2012/birds072812",
+    "nid": 117,
+    "cablecastShowId": 1642,
+    "date": "2012-07-28",
+    "location": "Fairbanks Museum",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "47394141"
+  },
+  {
+    "title": "What's Going On? Plummeting Wealth",
+    "path": "/vod/wgo/wgo86",
+    "nid": 294,
+    "cablecastShowId": 1613,
+    "date": "2012-07-14",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78793221"
+  },
+  {
+    "title": "What's Going On? Bill Flick",
+    "path": "/vod/wgo/wgo87",
+    "nid": 295,
+    "cablecastShowId": 1622,
+    "date": "2012-07-21",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78796215"
+  },
+  {
+    "title": "What's Going On? A Chat with Tom",
+    "path": "/vod/wgo/wgo88",
+    "nid": 296,
+    "cablecastShowId": 1638,
+    "date": "2012-07-27",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79049339"
+  }
+]

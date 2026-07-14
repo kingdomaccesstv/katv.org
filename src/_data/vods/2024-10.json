@@ -1,0 +1,477 @@
+[
+  {
+    "title": "Concord Select Board, 10/1/24",
+    "path": "/vod/concordselect/2024/20241001",
+    "nid": 2610,
+    "cablecastShowId": 13394,
+    "date": "2024-10-02",
+    "location": "Concord",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20241001.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-100124-13394"
+  },
+  {
+    "title": "NEK Chamber: Innovation, Trends, And Possibilities of Growth for Co-Pyrolysis",
+    "path": "/vod/forums/2024/nekchamber20241002",
+    "nid": 2611,
+    "cablecastShowId": 13418,
+    "date": "2024-10-02",
+    "location": "Vermont State University Lyndon",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/nekchamber20241002.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1016684904"
+  },
+  {
+    "title": "OLLI Fall 2024: Nulhegan Education",
+    "path": "/vod/osher/2024/20241003",
+    "nid": 2612,
+    "cablecastShowId": 13396,
+    "date": "2024-10-03",
+    "location": "Catamount Arts",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20241003.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1016684710"
+  },
+  {
+    "title": "NEK Waste Management: Styrofoam Densifier Machine Demonstration",
+    "path": "/vod/other/2024/nekwm20241008",
+    "nid": 2613,
+    "cablecastShowId": 13431,
+    "date": "2024-10-08",
+    "location": "Lyndonville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/nekwm20241008.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1018433974"
+  },
+  {
+    "title": "What's Going On? Weather Wars",
+    "path": "/vod/wgo/wgo20241010",
+    "nid": 2614,
+    "cablecastShowId": 13444,
+    "date": "2024-10-10",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20241010.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1018432898"
+  },
+  {
+    "title": "St. Johnsbury School Board: Community Budget Forum 10/15/24",
+    "path": "/vod/stjschool/2024/20241015",
+    "nid": 2615,
+    "cablecastShowId": 13459,
+    "date": "2024-10-15",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20241015.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1021102685"
+  },
+  {
+    "title": "Groton Select Board, 10/16/24",
+    "path": "/vod/grotonselect/2024/20241016",
+    "nid": 2616,
+    "cablecastShowId": 13395,
+    "date": "2024-10-16",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20241016.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1021101898"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/16/24",
+    "path": "/vod/stjselect/2024/20241016",
+    "nid": 2617,
+    "cablecastShowId": 13432,
+    "date": "2024-10-16",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20241016.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1021102100"
+  },
+  {
+    "title": "OLLI Fall 2024: Songbirds",
+    "path": "/vod/osher/2024/20241017",
+    "nid": 2618,
+    "cablecastShowId": 13433,
+    "date": "2024-10-17",
+    "location": "Catamount Arts",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20241017.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1021102255"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/21/24",
+    "path": "/vod/stjschool/2024/20241021",
+    "nid": 2619,
+    "cablecastShowId": 13454,
+    "date": "2024-10-21",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20241021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1022235782"
+  },
+  {
+    "title": "CCSU Board of Directors, 10/21/24",
+    "path": "/vod/ccsubod/2024/20241021",
+    "nid": 2620,
+    "cablecastShowId": 13453,
+    "date": "2024-10-21",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ccsubod20241021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1022236351"
+  },
+  {
+    "title": "OLLI Fall 2024: Forgotten Heroes",
+    "path": "/vod/osher/2024/20241024",
+    "nid": 2621,
+    "cablecastShowId": 13456,
+    "date": "2024-10-24",
+    "location": "Catamount Arts",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20241024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1023305898"
+  },
+  {
+    "title": "What's Going On? The Dimming Part 2",
+    "path": "/vod/wgo/wgo20241024",
+    "nid": 2622,
+    "cablecastShowId": 13479,
+    "date": "2024-10-24",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20241024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1023305022"
+  },
+  {
+    "title": "Lyndon Institute: 2024 Fall Concert",
+    "path": "/vod/concerts/2024/lifall20241024",
+    "nid": 2623,
+    "cablecastShowId": 13457,
+    "date": "2024-10-24",
+    "location": "Lyndon Institute",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/lifall20241024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1023310719"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/28/24",
+    "path": "/vod/stjselect/2024/20241028",
+    "nid": 2624,
+    "cablecastShowId": 13471,
+    "date": "2024-10-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20241028.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025319410"
+  },
+  {
+    "title": "Danville Town Band: 2024 Harvest Concert",
+    "path": "/vod/concerts/2024/danville20241031",
+    "nid": 2625,
+    "cablecastShowId": 13470,
+    "date": "2024-10-31",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danville20241031.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730161"
+  },
+  {
+    "title": "St. J. Athenaeum: Book Release Toussaint St. Negritude",
+    "path": "/vod/lectures/2024/stjath20241027",
+    "nid": 2626,
+    "cablecastShowId": 13458,
+    "date": "2024-10-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjath20241027.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025731005"
+  },
+  {
+    "title": "STJ Academy: 2024 Fall Concert",
+    "path": "/vod/concerts/2024/sjafall20241030",
+    "nid": 2627,
+    "cablecastShowId": 13455,
+    "date": "2024-10-30",
+    "location": "St. Johnsbury Academy",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/sjafall20241030.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730565"
+  },
+  {
+    "title": "OLLI Fall 2024: Restorative Justice",
+    "path": "/vod/osher/2024/20241031",
+    "nid": 2628,
+    "cablecastShowId": 13473,
+    "date": "2024-10-31",
+    "location": "Catamount Arts",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/osher20241031.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730426"
+  },
+  {
+    "title": "What's Going On? D.O.D. Directive 5240.01 and More",
+    "path": "/vod/wgo/wgo20241031",
+    "nid": 2630,
+    "cablecastShowId": 13506,
+    "date": "2024-10-31",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20241031.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730752"
+  },
+  {
+    "title": "Saint Johnsbury: Halloween Parade 2024",
+    "path": "/vod/other/2024/stjhalloween20241031",
+    "nid": 2631,
+    "cablecastShowId": 13474,
+    "date": "2024-10-31",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjhalloween20241031.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1025730848"
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "title": "What's Going On? Exposure of Corruption",
+    "path": "/vod/wgo/wgo20250301",
+    "nid": 2736,
+    "cablecastShowId": 13944,
+    "date": "2025-03-01",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250301.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1061624221"
+  },
+  {
+    "title": "St. Johnsbury Informational Town Meeting, 3/3/25",
+    "path": "/vod/pubmtgs/2025/stjtownmeeting2025",
+    "nid": 2737,
+    "cablecastShowId": 2025030301,
+    "date": "2025-03-08",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjtownmeeting2025.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-townmeeting-20250305"
+  },
+  {
+    "title": "2025 Danville Basketball: Lady Bears vs. Rivendell",
+    "path": "/vod/sports/2025/danvillelbr20250305",
+    "nid": 2738,
+    "cablecastShowId": 13963,
+    "date": "2025-03-05",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillelbr20250305.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1063405832"
+  },
+  {
+    "title": "STJ HUB: 2025 Benefit Concert",
+    "path": "/vod/concerts/2025/stjhub20250308",
+    "nid": 2741,
+    "cablecastShowId": 13926,
+    "date": "2025-03-08",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjhub20250308.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1064980304"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/10/25",
+    "path": "/vod/stjselect/2025/20250310",
+    "nid": 2742,
+    "cablecastShowId": 13952,
+    "date": "2025-03-10",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250310.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-031025-13952"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/10/25 Special Meeting",
+    "path": "/vod/stjselect/2025/20250310sm",
+    "nid": 2743,
+    "cablecastShowId": 13976,
+    "date": "2025-03-10",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250310sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-specmtg-031025-13976"
+  },
+  {
+    "title": "St. J. Athenaeum: NEK People and History",
+    "path": "/vod/lectures/2025/stjath20250311",
+    "nid": 2744,
+    "cablecastShowId": 13953,
+    "date": "2025-03-11",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250311.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1065335939"
+  },
+  {
+    "title": "St. J. Athenaeum: NEK Council on Aging",
+    "path": "/vod/lectures/2025/stjath20250312",
+    "nid": 2745,
+    "cablecastShowId": 13954,
+    "date": "2025-03-12",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250312.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1065335715"
+  },
+  {
+    "title": "St. J. Athenaeum: David Martin",
+    "path": "/vod/lectures/2025/stjath20250312a",
+    "nid": 2746,
+    "cablecastShowId": 13955,
+    "date": "2025-03-12",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250312a.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251757"
+  },
+  {
+    "title": "What's Going On? DD-214 with Current Events",
+    "path": "/vod/wgo/wgo20250313",
+    "nid": 2747,
+    "cablecastShowId": 13991,
+    "date": "2025-03-13",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250313.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251478"
+  },
+  {
+    "title": "OLLI Spring 2025: A Celtic Concert",
+    "path": "/vod/osher/2025/20250313",
+    "nid": 2748,
+    "cablecastShowId": 13956,
+    "date": "2025-03-13",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250313.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251266"
+  },
+  {
+    "title": "St. J. Athenaeum: Chapters: Bob Joly",
+    "path": "/vod/studio/2025/20250313",
+    "nid": 2749,
+    "cablecastShowId": 13992,
+    "date": "2025-03-13",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250313.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251633"
+  },
+  {
+    "title": "St. J. Athenaeum: Chapters: Kacy Guill",
+    "path": "/vod/studio/2025/20250313a",
+    "nid": 2750,
+    "cablecastShowId": 13993,
+    "date": "2025-03-13",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20250313a.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066251690"
+  },
+  {
+    "title": "Groton Select Board, 3/19/25",
+    "path": "/vod/grotonselect/2025/20250319",
+    "nid": 2753,
+    "cablecastShowId": 13974,
+    "date": "2025-03-19",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250319.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-031925"
+  },
+  {
+    "title": "Lyndon Selectboard Meeting, 3/17/25",
+    "path": "/vod/pubmtgs/2025/lyndonselect20250317",
+    "nid": 2754,
+    "cablecastShowId": 14007,
+    "date": "2025-03-17",
+    "location": "Lyndon",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20250317.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-031725-14007"
+  },
+  {
+    "title": "OLLI Spring 2025: Anatomy Of Flooding In VT",
+    "path": "/vod/osher/2025/20250320",
+    "nid": 2752,
+    "cablecastShowId": 13975,
+    "date": "2025-03-20",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250320.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1068373461"
+  },
+  {
+    "title": "Danville Historical Society: Patriots In Petticoats",
+    "path": "/vod/lectures/2025/dhs20250326",
+    "nid": 2755,
+    "cablecastShowId": 14003,
+    "date": "2025-03-26",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/dhs20250326.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1070167204"
+  },
+  {
+    "title": "STJ Academy: 2025 Spring Concert",
+    "path": "/vod/concerts/2025/sja20250326",
+    "nid": 2756,
+    "cablecastShowId": 14004,
+    "date": "2025-03-26",
+    "location": "Fuller Hall, St. Johnsbury Academy",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/sja20250326.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1070166451"
+  },
+  {
+    "title": "What's Going On? Creating a Prison Planet",
+    "path": "/vod/wgo/wgo20250320",
+    "nid": 2758,
+    "cablecastShowId": 14024,
+    "date": "2025-03-20",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250320.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1070166038"
+  },
+  {
+    "title": "What's Going On? Creating a Prison Planet Cont.",
+    "path": "/vod/wgo/wgo20250327",
+    "nid": 2759,
+    "cablecastShowId": 14040,
+    "date": "2025-03-27",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250327.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1070166831"
+  },
+  {
+    "title": "OLLI Spring 2025: How To Spot Made-up, Misleading, And Murky Information",
+    "path": "/vod/osher/2025/20250327",
+    "nid": 2760,
+    "cablecastShowId": 14005,
+    "date": "2025-03-27",
+    "location": "Catamount Arts",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/osher20250327.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1072647180"
+  },
+  {
+    "title": "NEK Chamber: 3/31/25 Legislative Breakfast",
+    "path": "/vod/legbkfst/2025/20250331",
+    "nid": 2761,
+    "cablecastShowId": 14025,
+    "date": "2025-03-31",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/legbkfst20250331.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1072164328"
+  }
+]

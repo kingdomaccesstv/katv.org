@@ -1,0 +1,469 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 6/1/15",
+    "path": "/vod/stjschool/2015/060115",
+    "nid": 798,
+    "cablecastShowId": 3879,
+    "date": "2015-06-01",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-060115-3879"
+  },
+  {
+    "title": "Concord School Board, 6/1/15",
+    "path": "/vod/concordschool/2015/060115",
+    "nid": 799,
+    "cablecastShowId": 3880,
+    "date": "2015-06-01",
+    "location": "Concord School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-060115-3880"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/8/15",
+    "path": "/vod/stjselect/2015/060815",
+    "nid": 800,
+    "cablecastShowId": 3901,
+    "date": "2015-06-08",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-060815-3901"
+  },
+  {
+    "title": "Concord Select Board, 6/2/15",
+    "path": "/vod/concordselect/2015/060215",
+    "nid": 801,
+    "cablecastShowId": 3882,
+    "date": "2015-06-02",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-060215-3882"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/8/15",
+    "path": "/vod/stjschool/2015/060815",
+    "nid": 802,
+    "cablecastShowId": 3900,
+    "date": "2015-06-08",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-060815-3900"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 6/16/15",
+    "path": "/vod/stjselect/2015/plan061615",
+    "nid": 803,
+    "cablecastShowId": 3927,
+    "date": "2015-06-16",
+    "location": "St. Johnsbury Public Safety Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplanning-mtg-061615-3927"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/22/15",
+    "path": "/vod/stjselect/2015/062215",
+    "nid": 804,
+    "cablecastShowId": 3940,
+    "date": "2015-06-22",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive",
+    "videoId": "katv-show-3940"
+  },
+  {
+    "title": "St. Johnsbury Academy 2015 Graduation",
+    "path": "/vod/grad/sjagrad2015",
+    "nid": 793,
+    "cablecastShowId": 3878,
+    "date": "2015-06-01",
+    "location": "St. Johnsbury Academy",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "129955437"
+  },
+  {
+    "title": "It's Up to US!: THINK!",
+    "path": "/vod/studio/2015/iutu060315",
+    "nid": 796,
+    "cablecastShowId": 3894,
+    "date": "2015-06-03",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "129952172"
+  },
+  {
+    "title": "DART 2.0: Community Conversation, 6/9/15",
+    "path": "/vod/forums/2015/dart0601915",
+    "nid": 797,
+    "cablecastShowId": 3911,
+    "date": "2015-06-19",
+    "location": "North Church",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134171254"
+  },
+  {
+    "title": "It's Up to US: Taking Stock!",
+    "path": "/vod/studio/2015/iutu061015",
+    "nid": 807,
+    "cablecastShowId": 3919,
+    "date": "2015-06-10",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "131502674"
+  },
+  {
+    "title": "St. Johnsbury Chamber: Pet Parade 2015",
+    "path": "/vod/other/2015/petparade061315",
+    "nid": 808,
+    "cablecastShowId": 3926,
+    "date": "2015-06-13",
+    "location": "St. Johnsbury",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "131501151"
+  },
+  {
+    "title": "What's Going On? Jade Helm and the Eugenics",
+    "path": "/vod/wgo/wgo062015",
+    "nid": 809,
+    "cablecastShowId": 3934,
+    "date": "2015-06-20",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134078658"
+  },
+  {
+    "title": "It's Up to US: Huxley on Social Engineering part 2",
+    "path": "/vod/studio/2015/iutu062415",
+    "nid": 810,
+    "cablecastShowId": 3953,
+    "date": "2015-06-24",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "133310203"
+  },
+  {
+    "title": "What's Going On? Merkel and the Bankers",
+    "path": "/vod/wgo/wgo062415",
+    "nid": 811,
+    "cablecastShowId": 3955,
+    "date": "2015-06-24",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134079630"
+  },
+  {
+    "title": "Ralph Culver and Jack Pulaski",
+    "path": "/vod/forums/2015/ath062515",
+    "nid": 812,
+    "cablecastShowId": 3956,
+    "date": "2015-06-25",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "133316715"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Pumpkin Hill Singers, Pipe & Slippers",
+    "path": "/vod/stjath/2015/pumpkinhill061015",
+    "nid": 821,
+    "cablecastShowId": 3920,
+    "date": "2015-06-10",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134175244"
+  },
+  {
+    "title": "Neil Shepard & Peggy Sapphire",
+    "path": "/vod/stjath/2015/061115",
+    "nid": 822,
+    "cablecastShowId": 3925,
+    "date": "2015-06-11",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134172538"
+  },
+  {
+    "title": "Los Lorcas, Poetry in Performance",
+    "path": "/vod/stjath/2015/061815",
+    "nid": 823,
+    "cablecastShowId": 3938,
+    "date": "2015-06-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "135218239"
+  },
+  {
+    "title": "NVDA: VT Shoreland Protection Act",
+    "path": "/vod/lectures/2015/nvda063015",
+    "nid": 824,
+    "cablecastShowId": 3959,
+    "date": "2015-06-30",
+    "location": "Concord Town Hall",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134178429"
+  },
+  {
+    "title": "What's Going On? Jade Helm: Should Americans be Concerned?",
+    "path": "/vod/wgo/wgo060515",
+    "nid": 1156,
+    "cablecastShowId": 3899,
+    "date": "2015-06-05",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "134064788"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 5/4/20",
+    "path": "/vod/stjschool/2020/050420",
+    "nid": 1951,
+    "cablecastShowId": 8605,
+    "date": "2020-05-04",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-050420-8605"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/11/20",
+    "path": "/vod/stjselect/2020/051120",
+    "nid": 1954,
+    "cablecastShowId": 8658,
+    "date": "2020-05-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "8658-1-stjselect-051120-web"
+  },
+  {
+    "title": "CCSU Board of Directors, 5/18/20",
+    "path": "/vod/pubmeetings/2020/ccsubod051820",
+    "nid": 1956,
+    "cablecastShowId": 8678,
+    "date": "2020-05-18",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-051820-8678"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/26/20",
+    "path": "/vod/stjselect/2020/052620",
+    "nid": 1958,
+    "cablecastShowId": 8697,
+    "date": "2020-05-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052620-8697"
+  },
+  {
+    "title": "What's Going On? Operation Lockdown",
+    "path": "/vod/wgo/wgo050720",
+    "nid": 1952,
+    "cablecastShowId": 8648,
+    "date": "2020-05-07",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "416420926"
+  },
+  {
+    "title": "Rep. Peter Welch: Broadband Providers E-Roundtable, 5/11/20",
+    "path": "/vod/forums/2020/welchbroadband051120",
+    "nid": 1953,
+    "cablecastShowId": 8655,
+    "date": "2020-05-11",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "418994896"
+  },
+  {
+    "title": "What's Going On? Truth from Dr. Judy Mikovits",
+    "path": "/vod/wgo/wgo051420",
+    "nid": 1955,
+    "cablecastShowId": 8664,
+    "date": "2020-05-14",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "418992216"
+  },
+  {
+    "title": "What's Going On? 400th Show Recap",
+    "path": "/vod/wgo/wgo052120",
+    "nid": 1957,
+    "cablecastShowId": 8683,
+    "date": "2020-05-21",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "426636174"
+  }
+]

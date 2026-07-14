@@ -1,0 +1,964 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 3/11/19",
+    "path": "/vod/stjselect/2019/031119",
+    "nid": 1682,
+    "cablecastShowId": 7463,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-031119-7463"
+  },
+  {
+    "title": "St. Johnsbury School Board, 3/18/19",
+    "path": "/vod/stjschool/2019/031819",
+    "nid": 1686,
+    "cablecastShowId": 7495,
+    "date": "2019-03-18",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-031819-7495"
+  },
+  {
+    "title": "CCSU Board of Directors, 3/18/19",
+    "path": "/vod/pubmeetings/2019/ccsubod031819",
+    "nid": 1702,
+    "cablecastShowId": 7496,
+    "date": "2019-03-18",
+    "location": "Danville School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsu-bod-031819-7584"
+  },
+  {
+    "title": "St. Johnsbury Academy Spring Concert 2019",
+    "path": "/vod/concerts/2019/sjaspring032019",
+    "nid": 785,
+    "cablecastShowId": 7510,
+    "date": "2019-03-20",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "329147541"
+  },
+  {
+    "title": "First Wednesday: The Power of the Journey",
+    "path": "/vod/firstwed/2019/030619",
+    "nid": 1656,
+    "cablecastShowId": 7439,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324891685"
+  },
+  {
+    "title": "Rotary Basketball 2019: Barnet vs Colonel Town (B)",
+    "path": "/vod/sports/rotarybb2019--barnet-coloneltown",
+    "nid": 1657,
+    "cablecastShowId": 7443,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324299392"
+  },
+  {
+    "title": "Rotary Basketball 2019: Hardwick vs Colonel Town (G)",
+    "path": "/vod/sports/rotarybb2019--hardwick-coloneltown",
+    "nid": 1658,
+    "cablecastShowId": 7444,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324300981"
+  },
+  {
+    "title": "Rotary Basketball 2019: Kingdom East vs Barton (G)",
+    "path": "/vod/sports/rotarybb2019--kingdomeast-barton",
+    "nid": 1659,
+    "cablecastShowId": 7445,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324315450"
+  },
+  {
+    "title": "Rotary Basketball 2019: Kingdom East vs Brighton (B)",
+    "path": "/vod/sports/rotarybb2019--kingdomeast-brighton",
+    "nid": 1660,
+    "cablecastShowId": 7446,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324319058"
+  },
+  {
+    "title": "Rotary Basketball 2019: Barnet vs Glover (B)",
+    "path": "/vod/sports/rotarybb2019--barnet-glover",
+    "nid": 1661,
+    "cablecastShowId": 7450,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324840033"
+  },
+  {
+    "title": "Rotary Basketball 2019: Lyndon vs Danville (G)",
+    "path": "/vod/sports/rotarybb2019--lyndon-danville",
+    "nid": 1662,
+    "cablecastShowId": 7451,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324841555"
+  },
+  {
+    "title": "Rotary Basketball 2019: Kingdom East vs Danville (B)",
+    "path": "/vod/sports/rotarybb2019--kingdomeast-danvville",
+    "nid": 1663,
+    "cablecastShowId": 7452,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324845169"
+  },
+  {
+    "title": "Rotary Basketball 2019: Kingdom East vs Glover (G)",
+    "path": "/vod/sports/rotarybb2019--kingdomeast-glover",
+    "nid": 1664,
+    "cablecastShowId": 7459,
+    "date": "2019-03-09",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324852330"
+  },
+  {
+    "title": "Rotary Basketball 2019: Linwood vs Lyndon (B)",
+    "path": "/vod/sports/rotarybb2019--linwood-lyndon",
+    "nid": 1665,
+    "cablecastShowId": 7460,
+    "date": "2019-03-09",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324845888"
+  },
+  {
+    "title": "Rotary Basketball 2019: Barnet vs Colonel Town (G)",
+    "path": "/vod/sports/rotarybb2019-g-barnet-coloneltown",
+    "nid": 1666,
+    "cablecastShowId": 7462,
+    "date": "2019-03-09",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324849635"
+  },
+  {
+    "title": "Rotary Basketball 2019: Waterford vs Brighton (B)",
+    "path": "/vod/sports/rotarybb2019-b-waterford-brighton",
+    "nid": 1667,
+    "cablecastShowId": 7461,
+    "date": "2019-03-09",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324849763"
+  },
+  {
+    "title": "Rotary Basketball 2019: Colonel Town vs GSCS (B)",
+    "path": "/vod/sports/rotarybb2019--coloneltown-gscs",
+    "nid": 1668,
+    "cablecastShowId": 7465,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324891616"
+  },
+  {
+    "title": "Rotary Basketball 2019: Gorham vs Lyndon (B)",
+    "path": "/vod/sports/rotarybb2019-b-gorham-lyndon",
+    "nid": 1669,
+    "cablecastShowId": 7466,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324896493"
+  },
+  {
+    "title": "Rotary Basketball 2019: Waterford vs Kingdom East (G)",
+    "path": "/vod/sports/rotarybb2019-g-waterford-kingdomeast",
+    "nid": 1670,
+    "cablecastShowId": 7467,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324895671"
+  },
+  {
+    "title": "Rotary Basketball 2019: Kingdom East vs Linwood (B)",
+    "path": "/vod/sports/rotarybb2019-b-kingdomeast-linwood",
+    "nid": 1671,
+    "cablecastShowId": 7468,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury Academy",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324899286"
+  },
+  {
+    "title": "Rotary Basketball 2019: GSCS vs Lyndon (G)",
+    "path": "/vod/sports/rotarybb2019-g-gscs-lyndon",
+    "nid": 1672,
+    "cablecastShowId": 7469,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324899876"
+  },
+  {
+    "title": "Rotary Basketball 2019: GSCS vs Glover (B)",
+    "path": "/vod/sports/rotarybb2019-b-gscs-glover",
+    "nid": 1673,
+    "cablecastShowId": 7470,
+    "date": "2019-03-11",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324900943"
+  },
+  {
+    "title": "Rotary Basketball 2019: Barton vs Profile (G)",
+    "path": "/vod/sports/rotarybb2019-g-barnet-profile",
+    "nid": 1674,
+    "cablecastShowId": 7473,
+    "date": "2019-03-12",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "325362256"
+  },
+  {
+    "title": "Rotary Basketball 2019: Danville vs Lyndon (B)",
+    "path": "/vod/sports/rotarybb2019-b-danville-lyndon",
+    "nid": 1675,
+    "cablecastShowId": 7474,
+    "date": "2019-03-12",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "325361900"
+  },
+  {
+    "title": "Rotary Basketball 2019: Linwood vs Danville (B)",
+    "path": "/vod/sports/rotarybb2019-b-linwood-danville",
+    "nid": 1676,
+    "cablecastShowId": 7475,
+    "date": "2019-03-13",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "325364295"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Data Privacy",
+    "path": "/vod/lectures/2019/stjath030719",
+    "nid": 1679,
+    "cablecastShowId": 7448,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324322901"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Open Mic Poetry",
+    "path": "/vod/lectures/2019/stjath032019",
+    "nid": 1680,
+    "cablecastShowId": 7504,
+    "date": "2019-03-20",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "326071007"
+  },
+  {
+    "title": "Osher: Vermont's Musical Ladies",
+    "path": "/vod/osher/2019/031419",
+    "nid": 1681,
+    "cablecastShowId": 7492,
+    "date": "2019-03-14",
+    "location": "Catamount Arts",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "326062962"
+  },
+  {
+    "title": "I Am Vermont Too: Gladys Chambers",
+    "path": "/vod/studio/2019/iamvt031419",
+    "nid": 1683,
+    "cablecastShowId": 7497,
+    "date": "2019-03-14",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "I Am Vermont Too",
+        "path": "/vod/studio/iamvttoo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "326058974"
+  },
+  {
+    "title": "In & Around St. J: Irene Nagle, NVDA",
+    "path": "/vod/studio/2019/iastj031219",
+    "nid": 1684,
+    "cablecastShowId": 7464,
+    "date": "2019-03-12",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324888267"
+  },
+  {
+    "title": "Listening Session: Lt. Gov. David Zuckerman",
+    "path": "/vod/forums/2019/listeningsession031819",
+    "nid": 1685,
+    "cablecastShowId": 7498,
+    "date": "2019-03-18",
+    "location": "The Boxcar and Caboose",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "326071943"
+  },
+  {
+    "title": "Osher: White-tailed Deer, Forest Denizen",
+    "path": "/vod/osher/2019/032119",
+    "nid": 1687,
+    "cablecastShowId": 7509,
+    "date": "2019-03-21",
+    "location": "Catamount Arts",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "329143788"
+  },
+  {
+    "title": "Rotary Basketball 2019: Lyndon vs Waterford (B)",
+    "path": "/vod/sports/rotarybb2019-b-lyndon-waterford",
+    "nid": 1692,
+    "cablecastShowId": 7454,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "324841555"
+  },
+  {
+    "title": "Rotary Basketball 2019: Glover vs Waterford (G)",
+    "path": "/vod/sports/rotarybb2019-g-glover-waterford",
+    "nid": 1693,
+    "cablecastShowId": 7455,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "326240565"
+  },
+  {
+    "title": "Rotary Basketball 2019: Waterford vs Lyndon (G)",
+    "path": "/vod/sports/rotarybb2019-g-waterford-lyndon",
+    "nid": 1698,
+    "cablecastShowId": 7440,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "331919621"
+  },
+  {
+    "title": "Rotary Basketball 2019: GSCS vs Hardwick (B)",
+    "path": "/vod/sports/rotarybb2019-b-gscs-hardwick",
+    "nid": 1699,
+    "cablecastShowId": 7441,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "331921080"
+  },
+  {
+    "title": "Rotary Basketball 2019: Profile vs Barnet (G)",
+    "path": "/vod/sports/rotarybb2019-g-profile-barnet",
+    "nid": 1700,
+    "cablecastShowId": 7442,
+    "date": "2019-03-06",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "331923552"
+  },
+  {
+    "title": "Rotary Basketball 2019: Gorham vs Newport (B)",
+    "path": "/vod/sports/rotarybb2019-b-gorham-newport",
+    "nid": 1701,
+    "cablecastShowId": 7453,
+    "date": "2019-03-07",
+    "location": "St. Johnsbury School",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "331925257"
+  },
+  {
+    "title": "What's Going On? Are We in a State of Civil War?",
+    "path": "/vod/wgo/wgo030719",
+    "nid": 1755,
+    "cablecastShowId": 7449,
+    "date": "2019-03-07",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "343948635"
+  },
+  {
+    "title": "What's Going On? How Your Congressmen Are Created",
+    "path": "/vod/wgo/wgo032119",
+    "nid": 1756,
+    "cablecastShowId": 7508,
+    "date": "2019-03-21",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "343955279"
+  },
+  {
+    "title": "Osher: Genealogy and Genetics",
+    "path": "/vod/osher/2019/032819",
+    "nid": 1792,
+    "cablecastShowId": 7528,
+    "date": "2019-03-28",
+    "location": "Catamount Arts",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "359447376"
+  },
+  {
+    "title": "NVDA Economic Forum: Rebecca Sanborn Stone",
+    "path": "/vod/forums/2019/nvda032919",
+    "nid": 1793,
+    "cablecastShowId": 7529,
+    "date": "2019-03-29",
+    "location": "Burke Mountain",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "359444020"
+  }
+]

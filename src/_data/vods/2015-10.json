@@ -1,0 +1,557 @@
+[
+  {
+    "title": "Concord School Board, 10/5/15",
+    "path": "/vod/concordschool/2015/100515",
+    "nid": 872,
+    "cablecastShowId": 4217,
+    "date": "2015-10-05",
+    "location": "Concord School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-100515-4217"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/5/15",
+    "path": "/vod/stjschool/2015/100515",
+    "nid": 873,
+    "cablecastShowId": 4218,
+    "date": "2015-10-05",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-100515-4218"
+  },
+  {
+    "title": "Concord Select Board, 10/6/15",
+    "path": "/vod/concordselect/2015/100615",
+    "nid": 874,
+    "cablecastShowId": 4220,
+    "date": "2015-10-06",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-100615-4220"
+  },
+  {
+    "title": "St. Johnsbury Planning and Zoning Public Hearing, 10/7/15",
+    "path": "/vod/stjselect/2015/planzone100715",
+    "nid": 875,
+    "cablecastShowId": 4223,
+    "date": "2015-10-07",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-zone-100715-4223"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/19/15",
+    "path": "/vod/stjschool/2015/101915",
+    "nid": 876,
+    "cablecastShowId": 4251,
+    "date": "2015-10-19",
+    "location": "St. Johnsbury School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-101915-4251"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 10/20/15",
+    "path": "/vod/stjselect/2015/plan102015",
+    "nid": 877,
+    "cablecastShowId": 4253,
+    "date": "2015-10-20",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-102015-4253"
+  },
+  {
+    "title": "St. Johnsbury Legislative Listening Session, 10/26/15",
+    "path": "/vod/stjselect/2015/102615leglisten",
+    "nid": 878,
+    "cablecastShowId": 4283,
+    "date": "2015-10-26",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stj-leg-102615-4283"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/26/15",
+    "path": "/vod/stjselect/2015/102615",
+    "nid": 879,
+    "cablecastShowId": 4284,
+    "date": "2015-10-26",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-102615-4284"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/12/15",
+    "path": "/vod/stjselect/2015/101215",
+    "nid": 1141,
+    "cablecastShowId": 4238,
+    "date": "2015-10-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-101215-4238_201701"
+  },
+  {
+    "title": "Making the Familiar Strange",
+    "path": "/vod/stjath/2015/stjath100115",
+    "nid": 851,
+    "cablecastShowId": 4215,
+    "date": "2015-10-01",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142847725"
+  },
+  {
+    "title": "Umbrella: Benefit Fashion Show and Auction",
+    "path": "/vod/other/2015/umbrella100315",
+    "nid": 853,
+    "cablecastShowId": 4219,
+    "date": "2015-10-03",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142855099"
+  },
+  {
+    "title": "First Wednesdays: What if Poor Women Ran the World?",
+    "path": "/vod/firstwed/2015/100715",
+    "nid": 855,
+    "cablecastShowId": 4235,
+    "date": "2015-10-07",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142886710"
+  },
+  {
+    "title": "NVDA: VT's Comp. Energy Plan Hearing Northeast",
+    "path": "/vod/forums/2015/nvda100715",
+    "nid": 857,
+    "cablecastShowId": 4222,
+    "date": "2015-10-07",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142864045"
+  },
+  {
+    "title": "Fairbanks Museum: Solar Array Ribbon Cutting",
+    "path": "/vod/forums/2015/fairbanks100815",
+    "nid": 858,
+    "cablecastShowId": 4237,
+    "date": "2015-10-08",
+    "location": "Fairbanks Museum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142885532"
+  },
+  {
+    "title": "NCIC Celebrates 40 Years: Creating Vibrant Communities",
+    "path": "/vod/forums/2015/ncic100815",
+    "nid": 859,
+    "cablecastShowId": 4236,
+    "date": "2015-10-08",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142880645"
+  },
+  {
+    "title": "111th LI vs SJA Football 2015",
+    "path": "/vod/sports/stjli2015",
+    "nid": 862,
+    "cablecastShowId": 4250,
+    "date": "2015-10-17",
+    "location": "Lyndon Institute",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "SJA vs LI Football",
+        "path": "/vod/sports/sjlifb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "143488940"
+  },
+  {
+    "title": "Northern Counties Health Care: Annual Meeting 2015",
+    "path": "/vod/forums/2015/nchc102115",
+    "nid": 863,
+    "cablecastShowId": 4254,
+    "date": "2015-10-21",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "143491151"
+  },
+  {
+    "title": "Community Conversation: Marijuana Legalization",
+    "path": "/vod/forums/2015/commforum102315",
+    "nid": 864,
+    "cablecastShowId": 4255,
+    "date": "2015-10-23",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "143495543"
+  },
+  {
+    "title": "In & Around St. J.: Compassionate Capitalism",
+    "path": "/vod/studio/2015/iastj101315",
+    "nid": 884,
+    "cablecastShowId": 4243,
+    "date": "2015-10-13",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "147189095"
+  },
+  {
+    "title": "It's Up to US!: Would You WANT TO KNOW?",
+    "path": "/vod/studio/2015/iutu102015",
+    "nid": 885,
+    "cablecastShowId": 4268,
+    "date": "2015-10-20",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "147195351"
+  },
+  {
+    "title": "It's Up to US!: Oh Beautiful for Spacious Skies!",
+    "path": "/vod/studio/2015/iutu102715",
+    "nid": 886,
+    "cablecastShowId": 4293,
+    "date": "2015-10-27",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "147199455"
+  },
+  {
+    "title": "CNSU: High School Choice Fair",
+    "path": "/vod/forums/2015/cnsu100615",
+    "nid": 907,
+    "cablecastShowId": 4221,
+    "date": "2015-10-06",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "147813101"
+  },
+  {
+    "title": "What's Going On? Do You Own Your Land?",
+    "path": "/vod/wgo/wgo101515",
+    "nid": 1161,
+    "cablecastShowId": 4249,
+    "date": "2015-10-15",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201605463"
+  },
+  {
+    "title": "What's Going On? Do You Live in a Federal District?",
+    "path": "/vod/wgo/wgo102115",
+    "nid": 1162,
+    "cablecastShowId": 4280,
+    "date": "2015-10-21",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201606703"
+  },
+  {
+    "title": "What's Going On? The End of U.S.",
+    "path": "/vod/wgo/wgo100715",
+    "nid": 1182,
+    "cablecastShowId": 4234,
+    "date": "2015-10-07",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "203757205"
+  }
+]

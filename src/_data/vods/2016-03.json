@@ -1,0 +1,554 @@
+[
+  {
+    "title": "St. Johnsbury Legislative Listening Session, 3/2/16",
+    "path": "/vod/stjselect/2016/leglisten030216",
+    "nid": 932,
+    "cablecastShowId": 4580,
+    "date": "2016-03-02",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv--stjleglisten-mtg-030216-4580"
+  },
+  {
+    "title": "Concord School Board, 3/7/16",
+    "path": "/vod/concordschool/2016/030716",
+    "nid": 933,
+    "cablecastShowId": 4585,
+    "date": "2016-03-07",
+    "location": "Concord School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-030716-4585"
+  },
+  {
+    "title": "Concord Select Board, 3/8/16",
+    "path": "/vod/concordselect/2016/030816",
+    "nid": 935,
+    "cablecastShowId": 4586,
+    "date": "2016-03-08",
+    "location": "Concord Municipal Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-030816-4586"
+  },
+  {
+    "title": "St. Johnsbury School Board, 3/21/16",
+    "path": "/vod/stjschool/2016/032116",
+    "nid": 946,
+    "cablecastShowId": 4625,
+    "date": "2016-03-21",
+    "location": "St. Johnsbury School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-032116-4625"
+  },
+  {
+    "title": "St. Johnsbury Select Board, Special Meeting 3/23/16",
+    "path": "/vod/stjselect/2016/032316",
+    "nid": 947,
+    "cablecastShowId": 4634,
+    "date": "2016-03-23",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032416-4634"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/28/16",
+    "path": "/vod/stjselect/2016/032816",
+    "nid": 948,
+    "cablecastShowId": 4642,
+    "date": "2016-03-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032816"
+  },
+  {
+    "title": "Lyndon Institute: A Lyndon Home Companion",
+    "path": "/vod/concerts/2016/li032916",
+    "nid": 748,
+    "cablecastShowId": 4653,
+    "date": "2016-03-29",
+    "location": "Lyndon Institute",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "167391468"
+  },
+  {
+    "title": "St. Johnsbury Academy Spring Concert 2016",
+    "path": "/vod/concerts/2016/sjaspring032416",
+    "nid": 777,
+    "cablecastShowId": 4633,
+    "date": "2016-03-24",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "167378832"
+  },
+  {
+    "title": "In & Around St. J.: Spring 2016 Events",
+    "path": "/vod/studio/2016/iastj030816",
+    "nid": 934,
+    "cablecastShowId": 4590,
+    "date": "2016-03-08",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161267826"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Girls Division C]",
+    "path": "/vod/sports/rotary2016girlsC",
+    "nid": 937,
+    "cablecastShowId": 4600,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161273454"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Girls Division B]",
+    "path": "/vod/sports/rotary2016girlsB",
+    "nid": 938,
+    "cablecastShowId": 4602,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "166457236"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Girls Division A]",
+    "path": "/vod/sports/rotary2016girlsA",
+    "nid": 939,
+    "cablecastShowId": 4604,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161277446"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Boys Division A]",
+    "path": "/vod/sports/rotary2016boysA",
+    "nid": 940,
+    "cablecastShowId": 4605,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161279981"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Boys Division B]",
+    "path": "/vod/sports/rotary2016boysB",
+    "nid": 941,
+    "cablecastShowId": 4603,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161272141"
+  },
+  {
+    "title": "Rotary Basketball 2016 [Boys Division C]",
+    "path": "/vod/sports/rotary2016boysC",
+    "nid": 942,
+    "cablecastShowId": 4601,
+    "date": "2016-03-12",
+    "location": "St. Johnsbury Academy",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161275338"
+  },
+  {
+    "title": "Main Street Arts: Organ Concert",
+    "path": "/vod/lectures/2016/organ031316",
+    "nid": 943,
+    "cablecastShowId": 4610,
+    "date": "2016-03-13",
+    "location": "North Congregational Church",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161289083"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Poetry of Larry Levis, A&C Lecture",
+    "path": "/vod/stjath/2016/stjath031616",
+    "nid": 944,
+    "cablecastShowId": 4616,
+    "date": "2016-03-16",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161284382"
+  },
+  {
+    "title": "Osher: A Case History of ALS",
+    "path": "/vod/osher/2016/031716",
+    "nid": 945,
+    "cablecastShowId": 4617,
+    "date": "2016-03-17",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "161290915"
+  },
+  {
+    "title": "Legislative Breakfast, March 2016",
+    "path": "/vod/legbkfst/2016/032816",
+    "nid": 951,
+    "cablecastShowId": 4641,
+    "date": "2016-03-28",
+    "location": "St. Johnsbury House",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "167378808"
+  },
+  {
+    "title": "Osher: MSF Volunteer in South Sudan",
+    "path": "/vod/osher/2016/033116",
+    "nid": 952,
+    "cablecastShowId": 4654,
+    "date": "2016-03-31",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "167385911"
+  },
+  {
+    "title": "What's Going On? Controllers Have a Plan For You",
+    "path": "/vod/wgo/wgo030516",
+    "nid": 1169,
+    "cablecastShowId": 4582,
+    "date": "2016-03-05",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201628725"
+  },
+  {
+    "title": "What's Going On? Putin's Plan",
+    "path": "/vod/wgo/wgo030916",
+    "nid": 1170,
+    "cablecastShowId": 4596,
+    "date": "2016-03-09",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201633344"
+  },
+  {
+    "title": "What's Going On? Why Are They Afraid of Trump?",
+    "path": "/vod/wgo/wgo032416",
+    "nid": 1171,
+    "cablecastShowId": 4632,
+    "date": "2016-03-24",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "201635221"
+  },
+  {
+    "title": "What's Going On? Anti-Hoarding Laws",
+    "path": "/vod/wgo/wgo033016",
+    "nid": 1183,
+    "cablecastShowId": 4651,
+    "date": "2016-03-30",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "203757578"
+  }
+]

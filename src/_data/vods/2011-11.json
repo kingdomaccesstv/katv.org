@@ -1,0 +1,270 @@
+[
+  {
+    "title": "Concord Select Board, 11/3/11",
+    "path": "/vod/concordselect/2011/110311",
+    "nid": 16,
+    "cablecastShowId": 1234,
+    "date": "2011-11-03",
+    "location": "Concord Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "31987704"
+  },
+  {
+    "title": "Osher: Capturing Severe Weather through Photos",
+    "path": "/vod/osher/2011/111011",
+    "nid": 17,
+    "cablecastShowId": 123,
+    "date": "2011-11-10",
+    "location": "Catamount Arts",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "31990476"
+  },
+  {
+    "title": "First Wednesdays: Horses Like Lightning",
+    "path": "/vod/firstwed/2011/1102011",
+    "nid": 22,
+    "cablecastShowId": 4321,
+    "date": "2011-11-02",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "31880644"
+  },
+  {
+    "title": "St. Johnsbury School Board, 11/7/11 ",
+    "path": "/vod/stjschool/2011/110711",
+    "nid": 52,
+    "cablecastShowId": 1158,
+    "date": "2011-11-07",
+    "location": "St. Johnsbury School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "32352072"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 11/15/11 ",
+    "path": "/vod/stjselect/2011/plan111511",
+    "nid": 53,
+    "cablecastShowId": 1177,
+    "date": "2011-11-15",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "32355219"
+  },
+  {
+    "title": "NEK Chamber: Business Celebration 2011",
+    "path": "/vod/other/2011/nekbuscel2011",
+    "nid": 54,
+    "cablecastShowId": 1167,
+    "date": "2011-11-10",
+    "location": "Black Bear Tavern",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      },
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "32718529"
+  },
+  {
+    "title": "St. Johnsbury Planning Board, 11/17/11 ",
+    "path": "/vod/stjselect/2011/plan111711",
+    "nid": 55,
+    "cablecastShowId": 1176,
+    "date": "2011-11-17",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "32947338"
+  },
+  {
+    "title": "Music of the Civil War: Benefit Concert ",
+    "path": "/vod/concerts/2011/civwar110411",
+    "nid": 56,
+    "cablecastShowId": 1156,
+    "date": "2011-11-04",
+    "location": "North Church",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33052372"
+  },
+  {
+    "title": "Concord School Board, 11/22/11 ",
+    "path": "/vod/concordschool/2011/112211",
+    "nid": 57,
+    "cablecastShowId": 1189,
+    "date": "2011-11-22",
+    "location": "Concord School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33058240"
+  },
+  {
+    "title": "NEK Community Orchestra: Fall Concert 2011",
+    "path": "/vod/concerts/2011/nekco111811",
+    "nid": 58,
+    "cablecastShowId": 1192,
+    "date": "2011-11-18",
+    "location": "Lyndon State College",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33700097"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 11/28/11",
+    "path": "/vod/stjselect/2011/112811",
+    "nid": 59,
+    "cablecastShowId": 1205,
+    "date": "2011-11-28",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33578173"
+  },
+  {
+    "title": "Osher: Current Status Of Renewable Energy Resources and Sources In Vermont",
+    "path": "/vod/osher/111611",
+    "nid": 66,
+    "cablecastShowId": 1185,
+    "date": "2011-11-16",
+    "location": "Lyndon State College",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34691481"
+  }
+]

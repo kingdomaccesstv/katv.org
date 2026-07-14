@@ -1,0 +1,465 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 2/6/17",
+    "path": "/vod/stjschool/2017/020617",
+    "nid": 1179,
+    "cablecastShowId": 5338,
+    "date": "2017-02-06",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-020617-5338"
+  },
+  {
+    "title": "Concord Select Board, 2/7/17",
+    "path": "/vod/concordselect/2017/020717",
+    "nid": 1193,
+    "cablecastShowId": 5342,
+    "date": "2017-02-07",
+    "location": "Concord Municipal Building",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-020717-5342"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/13/17",
+    "path": "/vod/stjselect/2017/021317",
+    "nid": 1206,
+    "cablecastShowId": 5358,
+    "date": "2017-02-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021317-5358"
+  },
+  {
+    "title": "St. Johnsbury School Board, 2/20/17",
+    "path": "/vod/stjschool/2017/022017",
+    "nid": 1207,
+    "cablecastShowId": 5375,
+    "date": "2017-02-20",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-022017-5375"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 2/21/17",
+    "path": "/vod/stjselect/2017/022117plan",
+    "nid": 1208,
+    "cablecastShowId": 5381,
+    "date": "2017-02-21",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-022117-5381"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/27/17",
+    "path": "/vod/stjselect/2017/022717",
+    "nid": 1210,
+    "cablecastShowId": 5400,
+    "date": "2017-02-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022717-5400"
+  },
+  {
+    "title": "Danville School: Winter 2017 Benefit Concert",
+    "path": "/vod/concerts/2017/danville021117",
+    "nid": 743,
+    "cablecastShowId": 5362,
+    "date": "2017-02-11",
+    "location": "Danville Congregational Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "204646172"
+  },
+  {
+    "title": "NEK Community Orchestra: Winter Concert 2017",
+    "path": "/vod/concerts/2017/nekco020517",
+    "nid": 766,
+    "cablecastShowId": 5337,
+    "date": "2017-02-05",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "203660265"
+  },
+  {
+    "title": "In & Around St. J: Rural Development",
+    "path": "/vod/studio/2017/iastj020717",
+    "nid": 1178,
+    "cablecastShowId": 5316,
+    "date": "2017-02-07",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "203657226"
+  },
+  {
+    "title": "In & Around St. J: NEK Events, February 2017",
+    "path": "/vod/studio/2017/iastj021417",
+    "nid": 1180,
+    "cablecastShowId": 5363,
+    "date": "2017-02-14",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "204643658"
+  },
+  {
+    "title": "Vermont Agricultural Economy: Listening Session",
+    "path": "/vod/forums/2017/vteco021017",
+    "nid": 1194,
+    "cablecastShowId": 5352,
+    "date": "2017-02-10",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "205628581"
+  },
+  {
+    "title": "In & Around St. J: Power Outage Planning",
+    "path": "/vod/studio/2017/iastj022117",
+    "nid": 1195,
+    "cablecastShowId": 5383,
+    "date": "2017-02-21",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "205625255"
+  },
+  {
+    "title": "Vermont Legislative Outreach: St. Johnsbury Forum",
+    "path": "/vod/forums/2017/vtleg022217",
+    "nid": 1196,
+    "cablecastShowId": 5388,
+    "date": "2017-02-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "205630340"
+  },
+  {
+    "title": "Legislative Breakfast, February 2017",
+    "path": "/vod/legbkfst/2017/022717",
+    "nid": 1209,
+    "cablecastShowId": 5395,
+    "date": "2017-02-27",
+    "location": "St. Johnsbury House",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "206763718"
+  },
+  {
+    "title": "NEK Youth Services: Cabin Fever Reliever",
+    "path": "/vod/studio/2017/nekys022817",
+    "nid": 1211,
+    "cablecastShowId": 5404,
+    "date": "2017-02-28",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "206768573"
+  },
+  {
+    "title": "Health and Wellness: A Healthy Lifestyle",
+    "path": "/vod/studio/2017/healthwell022817",
+    "nid": 1212,
+    "cablecastShowId": 5403,
+    "date": "2017-02-28",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "206766074"
+  },
+  {
+    "title": "Aspire Workshops: Circle of Support Orientation",
+    "path": "/vod/forums/2017/aspire022817",
+    "nid": 1213,
+    "cablecastShowId": 5401,
+    "date": "2017-02-28",
+    "location": "Springfield College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "206768915"
+  },
+  {
+    "title": "What's Going On? Battle of Centuries, People vs Bankers",
+    "path": "/vod/wgo/wgo020817",
+    "nid": 1219,
+    "cablecastShowId": 5351,
+    "date": "2017-02-08",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207759220"
+  },
+  {
+    "title": "What's Going On? Bill Flick, Stop Fake News",
+    "path": "/vod/wgo/wgo022217",
+    "nid": 1220,
+    "cablecastShowId": 5394,
+    "date": "2017-02-22",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207749527"
+  },
+  {
+    "title": "What's Going On? Trump Falls for Trap",
+    "path": "/vod/wgo/wgo021617",
+    "nid": 1305,
+    "cablecastShowId": 5369,
+    "date": "2017-02-16",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "224009629"
+  },
+  {
+    "title": "NEKCA Prosperity Fund",
+    "path": "/vod/studio/2019/nekca082119",
+    "nid": 1791,
+    "cablecastShowId": 7942,
+    "date": "2017-02-28",
+    "location": "KATV Studio",
+    "year": "2019",
+    "yearPath": "/vod/year/2019",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "362732821"
+  }
+]

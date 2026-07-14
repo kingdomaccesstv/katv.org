@@ -1,0 +1,495 @@
+[
+  {
+    "title": "Concord Select Board, 12/2/25",
+    "path": "/vod/concordselect/2025/20251202",
+    "nid": 2904,
+    "cablecastShowId": 14725,
+    "date": "2025-12-02",
+    "location": "Concord Municipal Building",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/concordselect20251202.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-120225-14725"
+  },
+  {
+    "title": "What's Going On? Clemency, Corruption and Profit",
+    "path": "/vod/node/2905",
+    "nid": 2905,
+    "cablecastShowId": 14761,
+    "date": "2025-12-04",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20251204.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1144134761"
+  },
+  {
+    "title": "St. J. Athenaeum: NEK Author Tyler Alexander",
+    "path": "/vod/stjath/2025/20251204",
+    "nid": 2906,
+    "cablecastShowId": 14727,
+    "date": "2025-12-04",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20251204.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1144132932"
+  },
+  {
+    "title": "Lyndon Institute: 2025 Holiday Concert",
+    "path": "/vod/concerts/2025/liholiday2025",
+    "nid": 2907,
+    "cablecastShowId": 14726,
+    "date": "2025-12-04",
+    "location": "Lyndon Institute",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/liholiday2025.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146232449"
+  },
+  {
+    "title": "North Country Chorus: 2025 Holiday Concert",
+    "path": "/vod/concerts/2025/ncc20251206",
+    "nid": 2908,
+    "cablecastShowId": 14728,
+    "date": "2025-12-06",
+    "location": "UBC Church",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/ncc20251206.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146184552"
+  },
+  {
+    "title": "Caledonia Food Co-op: 12/7/25 Public Meeting",
+    "path": "/vod/other/2025/calfoodcoop20251207",
+    "nid": 2909,
+    "cablecastShowId": 14770,
+    "date": "2025-12-07",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/calfoodcoop20251207.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146184335"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/8/25",
+    "path": "/vod/stjselect/2025/20251208",
+    "nid": 2910,
+    "cablecastShowId": 14744,
+    "date": "2025-12-08",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20251208.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-120825-14744"
+  },
+  {
+    "title": "Kingdom Dulcimers at the St. J Athenaeum",
+    "path": "/vod/stjath/2025/20251210",
+    "nid": 2911,
+    "cablecastShowId": 14782,
+    "date": "2025-12-10",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20251210.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146232357"
+  },
+  {
+    "title": "What's Going On? Murder, Unaccounted Funds, and Your Sweat Equity",
+    "path": "/vod/wgo/wgo20251211",
+    "nid": 2912,
+    "cablecastShowId": 14781,
+    "date": "2025-12-11",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20251211.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1146232535"
+  },
+  {
+    "title": "Danville School District Meeting, 12/6/25 Special Meeting",
+    "path": "/vod/pubmtgs/2025/danvilleschool20251206",
+    "nid": 2913,
+    "cablecastShowId": 14777,
+    "date": "2025-12-06",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvilleschool20251206.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147517111"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/8/25",
+    "path": "/vod/stjschool/2025/20251208",
+    "nid": 2914,
+    "cablecastShowId": 14743,
+    "date": "2025-12-08",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjschool20251208.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-120825-14743"
+  },
+  {
+    "title": "St. J. Athenaeum: 2025 St. J Sparkles Holiday Celebration",
+    "path": "/vod/stjath/2025/20251213a",
+    "nid": 2915,
+    "cablecastShowId": 14747,
+    "date": "2025-12-13",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20251213a.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147023690"
+  },
+  {
+    "title": "St. J. Sparkles: Highlands View Chamber Ensemble",
+    "path": "/vod/concerts/2025/20251213",
+    "nid": 2916,
+    "cablecastShowId": 14748,
+    "date": "2025-12-13",
+    "location": "St. Andrews Church, St. J",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjath20251213.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147024057"
+  },
+  {
+    "title": "Danville School: 2025, HS Winter Concert",
+    "path": "/vod/concerts/2025/danville20251216",
+    "nid": 2917,
+    "cablecastShowId": 14787,
+    "date": "2025-12-16",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville20251216.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147516907"
+  },
+  {
+    "title": "Press Conf. Treasurer Pieciak: Baby Bonds Pilot Program In NEK",
+    "path": "/vod/other/2025/bonds20251216",
+    "nid": 2918,
+    "cablecastShowId": 14788,
+    "date": "2025-12-16",
+    "location": "Lyndon Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/bonds20251216.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147713162"
+  },
+  {
+    "title": "Danville School: 2025, 6-8 Winter Concert",
+    "path": "/vod/concerts/2025/danville6820251216",
+    "nid": 2920,
+    "cablecastShowId": 14786,
+    "date": "2025-12-16",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville6820251216.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147712805"
+  },
+  {
+    "title": "STJ Academy: 2025 Holiday Concert",
+    "path": "/vod/concerts/2025/sja20251217",
+    "nid": 2921,
+    "cablecastShowId": 14775,
+    "date": "2025-12-17",
+    "location": "Fuller Hall, St. Johnsbury Academy",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/sja20251217.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1147888848"
+  },
+  {
+    "title": "Groton Select Board, 12/18/25",
+    "path": "/vod/grotonselect/2025/20251218",
+    "nid": 2922,
+    "cablecastShowId": 14774,
+    "date": "2025-12-18",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20251218.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-121825-14774"
+  },
+  {
+    "title": "Danville School District, 12/17/25 Special Meeting",
+    "path": "/vod/pubmtgs/2025/danvilleschool20251217",
+    "nid": 2923,
+    "cablecastShowId": 14745,
+    "date": "2025-12-17",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvilleschool20251217.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-specmtg-121725-14745"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/22/25",
+    "path": "/vod/stjselect/2025/20251222",
+    "nid": 2924,
+    "cablecastShowId": 14789,
+    "date": "2025-12-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20251222.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122225-14789"
+  },
+  {
+    "title": "Hanging Out at the Bird Feeder",
+    "path": "/vod/other/2025/20251229",
+    "nid": 2926,
+    "cablecastShowId": 14818,
+    "date": "2025-12-29",
+    "location": "Cabot",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/bf20251229.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1151102614"
+  },
+  {
+    "title": "Lyndon Select Board, 12/15/25",
+    "path": "/vod/pubmtgs/2025/lyndonselect20251215",
+    "nid": 2919,
+    "cablecastShowId": 14772,
+    "date": "2025-12-15",
+    "location": "Lyndon Municipal Building",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20251215.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-121525-14772"
+  },
+  {
+    "title": "Lyndon Select Board, 12/1/25",
+    "path": "/vod/lyndonselect/2025/20251201",
+    "nid": 2903,
+    "cablecastShowId": 14724,
+    "date": "2025-12-01",
+    "location": "Lyndon",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20251201.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-120125-14724"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "title": "OLLI Spring 2026: Bobcat & Canada Lynx",
+    "path": "/vod/osher/2026/20260402",
+    "nid": 2978,
+    "cablecastShowId": 15051,
+    "date": "2026-04-02",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260402.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1180799501"
+  },
+  {
+    "title": "Lyndon Select Board, 4/6/26",
+    "path": "/vod/lyndonselect/2026/20260406",
+    "nid": 2979,
+    "cablecastShowId": 15071,
+    "date": "2026-04-06",
+    "location": "Lyndon",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260406.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-040626-15079"
+  },
+  {
+    "title": "Concord Select Board, 4/7/26",
+    "path": "/vod/concordselect/2026/20260407",
+    "nid": 2980,
+    "cablecastShowId": 15080,
+    "date": "2026-04-07",
+    "location": "Concord",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/concordselect20260407.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-040726-15080"
+  },
+  {
+    "title": "Lyndon Inst.: 2026 Spring Concert",
+    "path": "/vod/concerts/2026/li20260410",
+    "nid": 2981,
+    "cablecastShowId": 15084,
+    "date": "2026-04-10",
+    "location": "Lyndon Institute",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/lispring20260410.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1182483194"
+  },
+  {
+    "title": "OLLI Spring 2026: WOMEN BUILD PLANES",
+    "path": "/vod/osher/2026/20260409",
+    "nid": 2982,
+    "cablecastShowId": 15083,
+    "date": "2026-04-09",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260409.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1182486536"
+  },
+  {
+    "title": "Barnet School: 2026 Spring Musical",
+    "path": "/vod/concerts/2026/barnet20260414",
+    "nid": 2983,
+    "cablecastShowId": 15103,
+    "date": "2026-04-14",
+    "location": "Barnet",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/barnet20260414.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184158393"
+  },
+  {
+    "title": "St. J. Window Dressers: Affordable Weatherization Inserts",
+    "path": "/vod/other/2026/stjwindows20260407",
+    "nid": 2984,
+    "cablecastShowId": 15143,
+    "date": "2026-04-07",
+    "location": "KATV Studio",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjwindows20260407.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184157920"
+  },
+  {
+    "title": "St. J. Athenaeum: David Childs, Piano Concert",
+    "path": "/vod/stjath/2026/20260416",
+    "nid": 2985,
+    "cablecastShowId": 15169,
+    "date": "2026-04-16",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260416.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184157973"
+  },
+  {
+    "title": "OLLI Spring 2026: Northeast Kingdom Council On Aging Programs",
+    "path": "/vod/osher/2026/20260416",
+    "nid": 2986,
+    "cablecastShowId": 15104,
+    "date": "2026-04-16",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260416.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184157562"
+  },
+  {
+    "title": "St. J. Athenaeum: Tom Stamp",
+    "path": "/vod/stjath/2026/20260417",
+    "nid": 2988,
+    "cablecastShowId": 15105,
+    "date": "2026-04-17",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260417.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184696692"
+  },
+  {
+    "title": "St. J. Athenaeum: Bringing Up Beaver",
+    "path": "/vod/stjath/2026/20260418",
+    "nid": 2989,
+    "cablecastShowId": 15106,
+    "date": "2026-04-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260418.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1184981187"
+  },
+  {
+    "title": "Lyndon Select Board, 4/20/26",
+    "path": "/vod/lyndonselect/2026/20260420",
+    "nid": 2990,
+    "cablecastShowId": 15136,
+    "date": "2026-04-20",
+    "location": "Lyndon",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260420.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-042026-15136"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/13/26",
+    "path": "/vod/stjselect/2026/20260413",
+    "nid": 2987,
+    "cablecastShowId": 15097,
+    "date": "2026-04-13",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260413.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-041326-15102"
+  },
+  {
+    "title": "NEK Chamber: 4/27/26 Legislative Breakfast",
+    "path": "/vod/legbkfst/2026/20260427",
+    "nid": 2991,
+    "cablecastShowId": 15165,
+    "date": "2026-04-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/legbkfst20260427.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1188621371"
+  },
+  {
+    "title": "Groton Select Board, 4/21/26",
+    "path": "/vod/grotonselect/2026/20260421",
+    "nid": 2992,
+    "cablecastShowId": 15137,
+    "date": "2026-04-21",
+    "location": "Groton",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonselect20260421.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-042126-15137"
+  },
+  {
+    "title": "OLLI Spring 2026: Duke Ellington",
+    "path": "/vod/osher/2026/20260423",
+    "nid": 2993,
+    "cablecastShowId": 15138,
+    "date": "2026-04-23",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260423.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1186535813"
+  },
+  {
+    "title": "Catamount Arts: Poems Of Protest",
+    "path": "/vod/lectures/2026/catamount20260425",
+    "nid": 2994,
+    "cablecastShowId": 15139,
+    "date": "2026-04-25",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/catamount20260425.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1188552331"
+  },
+  {
+    "title": "Danville Historical Society: 2026 Annual Meeting",
+    "path": "/vod/other/2026/dhs20260426",
+    "nid": 2995,
+    "cablecastShowId": 15140,
+    "date": "2026-04-26",
+    "location": "Danville Congregational Church",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/dhs20260426.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1188622968"
+  },
+  {
+    "title": "OLLI Spring 2026: Vermonters in Scotland",
+    "path": "/vod/osher/2026/20260430",
+    "nid": 2996,
+    "cablecastShowId": 15167,
+    "date": "2026-04-30",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260430.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1190770349"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 4/27/26",
+    "path": "/vod/stjselect/2026/20260427",
+    "nid": 3005,
+    "cablecastShowId": 15166,
+    "date": "2026-04-27",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260427.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-042726-15166"
+  }
+]

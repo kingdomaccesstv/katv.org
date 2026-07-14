@@ -1,0 +1,365 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 9/11/17",
+    "path": "/vod/stjselect/2017/091117",
+    "nid": 1346,
+    "cablecastShowId": 5943,
+    "date": "2017-09-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091117-5943"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/18/17",
+    "path": "/vod/stjschool/2017/091817",
+    "nid": 1347,
+    "cablecastShowId": 5966,
+    "date": "2017-09-18",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091817-5966"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/25/17",
+    "path": "/vod/stjselect/2017/092517",
+    "nid": 1351,
+    "cablecastShowId": 5986,
+    "date": "2017-09-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092517-5986"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/25/17 Special Meeting",
+    "path": "/vod/stjselect/2017/092517specmtg",
+    "nid": 1352,
+    "cablecastShowId": 5987,
+    "date": "2017-09-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092517-5987"
+  },
+  {
+    "title": "Main Street Arts: Nisht Gerferlach Klezmer Band",
+    "path": "/vod/lectures/2017/msa091017",
+    "nid": 1340,
+    "cablecastShowId": 5938,
+    "date": "2017-09-10",
+    "location": "St. Andrew's Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235583679"
+  },
+  {
+    "title": "In & Around St. J: Colors of the Kingdom",
+    "path": "/vod/studio/2017/iastj091217",
+    "nid": 1341,
+    "cablecastShowId": 5944,
+    "date": "2017-09-12",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235586378"
+  },
+  {
+    "title": "Osher: Kids Gardening for Pollinators in VT",
+    "path": "/vod/osher/2017/091417",
+    "nid": 1342,
+    "cablecastShowId": 5962,
+    "date": "2017-09-14",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235592469"
+  },
+  {
+    "title": "NVDA Annual Meeting 2017",
+    "path": "/vod/lectures/2017/nvda2017",
+    "nid": 1343,
+    "cablecastShowId": 5963,
+    "date": "2017-09-14",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235593376"
+  },
+  {
+    "title": "DART: Drug Abuse Resistance Vigil",
+    "path": "/vod/forums/2017/dart091517",
+    "nid": 1344,
+    "cablecastShowId": 5965,
+    "date": "2017-09-15",
+    "location": "Court House",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235596527"
+  },
+  {
+    "title": "What's Going On? Bankers Control All & Weather",
+    "path": "/vod/wgo/wgo092017",
+    "nid": 1345,
+    "cablecastShowId": 5969,
+    "date": "2017-09-20",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235611331"
+  },
+  {
+    "title": "Aspire: Women Entrepreneur Pitch",
+    "path": "/vod/lectures/2017/aspire092117",
+    "nid": 1348,
+    "cablecastShowId": 5972,
+    "date": "2017-09-21",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235613898"
+  },
+  {
+    "title": "N.E. Vermont On Guard: Corporate Influence on Government",
+    "path": "/vod/forums/2017/vtonguard092417",
+    "nid": 1349,
+    "cablecastShowId": 5974,
+    "date": "2017-09-24",
+    "location": "Peacham",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "235617643"
+  },
+  {
+    "title": "In & Around St. J: Community Connections",
+    "path": "/vod/studio/2017/iastj092617",
+    "nid": 1350,
+    "cablecastShowId": 5992,
+    "date": "2017-09-26",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "236353166"
+  },
+  {
+    "title": "What's Going On? N.F.L. = Useful Idiots",
+    "path": "/vod/wgo/wgo092717",
+    "nid": 1353,
+    "cablecastShowId": 6002,
+    "date": "2017-09-27",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "236356709"
+  },
+  {
+    "title": "Depot Square Park: Ribbon Cutting Ceremony",
+    "path": "/vod/lectures/2017/depotsq092717",
+    "nid": 1354,
+    "cablecastShowId": 5993,
+    "date": "2017-09-27",
+    "location": "Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "236350902"
+  },
+  {
+    "title": "Osher: Dear Teacher",
+    "path": "/vod/osher/2017/092817",
+    "nid": 1355,
+    "cablecastShowId": 6001,
+    "date": "2017-09-28",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "236354360"
+  },
+  {
+    "title": "Twilight Players Alumni: Vail Memories",
+    "path": "/vod/lectures/2017/twilight092317",
+    "nid": 1357,
+    "cablecastShowId": 6020,
+    "date": "2017-09-23",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "239135208"
+  }
+]

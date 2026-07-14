@@ -1,0 +1,381 @@
+[
+  {
+    "title": "FM&P: Eddy Lecture - Artist, Thea Alvin",
+    "path": "/vod/lectures/2026/fmp20260501",
+    "nid": 2997,
+    "cablecastShowId": 15168,
+    "date": "2026-05-01",
+    "location": "Catamount Arts",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/fairbanks20260501.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1190770243"
+  },
+  {
+    "title": "North Country Chorus: 2026 Spring Concert",
+    "path": "/vod/concerts/2026/ncc20260503",
+    "nid": 2998,
+    "cablecastShowId": 15226,
+    "date": "2026-05-03",
+    "location": "United Community Church",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/ncc20260503.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1190764047"
+  },
+  {
+    "title": "St. Johnsbury School Board, 5/4/26",
+    "path": "/vod/stjschool/2026/20260504",
+    "nid": 2999,
+    "cablecastShowId": 15211,
+    "date": "2026-05-04",
+    "location": "St. Johnsbury School",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjschool20260504.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-050426-15211"
+  },
+  {
+    "title": "Lyndon Select Board, 5/4/26",
+    "path": "/vod/lyndonselect/2026/20260504",
+    "nid": 3000,
+    "cablecastShowId": 15210,
+    "date": "2026-05-04",
+    "location": "Lyndon",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260504.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-050426-15210"
+  },
+  {
+    "title": "Concord Select Board, 5/5/26",
+    "path": "/vod/concordselect/2026/20260505",
+    "nid": 3001,
+    "cablecastShowId": 15212,
+    "date": "2026-05-05",
+    "location": "Concord",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/concordselect20260505.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-050526-15212"
+  },
+  {
+    "title": "St. J. Athenaeum: Bike Safe Event",
+    "path": "/vod/stjath/2026/20260506",
+    "nid": 3002,
+    "cablecastShowId": 15085,
+    "date": "2026-05-06",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260506.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1190764305"
+  },
+  {
+    "title": "NEKCO: 2026 Mother's Day Concert",
+    "path": "/vod/concerts/2026/nekco20260510",
+    "nid": 3003,
+    "cablecastShowId": 15244,
+    "date": "2026-05-10",
+    "location": "VTSU Lyndon",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      },
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/nekco20260510.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1191519119"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/11/26",
+    "path": "/vod/stjselect/2026/20260511",
+    "nid": 3004,
+    "cablecastShowId": 15227,
+    "date": "2026-05-11",
+    "location": "St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260511.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-051126-15227"
+  },
+  {
+    "title": "NEK Chamber: 5/18/26 Legislative Breakfast",
+    "path": "/vod/legbkfst/2026/20260518",
+    "nid": 3006,
+    "cablecastShowId": 15246,
+    "date": "2026-05-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/legbkfst20260518.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1193508984"
+  },
+  {
+    "title": "Music in the Gallery: Sue Persson",
+    "path": "/vod/stjath/2026/20260515",
+    "nid": 3007,
+    "cablecastShowId": 15228,
+    "date": "2026-05-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260515.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1193508983"
+  },
+  {
+    "title": "CCSU Board of Directors, 5/18/26",
+    "path": "/vod/ccsubod/2026/20260518",
+    "nid": 3008,
+    "cablecastShowId": 15250,
+    "date": "2026-05-18",
+    "location": "Danville School",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/ccsubod20260518.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-051826-15250"
+  },
+  {
+    "title": "Danville School: 2026, Spring Concert",
+    "path": "/vod/concerts/2026/danville20260519",
+    "nid": 3009,
+    "cablecastShowId": 15251,
+    "date": "2026-05-19",
+    "location": "Danville School",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      },
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/danville20260519.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1194636064"
+  },
+  {
+    "title": "Groton Select Board, 5/19/26",
+    "path": "/vod/grotonselect/2026/20260519",
+    "nid": 3010,
+    "cablecastShowId": 15249,
+    "date": "2026-05-19",
+    "location": "Groton",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonselect20260519.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-051926-15249"
+  },
+  {
+    "title": "VHC: A Revolution Will Not Be Tweeted",
+    "path": "/vod/lectures/2026/vhc20260520",
+    "nid": 3011,
+    "cablecastShowId": 15252,
+    "date": "2026-05-20",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/vhc20260520.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1195044297"
+  },
+  {
+    "title": "STJ Academy: 2026 Commencement Concert",
+    "path": "/vod/concerts/2026/sja20260520",
+    "nid": 3012,
+    "cablecastShowId": 15261,
+    "date": "2026-05-20",
+    "location": "Fuller Hall, St. Johnsbury Academy",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/sja20260520.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1195138541"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 5/26/26",
+    "path": "/vod/stjselect/2026/20260526",
+    "nid": 3013,
+    "cablecastShowId": 15260,
+    "date": "2026-05-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260526.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-052626-15260"
+  },
+  {
+    "title": "St. Johnsbury Academy: 2026 Senior Concert",
+    "path": "/vod/concerts/2026/20260531",
+    "nid": 3014,
+    "cablecastShowId": 15276,
+    "date": "2026-05-31",
+    "location": "South Church, St. Johnsbury",
+    "year": "2026",
+    "yearPath": "/vod/year/2026",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2026/sja20260531.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1199455112"
+  }
+]

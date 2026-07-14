@@ -1,0 +1,11 @@
+---
+layout: layouts/vod.njk
+pagination:
+  data: vods
+  size: 1
+  alias: vod
+  resolve: values
+permalink: "{{ vod.path }}/index.html"
+eleventyComputed:
+  title: "{{ vod.title }}"
+---

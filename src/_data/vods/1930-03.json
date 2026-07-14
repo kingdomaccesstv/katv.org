@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Rotary Basketball 2020: St. Johnsbury 6th vs Colonel Town",
+    "path": "/vod/sports/rotarybb2020-stj6ct-031220",
+    "nid": 1936,
+    "cablecastShowId": 8415,
+    "date": "1930-03-12",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "397889366"
+  }
+]

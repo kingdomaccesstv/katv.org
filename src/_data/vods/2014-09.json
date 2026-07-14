@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Concord Select Board, 9/2/14",
+    "path": "/vod/concordselect/2014/090214",
+    "nid": 568,
+    "cablecastShowId": 3195,
+    "date": "2014-09-02",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090214-3195"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/15/14",
+    "path": "/vod/stjschool/2014/091514",
+    "nid": 571,
+    "cablecastShowId": 3212,
+    "date": "2014-09-15",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091514-3212"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/8/14 Special Meeting",
+    "path": "/vod/stjselect/2014/090814",
+    "nid": 573,
+    "cablecastShowId": 3205,
+    "date": "2014-09-08",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-090814-3205"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 9/16/14",
+    "path": "/vod/stjselect/2014/plan091614",
+    "nid": 578,
+    "cablecastShowId": 3215,
+    "date": "2014-09-16",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplan-mtg-091614-3215"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/22/14",
+    "path": "/vod/stjselect/2014/092214",
+    "nid": 581,
+    "cablecastShowId": 3224,
+    "date": "2014-09-22",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092214-3224"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, Recovery 9/9/14",
+    "path": "/vod/forums/2014/commconv090914",
+    "nid": 569,
+    "cablecastShowId": 3204,
+    "date": "2014-09-09",
+    "location": "North Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "105997490"
+  },
+  {
+    "title": "Courageous Conversations: Corrections In The NEK",
+    "path": "/vod/forums/2014/courconv091114",
+    "nid": 570,
+    "cablecastShowId": 3210,
+    "date": "2014-09-11",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "105997509"
+  },
+  {
+    "title": "Readings in the Gallery: Birchsong",
+    "path": "/vod/lectures/2014/stjath091314",
+    "nid": 574,
+    "cablecastShowId": 3211,
+    "date": "2014-09-13",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773042"
+  },
+  {
+    "title": "It's Up To US!: Relevancy of 9/11 to the Present",
+    "path": "/vod/studio/2014/iutu091514",
+    "nid": 575,
+    "cablecastShowId": 3217,
+    "date": "2014-09-15",
+    "location": "Vermont",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773043"
+  },
+  {
+    "title": "In & Around St. J: NEKYS",
+    "path": "/vod/studio/2014/iastj091614",
+    "nid": 576,
+    "cablecastShowId": 3214,
+    "date": "2014-09-16",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "106773044"
+  },
+  {
+    "title": "It's Up To US!: Relevancy of 9/11 to the Present Part II",
+    "path": "/vod/studio/2014/iutu090714",
+    "nid": 577,
+    "cablecastShowId": 3228,
+    "date": "2014-09-07",
+    "location": "Keene State College, NH",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974603"
+  },
+  {
+    "title": "Readings in the Gallery: William Graham",
+    "path": "/vod/lectures/2014/stjath091714",
+    "nid": 579,
+    "cablecastShowId": 3223,
+    "date": "2014-09-17",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974604"
+  },
+  {
+    "title": "Osher: Maple Sugaring, Through the Years",
+    "path": "/vod/osher/2014/091914",
+    "nid": 580,
+    "cablecastShowId": 3222,
+    "date": "2014-09-19",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974606"
+  },
+  {
+    "title": "Economic Development: Listening Forum",
+    "path": "/vod/forums/2014/ecdev092214",
+    "nid": 582,
+    "cablecastShowId": 3225,
+    "date": "2014-09-22",
+    "location": "St. Johnsbury",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "107974605"
+  },
+  {
+    "title": "FM&P Presents: David Macaulay: The Way Macaulay Works",
+    "path": "/vod/other/2014/macaulay092614",
+    "nid": 583,
+    "cablecastShowId": 3231,
+    "date": "2014-09-26",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108004192"
+  },
+  {
+    "title": "It's Up To US!: Dr. Micahel Coffman PhD, Climate change Truth",
+    "path": "/vod/studio/2014/iutu092414",
+    "nid": 584,
+    "cablecastShowId": 3241,
+    "date": "2014-09-24",
+    "location": "Maine",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "108739856"
+  },
+  {
+    "title": "What's Going On? A Den of Prostitutes",
+    "path": "/vod/wgo/wgo091014",
+    "nid": 1126,
+    "cablecastShowId": 3209,
+    "date": "2014-09-10",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111790926"
+  },
+  {
+    "title": "What's Going On? Media Target Operations",
+    "path": "/vod/wgo/wgo091714",
+    "nid": 1127,
+    "cablecastShowId": 3218,
+    "date": "2014-09-17",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111791321"
+  },
+  {
+    "title": "What's Going On? World War III at Hand",
+    "path": "/vod/wgo/wgo092414",
+    "nid": 1128,
+    "cablecastShowId": 3229,
+    "date": "2014-09-24",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "111802765"
+  },
+  {
+    "title": "Osher: History of Bread & Puppet",
+    "path": "/vod/osher/2014/092514",
+    "nid": 1140,
+    "cablecastShowId": 3230,
+    "date": "2014-09-25",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "198626370"
+  }
+]

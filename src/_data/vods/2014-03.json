@@ -1,0 +1,488 @@
+[
+  {
+    "title": "Concord Select Board, 3/11/14",
+    "path": "/vod/concordselect/2014/031114",
+    "nid": 421,
+    "cablecastShowId": 2822,
+    "date": "2014-03-11",
+    "location": "Concord Municipal Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-031114-2822"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/24/14",
+    "path": "/vod/stjselect/2014/032414",
+    "nid": 435,
+    "cablecastShowId": 2842,
+    "date": "2014-03-24",
+    "location": "Pomerleau Building",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032414-2842"
+  },
+  {
+    "title": "St. Johnsbury School Board, 3/31/14",
+    "path": "/vod/stjschool/2014/033114",
+    "nid": 447,
+    "cablecastShowId": 2855,
+    "date": "2014-03-31",
+    "location": "St. Johnsbury School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-033114-2855"
+  },
+  {
+    "title": "First Wednesday: The Life and Work of Emily Dickinson",
+    "path": "/vod/firstwed/2014/030514",
+    "nid": 413,
+    "cablecastShowId": 2812,
+    "date": "2014-03-05",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88530571"
+  },
+  {
+    "title": "VT Department of Forestry: Timber Harvesting Guidelines",
+    "path": "/vod/lectures/2014/vtforest030614",
+    "nid": 414,
+    "cablecastShowId": 2817,
+    "date": "2014-03-06",
+    "location": "Fairbanks Museum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88552526"
+  },
+  {
+    "title": "Osher: Macedonia‚Äôs Education System, Lost Generation",
+    "path": "/vod/osher/2014/030614",
+    "nid": 415,
+    "cablecastShowId": 2816,
+    "date": "2014-03-06",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "88535792"
+  },
+  {
+    "title": "In & Around St. J: VT Children's Alliance",
+    "path": "/vod/studio/2014/iastj031114",
+    "nid": 419,
+    "cablecastShowId": 2825,
+    "date": "2014-03-11",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89322128"
+  },
+  {
+    "title": "Community Conversation: DART 2.0",
+    "path": "/vod/forums/2014/commconv031114",
+    "nid": 422,
+    "cablecastShowId": 2823,
+    "date": "2014-03-11",
+    "location": "North Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89344752"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division B]",
+    "path": "/vod/sports/rotary2014boysB",
+    "nid": 423,
+    "cablecastShowId": 2833,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90037676"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division B]",
+    "path": "/vod/sports/rotary2014girlsB",
+    "nid": 424,
+    "cablecastShowId": 2832,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90037677"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division C]",
+    "path": "/vod/sports/rotary2014girlsC",
+    "nid": 425,
+    "cablecastShowId": 2830,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89808177"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Girls Division A]",
+    "path": "/vod/sports/rotary2014girlsA",
+    "nid": 426,
+    "cablecastShowId": 2834,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90079117"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division C]",
+    "path": "/vod/sports/rotary2014boysC",
+    "nid": 427,
+    "cablecastShowId": 2831,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89800450"
+  },
+  {
+    "title": "Rotary Basketball 2014 [Boys Division A]",
+    "path": "/vod/sports/rotary2014boysA",
+    "nid": 428,
+    "cablecastShowId": 2835,
+    "date": "2014-03-15",
+    "location": "St. Johnsbury Academy",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90079116"
+  },
+  {
+    "title": "Walt Whitman and the Civil War",
+    "path": "/vod/lectures/2014/ath031914",
+    "nid": 432,
+    "cablecastShowId": 2836,
+    "date": "2014-03-19",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89758138"
+  },
+  {
+    "title": "Osher: 170 Years - St. Johnsbury Fire Department",
+    "path": "/vod/osher/2014/32014",
+    "nid": 433,
+    "cablecastShowId": 2838,
+    "date": "2014-03-20",
+    "location": "Osher",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "89758137"
+  },
+  {
+    "title": "NVRH: The Foundation for Healthcare Reform",
+    "path": "/vod/lectures/2014/nvrh032014",
+    "nid": 434,
+    "cablecastShowId": 2841,
+    "date": "2014-03-20",
+    "location": "Northeastern Vermont Regional Hospital",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90185917"
+  },
+  {
+    "title": "Community Forum with Noah Noyes",
+    "path": "/vod/forums/2014/commforum032614",
+    "nid": 436,
+    "cablecastShowId": 2851,
+    "date": "2014-03-26",
+    "location": "Oxbow High School",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90693493"
+  },
+  {
+    "title": "Osher: The Value of Independence - Vermont's Education System",
+    "path": "/vod/osher/2014/032714",
+    "nid": 437,
+    "cablecastShowId": 2853,
+    "date": "2014-03-27",
+    "location": "Catamount Arts",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90705048"
+  },
+  {
+    "title": "Legislative Breakfast, March 2014",
+    "path": "/vod/legbkfst/2014/033114",
+    "nid": 438,
+    "cablecastShowId": 2854,
+    "date": "2014-03-31",
+    "location": "St. Johnsbury House",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90743957"
+  },
+  {
+    "title": "Health and Wellness Ep. 2",
+    "path": "/vod/studio/2014/healthwellness2",
+    "nid": 441,
+    "cablecastShowId": 2859,
+    "date": "2014-03-27",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "90819881"
+  },
+  {
+    "title": "What's Going On? The B.R.I.G.S",
+    "path": "/vod/wgo/wgo031214",
+    "nid": 1147,
+    "cablecastShowId": 2828,
+    "date": "2014-03-12",
+    "location": "KATV Studio",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "117143983"
+  }
+]

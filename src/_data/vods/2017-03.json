@@ -1,0 +1,630 @@
+[
+  {
+    "title": "St. Johnsbury School Board: Budget Input Session, 3/15/17",
+    "path": "/vod/stjschool/2017/031517",
+    "nid": 1227,
+    "cablecastShowId": 5463,
+    "date": "2017-03-15",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-031517-5463"
+  },
+  {
+    "title": "Concord Select Board, 3/16/17",
+    "path": "/vod/concordselect/2017/031617",
+    "nid": 1230,
+    "cablecastShowId": 5464,
+    "date": "2017-03-16",
+    "location": "Concord Municipal Building",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-031617-5464"
+  },
+  {
+    "title": "St. Johnsbury School Board, 3/20/17",
+    "path": "/vod/stjschool/2017/032017",
+    "nid": 1234,
+    "cablecastShowId": 5470,
+    "date": "2017-03-20",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-032017-5470"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 3/21/17",
+    "path": "/vod/stjselect/2017/032117plan",
+    "nid": 1252,
+    "cablecastShowId": 5475,
+    "date": "2017-03-21",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjplanning-mtg-032117-5475"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 3/27/17",
+    "path": "/vod/stjselect/2017/032717",
+    "nid": 1253,
+    "cablecastShowId": 5501,
+    "date": "2017-03-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-032717-5501"
+  },
+  {
+    "title": "St. Johnsbury Academy Spring Concert 2018",
+    "path": "/vod/concerts/2018/sjaspring032117",
+    "nid": 780,
+    "cablecastShowId": 6538,
+    "date": "2017-03-21",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "264776452"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Hank Parker, A&C Lecture",
+    "path": "/vod/stjath/2017/030817",
+    "nid": 1221,
+    "cablecastShowId": 5440,
+    "date": "2017-03-08",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207751148"
+  },
+  {
+    "title": "Osher: The Warbler Wave",
+    "path": "/vod/osher/2017/030917",
+    "nid": 1226,
+    "cablecastShowId": 5442,
+    "date": "2017-03-09",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208029649"
+  },
+  {
+    "title": "Senator Sanders, Student Town Meeting, SJA",
+    "path": "/vod/forums/2017/sanders031617",
+    "nid": 1228,
+    "cablecastShowId": 5466,
+    "date": "2017-03-16",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208936758"
+  },
+  {
+    "title": "Senator Sanders, Senior Town Meeting",
+    "path": "/vod/forums/2017/sanders03161702",
+    "nid": 1229,
+    "cablecastShowId": 5467,
+    "date": "2017-03-16",
+    "location": "St. Johnsbury House",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208936678"
+  },
+  {
+    "title": "What's Going On? A Harsh Reality",
+    "path": "/vod/wgo/wgo031617",
+    "nid": 1231,
+    "cablecastShowId": 5468,
+    "date": "2017-03-16",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208940123"
+  },
+  {
+    "title": "Osher: Flexibility, Patience and a Sense of Humor",
+    "path": "/vod/osher/2017/031617",
+    "nid": 1232,
+    "cablecastShowId": 5465,
+    "date": "2017-03-16",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208940098"
+  },
+  {
+    "title": "Main Street Arts: Brown/Belanger Duo",
+    "path": "/vod/lectures/2017/msa031917",
+    "nid": 1233,
+    "cablecastShowId": 5477,
+    "date": "2017-03-19",
+    "location": "United Church of Christ",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "209942987"
+  },
+  {
+    "title": "In & Around St. J: Spring 2017 Events",
+    "path": "/vod/studio/2017/iastj032117",
+    "nid": 1235,
+    "cablecastShowId": 5476,
+    "date": "2017-03-21",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "209941604"
+  },
+  {
+    "title": "What's Going On? Did You Know..?",
+    "path": "/vod/wgo/wgo032317",
+    "nid": 1236,
+    "cablecastShowId": 5487,
+    "date": "2017-03-23",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "209948618"
+  },
+  {
+    "title": "Osher: Silent Predator of the Night",
+    "path": "/vod/osher/2017/032317",
+    "nid": 1237,
+    "cablecastShowId": 5492,
+    "date": "2017-03-23",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "209949169"
+  },
+  {
+    "title": "Legislative Breakfast, March 2017",
+    "path": "/vod/legbkfst/2017/032717",
+    "nid": 1238,
+    "cablecastShowId": 5499,
+    "date": "2017-03-27",
+    "location": "St. Johnsbury House",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210551706"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Celebrating the Abenaki Heritage",
+    "path": "/vod/lectures/2017/stjath032717",
+    "nid": 1239,
+    "cablecastShowId": 5500,
+    "date": "2017-03-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210551830"
+  },
+  {
+    "title": "Rotary Basketball 2017 [Boys Division C]",
+    "path": "/vod/sports/rotary2017boysC",
+    "nid": 1240,
+    "cablecastShowId": 5480,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210549195"
+  },
+  {
+    "title": "Rotary Basketball 2017 [Boys Division B]",
+    "path": "/vod/sports/rotary2017boysB",
+    "nid": 1241,
+    "cablecastShowId": 5479,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210547299"
+  },
+  {
+    "title": "Rotary Basketball 2017 [Girls Division B]",
+    "path": "/vod/sports/rotary2017girlsB",
+    "nid": 1242,
+    "cablecastShowId": 5482,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210853863"
+  },
+  {
+    "title": "Rotary Basketball 2017 [Boys Division A]",
+    "path": "/vod/sports/rotary2017boysA",
+    "nid": 1243,
+    "cablecastShowId": 5478,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210547043"
+  },
+  {
+    "title": "Rotary Basketball 2017 [Girls Division A]",
+    "path": "/vod/sports/rotary2017girlsA",
+    "nid": 1244,
+    "cablecastShowId": 5481,
+    "date": "2017-03-18",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      },
+      {
+        "name": "Rotary Basketball",
+        "path": "/vod/sports/rotarybb"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210549739"
+  },
+  {
+    "title": "Vermont Agency of Transportation: Public Info Meeting, 3/29/17",
+    "path": "/vod/forums/2017/vtaot023917",
+    "nid": 1245,
+    "cablecastShowId": 5516,
+    "date": "2017-03-29",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210858990"
+  },
+  {
+    "title": "What's Going On? More Lies for the Sheep",
+    "path": "/vod/wgo/wgo033017",
+    "nid": 1246,
+    "cablecastShowId": 5521,
+    "date": "2017-03-30",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "210859613"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Fake News, Alternative Facts & Social Media",
+    "path": "/vod/lectures/2017/stjath032917",
+    "nid": 1247,
+    "cablecastShowId": 5517,
+    "date": "2017-03-29",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "211127476"
+  },
+  {
+    "title": "Osher: The French Connection",
+    "path": "/vod/osher/2017/033017",
+    "nid": 1248,
+    "cablecastShowId": 5520,
+    "date": "2017-03-30",
+    "location": "Catamount Arts",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "211127189"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Reading with Grace Gershuny, A&C Lecture",
+    "path": "/vod/stjath/2017/033117",
+    "nid": 1249,
+    "cablecastShowId": 5522,
+    "date": "2017-03-31",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "212994735"
+  }
+]

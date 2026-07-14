@@ -1,0 +1,143 @@
+---
+layout: layouts/base.njk
+title: "Search Programs"
+permalink: "/search/index.html"
+---
+
+<div class="page-title-full-width-container" id="page-title-full-width-container">
+  <header role="banner" id="page-title" class="container page-title-container">
+    <h1 class="page-title">Search On Demand Library</h1>
+  </header>
+</div>
+
+<main role="main" class="main-container container">
+  
+  <!-- Search Box Container -->
+  <div class="search-container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Search by title, location, category, or year..." autofocus />
+  </div>
+
+  <div id="resultsCount" class="search-results-count">Loading program index...</div>
+
+  <!-- VOD Cards Grid -->
+  <div class="views-element-container">
+    <div class="view">
+      <div class="views-view-grid" id="searchResultsGrid">
+        <!-- Results dynamically inserted here -->
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+  (function() {
+    let indexData = [];
+    const searchInput = document.getElementById('searchInput');
+    const resultsCount = document.getElementById('resultsCount');
+    const resultsGrid = document.getElementById('searchResultsGrid');
+
+    // Fetch search index JSON
+    fetch('/search-index.json')
+      .then(response => response.json())
+      .then(data => {
+        indexData = data;
+        resultsCount.innerText = `Search across ${indexData.length} public television programs`;
+        
+        // Listen to inputs
+        searchInput.addEventListener('input', runSearch);
+        
+        // Parse any query param search
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+        if (query) {
+          searchInput.value = query;
+          runSearch();
+        }
+      })
+      .catch(err => {
+        console.error('Failed to load search index:', err);
+        resultsCount.innerText = 'Failed to load search index. Please try refreshing.';
+      });
+
+    function runSearch() {
+      const query = searchInput.value.toLowerCase().trim();
+      if (query.length < 2) {
+        resultsGrid.innerHTML = '';
+        resultsCount.innerText = `Search across ${indexData.length} Kingdom Access TV programs`;
+        return;
+      }
+
+      // Split query by spaces to support multi-keyword matching
+      const keywords = query.split(/\s+/);
+      
+      const matches = indexData.filter(item => {
+        // Build fields content to match against
+        const title = (item.title || '').toLowerCase();
+        const location = (item.location || '').toLowerCase();
+        const year = (item.year || '').toLowerCase();
+        const categories = (item.categories || []).map(c => c.toLowerCase()).join(' ');
+        
+        // Every keyword must match at least one field
+        return keywords.every(kw => {
+          return title.includes(kw) || 
+                 location.includes(kw) || 
+                 year.includes(kw) || 
+                 categories.includes(kw);
+        });
+      });
+
+      renderResults(matches);
+    }
+
+    function renderResults(results) {
+      resultsGrid.innerHTML = '';
+      
+      if (results.length === 0) {
+        resultsCount.innerText = 'No matches found. Try different keywords.';
+        return;
+      }
+
+      resultsCount.innerText = `Found ${results.length} program${results.length === 1 ? '' : 's'}`;
+
+      // Limit DOM insertions to first 100 for high rendering performance
+      const itemsToRender = results.slice(0, 100);
+      
+      itemsToRender.forEach(item => {
+        const article = document.createElement('article');
+        article.className = 'vod teaser';
+        
+        let imageHtml = '';
+        if (item.teaserImage) {
+          imageHtml = `<img src="${item.teaserImage}" alt="${item.title}" loading="lazy" />`;
+        } else {
+          imageHtml = `<div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">No Image</div>`;
+        }
+
+        article.innerHTML = `
+          <div class="field--name-field-show-teaser-image">
+            <a href="${item.path}/">
+              ${imageHtml}
+            </a>
+          </div>
+          <h2>
+            <a href="${item.path}/">${item.title}</a>
+          </h2>
+        `;
+        
+        resultsGrid.appendChild(article);
+      });
+
+      if (results.length > 100) {
+        const loadWarning = document.createElement('div');
+        loadWarning.style.gridColumn = '1 / -1';
+        loadWarning.style.textAlign = 'center';
+        loadWarning.style.padding = '20px';
+        loadWarning.style.color = '#777';
+        loadWarning.style.fontSize = '0.95rem';
+        loadWarning.innerText = 'Showing top 100 results. Please refine your query for more matches.';
+        resultsGrid.appendChild(loadWarning);
+      }
+    }
+  })();
+</script>

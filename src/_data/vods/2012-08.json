@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Courageous Conversation: Disabilities",
+    "path": "/vod/lectures/2012/cc080912",
+    "nid": 118,
+    "cablecastShowId": 1658,
+    "date": "2012-08-09",
+    "location": "Catamount Arts",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "48335572"
+  },
+  {
+    "title": "Concord Select Board, 8/2/12",
+    "path": "/vod/concordselect/2012/080212",
+    "nid": 119,
+    "cablecastShowId": 1648,
+    "date": "2012-08-02",
+    "location": "Concord Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "49200946"
+  },
+  {
+    "title": "Newark Neighbors United, 8/14/12",
+    "path": "/vod/forums/2012/newark081412",
+    "nid": 120,
+    "cablecastShowId": 1667,
+    "date": "2012-08-14",
+    "location": "Newark School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "49277326"
+  },
+  {
+    "title": "Concord School Board, 8/21/12",
+    "path": "/vod/concordschool/2012/082112",
+    "nid": 121,
+    "cablecastShowId": 1671,
+    "date": "2012-08-21",
+    "location": "Concord School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "49525154"
+  },
+  {
+    "title": "Newark Neighbors United, 8/23/12",
+    "path": "/vod/forums/2012/newark082312",
+    "nid": 122,
+    "cablecastShowId": 1676,
+    "date": "2012-08-23",
+    "location": "Newark School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "49553590"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/27/12",
+    "path": "/vod/stjselect/2012/082712",
+    "nid": 123,
+    "cablecastShowId": 1683,
+    "date": "2012-08-27",
+    "location": "Pomerleau Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "50402641"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/8/12",
+    "path": "/vod/stjselect/2012/080812",
+    "nid": 124,
+    "cablecastShowId": 1657,
+    "date": "2012-08-08",
+    "location": "Pomerleau Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "50884832"
+  },
+  {
+    "title": "Newark Planning Commission Meeting, 8/9/12",
+    "path": "/vod/other/newarkplan080912",
+    "nid": 125,
+    "cablecastShowId": 1659,
+    "date": "2012-08-09",
+    "location": "Newark School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "51326287"
+  },
+  {
+    "title": "St. Johnsbury School Board, 8/27/12",
+    "path": "/vod/stjschool/2012/082712",
+    "nid": 127,
+    "cablecastShowId": 1682,
+    "date": "2012-08-27",
+    "location": "St. Johnsbury School",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "51860841"
+  },
+  {
+    "title": "What's Going On? Web of Debt",
+    "path": "/vod/wgo/wgo90",
+    "nid": 297,
+    "cablecastShowId": 1669,
+    "date": "2012-08-08",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79055232"
+  }
+]

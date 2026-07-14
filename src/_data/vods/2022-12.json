@@ -1,0 +1,427 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 12/5/22",
+    "path": "/vod/stjschool/2022/120522",
+    "nid": 2271,
+    "cablecastShowId": 11457,
+    "date": "2022-12-05",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School",
+        "path": "/vod/concerts/sjs"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20221205.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-120522-11457"
+  },
+  {
+    "title": "Concord Select Board, 12/6/22",
+    "path": "/vod/concordselect/2022/120622",
+    "nid": 2272,
+    "cablecastShowId": 11460,
+    "date": "2022-12-06",
+    "location": "Concord Town Hall",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/concordselect20221206.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-120622-11460"
+  },
+  {
+    "title": "Groton Select Board, 12/7/22",
+    "path": "/vod/grotonselect/2022/120722",
+    "nid": 2274,
+    "cablecastShowId": 11461,
+    "date": "2022-12-07",
+    "location": "Groton Town Hall",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20221207.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-120722-11461"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/12/22",
+    "path": "/vod/stjselect/2022/121222",
+    "nid": 2276,
+    "cablecastShowId": 11495,
+    "date": "2022-12-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221212.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121222-11495"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/19/22",
+    "path": "/vod/stjschool/2022/121922",
+    "nid": 2279,
+    "cablecastShowId": 11520,
+    "date": "2022-12-19",
+    "location": "St. Johnsbury School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School",
+        "path": "/vod/concerts/sjs"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjschool20221219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121922-11520"
+  },
+  {
+    "title": "CCSU Board of Directors, 12/19/22",
+    "path": "/vod/ccsubod/2022/121922",
+    "nid": 2280,
+    "cablecastShowId": 11528,
+    "date": "2022-12-19",
+    "location": "Danville School",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ccsubod20221219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-121922-11528"
+  },
+  {
+    "title": "Groton Select Board, 12/21/22",
+    "path": "/vod/grotonselect/2022/122122",
+    "nid": 2281,
+    "cablecastShowId": 11525,
+    "date": "2022-12-21",
+    "location": "Groton",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/grotonselect20221221.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-122122-11525"
+  },
+  {
+    "title": "St. Johnsbury Development Review Board, 12/22/22",
+    "path": "/vod/stjselect/2022/drb122222",
+    "nid": 2283,
+    "cablecastShowId": 11529,
+    "date": "2022-12-22",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjdrb20221222.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjdrb-mtg-122222-11529"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/28/22",
+    "path": "/vod/stjselect/2022/122822",
+    "nid": 2284,
+    "cablecastShowId": 11546,
+    "date": "2022-12-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221228.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122822-11546"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/28/22 Special Meeting",
+    "path": "/vod/stjselect/2022/122822sm",
+    "nid": 2285,
+    "cablecastShowId": 11545,
+    "date": "2022-12-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjselect20221228sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-122822-11545"
+  },
+  {
+    "title": "WGO: Means of Manipulation",
+    "path": "/vod/wgo/wgo120122",
+    "nid": 2268,
+    "cablecastShowId": 11473,
+    "date": "2022-12-01",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20221201.jpg",
+    "videoSource": "vimeo",
+    "videoId": "777693669"
+  },
+  {
+    "title": "United Community Church: Rededication Service",
+    "path": "/vod/other/2022/ucc120422",
+    "nid": 2269,
+    "cablecastShowId": 11456,
+    "date": "2022-12-04",
+    "location": "United Community Church",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ucc20221204.jpg",
+    "videoSource": "vimeo",
+    "videoId": "778269635"
+  },
+  {
+    "title": "North Country Chorus: Holiday Concert 2022",
+    "path": "/vod/concerts/2022/ncc120422",
+    "nid": 2270,
+    "cablecastShowId": 11455,
+    "date": "2022-12-04",
+    "location": "South Hall",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/ncc20221204.jpg",
+    "videoSource": "vimeo",
+    "videoId": "778269342"
+  },
+  {
+    "title": "First Wednesday: Changing Times Reconciliation or Retribution",
+    "path": "/vod/firstwed/2022/120722",
+    "nid": 2273,
+    "cablecastShowId": 11462,
+    "date": "2022-12-07",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/firstwed20221207.jpg",
+    "videoSource": "vimeo",
+    "videoId": "779474247"
+  },
+  {
+    "title": "Lyndon Institute Winter Concert 2022",
+    "path": "/vod/concerts/2022/liwinter2022",
+    "nid": 2275,
+    "cablecastShowId": 11463,
+    "date": "2022-12-08",
+    "location": "Lyndon Institute",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/liwinter2022.jpg",
+    "videoSource": "vimeo",
+    "videoId": "781534131"
+  },
+  {
+    "title": "Danville School Winter Concert 2022",
+    "path": "/vod/concerts/2022/danvillewinter2022",
+    "nid": 2277,
+    "cablecastShowId": 11512,
+    "date": "2022-12-14",
+    "location": "Danville",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Danville",
+        "path": "/vod/concerts/danville"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/danvillewinter20221214.jpg",
+    "videoSource": "vimeo",
+    "videoId": "782295049"
+  },
+  {
+    "title": "NKHS: Mental Health Treatment Facility Advocacy",
+    "path": "/vod/other/2022/nekhs121922",
+    "nid": 2278,
+    "cablecastShowId": 11530,
+    "date": "2022-12-19",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/nekhs20221219.png",
+    "videoSource": "vimeo",
+    "videoId": "782672797"
+  },
+  {
+    "title": "The World Among The Caucasus Mountains - St. Johnsbury Athenaeum",
+    "path": "/vod/lectures/2022/stjath122122",
+    "nid": 2282,
+    "cablecastShowId": 11536,
+    "date": "2022-12-21",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/stjath20221221.jpg",
+    "videoSource": "vimeo",
+    "videoId": "784034929"
+  },
+  {
+    "title": "WGO: Buying Billions with Millions",
+    "path": "/vod/wgo/wgo122922",
+    "nid": 2286,
+    "cablecastShowId": 11556,
+    "date": "2022-12-29",
+    "location": "KATV Studio",
+    "year": "2022",
+    "yearPath": "/vod/year/2022",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2022/wgo20221229.jpg",
+    "videoSource": "vimeo",
+    "videoId": "785115012"
+  }
+]

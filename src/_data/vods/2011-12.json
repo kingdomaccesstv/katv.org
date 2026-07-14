@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Waterford School Cabaret 2011",
+    "path": "/vod/concerts/2011/waterford120111",
+    "nid": 60,
+    "cablecastShowId": 1211,
+    "date": "2011-12-01",
+    "location": "Waterford School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Waterford",
+        "path": "/vod/concerts/waterford"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33850205"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/5/11 ",
+    "path": "/vod/stjschool/2011/120511",
+    "nid": 61,
+    "cablecastShowId": 1222,
+    "date": "2011-12-05",
+    "location": "St. Johnsbury School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "33847295"
+  },
+  {
+    "title": "Concord School Board, 12/5/11 ",
+    "path": "/vod/concordschool/2011/120511",
+    "nid": 62,
+    "cablecastShowId": 1223,
+    "date": "2011-12-05",
+    "location": "Concord School",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34138551"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/12/11 ",
+    "path": "/vod/stjselect/2011/121211",
+    "nid": 63,
+    "cablecastShowId": 1242,
+    "date": "2011-12-12",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34143753"
+  },
+  {
+    "title": "LSC Community Chorus: Holiday Concert 2011",
+    "path": "/vod/concerts/2011/lsccc121011",
+    "nid": 64,
+    "cablecastShowId": 1244,
+    "date": "2011-12-10",
+    "location": "Lyndon State College",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NVU Community Chorus",
+        "path": "/vod/concerts/nvucc"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34439773"
+  },
+  {
+    "title": "Ten Years of Archaeological Research in Mongolia: Bruno Frohlich",
+    "path": "/vod/lectures/2011/frohlich121511",
+    "nid": 65,
+    "cablecastShowId": 1258,
+    "date": "2011-12-15",
+    "location": "Fairbanks Museum",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34442707"
+  },
+  {
+    "title": "St. Johnsbury Planning Board, 12/29/11",
+    "path": "/vod/stjselect/2011/plan122911",
+    "nid": 67,
+    "cablecastShowId": 1282,
+    "date": "2011-12-29",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "34693143"
+  },
+  {
+    "title": "Where We Are [WGO 71]",
+    "path": "/vod/wgo/wgo71",
+    "nid": 172,
+    "cablecastShowId": 1241,
+    "date": "2011-12-20",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "63064751"
+  },
+  {
+    "title": "The World is in Trouble [WGO 72]",
+    "path": "/vod/wgo/wgo72",
+    "nid": 173,
+    "cablecastShowId": 1249,
+    "date": "2011-12-14",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "63064752"
+  },
+  {
+    "title": "What's Going On? The Last Six Days",
+    "path": "/vod/wgo/wgo73",
+    "nid": 274,
+    "cablecastShowId": 1283,
+    "date": "2011-12-31",
+    "location": "KATV Studio",
+    "year": "2011",
+    "yearPath": "/vod/year/2011",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "77372196"
+  }
+]

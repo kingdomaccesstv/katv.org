@@ -1,0 +1,117 @@
+[
+  {
+    "title": "St. Johnsbury Select Board Meeting, 3/8/12",
+    "path": "/vod/stjselect/2012/030812",
+    "nid": 85,
+    "cablecastShowId": 1390,
+    "date": "2012-03-08",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "38282108"
+  },
+  {
+    "title": "Osher: Giving People the World",
+    "path": "/vod/osher/030812",
+    "nid": 86,
+    "cablecastShowId": 1392,
+    "date": "2012-03-08",
+    "location": "Fairbanks Museum",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "39121904"
+  },
+  {
+    "title": "Concord Select Board, 3/1/12",
+    "path": "/vod/concordselect/2012/030112",
+    "nid": 87,
+    "cablecastShowId": 1381,
+    "date": "2012-03-01",
+    "location": "Concord Municipal Building",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "39543012"
+  },
+  {
+    "title": "Osher: Northern Forest Canoe Trail",
+    "path": "/vod/osher/031512",
+    "nid": 88,
+    "cablecastShowId": 1400,
+    "date": "2012-03-15",
+    "location": "Catamount Arts",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "39510173"
+  },
+  {
+    "title": "Osher: Musical Mentors and Protegees",
+    "path": "/vod/osher/2012/032912",
+    "nid": 90,
+    "cablecastShowId": 1428,
+    "date": "2012-03-29",
+    "location": "Catamount Arts",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "40398936"
+  }
+]

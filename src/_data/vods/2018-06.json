@@ -1,0 +1,418 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 6/11/18",
+    "path": "/vod/stjselect/2018/061118",
+    "nid": 1535,
+    "cablecastShowId": 6788,
+    "date": "2018-06-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-061118-6788"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/18/18",
+    "path": "/vod/stjschool/2018/061818",
+    "nid": 1537,
+    "cablecastShowId": 6804,
+    "date": "2018-06-18",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-061818-6804"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/25/18",
+    "path": "/vod/stjselect/2018/062518",
+    "nid": 1544,
+    "cablecastShowId": 6829,
+    "date": "2018-06-25",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-062518-6829"
+  },
+  {
+    "title": "St. Johnsbury Academy 2018 Graduation",
+    "path": "/vod/grad/sjagrad2018",
+    "nid": 1529,
+    "cablecastShowId": 6774,
+    "date": "2018-06-04",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "274362082"
+  },
+  {
+    "title": "Lyndon Institute 2018 Graduation",
+    "path": "/vod/grad/ligrad2018",
+    "nid": 1531,
+    "cablecastShowId": 6773,
+    "date": "2018-06-03",
+    "location": "Lyndon Institute",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "274359757"
+  },
+  {
+    "title": "What's Going On? Tools of Warfare Against Lower Class, Part 5",
+    "path": "/vod/wgo/wgo060718",
+    "nid": 1532,
+    "cablecastShowId": 6784,
+    "date": "2018-06-07",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "276379120"
+  },
+  {
+    "title": "St. Johnsbury Chamber: Pet Parade 2018",
+    "path": "/vod/other/2018/stjpet060918",
+    "nid": 1533,
+    "cablecastShowId": 6789,
+    "date": "2018-06-09",
+    "location": "St. Johnsbury",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "276373087"
+  },
+  {
+    "title": "In & Around St. J: June 2018 Events",
+    "path": "/vod/studio/2018/iastj061218",
+    "nid": 1534,
+    "cablecastShowId": 6796,
+    "date": "2018-06-12",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "276374047"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Author Beth Kanell, A&C Lecture",
+    "path": "/vod/lectures/2018/stjath061318",
+    "nid": 1536,
+    "cablecastShowId": 6800,
+    "date": "2018-06-13",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "276377877"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Jensen Beach",
+    "path": "/vod/lectures/2018/stjath062018",
+    "nid": 1538,
+    "cablecastShowId": 6820,
+    "date": "2018-06-20",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "276379508"
+  },
+  {
+    "title": "What's Going On? Tools of Warfare Against Lower Class, Part 6",
+    "path": "/vod/wgo/wgo062218",
+    "nid": 1541,
+    "cablecastShowId": 6828,
+    "date": "2018-06-22",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279585923"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Readings in the Gallery, Jeff Friedman",
+    "path": "/vod/lectures/2018/stjath062718",
+    "nid": 1542,
+    "cablecastShowId": 6844,
+    "date": "2018-06-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279584395"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Morning Plenary",
+    "path": "/vod/forums/2018/vtforest062918a",
+    "nid": 1545,
+    "cablecastShowId": 6846,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278980018"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Mass Timber",
+    "path": "/vod/forums/2018/vtforest062918b",
+    "nid": 1546,
+    "cablecastShowId": 6848,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278989605"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: The Forest Story",
+    "path": "/vod/forums/2018/vtforest062918c",
+    "nid": 1547,
+    "cablecastShowId": 6850,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278992226"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Beyond The Woodstove",
+    "path": "/vod/forums/2018/vtforest062918d",
+    "nid": 1548,
+    "cablecastShowId": 6847,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279596521"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Trends in Wood",
+    "path": "/vod/forums/2018/vtforest062918e",
+    "nid": 1550,
+    "cablecastShowId": 6852,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "279537336"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Local Wood",
+    "path": "/vod/forums/2018/vtforest062918f",
+    "nid": 1551,
+    "cablecastShowId": 6849,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278983872"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Marketing & Communications",
+    "path": "/vod/forums/2018/vtforest062918g",
+    "nid": 1552,
+    "cablecastShowId": 6851,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278994972"
+  },
+  {
+    "title": "Vermont Forest Industry Summit 2018: Closing Panel",
+    "path": "/vod/forums/2018/vtforest062918h",
+    "nid": 1553,
+    "cablecastShowId": 6853,
+    "date": "2018-06-29",
+    "location": "Burke Mountain Conference Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "278998796"
+  }
+]

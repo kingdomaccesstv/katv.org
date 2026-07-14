@@ -1,0 +1,331 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 12/4/17",
+    "path": "/vod/stjschool/2017/120417",
+    "nid": 1392,
+    "cablecastShowId": 6166,
+    "date": "2017-12-04",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-120417-6166"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/11/17",
+    "path": "/vod/stjselect/2017/121117",
+    "nid": 1396,
+    "cablecastShowId": 6182,
+    "date": "2017-12-11",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121117-6182"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/18/17",
+    "path": "/vod/stjschool/2017/121817",
+    "nid": 1399,
+    "cablecastShowId": 6215,
+    "date": "2017-12-18",
+    "location": "St. Johnsbury School",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121817-6215"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/19/17 Special Meeting",
+    "path": "/vod/stjselect/2017/121917",
+    "nid": 1400,
+    "cablecastShowId": 6216,
+    "date": "2017-12-19",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121917-6216"
+  },
+  {
+    "title": "Lyndon Institute Holiday Concert 2017",
+    "path": "/vod/concerts/2017/liwinter1200717",
+    "nid": 753,
+    "cablecastShowId": 6170,
+    "date": "2017-12-07",
+    "location": "Lyndon Institute",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "246555686"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2017",
+    "path": "/vod/concerts/2017/sja121417",
+    "nid": 774,
+    "cablecastShowId": 6208,
+    "date": "2017-12-14",
+    "location": "South Congregational Church",
+    "year": "2014",
+    "yearPath": "/vod/year/2014",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "253008503"
+  },
+  {
+    "title": "First Wednesday: Rembrandt and Vermeer",
+    "path": "/vod/firstwed/2017/120617",
+    "nid": 1393,
+    "cablecastShowId": 6165,
+    "date": "2017-12-06",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "246371173"
+  },
+  {
+    "title": "What's Going On? Tom Rants II",
+    "path": "/vod/wgo/wgo120617",
+    "nid": 1394,
+    "cablecastShowId": 6180,
+    "date": "2017-12-06",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "246372356"
+  },
+  {
+    "title": "Swing North: Swingin' Holiday Concert 2017",
+    "path": "/vod/concerts/2017/swinginholiday120817",
+    "nid": 1395,
+    "cablecastShowId": 6179,
+    "date": "2017-12-08",
+    "location": "St. Johnsbury Academy",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "248259360"
+  },
+  {
+    "title": "In & Around St. J: First Night North 2017",
+    "path": "/vod/studio/2017/iastj121217",
+    "nid": 1397,
+    "cablecastShowId": 6187,
+    "date": "2017-12-12",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "248261189"
+  },
+  {
+    "title": "NEK Chamber 2017 Business Celebration",
+    "path": "/vod/forums/2017/nekchamber121217",
+    "nid": 1398,
+    "cablecastShowId": 6186,
+    "date": "2017-12-12",
+    "location": "Lyndon State College",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "NEK Chamber",
+        "path": "/vod/nekchamber"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "248260121"
+  },
+  {
+    "title": "In & Around St. J: Wut U Kneed 2 Now 'Bout Cyclin'",
+    "path": "/vod/studio/2017/iastj122117",
+    "nid": 1401,
+    "cablecastShowId": 6219,
+    "date": "2017-12-21",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "248596106"
+  },
+  {
+    "title": "First Night North 2017: PanAshe",
+    "path": "/vod/other/2017/firstnightnorth123117",
+    "nid": 1402,
+    "cablecastShowId": 6238,
+    "date": "2017-12-31",
+    "location": "St. Johnsbury",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "249967113"
+  },
+  {
+    "title": "What's Going On? Mind Manipulators",
+    "path": "/vod/wgo/wgo122817",
+    "nid": 1405,
+    "cablecastShowId": 6233,
+    "date": "2017-12-28",
+    "location": "KATV Studio",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "249970320"
+  },
+  {
+    "title": "Pumpkin Hill Singers: Winter Concert 2017",
+    "path": "/vod/concerts/2017/120917",
+    "nid": 1477,
+    "cablecastShowId": 6181,
+    "date": "2017-12-09",
+    "location": "United Community Church",
+    "year": "2017",
+    "yearPath": "/vod/year/2017",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "253005541"
+  }
+]

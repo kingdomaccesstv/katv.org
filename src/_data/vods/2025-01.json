@@ -1,0 +1,738 @@
+[
+  {
+    "title": "What's Going On? 2025 The Year of Deagel",
+    "path": "/vod/wgo/wgo20250103",
+    "nid": 2669,
+    "cablecastShowId": 13702,
+    "date": "2025-01-03",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20250103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1043851547"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Stowe",
+    "path": "/vod/sports/2025/danvillebjv20250103",
+    "nid": 2670,
+    "cablecastShowId": 13683,
+    "date": "2025-01-03",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillebjv20250103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044008412"
+  },
+  {
+    "title": "Groton Select Board, 1/2/25",
+    "path": "/vod/grotonselect/2025/20250102",
+    "nid": 2668,
+    "cablecastShowId": 13681,
+    "date": "2025-01-02",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      },
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250102.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-010225-13681"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs Stowe",
+    "path": "/vod/sports/2025/danvillebv20250103",
+    "nid": 2671,
+    "cablecastShowId": 13684,
+    "date": "2025-01-03",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillebv20250103.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044008165"
+  },
+  {
+    "title": "2025 Danville Basketball: 8 Boys vs Haverhill",
+    "path": "/vod/sports/2025/danville8bh20250104",
+    "nid": 2672,
+    "cablecastShowId": 13709,
+    "date": "2025-01-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville8bh20250104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044401247"
+  },
+  {
+    "title": "2025 Danville Basketball: 7/8 Girls vs Haverhill",
+    "path": "/vod/sports/2025/danville78gh20250104",
+    "nid": 2673,
+    "cablecastShowId": 13710,
+    "date": "2025-01-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville78gh20250104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044401861"
+  },
+  {
+    "title": "2025 Danville Basketball: 7 Boys vs Haverhill",
+    "path": "/vod/sports/2025/danville7bh20250104",
+    "nid": 2674,
+    "cablecastShowId": 13682,
+    "date": "2025-01-04",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville7bh20250104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044400632"
+  },
+  {
+    "title": "Swinging Epiphany: 2025 Concert",
+    "path": "/vod/concerts/2025/se20250106",
+    "nid": 2675,
+    "cablecastShowId": 13687,
+    "date": "2025-01-06",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/se20250106.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1044402369"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/6/25",
+    "path": "/vod/stjschool/2025/20250106",
+    "nid": 2676,
+    "cablecastShowId": 13688,
+    "date": "2025-01-10",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjschool20250106.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-010625-13688"
+  },
+  {
+    "title": "Concord Select Board, 1/8/25",
+    "path": "/vod/concordselect/2025/20250108",
+    "nid": 2677,
+    "cablecastShowId": 13689,
+    "date": "2025-01-08",
+    "location": "Concord",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/concordselect20250108.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-010725-13689"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Twinfield",
+    "path": "/vod/sports/2025/danvillejvboys20250108",
+    "nid": 2678,
+    "cablecastShowId": 13692,
+    "date": "2025-01-08",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250108.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1045774776"
+  },
+  {
+    "title": "St. Johnsbury Select Board: 2025 Budget Presentation",
+    "path": "/vod/stjselect/2025/budget20250109",
+    "nid": 2679,
+    "cablecastShowId": 13712,
+    "date": "2025-01-09",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselectbudget20250109.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-010825-13712"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Twinfield",
+    "path": "/vod/sports/2025/danvillevgirls20250109",
+    "nid": 2681,
+    "cablecastShowId": 13692,
+    "date": "2025-01-09",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevgirls20250109.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1045883092"
+  },
+  {
+    "title": "What's Going On? Who Are They?",
+    "path": "/vod/wgo/wgo20250110",
+    "nid": 2682,
+    "cablecastShowId": 13745,
+    "date": "2025-01-10",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250110.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1046223486"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Oxbow",
+    "path": "/vod/sports/2025/danvillejvboys20250110",
+    "nid": 2683,
+    "cablecastShowId": 13695,
+    "date": "2025-01-10",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvboys20250110.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1046621637"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs Oxbow",
+    "path": "/vod/sports/2025/danvillevboys20250110",
+    "nid": 2684,
+    "cablecastShowId": 13696,
+    "date": "2025-01-10",
+    "location": "Danville School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevboys20250110.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1046621176"
+  },
+  {
+    "title": "VT Dept. Of Housing: 1/14/25 Public Meeting",
+    "path": "/vod/pubmtgs/2025/vthousing20250114",
+    "nid": 2685,
+    "cablecastShowId": 13705,
+    "date": "2025-01-14",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/vthousing20250114.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1047460450"
+  },
+  {
+    "title": "Groton Select Board, 1/15/25",
+    "path": "/vod/grotonselect/2025/20250115",
+    "nid": 2686,
+    "cablecastShowId": 13707,
+    "date": "2025-01-15",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250115.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-011525-13707"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Richford",
+    "path": "/vod/sports/2025/danvillevgirls20250116",
+    "nid": 2687,
+    "cablecastShowId": 13708,
+    "date": "2025-01-16",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevgirls20250116.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1048056821"
+  },
+  {
+    "title": "What's Going On? Who Are They? Continued",
+    "path": "/vod/node/2688",
+    "nid": 2688,
+    "cablecastShowId": 13766,
+    "date": "2025-01-17",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250117.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1048056628"
+  },
+  {
+    "title": "St. Johnsbury School Board, 1/20/25",
+    "path": "/vod/stjschool/2025/20250120",
+    "nid": 2689,
+    "cablecastShowId": 13750,
+    "date": "2025-01-20",
+    "location": "St. Johnsbury School",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjschool20250120.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-012025-13750"
+  },
+  {
+    "title": "CCSU Board of Directors, 1/20/25 Special Meeting",
+    "path": "/vod/ccsubod/2025/20250120",
+    "nid": 2690,
+    "cablecastShowId": 13751,
+    "date": "2025-01-20",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/ccsubod20250120.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-012025-13751"
+  },
+  {
+    "title": "2025 Danville Basketball: 7/8 Girls vs Hazen",
+    "path": "/vod/sports/2025/danville78girls20250121",
+    "nid": 2691,
+    "cablecastShowId": 13752,
+    "date": "2025-01-21",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville78girls20250121.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050092928"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs BFA Fairfax",
+    "path": "/vod/sports/2025/danvillejvb20250122",
+    "nid": 2692,
+    "cablecastShowId": 13753,
+    "date": "2025-01-22",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillejvb20250122.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050088582"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs BFA Fairfax",
+    "path": "/vod/sports/2025/danvillevb20250122",
+    "nid": 2693,
+    "cablecastShowId": 13754,
+    "date": "2025-01-22",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillevb20250122.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050089810"
+  },
+  {
+    "title": "What's Going On? Who Are They? Part III",
+    "path": "/vod/wgo/wgo20250123",
+    "nid": 2694,
+    "cablecastShowId": 13786,
+    "date": "2025-01-23",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250123.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050090923"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Hazen",
+    "path": "/vod/sports/2025/danvillegv20250123",
+    "nid": 2695,
+    "cablecastShowId": 13755,
+    "date": "2025-01-23",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillegv20250123.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050091777"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Stowe",
+    "path": "/vod/sports/2025/danvillevg20250125",
+    "nid": 2696,
+    "cablecastShowId": 13756,
+    "date": "2025-01-25",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillegv20250125.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050972801"
+  },
+  {
+    "title": "NEK Chamber: 1/27/25 Legislative Breakfast",
+    "path": "/vod/legbkfst/2025/20250127",
+    "nid": 2697,
+    "cablecastShowId": 13768,
+    "date": "2025-01-27",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/nekchamber20250127.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1050973391"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 1/27/25",
+    "path": "/vod/stjselect/2025/20250127",
+    "nid": 2698,
+    "cablecastShowId": 13706,
+    "date": "2025-01-27",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250127.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-012725-13706"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Boys vs Richford",
+    "path": "/vod/sports/2025/danvillebv20250129",
+    "nid": 2699,
+    "cablecastShowId": 13770,
+    "date": "2025-01-29",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillebv20250129.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1053261728"
+  },
+  {
+    "title": "2025 Danville Basketball: JV Boys vs Richford",
+    "path": "/vod/sports/2025/danvillebjv20250129",
+    "nid": 2700,
+    "cablecastShowId": 13769,
+    "date": "2025-01-29",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillebjv20250129.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1053262851"
+  },
+  {
+    "title": "2025 Danville Basketball: Varsity Girls vs Winooski",
+    "path": "/vod/sports/2025/danvillegv20250130",
+    "nid": 2701,
+    "cablecastShowId": 13771,
+    "date": "2025-01-30",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danvillegv20250130.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1053262061"
+  },
+  {
+    "title": "What's Going On? Connecting the Dots of History with Bill Flick",
+    "path": "/vod/wgo/wgo20250130",
+    "nid": 2702,
+    "cablecastShowId": 13818,
+    "date": "2025-01-30",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250130.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1055303457"
+  },
+  {
+    "title": "2025 Danville Basketball: 8 Boys vs STJ",
+    "path": "/vod/sports/2025/danville8b20250131",
+    "nid": 2703,
+    "cablecastShowId": 13772,
+    "date": "2025-01-31",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville8b20250131.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1053262518"
+  },
+  {
+    "title": "2025 Danville Basketball: 7/8 Girls vs STJ",
+    "path": "/vod/sports/2025/danville78girls20250131",
+    "nid": 2739,
+    "cablecastShowId": 13773,
+    "date": "2025-01-31",
+    "location": "Danville",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Local Sports",
+        "path": "/vod/sports"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/danville78girls20250131.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1066256697"
+  }
+]

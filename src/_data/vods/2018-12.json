@@ -1,0 +1,358 @@
+[
+  {
+    "title": "Concord Select Board, 12/4/18",
+    "path": "/vod/concordselect/2018/120418",
+    "nid": 1624,
+    "cablecastShowId": 7184,
+    "date": "2018-12-04",
+    "location": "Concord Municipal Building",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-120418-7184"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 12/10/18",
+    "path": "/vod/stjselect/2018/121018",
+    "nid": 1627,
+    "cablecastShowId": 7209,
+    "date": "2018-12-10",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-121018-7209"
+  },
+  {
+    "title": "St. Johnsbury School Board, 12/17/2018",
+    "path": "/vod/stjschool/2018/121718",
+    "nid": 1633,
+    "cablecastShowId": 7223,
+    "date": "2018-12-17",
+    "location": "St. Johnsbury School",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-121718-7223"
+  },
+  {
+    "title": "Lyndon Institute: Winter Concert 2018",
+    "path": "/vod/concerts/2018/liwinter2018",
+    "nid": 759,
+    "cablecastShowId": 7202,
+    "date": "2018-12-06",
+    "location": "Lyndon Institute",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "Lyndon Institute",
+        "path": "/vod/concerts/li"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "305248383"
+  },
+  {
+    "title": "NEK Community Orchestra: Unification Concert 2018",
+    "path": "/vod/concerts/2018/nekco120918",
+    "nid": 768,
+    "cablecastShowId": 7208,
+    "date": "2018-12-09",
+    "location": "Northern Vermont Unversity",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "NEK Community Orchestra",
+        "path": "/vod/concerts/nekco"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307806137"
+  },
+  {
+    "title": "St. Johnsbury Academy Winter Concert 2018",
+    "path": "/vod/concerts/2018/sjawinter121218",
+    "nid": 772,
+    "cablecastShowId": 7214,
+    "date": "2018-12-12",
+    "location": "South Congregational Church",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307810830"
+  },
+  {
+    "title": "Vermont Marijuana Commission: Governor's Listening Tour",
+    "path": "/vod/forums/2018/vtmc120318",
+    "nid": 1622,
+    "cablecastShowId": 7185,
+    "date": "2018-12-03",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "305245728"
+  },
+  {
+    "title": "First Wednesday: Charles Dickens, A Christmas Carol",
+    "path": "/vod/firstwed/2018/120618",
+    "nid": 1623,
+    "cablecastShowId": 7203,
+    "date": "2018-12-06",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "First Wednesdays",
+        "path": "/vod/firstwed"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "305251859"
+  },
+  {
+    "title": "Swing North: Swingin' Holiday Concert 2018",
+    "path": "/vod/concerts/2018/swingin120718",
+    "nid": 1625,
+    "cablecastShowId": 7206,
+    "date": "2018-12-07",
+    "location": "St. Johnsbury Academy",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307802474"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: A Victorian Holiday",
+    "path": "/vod/lectures/2018/stjath120818",
+    "nid": 1626,
+    "cablecastShowId": 7207,
+    "date": "2018-12-08",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307801923"
+  },
+  {
+    "title": "In & Around St. J: St. Johnsbury School CatCH Program",
+    "path": "/vod/studio/2018/iastj121218",
+    "nid": 1628,
+    "cablecastShowId": 7212,
+    "date": "2018-12-12",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307804861"
+  },
+  {
+    "title": "Northern Vermont University - Lyndon December 2018 Graduation ",
+    "path": "/vod/grad/nvudecgrad2018",
+    "nid": 1629,
+    "cablecastShowId": 7240,
+    "date": "2018-12-14",
+    "location": "Northern Vermont University - Lyndon",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307814896"
+  },
+  {
+    "title": "Pumpkin Hill Singers: Winter Concert 2018",
+    "path": "/vod/concerts/2018/pumpkinhill121518",
+    "nid": 1630,
+    "cablecastShowId": 7224,
+    "date": "2018-12-15",
+    "location": "United Community Church",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307813034"
+  },
+  {
+    "title": "What's Going On? Missing Billions, and South African Genocide",
+    "path": "/vod/wgo/wgo122018",
+    "nid": 1631,
+    "cablecastShowId": 7243,
+    "date": "2018-12-20",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307820547"
+  },
+  {
+    "title": "In & Around St. J: First Night 2018",
+    "path": "/vod/studio/2018/iastj122018",
+    "nid": 1632,
+    "cablecastShowId": 7242,
+    "date": "2018-12-20",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "307815237"
+  },
+  {
+    "title": "What's Going On? JFK Warning to the American People",
+    "path": "/vod/wgo/wgo120618",
+    "nid": 1636,
+    "cablecastShowId": 7200,
+    "date": "2018-12-06",
+    "location": "KATV Studio",
+    "year": "2018",
+    "yearPath": "/vod/year/2018",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "314953643"
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "title": "Concord Select Board, 9/6/16",
+    "path": "/vod/concordselect/2016/090716",
+    "nid": 1036,
+    "cablecastShowId": 4979,
+    "date": "2016-09-07",
+    "location": "Concord Municipal Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090616-4979"
+  },
+  {
+    "title": "Concord School Board, 9/19/16",
+    "path": "/vod/concordschool/2016/091916",
+    "nid": 1043,
+    "cablecastShowId": 5003,
+    "date": "2016-09-19",
+    "location": "Concord School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-091916-5003"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/19/16",
+    "path": "/vod/stjschool/2016/091916",
+    "nid": 1044,
+    "cablecastShowId": 5004,
+    "date": "2016-09-19",
+    "location": "St. Johnsbury School",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-091916-5004"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/26/16",
+    "path": "/vod/stjselect/2016/092616",
+    "nid": 1046,
+    "cablecastShowId": 5016,
+    "date": "2016-09-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092616-5016"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/12/16",
+    "path": "/vod/stjselect/2016/091216",
+    "nid": 1214,
+    "cablecastShowId": 4985,
+    "date": "2016-09-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091216-4985"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/12/16 Special meeting",
+    "path": "/vod/stjselect/2016/091216specmtg",
+    "nid": 1224,
+    "cablecastShowId": 4984,
+    "date": "2016-09-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091216-4984"
+  },
+  {
+    "title": "Lyndon and Johnson State Unification: Student Meeting, 9/8/16",
+    "path": "/vod/forums/2016/vsc090816",
+    "nid": 1029,
+    "cablecastShowId": 4983,
+    "date": "2016-09-08",
+    "location": "Lyndon State College",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "183400277"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, 9/13/16",
+    "path": "/vod/forums/2016/dart091316",
+    "nid": 1030,
+    "cablecastShowId": 4987,
+    "date": "2016-09-13",
+    "location": "North Congregational Church",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "183410467"
+  },
+  {
+    "title": "In & Around St. J: Recycling in St J, Tara Holt",
+    "path": "/vod/studio/2016/iastj091316",
+    "nid": 1031,
+    "cablecastShowId": 4988,
+    "date": "2016-09-13",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185229891"
+  },
+  {
+    "title": "Osher: Growing Organic Fruit",
+    "path": "/vod/osher/2016/091516",
+    "nid": 1032,
+    "cablecastShowId": 5000,
+    "date": "2016-09-15",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185232276"
+  },
+  {
+    "title": "NVDA Annual Meeting 2016: Vermont Futures Project",
+    "path": "/vod/forums/2016/nvda091516",
+    "nid": 1033,
+    "cablecastShowId": 4999,
+    "date": "2016-09-15",
+    "location": "Lyndon State College",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185233595"
+  },
+  {
+    "title": "In & Around St. J: Colors of the Kingdom",
+    "path": "/vod/studio/2016/iastj090616",
+    "nid": 1035,
+    "cablecastShowId": 4975,
+    "date": "2016-09-06",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185261340"
+  },
+  {
+    "title": "St. Johnsbury Athenaeum: Mohamad Hafez, Art & Syria",
+    "path": "/vod/stjath/2016/091616",
+    "nid": 1037,
+    "cablecastShowId": 5001,
+    "date": "2016-09-16",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "St. Johnsbury Athenaeum",
+        "path": "/vod/stjath"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185238053"
+  },
+  {
+    "title": "In & Around St. J: Talk with a Syrian Architect, Mohamad Hafez",
+    "path": "/vod/studio/2016/iastj091616",
+    "nid": 1038,
+    "cablecastShowId": 5005,
+    "date": "2016-09-16",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185240799"
+  },
+  {
+    "title": "Main Street Arts St. Andrew's: Phil Brown",
+    "path": "/vod/lectures/2016/msa091816",
+    "nid": 1039,
+    "cablecastShowId": 5002,
+    "date": "2016-09-18",
+    "location": "St. Johnsbury Athenaeum",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185239670"
+  },
+  {
+    "title": "Osher: The Forest Duff",
+    "path": "/vod/osher/2016/092216",
+    "nid": 1045,
+    "cablecastShowId": 5008,
+    "date": "2016-09-22",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185244659"
+  },
+  {
+    "title": "Osher: Orphan Trains in Vermont",
+    "path": "/vod/osher/2016/092916",
+    "nid": 1047,
+    "cablecastShowId": 5023,
+    "date": "2016-09-29",
+    "location": "Catamount Arts",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "185244971"
+  },
+  {
+    "title": "What's Going On? Caveat",
+    "path": "/vod/wgo/wgo091416",
+    "nid": 1197,
+    "cablecastShowId": 4998,
+    "date": "2016-09-14",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "207008287"
+  },
+  {
+    "title": "NEK Youth Services: Annual Walk, VSCEU",
+    "path": "/vod/studio/2016/090716",
+    "nid": 1222,
+    "cablecastShowId": 4976,
+    "date": "2016-09-07",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "208028783"
+  },
+  {
+    "title": "What's Going On? Controlled/Uncontrolled CHADS",
+    "path": "/vod/wgo/wgo092816",
+    "nid": 1320,
+    "cablecastShowId": 5024,
+    "date": "2016-09-28",
+    "location": "KATV Studio",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "227206691"
+  }
+]

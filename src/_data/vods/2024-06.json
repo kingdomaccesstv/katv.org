@@ -1,0 +1,304 @@
+[
+  {
+    "title": "Lyndon Institute 2024 Graduation",
+    "path": "/vod/grad/li2024",
+    "nid": 2551,
+    "cablecastShowId": 13080,
+    "date": "2024-06-02",
+    "location": "Lyndon Institute",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ligrad2024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "953694394"
+  },
+  {
+    "title": "St. Johnsbury Academy 2024 Graduation",
+    "path": "/vod/grad/sja2024",
+    "nid": 2552,
+    "cablecastShowId": 13081,
+    "date": "2024-06-03",
+    "location": "St. Johnsbury Academy",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/sjagrad2024.jpg",
+    "videoSource": "vimeo",
+    "videoId": "953694986"
+  },
+  {
+    "title": "St. Johnsbury Academy Senior Concert 2024",
+    "path": "/vod/concerts/2023/sja20240602",
+    "nid": 2555,
+    "cablecastShowId": 13085,
+    "date": "2024-06-02",
+    "location": "St. Johnsbury Academy",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Concerts",
+        "path": "/vod/concerts"
+      },
+      {
+        "name": "St. Johnsbury Academy",
+        "path": "/vod/concerts/sja"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/sjasenior20240602.jpg",
+    "videoSource": "vimeo",
+    "videoId": "953695732"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/3/24",
+    "path": "/vod/stjschool/2024/20240603",
+    "nid": 2556,
+    "cablecastShowId": 13084,
+    "date": "2024-06-03",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240603.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-060324-13084"
+  },
+  {
+    "title": "Danville School 2024 Graduation",
+    "path": "/vod/grad/danville2024",
+    "nid": 2562,
+    "cablecastShowId": 13087,
+    "date": "2024-06-08",
+    "location": "Danville School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/danvilleschoolgrad20240608.jpg",
+    "videoSource": "vimeo",
+    "videoId": "956504387"
+  },
+  {
+    "title": "Groton Select Board, 6/5/24",
+    "path": "/vod/grotonselect/2024/20240605",
+    "nid": 2563,
+    "cablecastShowId": 13068,
+    "date": "2024-06-05",
+    "location": "Groton",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240605.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-060524-13068"
+  },
+  {
+    "title": "WGO: Escalation to W.W. III",
+    "path": "/vod/wgo/wgo20240606",
+    "nid": 2564,
+    "cablecastShowId": 13104,
+    "date": "2024-06-06",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240606.jpg",
+    "videoSource": "vimeo",
+    "videoId": "956503857"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/10/24",
+    "path": "/vod/stjselect/2024/20240610",
+    "nid": 2565,
+    "cablecastShowId": 13103,
+    "date": "2024-06-10",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240610.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-061024-13103"
+  },
+  {
+    "title": "WGO: Operation Sandman Complete",
+    "path": "/vod/wgo/wgo20240613",
+    "nid": 2566,
+    "cablecastShowId": 13119,
+    "date": "2024-06-13",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240613.jpg",
+    "videoSource": "vimeo",
+    "videoId": "958022527"
+  },
+  {
+    "title": "CCSU Board of Directors, 6/17/24",
+    "path": "/vod/ccsubod/2024/20240617",
+    "nid": 2567,
+    "cablecastShowId": 13113,
+    "date": "2024-06-17",
+    "location": "Danville",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ccsubod20240617.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-061724-13113"
+  },
+  {
+    "title": "Catamounts Arts: Re-Opening Ceremony",
+    "path": "/vod/other/2024/catamount20240620",
+    "nid": 2568,
+    "cablecastShowId": 13121,
+    "date": "2024-06-20",
+    "location": "St. Johnsbury",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Catamount Arts",
+        "path": "/vod/catamount"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/catamount20240620.jpg",
+    "videoSource": "vimeo",
+    "videoId": "969372494"
+  },
+  {
+    "title": "St. Johnsbury School Board, 6/24/24",
+    "path": "/vod/stjselect/2024/20240624",
+    "nid": 2569,
+    "cablecastShowId": 13125,
+    "date": "2024-06-24",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240624.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-062424-13125"
+  },
+  {
+    "title": "A Leap Beyond: A Journey with Angella Gibbons",
+    "path": "/vod/studio/2024/leapbeyond20240626",
+    "nid": 2570,
+    "cablecastShowId": 13142,
+    "date": "2024-06-26",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/leapbeyond20240626.jpg",
+    "videoSource": "vimeo",
+    "videoId": "969371779"
+  },
+  {
+    "title": "WGO: Drums of War",
+    "path": "/vod/wgo/wgo20240627",
+    "nid": 2571,
+    "cablecastShowId": 13143,
+    "date": "2024-06-27",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240627.jpg",
+    "videoSource": "vimeo",
+    "videoId": "970235445"
+  }
+]

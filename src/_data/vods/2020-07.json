@@ -1,0 +1,232 @@
+[
+  {
+    "title": "St. Johnsbury Select Board, 7/13/20",
+    "path": "/vod/stjselect/2020/071320",
+    "nid": 1970,
+    "cablecastShowId": 8766,
+    "date": "2020-07-13",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-071320-8766"
+  },
+  {
+    "title": "St. Johnsbury School Board, 7/20/20",
+    "path": "/vod/stjschool/2020/072020",
+    "nid": 1972,
+    "cablecastShowId": 8774,
+    "date": "2020-07-20",
+    "location": "St. Johnsbury School",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "8774-1-stjschool-072020-web"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/27/20",
+    "path": "/vod/stjselect/2020/072720",
+    "nid": 1975,
+    "cablecastShowId": 8785,
+    "date": "2020-07-27",
+    "location": "Virtual",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072720-8785"
+  },
+  {
+    "title": "What's Going On? Bernays Spells it Out For You",
+    "path": "/vod/wgo/wgo070220",
+    "nid": 1969,
+    "cablecastShowId": 8755,
+    "date": "2020-07-02",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "439377892"
+  },
+  {
+    "title": "Rep. Peter Welch Press Conference, 7/20/20",
+    "path": "/vod/forums/2020/welch072020",
+    "nid": 1971,
+    "cablecastShowId": 8775,
+    "date": "2020-07-20",
+    "location": "Lunenburg",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "443466178"
+  },
+  {
+    "title": "What's Going On? GET REAL",
+    "path": "/vod/wgo/wgo072320",
+    "nid": 1973,
+    "cablecastShowId": 8780,
+    "date": "2020-07-23",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "443470565"
+  },
+  {
+    "title": "What's Going On? We Shall Unleash the Nihilists",
+    "path": "/vod/wgo/wgo073020",
+    "nid": 1974,
+    "cablecastShowId": 8787,
+    "date": "2020-07-30",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "443479498"
+  },
+  {
+    "title": "What's Going On? Study of the Manipulation of Human Behavior",
+    "path": "/vod/wgo/wgo070920",
+    "nid": 1987,
+    "cablecastShowId": 8764,
+    "date": "2020-07-09",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "455142670"
+  },
+  {
+    "title": "What's Going On? Interview with Bill Flick",
+    "path": "/vod/wgo/wgo071620",
+    "nid": 1988,
+    "cablecastShowId": 8772,
+    "date": "2020-07-16",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "455138261"
+  },
+  {
+    "title": "What's Going On? No Conspiracy?",
+    "path": "/vod/wgo/071720",
+    "nid": 1989,
+    "cablecastShowId": 8907,
+    "date": "2020-07-17",
+    "location": "KATV Studio",
+    "year": "2020",
+    "yearPath": "/vod/year/2020",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "459728191"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Woodsville NH: 2025, 4th Of July Parade 7/4/25",
+    "path": "/vod/other/2025/woodsville4th2025",
+    "nid": 2811,
+    "cablecastShowId": 14301,
+    "date": "2025-07-04",
+    "location": "Woodsville, NH",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/woodsville4th2025.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1099582409"
+  },
+  {
+    "title": "Groton Select Board, 7/9/25",
+    "path": "/vod/grotonselect/2025/20250709",
+    "nid": 2816,
+    "cablecastShowId": 14309,
+    "date": "2025-07-09",
+    "location": "Groton",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/grotonselect20250709.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-070925-14309"
+  },
+  {
+    "title": "What's Going On? We Lie, We Cheat, We Steal",
+    "path": "/vod/wgo/wgo20250710",
+    "nid": 2817,
+    "cablecastShowId": 14336,
+    "date": "2025-07-10",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      },
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250710.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1101342644"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/14/25",
+    "path": "/vod/stjselect/2025/20250714",
+    "nid": 2818,
+    "cablecastShowId": 14322,
+    "date": "2025-07-14",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250714.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-071425-14322"
+  },
+  {
+    "title": "What's Going On? Dedicated to Bill Larsen Ellis",
+    "path": "/vod/wgo/wgo20250717",
+    "nid": 2819,
+    "cablecastShowId": 14360,
+    "date": "2025-07-17",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      },
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250717.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1104434013"
+  },
+  {
+    "title": "Lyndonville VT: 2025 Stars and Stripes Parade",
+    "path": "/vod/other/2025/lyndonvillessp20250719",
+    "nid": 2820,
+    "cablecastShowId": 14359,
+    "date": "2025-07-19",
+    "location": "Lyndon",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonvillessp20250719.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1104433665"
+  },
+  {
+    "title": "Summer Scenic St. J 2025",
+    "path": "/vod/other/2025/stjscenic2025",
+    "nid": 2822,
+    "cablecastShowId": 14370,
+    "date": "2025-07-23",
+    "location": "St. Johnsbury",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjscenic2025.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1104434492"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/28/25",
+    "path": "/vod/stjselect/2025/20250728",
+    "nid": 2823,
+    "cablecastShowId": 14367,
+    "date": "2025-07-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/stjselect20250728.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072825-14367"
+  },
+  {
+    "title": "What's Going On? Deception, Lies, and Profits",
+    "path": "/vod/wgo/wgo20250731",
+    "nid": 2824,
+    "cablecastShowId": 14399,
+    "date": "2025-07-31",
+    "location": "KATV Studio",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/wgo20250731.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1106263399"
+  },
+  {
+    "title": "Joe's Pond Association: Eurasian Watermilfoil Summer 2025 P2",
+    "path": "/vod/other/2025/joespond20250730",
+    "nid": 2841,
+    "cablecastShowId": 14463,
+    "date": "2025-07-30",
+    "location": "Joe's Pond",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/joespond20250730.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1116387585"
+  },
+  {
+    "title": "Lyndon Select Board, 7/21/25",
+    "path": "/vod/lyndonselect/2025/20250721",
+    "nid": 2821,
+    "cablecastShowId": 14344,
+    "date": "2025-07-21",
+    "location": "Lyndon Municipal Building",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20250721.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-072125-14344"
+  },
+  {
+    "title": "Lyndon Select Board, 7/7/25",
+    "path": "/vod/pubmtgs/2025/lyndonselect20250707",
+    "nid": 2815,
+    "cablecastShowId": 14308,
+    "date": "2025-07-07",
+    "location": "Virtual",
+    "year": "2025",
+    "yearPath": "/vod/year/2025",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Lyndon Select Board",
+        "path": "/vod/lyndonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2025/lyndonselect20250707.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-070725-14308"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "title": "Concord Select Board, 10/1/13",
+    "path": "/vod/concordselect/2013/100113",
+    "nid": 272,
+    "cablecastShowId": 2462,
+    "date": "2013-10-01",
+    "location": "Concord Municipal Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "76234317"
+  },
+  {
+    "title": "In & Around St. J: Michelle Fay",
+    "path": "/vod/studio/2013/iastj100213",
+    "nid": 273,
+    "cablecastShowId": 2464,
+    "date": "2013-10-02",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "76489653"
+  },
+  {
+    "title": "Osher: Alzehiemer's Disease",
+    "path": "/vod/osher/2013/100313",
+    "nid": 284,
+    "cablecastShowId": 2471,
+    "date": "2013-10-03",
+    "location": "Catamount Arts",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78031016"
+  },
+  {
+    "title": "HealthQuest: VT Health Connect & Navigator/CSA Program",
+    "path": "/vod/studio/healthquest/100713",
+    "nid": 285,
+    "cablecastShowId": 2486,
+    "date": "2013-10-07",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "HealthQuest",
+        "path": "/vod/studio/healthquest"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "77259882"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/7/13",
+    "path": "/vod/stjschool/2013/100713",
+    "nid": 286,
+    "cablecastShowId": 2459,
+    "date": "2013-10-07",
+    "location": "St. Johnsbury School",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78125149"
+  },
+  {
+    "title": "In & Around St. J: Community Connections",
+    "path": "/vod/studio/2013/iastj100813",
+    "nid": 287,
+    "cablecastShowId": 2480,
+    "date": "2013-10-08",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78031616"
+  },
+  {
+    "title": " Haverhill-Newbury Railroad",
+    "path": "/vod/lectures/2013/haverhill101313",
+    "nid": 288,
+    "cablecastShowId": 2490,
+    "date": "2013-10-13",
+    "location": "Haverhill, NH",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78016799"
+  },
+  {
+    "title": "St. Johnsbury Planning Commission, 10/15/13",
+    "path": "/vod/stjselect/2013/plan101513",
+    "nid": 289,
+    "cablecastShowId": 2491,
+    "date": "2013-10-15",
+    "location": "St. Johnsbury Municipal Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78042707"
+  },
+  {
+    "title": "In & Around St. J: Substance Abuse Prevention",
+    "path": "/vod/studio/2013/iastj101513",
+    "nid": 290,
+    "cablecastShowId": 2493,
+    "date": "2013-10-15",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78041286"
+  },
+  {
+    "title": "Making A Difference, Ep. 1",
+    "path": "/vod/studio/2013/makingdiffep1",
+    "nid": 299,
+    "cablecastShowId": 2529,
+    "date": "2013-10-23",
+    "location": "Springfield College School of Human Services",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78138499"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/28/13 Zoning",
+    "path": "/vod/stjselect/2013/102813z",
+    "nid": 300,
+    "cablecastShowId": 2539,
+    "date": "2013-10-28",
+    "location": "Pomerleau Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79410811"
+  },
+  {
+    "title": "Leap Beyond Stereotype: Marconic Reconnections",
+    "path": "/vod/studio/2013/leap103013",
+    "nid": 301,
+    "cablecastShowId": 2550,
+    "date": "2013-10-30",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "78801339"
+  },
+  {
+    "title": "Osher: Mobile Medical",
+    "path": "/vod/osher/2013/103013",
+    "nid": 302,
+    "cablecastShowId": 2551,
+    "date": "2013-10-30",
+    "location": "Catamount Arts",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Osher",
+        "path": "/vod/osher"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79443509"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 10/28/13",
+    "path": "/vod/stjselect/2013/102813",
+    "nid": 311,
+    "cablecastShowId": 2530,
+    "date": "2013-10-28",
+    "location": "Pomerleau Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79417084"
+  },
+  {
+    "title": "It's Up to US: Gary Johnson Part II",
+    "path": "/vod/studio/2013/iutu6",
+    "nid": 399,
+    "cablecastShowId": 2528,
+    "date": "2013-10-10",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "87597303"
+  },
+  {
+    "title": "What's Going On? The Dog and Pony Show - Showdown",
+    "path": "/vod/wgo/wgo101913",
+    "nid": 545,
+    "cablecastShowId": 2505,
+    "date": "2013-10-19",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "104675615"
+  },
+  {
+    "title": "What's Going On? Tools of Slavery",
+    "path": "/vod/wgo/wgo102613",
+    "nid": 550,
+    "cablecastShowId": 2506,
+    "date": "2013-10-26",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "103570665"
+  }
+]

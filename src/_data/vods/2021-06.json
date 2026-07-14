@@ -1,0 +1,178 @@
+[
+  {
+    "title": "St. Johnsbury School Board, 6/7/21",
+    "path": "/vod/stjschool/2021/060721",
+    "nid": 2064,
+    "cablecastShowId": 9800,
+    "date": "2021-06-07",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjschool060721.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-060721-9800"
+  },
+  {
+    "title": "CCSU Board of Directors, 6/14/21 Special Meeting",
+    "path": "/vod/ccsubod/2021/061421",
+    "nid": 2065,
+    "cablecastShowId": 9815,
+    "date": "2021-06-14",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/ccsubod061421.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsu-bod-061421-9815"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 6/28/21",
+    "path": "/vod/stjselect/2021/062821",
+    "nid": 2068,
+    "cablecastShowId": 9859,
+    "date": "2021-06-28",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjselect062821.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-062821-9859_202107"
+  },
+  {
+    "title": "St. Johnsbury Academy 2021 Graduation",
+    "path": "/vod/grad/sja2021",
+    "nid": 2060,
+    "cablecastShowId": 9796,
+    "date": "2021-06-07",
+    "location": "Saint Johnsbury Academy",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/thumbnail2.jpg",
+    "videoSource": "vimeo",
+    "videoId": "560254966"
+  },
+  {
+    "title": "WGO: Methods of Manipulation",
+    "path": "/vod/wgo/wgo052021",
+    "nid": 2062,
+    "cablecastShowId": 9732,
+    "date": "2021-06-11",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo052021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "561530199"
+  },
+  {
+    "title": "WGO: Don't Trust in Princes",
+    "path": "/vod/wgo/wgo060421",
+    "nid": 2063,
+    "cablecastShowId": 9767,
+    "date": "2021-06-04",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo060421.jpg",
+    "videoSource": "vimeo",
+    "videoId": "561543088"
+  },
+  {
+    "title": "WGO: Creating Your Reality",
+    "path": "/vod/wgo/wgo062421",
+    "nid": 2071,
+    "cablecastShowId": 9845,
+    "date": "2021-06-24",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo062421.jpg",
+    "videoSource": "vimeo",
+    "videoId": "576318713"
+  },
+  {
+    "title": "Lyndon Institute 2021 Graduation",
+    "path": "/vod/grad/li2021",
+    "nid": 2074,
+    "cablecastShowId": 9772,
+    "date": "2021-06-06",
+    "location": "Lyndon Institute",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Graduations",
+        "path": "/vod/grad"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/ligrad060621.jpg",
+    "videoSource": "vimeo",
+    "videoId": "560274948"
+  }
+]

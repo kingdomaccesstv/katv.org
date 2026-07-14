@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Groton Select Board, 9/16/21",
+    "path": "/vod/grotonselect/2021/091621",
+    "nid": 2086,
+    "cablecastShowId": 10061,
+    "date": "2021-09-16",
+    "location": "Groton",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/grotonselect091621.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-091621-10061"
+  },
+  {
+    "title": "St. Johnsbury School Board, 9/20/21",
+    "path": "/vod/stjschool/2021/092021",
+    "nid": 2088,
+    "cablecastShowId": 10065,
+    "date": "2021-09-24",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/stjschool092021.png",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-10065-092021"
+  },
+  {
+    "title": "Town of Wheelock: Informational Meeting, 9/27/21",
+    "path": "/vod/public-meetings/wheelock/2021/092721",
+    "nid": 2089,
+    "cablecastShowId": 10099,
+    "date": "2021-09-27",
+    "location": "Wheelock Town Hall",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wheelock092721.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-wheelock-infomtg-092721-10099"
+  },
+  {
+    "title": "WGO: The People Speak",
+    "path": "/vod/wgo/wgo090921",
+    "nid": 2082,
+    "cablecastShowId": 10063,
+    "date": "2021-09-09",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo090921.jpg",
+    "videoSource": "vimeo",
+    "videoId": "608279248"
+  },
+  {
+    "title": "NEKHS: Direct Services Professionals Appreciation Week",
+    "path": "/vod/studio/2021/nekhs091021",
+    "nid": 2083,
+    "cablecastShowId": 10067,
+    "date": "2021-09-10",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/nekhs091021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "608279018"
+  },
+  {
+    "title": "Vermont Community Foundation: 2021 Annual Meeting",
+    "path": "/vod/other/2021/vcf091421",
+    "nid": 2084,
+    "cablecastShowId": 10081,
+    "date": "2021-09-14",
+    "location": "Virtual",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/vcf091421.jpg",
+    "videoSource": "vimeo",
+    "videoId": "608279840"
+  },
+  {
+    "title": "WGO: You're Being Tested",
+    "path": "/vod/wgo/wgo091621",
+    "nid": 2085,
+    "cablecastShowId": 10084,
+    "date": "2021-09-16",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo091621.jpg",
+    "videoSource": "vimeo",
+    "videoId": "608279680"
+  },
+  {
+    "title": "Wheelock Town Hall Walkthrough",
+    "path": "/vod/other/2021/wheelockth091921",
+    "nid": 2087,
+    "cablecastShowId": 10085,
+    "date": "2021-09-19",
+    "location": "Wheelock",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wheelockth091921.png",
+    "videoSource": "vimeo",
+    "videoId": "612947930"
+  },
+  {
+    "title": "WGO: You're Living in the Fourth Reich",
+    "path": "/vod/wgo/wgo093021",
+    "nid": 2090,
+    "cablecastShowId": 10126,
+    "date": "2021-09-30",
+    "location": "KATV Studio",
+    "year": "2021",
+    "yearPath": "/vod/year/2021",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2021/wgo093021.png",
+    "videoSource": "vimeo",
+    "videoId": "620807955"
+  }
+]

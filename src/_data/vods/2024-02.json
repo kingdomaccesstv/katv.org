@@ -1,0 +1,362 @@
+[
+  {
+    "title": "WGO: Into The Mind of Jacob Rothschild",
+    "path": "/vod/wgo/wgo20240201",
+    "nid": 2484,
+    "cablecastShowId": 12696,
+    "date": "2024-02-01",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240201.jpg",
+    "videoSource": "vimeo",
+    "videoId": "909094633"
+  },
+  {
+    "title": "St. Johnsbury School Board, 2/5/24",
+    "path": "/vod/stjschool/2024/20240205",
+    "nid": 2486,
+    "cablecastShowId": 12679,
+    "date": "2024-02-05",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240205.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-020524-12679"
+  },
+  {
+    "title": "Concord Select Board, 2/6/24",
+    "path": "/vod/concordselect/2024/20240206",
+    "nid": 2487,
+    "cablecastShowId": 12680,
+    "date": "2024-02-06",
+    "location": "Concord",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/concordselect20240206.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katc-concordselect-mtg-020624-12680"
+  },
+  {
+    "title": "Groton Select Board, 2/7/24",
+    "path": "/vod/grotonselect/2024/20240207",
+    "nid": 2488,
+    "cablecastShowId": 12682,
+    "date": "2024-02-07",
+    "location": "Groton Town Hall",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Groton Select Board",
+        "path": "/vod/grotonselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/grotonselect20240207.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-020724-12682"
+  },
+  {
+    "title": "WGO: Reality Comes to Roost",
+    "path": "/vod/wgo/wgo20240208",
+    "nid": 2489,
+    "cablecastShowId": 12727,
+    "date": "2024-02-08",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240208.jpg",
+    "videoSource": "vimeo",
+    "videoId": "911838457"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/12/24",
+    "path": "/vod/stjselect/2024/20240212",
+    "nid": 2490,
+    "cablecastShowId": 12707,
+    "date": "2024-02-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240212.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021224-12707"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/12/24 Special Meeting",
+    "path": "/vod/stjselect/2024/20240212sm",
+    "nid": 2491,
+    "cablecastShowId": 12730,
+    "date": "2024-02-12",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240212sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-021224-12730"
+  },
+  {
+    "title": "Fairbanks: Tang Science Ribbon Cutting",
+    "path": "/vod/lectures/2024/fmp20240215",
+    "nid": 2492,
+    "cablecastShowId": 12708,
+    "date": "2024-02-15",
+    "location": "Fairbanks Museum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      },
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/fmp20240215.jpg",
+    "videoSource": "vimeo",
+    "videoId": "913499872"
+  },
+  {
+    "title": "Creative Solutions to Rural Housing (USDA Rural Dev)",
+    "path": "/vod/lectures/2024/usda20240215",
+    "nid": 2493,
+    "cablecastShowId": 12751,
+    "date": "2024-02-15",
+    "location": "Fairbanks Museum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/usda20240215.jpg",
+    "videoSource": "vimeo",
+    "videoId": "913499534"
+  },
+  {
+    "title": "St. Johnsbury School Board, 2/19/24",
+    "path": "/vod/stjschool/2024/20240219",
+    "nid": 2494,
+    "cablecastShowId": 12739,
+    "date": "2024-02-19",
+    "location": "St. Johnsbury School",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury School Board",
+        "path": "/vod/stjschool"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjschool20240219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-021924-12739"
+  },
+  {
+    "title": "CCSU Board of Directors, 2/19/24",
+    "path": "/vod/ccsubod/2024/20240219",
+    "nid": 2495,
+    "cablecastShowId": 12738,
+    "date": "2024-02-19",
+    "location": "Danville School Library",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "CCSU Board of Directors",
+        "path": "/vod/ccsubod"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/ccsubod20240219.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-021924-12738"
+  },
+  {
+    "title": "Legislative Breakfast, February 2024",
+    "path": "/vod/legbkfst/2024/20240226",
+    "nid": 2496,
+    "cablecastShowId": 12758,
+    "date": "2024-02-26",
+    "location": "St. Johnsbury House",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "NEK Legislative Breakfast",
+        "path": "/vod/neklegbkfst"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/legbkfst20240226.jpg",
+    "videoSource": "vimeo",
+    "videoId": "916761526"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 2/26/24",
+    "path": "/vod/stjselect/2024/20240226",
+    "nid": 2497,
+    "cablecastShowId": 12759,
+    "date": "2024-02-26",
+    "location": "St. Johnsbury Welcome Center",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/stjselect20240226.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-022624-12759"
+  },
+  {
+    "title": "WGO: Truth Will Prevail",
+    "path": "/vod/wgo/wgo20240229",
+    "nid": 2498,
+    "cablecastShowId": 12782,
+    "date": "2024-02-29",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240229.jpg",
+    "videoSource": "vimeo",
+    "videoId": "918132584"
+  },
+  {
+    "title": "WGO: Truth Will Prevail, Part 2",
+    "path": "/vod/wgo/wgo20240229b",
+    "nid": 2499,
+    "cablecastShowId": 12783,
+    "date": "2024-02-29",
+    "location": "KATV Studio",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/wgo20240229b.jpg",
+    "videoSource": "vimeo",
+    "videoId": "918132780"
+  },
+  {
+    "title": "FM&P: Mark Breen 2024 (Night Owl Club)",
+    "path": "/vod/lectures/2024/fmp20240201",
+    "nid": 2560,
+    "cablecastShowId": 12712,
+    "date": "2024-02-01",
+    "location": "Fairbanks Museum",
+    "year": "2024",
+    "yearPath": "/vod/year/2024",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": "/assets/images/vod/2024/fmp20240201.jpg",
+    "videoSource": "vimeo",
+    "videoId": "953693401"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "title": "Concord Select Board, 9/1/15",
+    "path": "/vod/concordselect/2015/090115",
+    "nid": 866,
+    "cablecastShowId": 4124,
+    "date": "2015-09-01",
+    "location": "Concord Municipal Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-090115-4124"
+  },
+  {
+    "title": "Concord School Board, 9/9/15",
+    "path": "/vod/concordschool/2015/090915",
+    "nid": 867,
+    "cablecastShowId": 4138,
+    "date": "2015-09-09",
+    "location": "Concord School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord School Board",
+        "path": "/vod//concordschool"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-concordschool-mtg-090915-4138"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/14/15",
+    "path": "/vod/stjselect/2015/091415",
+    "nid": 868,
+    "cablecastShowId": 4145,
+    "date": "2015-09-14",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091415-4145"
+  },
+  {
+    "title": "St. Johnsbury Select Board: Special Meeting, 9/16/15",
+    "path": "/vod/stjselect/2015/091615specmtg",
+    "nid": 869,
+    "cablecastShowId": 4156,
+    "date": "2015-09-16",
+    "location": "Pomerleau Building",
+    "year": "2016",
+    "yearPath": "/vod/year/2016",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-091615-4156"
+  },
+  {
+    "title": "St. Johnsbury Legislative Listening Session, 9/28/15",
+    "path": "/vod/stjselect/2015/092815leglisten",
+    "nid": 870,
+    "cablecastShowId": 4188,
+    "date": "2015-09-28",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      },
+      {
+        "name": "Local Politics",
+        "path": "/vod/politics"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjleg-mtg-092815-4188"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/28/15",
+    "path": "/vod/stjselect/2015/092815",
+    "nid": 871,
+    "cablecastShowId": 4189,
+    "date": "2015-09-28",
+    "location": "Pomerleau Building",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092815-4189"
+  },
+  {
+    "title": "Danville Select Board: ATV Regulation Forum, 9/26/15",
+    "path": "/vod/forums/2015/danvillatv092615",
+    "nid": 838,
+    "cablecastShowId": 4187,
+    "date": "2015-09-26",
+    "location": "Danville School",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "141020611"
+  },
+  {
+    "title": "In & Around St. J: Kingdom Recovery Center",
+    "path": "/vod/studio/2015/iastj090115",
+    "nid": 840,
+    "cablecastShowId": 4122,
+    "date": "2015-09-01",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "139076410"
+  },
+  {
+    "title": "Senator Leahy: USDA-RD, NEK REAP Zone",
+    "path": "/vod/forums/2015/nvda090415",
+    "nid": 847,
+    "cablecastShowId": 4135,
+    "date": "2015-09-04",
+    "location": "Kingdom Tap Room",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "139079584"
+  },
+  {
+    "title": "In & Around St. J.: Chad Whitehead and Joe Kasprzak",
+    "path": "/vod/studio/2015/iastj090815",
+    "nid": 848,
+    "cablecastShowId": 4137,
+    "date": "2015-09-08",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "139086569"
+  },
+  {
+    "title": "Community Conversation: DART 2.0, 9/8/15",
+    "path": "/vod/forums/2015/dart090815",
+    "nid": 849,
+    "cablecastShowId": 4136,
+    "date": "2015-09-08",
+    "location": "North Congregational Church",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "139091943"
+  },
+  {
+    "title": "Fairbanks Museum: Naturalist, John Whitenight",
+    "path": "/vod/lectures/2015/fairbanks091715",
+    "nid": 850,
+    "cablecastShowId": 4160,
+    "date": "2015-09-17",
+    "location": "Fairbanks Museum",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      },
+      {
+        "name": "Fairbanks Museum",
+        "path": "/vod/fairbanks"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "141028286"
+  },
+  {
+    "title": "NVDA Annual Meeting: Speaker Ted Brady, USDA-RD VT",
+    "path": "/vod/forums/2015/nvda091715",
+    "nid": 852,
+    "cablecastShowId": 4159,
+    "date": "2015-09-17",
+    "location": "Lyndon State College",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "141021771"
+  },
+  {
+    "title": "It's Up to US!: DISCERNMENT",
+    "path": "/vod/studio/2015/iutu092915",
+    "nid": 854,
+    "cablecastShowId": 4211,
+    "date": "2015-09-29",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "141030430"
+  },
+  {
+    "title": "In & Around St. J.: Town Plan Process",
+    "path": "/vod/studio/2015/iastj092215",
+    "nid": 856,
+    "cablecastShowId": 4174,
+    "date": "2015-09-22",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "141027362"
+  },
+  {
+    "title": "It's Up to US!: United We Stand!",
+    "path": "/vod/studio/2015/iutu091015",
+    "nid": 861,
+    "cablecastShowId": 4153,
+    "date": "2015-09-10",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "It's Up to Us",
+        "path": "/vod/studio/iutu"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "142847713"
+  },
+  {
+    "title": "What's Going On? End Hypothecation",
+    "path": "/vod/wgo/wgo090215",
+    "nid": 1158,
+    "cablecastShowId": 4127,
+    "date": "2015-09-02",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200257291"
+  },
+  {
+    "title": "What's Going On? Stop The Drug Flow",
+    "path": "/vod/wgo/wgo090915",
+    "nid": 1159,
+    "cablecastShowId": 4142,
+    "date": "2015-09-09",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200252561"
+  },
+  {
+    "title": "What's Going On? Russia Finally Says, Enough",
+    "path": "/vod/wgo/wgo092315",
+    "nid": 1160,
+    "cablecastShowId": 4182,
+    "date": "2015-09-23",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "200265424"
+  },
+  {
+    "title": "What's Going On? WWIII On The Horizon",
+    "path": "/vod/wgo/wgo093015",
+    "nid": 1181,
+    "cablecastShowId": 4205,
+    "date": "2015-09-30",
+    "location": "KATV Studio",
+    "year": "2015",
+    "yearPath": "/vod/year/2015",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "203762000"
+  }
+]

@@ -1,0 +1,82 @@
+---
+layout: layouts/base.njk
+---
+{% set activeTitle = title or vod.title %}
+
+<div class="page-title-full-width-container" id="page-title-full-width-container">
+  <header role="banner" id="page-title" class="container page-title-container">
+    <h1 class="page-title">{{ activeTitle }}</h1>
+  </header>
+</div>
+
+<main role="main" class="main-container container">
+  <article class="vod is-promoted full clearfix node">
+    <div class="content">
+      <div class="layout layout--twocol-section">
+        
+        <!-- Video Player Column -->
+        <div class="layout__region layout__region--first">
+          <div class="ratio ratio-16x9">
+            {% if vod.videoSource == 'vimeo' %}
+              <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{ vod.videoId }}?autoplay=1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            {% elif vod.videoSource == 'archive.org' %}
+              <iframe class="embed-responsive-item" src="https://archive.org/embed/{{ vod.videoId }}&autoplay=1" allowfullscreen></iframe>
+            {% else %}
+              <p style="padding: 30px; text-align: center; color: white;">Video embed unavailable</p>
+            {% endif %}
+          </div>
+        </div>
+        
+        <!-- Metadata Sidebar Column -->
+        <div class="layout__region layout__region--second">
+          
+          {% if vod.location %}
+          <div class="field field--name-field-event-location field--type-string field--label-above">
+            <div class="field__label">Location</div>
+            <div class="field__item">{{ vod.location }}</div>
+          </div>
+          {% endif %}
+
+          {% if vod.date %}
+          <div class="field field--name-field-event-date field--type-datetime field--label-above">
+            <div class="field__label">Date</div>
+            <div class="field__item">{{ vod.date | postDate }}</div>
+          </div>
+          {% endif %}
+
+          {% if vod.categories and vod.categories.length > 0 %}
+          <div class="field field--name-field-program-category field--type-entity-reference field--label-above">
+            <div class="field__label">Categories</div>
+            <div class="field__items">
+              {% for cat in vod.categories %}
+                <div class="field__item">
+                  <a href="{{ cat.path | categoryUrl }}/">{{ cat.name }}</a>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if vod.year %}
+          <div class="field field--name-field-content-year field--type-entity-reference field--label-hidden">
+            <div class="field__item">
+              <a href="/vod/year/{{ vod.year }}/">{{ vod.year }}</a>
+            </div>
+          </div>
+          {% endif %}
+
+
+
+          <!-- Social Share (AddToAny Mock) -->
+          <div class="addtoany_list">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://katv.org{{ vod.path }}" target="_blank" title="Share on Facebook" style="background-color: #3b5998; color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; text-decoration: none;">F</a>
+            <a href="https://twitter.com/intent/tweet?url=https://katv.org{{ vod.path }}&text={{ activeTitle | urlencode }}" target="_blank" title="Share on Twitter" style="background-color: #1da1f2; color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; text-decoration: none;">T</a>
+            <a href="https://api.whatsapp.com/send?text={{ activeTitle | urlencode }}%20https://katv.org{{ vod.path }}" target="_blank" title="Share on WhatsApp" style="background-color: #25d366; color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; text-decoration: none;">W</a>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </article>
+</main>

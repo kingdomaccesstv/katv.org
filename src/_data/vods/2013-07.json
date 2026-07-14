@@ -1,0 +1,346 @@
+[
+  {
+    "title": "Woodsville 4th Of July Parade 2013",
+    "path": "/vod/other/2013/woodsville4th2013",
+    "nid": 237,
+    "cablecastShowId": 2295,
+    "date": "2013-07-04",
+    "location": "Woodsville, NH",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Other Programs",
+        "path": "/vod/other"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72463116"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/8/13",
+    "path": "/vod/stjselect/2013/070813",
+    "nid": 238,
+    "cablecastShowId": 2299,
+    "date": "2013-07-08",
+    "location": "Pomerleau Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72463118"
+  },
+  {
+    "title": "Concord Select Board, 7/9/13",
+    "path": "/vod/concordselect/2013/070913",
+    "nid": 239,
+    "cablecastShowId": 2304,
+    "date": "2013-07-09",
+    "location": "Concord Municipal Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "Concord Select Board",
+        "path": "/vod/concordselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72463119"
+  },
+  {
+    "title": "In & Around St. J: Community Volunteering",
+    "path": "/vod/studio/2013/iastj/071613",
+    "nid": 240,
+    "cablecastShowId": 2318,
+    "date": "2013-07-16",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72520878"
+  },
+  {
+    "title": "The Great Fairlee Wetlands: A Hidden World Behind our Hills",
+    "path": "/vod/lectures/2013/fairlee071713",
+    "nid": 241,
+    "cablecastShowId": 2320,
+    "date": "2013-07-17",
+    "location": "Fairlee, VT",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72520880"
+  },
+  {
+    "title": "Jacob Bayley's Desk: An Intimate Look at the life and Times of Newbury's Founding Father",
+    "path": "/vod/lectures/2013/bayleysdesk072013",
+    "nid": 242,
+    "cablecastShowId": 2329,
+    "date": "2013-07-20",
+    "location": "Newbury, VT",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72520881"
+  },
+  {
+    "title": "HealthQuest 14: Health Care Exchange, Navigator",
+    "path": "/vod/studio/healthquest/ep14",
+    "nid": 243,
+    "cablecastShowId": 2230,
+    "date": "2013-07-23",
+    "location": "KATV Studio",
+    "year": "2012",
+    "yearPath": "/vod/year/2012",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "HealthQuest",
+        "path": "/vod/studio/healthquest"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72520882"
+  },
+  {
+    "title": "In & Around St. J: Restorative Justice",
+    "path": "/vod/studio/2013/iastj072313",
+    "nid": 246,
+    "cablecastShowId": 2331,
+    "date": "2013-07-23",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "73190143"
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "path": "/vod/other/2013/sja072413",
+    "nid": 247,
+    "cablecastShowId": 2340,
+    "date": "2013-07-24",
+    "location": "St. Johnsbury Academy",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "73190142"
+  },
+  {
+    "title": "NEK Audubon Annual Meeting 2013",
+    "path": "/vod/other/2013/audubon072713",
+    "nid": 248,
+    "cablecastShowId": 2354,
+    "date": "2013-07-27",
+    "location": "Fairbanks Museum",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Lectures and Forums",
+        "path": "/vod/lectures-forums"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "73190144"
+  },
+  {
+    "title": "The Joy of Healthy Aging: Nutrition",
+    "path": "/vod/studio/2013/aging070813",
+    "nid": 249,
+    "cablecastShowId": 2286,
+    "date": "2013-07-08",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "72520879"
+  },
+  {
+    "title": "In & Around St. J: County Law Enforcement",
+    "path": "/vod/studio/2013/iastj073013",
+    "nid": 250,
+    "cablecastShowId": 2343,
+    "date": "2013-07-30",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "In & Around St. J",
+        "path": "/vod/studio/iastj"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "73909895"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/22/13",
+    "path": "/vod/stjselect/2013/072213",
+    "nid": 298,
+    "cablecastShowId": 2328,
+    "date": "2013-07-22",
+    "location": "Pomerleau Building",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Public Meetings",
+        "path": "/vod/public-meetings"
+      },
+      {
+        "name": "St. Johnsbury Select Board",
+        "path": "/vod/stjselect"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "79523970"
+  },
+  {
+    "title": "What's Going On? We Can Create Victories",
+    "path": "/vod/wgo/wgo071013",
+    "nid": 439,
+    "cablecastShowId": 2327,
+    "date": "2013-07-10",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "91470716"
+  },
+  {
+    "title": "What's Going On? Agenda 21 Presentation Part 1",
+    "path": "/vod/wgo/wgo124",
+    "nid": 453,
+    "cablecastShowId": 2339,
+    "date": "2013-07-23",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "92204496"
+  },
+  {
+    "title": "What's Going On? Lies, Lies, Lies and More LIES!",
+    "path": "/vod/wgo/wgo071413",
+    "nid": 533,
+    "cablecastShowId": 2429,
+    "date": "2013-07-14",
+    "location": "KATV Studio",
+    "year": "2013",
+    "yearPath": "/vod/year/2013",
+    "categories": [
+      {
+        "name": "Studio Programs",
+        "path": "/vod/studio"
+      },
+      {
+        "name": "What's Going On?",
+        "path": "/vod/studio/wgo"
+      }
+    ],
+    "teaserImage": null,
+    "videoSource": "vimeo",
+    "videoId": "101871812"
+  }
+]
