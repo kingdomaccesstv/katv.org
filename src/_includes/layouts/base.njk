@@ -10,6 +10,20 @@
   <link rel="canonical" href="https://katv.org{{ page.url }}" />
   {% endif %}
 
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://katv.org{{ page.url }}" />
+  <meta property="og:title" content="{{ title }} | Kingdom Access TV" />
+  <meta property="og:description" content="{{ description or 'Kingdom Access Television (KATV) public access television site in Saint Johnsbury, VT' }}" />
+  <meta property="og:image" content="https://katv.org{{ teaserImage or '/assets/images/banner-studio-1.jpg' }}" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://katv.org{{ page.url }}" />
+  <meta property="twitter:title" content="{{ title }} | Kingdom Access TV" />
+  <meta property="twitter:description" content="{{ description or 'Kingdom Access Television (KATV) public access television site in Saint Johnsbury, VT' }}" />
+  <meta property="twitter:image" content="https://katv.org{{ teaserImage or '/assets/images/banner-studio-1.jpg' }}" />
+
   <!-- Favicons -->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png" />

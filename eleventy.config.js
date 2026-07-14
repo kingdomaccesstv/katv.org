@@ -7,6 +7,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/sites");
   // Pass through root favicon
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  // Pass through robots.txt
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
 
   // Date formatting filter
   eleventyConfig.addFilter("postDate", (dateObj) => {
