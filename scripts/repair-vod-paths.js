@@ -21,8 +21,8 @@ files.forEach(file => {
       if (Array.isArray(vods)) {
         vods.forEach(vod => {
           if (!vod.path || vod.path === '/' || vod.path === '') {
-            const nid = vod.nid || Math.floor(Math.random() * 100000);
-            vod.path = `/vod/node/${nid}`;
+            const randomId = Math.floor(Math.random() * 100000);
+            vod.path = `/vod/node/${randomId}`;
             changed = true;
             fixedCount++;
           }

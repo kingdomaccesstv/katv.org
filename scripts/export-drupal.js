@@ -242,7 +242,6 @@ async function processVodPage(urlPath) {
     vods.push({
       title,
       path: pathAlias,
-      nid,
       cablecastShowId,
       date: eventDate,
       location,
