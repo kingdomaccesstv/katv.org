@@ -1,0 +1,13 @@
+---
+permalink: "/vod-mappings.json"
+---
+{
+  {%- set first = true -%}
+  {%- for vod in vods %}
+    {%- if vod.cablecastShowId -%}
+      {%- if not first -%},{%- endif -%}
+      {%- set first = false -%}
+      "{{ vod.cablecastShowId }}": "{{ vod.path }}"
+    {%- endif -%}
+  {%- endfor %}
+}
