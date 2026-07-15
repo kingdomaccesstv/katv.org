@@ -338,25 +338,100 @@ a:hover {
 }
 
 /* Social Share Block */
-.addtoany_list {
-  display: flex;
-  gap: 10px;
+.share-container {
   margin-top: 25px;
   padding-top: 20px;
   border-top: 1px solid #eeeeee;
 }
 
-.addtoany_list a {
-  display: inline-block;
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  background-color: #555555;
-  transition: opacity 0.2s;
+.share-label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888888;
+  margin-bottom: 12px;
 }
 
-.addtoany_list a:hover {
-  opacity: 0.8;
+.share-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s, background-color 0.2s;
+  padding: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.share-btn svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.share-btn:hover,
+.share-btn:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.share-btn:active {
+  transform: translateY(0);
+}
+
+/* Individual Platform Branding */
+.share-btn--webshare {
+  background-color: #6366f1; /* Indigo */
+}
+.share-btn--webshare:hover {
+  background-color: #4f46e5;
+}
+
+.share-btn--facebook {
+  background-color: #1877f2; /* FB Blue */
+}
+.share-btn--facebook:hover {
+  background-color: #0d65d9;
+}
+
+.share-btn--linkedin {
+  background-color: #0077b5; /* LinkedIn Blue */
+}
+.share-btn--linkedin:hover {
+  background-color: #005987;
+}
+
+.share-btn--whatsapp {
+  background-color: #25d366; /* WhatsApp Green */
+}
+.share-btn--whatsapp:hover {
+  background-color: #1ebd56;
+}
+
+.share-btn--email {
+  background-color: #ea4335; /* Google Red/Gmail */
+}
+.share-btn--email:hover {
+  background-color: #d93025;
+}
+
+.share-btn--copied {
+  background-color: #10b981 !important; /* Emerald green */
 }
 
 /* Pagination */
