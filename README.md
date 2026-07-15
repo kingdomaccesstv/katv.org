@@ -7,12 +7,14 @@ This repository contains the source code for the static website of **Kingdom Acc
 ## Section 1: Technical & Backend Architecture
 
 ### The Stack
+
 - **Static Site Generator**: [Eleventy (11ty) v2](https://www.11ty.dev/)
 - **Templating Engine**: Nunjucks (`.njk`) and HTML
 - **Utility Libraries**: `luxon` (date formatting), `node-fetch` (API fetching)
 - **Data Source**: Local JSON files (VOD content) and static HTML files in this repository.
 
 ### How the Site Works
+
 Eleventy builds the site by compiling templates in the `src` directory with dynamic data from the `src/_data` directory. The output is a highly performant, SEO-optimized static site generated inside the `_site` directory.
 
 - **`eleventy.config.js`**: Defines the Eleventy configuration, including asset passthroughs (`assets`, `sites` themes, favicon, `robots.txt`), custom date formatting filters (`postDate`, `isoDate`), and pagination utilities.
@@ -26,16 +28,31 @@ Eleventy builds the site by compiling templates in the `src` directory with dyna
   - Individual VOD pages are generated dynamically via `src/vod-page.njk` using Eleventy's pagination feature (size `1`, resolving values from the `vods` collection) to output pages at `{{ vod.path }}/index.html`.
   - Category and Year collection landing pages are generated in the same way via `src/vod-categories.njk` and `src/vod-years.njk` respectively.
 
-
 To run the development server locally:
+
 ```bash
 npm run start
 ```
 
 To compile a production build of the static site:
+
 ```bash
 npm run build
 ```
+
+To validate all VOD JSON files for schema and syntax compliance:
+
+```bash
+npm run validate-vods
+```
+
+### VOD Data Quality Control (Git Pre-Commit Hook)
+
+To ensure the integrity of the VOD database, the repository is equipped with an automated pre-commit hook:
+
+- **Validation Rules**: Run via `scripts/validate-vods.js` to verify that VOD JSON files contain the correct structure and exact set of fields, that paths start with `/vod/`, categories exist in `categoryMap.json`, and the dates and video sources are valid.
+- **Git Hook Integration**: When committing changes, the pre-commit hook runs the validator _only on changed/staged VOD JSON files_. If any errors are found, the commit will be blocked and the errors will be listed.
+- **Setup**: The hook is installed in `.git/hooks/pre-commit` automatically during `npm install` (using `scripts/install-hook.js` configured in the `prepare-hooks` lifecycle script).
 
 ---
 
@@ -55,14 +72,13 @@ All content is managed directly within the local files of this repository.
      "path": "/vod/sports/my-soccer-game-2026",
      "date": "2026-10-15",
      "location": "St. Johnsbury Academy",
-     "categories": [
-       "sports"
-     ],
+     "categories": ["sports"],
      "teaserImage": "/assets/images/vod/2026/my-soccer-teaser.jpg",
      "videoSource": "vimeo",
      "videoId": "123456789"
    }
    ```
+
    - **`categories`**: Array of machine identifier strings (like `"sports"`, `"sjlifb"`) defined in `src/_data/categoryMap.json`. Year properties (`year` and `yearPath`) are omitted since they are automatically derived from the `date` property at build time.
    - **`path`**: The URL path where the video will live (must start with `/vod/`).
    - **`teaserImage`**: Path to a teaser image. If set to `null` or omitted, it defaults to the site's fallback placeholder (`/assets/images/vod/vod-preview-image.jpg`). Put custom images in `src/assets/images/vod/{year}/`.
@@ -75,7 +91,6 @@ All content is managed directly within the local files of this repository.
 ### 2. Adding or Modifying Categories
 
 Categories are collected dynamically from the VOD files. If a category is assigned to a VOD item, it will automatically show up. However, parent-child nesting is governed by the category hierarchy configuration.
-
 
 1. Open `src/_data/categoryMap.json` and define your category machine identifier:
    ```json
@@ -107,9 +122,6 @@ Categories are collected dynamically from the VOD files. If a category is assign
 
 Years are also compiled automatically from the VOD files.
 
-
 1. Create a new file in `src/_data/vods/` named after the year (e.g., `2027.json`).
 2. Initialize it with an empty array `[]` or add a VOD item.
 3. The year list, navigation links, and dynamic year layout `/vod/year/{year}/` will automatically generate on the next build.
-
-
