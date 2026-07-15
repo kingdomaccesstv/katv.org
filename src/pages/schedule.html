@@ -869,9 +869,17 @@ permalink: "/schedule/"
         showsMap[show.id] = show;
       });
 
-      // Filter out deleted items and sort chronologically
+      // Filter out deleted or character generator exempt items, and sort chronologically
       const validItems = scheduleItems
-        .filter(item => !item.deleted)
+        .filter(item => {
+          if (item.deleted) return false;
+          if (item.cgExempt === true) return false;
+          
+          const show = showsMap[item.show];
+          if (show && show.cgExempt === true) return false;
+          
+          return true;
+        })
         .sort((a, b) => new Date(a.runDateTimeUtc) - new Date(b.runDateTimeUtc));
 
       if (validItems.length === 0) {
@@ -881,6 +889,24 @@ permalink: "/schedule/"
 
       const nowMs = Date.now();
 
+      // Find the single active live item (if multiple match, use the one with the latest start time)
+      let liveItemKey = null;
+      let maxStartMs = -1;
+
+      validItems.forEach(item => {
+        const show = showsMap[item.show];
+        const durationSec = item.crawlLength || (show ? show.totalRunTime : 0);
+        const startMs = new Date(item.runDateTimeUtc).getTime();
+        const endMs = startMs + (durationSec * 1000);
+
+        if (nowMs >= startMs && nowMs < endMs) {
+          if (startMs > maxStartMs) {
+            maxStartMs = startMs;
+            liveItemKey = item.runDateTimeUtc + '-' + item.show;
+          }
+        }
+      });
+
       validItems.forEach(item => {
         const show = showsMap[item.show];
         const title = show ? (show.cgTitle || show.title) : 'Program Schedule Event';
@@ -888,10 +914,10 @@ permalink: "/schedule/"
         const durationSec = item.crawlLength || (show ? show.totalRunTime : 0);
         const durationMin = Math.round(durationSec / 60);
 
-        // Calculate if airing right now
+        // Calculate if airing right now (exactly matches the single liveItemKey)
         const startMs = new Date(item.runDateTimeUtc).getTime();
-        const endMs = startMs + (durationSec * 1000);
-        const isAiringNow = nowMs >= startMs && nowMs < endMs;
+        const itemKey = item.runDateTimeUtc + '-' + item.show;
+        const isAiringNow = itemKey === liveItemKey;
 
         // Parse and format time locally
         // Standard JS date parsing handles UTC runDateTimeUtc correctly. We format using New York timezone to keep broadcast local
