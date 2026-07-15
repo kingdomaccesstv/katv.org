@@ -34,6 +34,15 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Ensure links in text paragraphs, lists, and alerts are underlined by default
+   to prevent relying solely on color for accessibility. */
+p a,
+.alert a,
+article.page .content li a {
+  text-decoration: underline;
+}
+
+
 /* Boxed Container */
 .dxpr-theme-boxed-container {
   max-width: 1600px;
@@ -553,6 +562,7 @@ article.page img {
 
 .dxpr-theme-footer a {
   color: #ffffff;
+  text-decoration: underline;
 }
 
 .dxpr-theme-footer a:hover {
