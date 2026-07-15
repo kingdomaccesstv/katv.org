@@ -1477,5 +1477,19 @@
     "teaserImage": "/assets/images/vod/2026/stjschool20260105.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-010526-14820"
+  },
+  {
+    "title": "St. J. Athenaeum: Poetry Reading In The Art Gallery",
+    "path": "/vod/stjath/2026/20260105",
+    "cablecastShowId": 15380,
+    "date": "2026-07-09",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "stjath",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260709.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1209818491"
   }
 ]
