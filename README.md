@@ -46,6 +46,24 @@ To validate all VOD JSON files for schema and syntax compliance:
 npm run validate-vods
 ```
 
+### Generating Missing VOD Thumbnails
+
+A command-line script is provided to scan VOD data files, identify entries with missing thumbnails, retrieve the video stream URLs, seek to a random timestamp, and generate the required `960x540` teaser images using `ffmpeg`.
+
+To run the generator:
+
+```bash
+node scripts/generate-thumbnails.js [options]
+```
+
+Supported options:
+- `--all`: Process all missing thumbnails.
+- `--limit <number>`: Limit the maximum number of thumbnails to generate in a single run (recommended).
+- `--delay <ms>`: Delay in milliseconds between consecutive video downloads to avoid rate limits (default: `3000`ms).
+- `--year <year>`: Process only entries from a specific year JSON file (e.g., `--year 2026`).
+- `--overwrite`: Force overwrite existing thumbnail files on disk.
+- `--dry-run`: Scan and display VOD entries with missing thumbnails without fetching or writing files.
+
 ### VOD Data Quality Control (Git Pre-Commit Hook)
 
 To ensure the integrity of the VOD database, the repository is equipped with an automated pre-commit hook:

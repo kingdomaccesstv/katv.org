@@ -8,6 +8,7 @@
     "start": "npx @11ty/eleventy --serve",
     "export": "node scripts/export-drupal.js",
     "validate-vods": "node scripts/validate-vods.js --all",
+    "generate-thumbnails": "node scripts/generate-thumbnails.js",
     "prepare-hooks": "node scripts/install-hook.js"
   },
   "dependencies": {
