@@ -121,6 +121,7 @@ article.page .content li a {
   font-weight: 600;
   color: var(--primary-color);
   letter-spacing: -0.5px;
+  white-space: nowrap;
 }
 
 .navbar-brand:hover {
@@ -140,6 +141,7 @@ article.page .content li a {
   color: #555555;
   padding: 8px 12px;
   border-radius: 4px;
+  white-space: nowrap;
 }
 
 .menu.nav li a:hover,
@@ -689,8 +691,28 @@ article.page img {
   transform: translateY(-7.5px) rotate(-45deg);
 }
 
+/* Media Query: Intermediate sizes to prevent wrapping/overflow */
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .navbar-container {
+    padding: 15px 20px;
+  }
+
+  .navbar-brand {
+    font-size: 1.4rem;
+  }
+
+  .menu.nav {
+    gap: 10px;
+  }
+
+  .menu.nav li a {
+    font-size: 0.95rem;
+    padding: 6px 10px;
+  }
+}
+
 /* Media Query: Responsive Header Menu */
-@media (max-width: 850px) {
+@media (max-width: 1024px) {
   .navbar-container {
     flex-wrap: wrap;
     padding: 12px 20px;
