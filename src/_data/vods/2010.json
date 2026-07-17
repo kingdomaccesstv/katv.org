@@ -9,7 +9,7 @@
       "sports",
       "sjlifb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2010/sports_stjli2010.jpg",
     "videoSource": "vimeo",
     "videoId": "660132516"
   },
@@ -22,7 +22,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2010/grad_lsc2010.jpg",
     "videoSource": "vimeo",
     "videoId": "79069916"
   }
