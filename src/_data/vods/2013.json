@@ -9,7 +9,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_122313.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-122313-2661"
   },
@@ -22,7 +22,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_pumphill121913.jpg",
     "videoSource": "vimeo",
     "videoId": "83290600"
   },
@@ -36,7 +36,7 @@
       "concerts",
       "sja"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_sjawinter2013.jpg",
     "videoSource": "vimeo",
     "videoId": "83045296"
   },
@@ -50,7 +50,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj30.jpg",
     "videoSource": "vimeo",
     "videoId": "82556873"
   },
@@ -63,7 +63,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_commconv121713.jpg",
     "videoSource": "vimeo",
     "videoId": "82569520"
   },
@@ -77,7 +77,7 @@
       "concerts",
       "li"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_liwinter2013.jpg",
     "videoSource": "vimeo",
     "videoId": "83045295"
   },
@@ -91,7 +91,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo121313.jpg",
     "videoSource": "vimeo",
     "videoId": "108079755"
   },
@@ -104,7 +104,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_eaipai121313.jpg",
     "videoSource": "vimeo",
     "videoId": "83290599"
   },
@@ -117,7 +117,7 @@
     "categories": [
       "nekchamber"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_nekbuscel2013.jpg",
     "videoSource": "vimeo",
     "videoId": "83290601"
   },
@@ -130,7 +130,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_swingin121313.jpg",
     "videoSource": "vimeo",
     "videoId": "82241206"
   },
@@ -143,7 +143,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_nekysyc2.jpg",
     "videoSource": "vimeo",
     "videoId": "82059611"
   },
@@ -157,7 +157,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_120913.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-120913-2632"
   },
@@ -171,7 +171,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo120713.jpg",
     "videoSource": "vimeo",
     "videoId": "108079754"
   },
@@ -185,7 +185,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu15.jpg",
     "videoSource": "vimeo",
     "videoId": "86644378"
   },
@@ -199,7 +199,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_zone120513.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordzoning-mtg-121013-2635"
   },
@@ -213,7 +213,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/firstwed_2013_120413.jpg",
     "videoSource": "vimeo",
     "videoId": "81683759"
   },
@@ -227,7 +227,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_120313.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-120313-2617"
   },
@@ -241,7 +241,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_120313.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-120213-2616"
   },
@@ -255,7 +255,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj120213.jpg",
     "videoSource": "vimeo",
     "videoId": "83644182"
   },
@@ -269,7 +269,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_120213.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordschool-mtg-120213-2615"
   },
@@ -283,7 +283,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj112613.jpg",
     "videoSource": "vimeo",
     "videoId": "87530992"
   },
@@ -297,7 +297,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_112513audit.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-112513-2614"
   },
@@ -311,7 +311,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_112513.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-112513-2601"
   },
@@ -324,7 +324,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_112513.jpg",
     "videoSource": "vimeo",
     "videoId": "80946946"
   },
@@ -337,7 +337,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_vtdance112313.jpg",
     "videoSource": "vimeo",
     "videoId": "81773511"
   },
@@ -351,7 +351,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_zone112113.jpg",
     "videoSource": "vimeo",
     "videoId": "80433845"
   },
@@ -365,7 +365,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo112013.jpg",
     "videoSource": "vimeo",
     "videoId": "117150042"
   },
@@ -378,7 +378,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_makingdiffep2.jpg",
     "videoSource": "vimeo",
     "videoId": "80040283"
   },
@@ -392,7 +392,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_111913.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjplan-mtg-111913-2585.mp4"
   },
@@ -406,7 +406,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj27.jpg",
     "videoSource": "vimeo",
     "videoId": "80029441"
   },
@@ -420,7 +420,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_111813.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-111813-2582"
   },
@@ -433,7 +433,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_nekysyc111513.jpg",
     "videoSource": "vimeo",
     "videoId": "80039733"
   },
@@ -447,7 +447,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_111413.jpg",
     "videoSource": "vimeo",
     "videoId": "80049842"
   },
@@ -460,7 +460,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_courcon111413.jpg",
     "videoSource": "vimeo",
     "videoId": "79853029"
   },
@@ -473,7 +473,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_nekaud111213.jpg",
     "videoSource": "vimeo",
     "videoId": "79843744"
   },
@@ -486,7 +486,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_stjcomm111113.jpg",
     "videoSource": "vimeo",
     "videoId": "80050743"
   },
@@ -499,7 +499,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_twilight111013.jpg",
     "videoSource": "vimeo",
     "videoId": "79455789"
   },
@@ -513,7 +513,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo110713.jpg",
     "videoSource": "vimeo",
     "videoId": "108079753"
   },
@@ -527,7 +527,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/firstwed_2013_110613.jpg",
     "videoSource": "vimeo",
     "videoId": "79455797"
   },
@@ -540,7 +540,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_transparency110613.jpg",
     "videoSource": "vimeo",
     "videoId": "79061013"
   },
@@ -554,7 +554,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj26.jpg",
     "videoSource": "vimeo",
     "videoId": "79049346"
   },
@@ -568,7 +568,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_110513.jpg",
     "videoSource": "vimeo",
     "videoId": "79850040"
   },
@@ -581,7 +581,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_commdisc110513.jpg",
     "videoSource": "vimeo",
     "videoId": "79452021"
   },
@@ -595,7 +595,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_110413.jpg",
     "videoSource": "vimeo",
     "videoId": "79432490"
   },
@@ -609,7 +609,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_110413.jpg",
     "videoSource": "vimeo",
     "videoId": "79061024"
   },
@@ -623,7 +623,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo110213.jpg",
     "videoSource": "vimeo",
     "videoId": "108079750"
   },
@@ -637,7 +637,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_103013.jpg",
     "videoSource": "vimeo",
     "videoId": "79443509"
   },
@@ -650,7 +650,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_leap103013.jpg",
     "videoSource": "vimeo",
     "videoId": "78801339"
   },
@@ -664,7 +664,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_102813.jpg",
     "videoSource": "vimeo",
     "videoId": "79417084"
   },
@@ -678,7 +678,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_102813z.jpg",
     "videoSource": "vimeo",
     "videoId": "79410811"
   },
@@ -692,7 +692,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo102613.jpg",
     "videoSource": "vimeo",
     "videoId": "103570665"
   },
@@ -705,7 +705,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_makingdiffep1.jpg",
     "videoSource": "vimeo",
     "videoId": "78138499"
   },
@@ -719,7 +719,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo101913.jpg",
     "videoSource": "vimeo",
     "videoId": "104675615"
   },
@@ -733,7 +733,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj101513.jpg",
     "videoSource": "vimeo",
     "videoId": "78041286"
   },
@@ -747,7 +747,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_plan101513.jpg",
     "videoSource": "vimeo",
     "videoId": "78042707"
   },
@@ -760,7 +760,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_haverhill101313.jpg",
     "videoSource": "vimeo",
     "videoId": "78016799"
   },
@@ -773,7 +773,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu6.jpg",
     "videoSource": "vimeo",
     "videoId": "87597303"
   },
@@ -787,7 +787,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj100813.jpg",
     "videoSource": "vimeo",
     "videoId": "78031616"
   },
@@ -801,7 +801,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_100713.jpg",
     "videoSource": "vimeo",
     "videoId": "78125149"
   },
@@ -815,7 +815,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_100713.jpg",
     "videoSource": "vimeo",
     "videoId": "77259882"
   },
@@ -829,7 +829,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_100313.jpg",
     "videoSource": "vimeo",
     "videoId": "78031016"
   },
@@ -843,7 +843,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj100213.jpg",
     "videoSource": "vimeo",
     "videoId": "76489653"
   },
@@ -857,7 +857,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_100113.jpg",
     "videoSource": "vimeo",
     "videoId": "76234317"
   },
@@ -871,7 +871,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo092813.jpg",
     "videoSource": "vimeo",
     "videoId": "103296539"
   },
@@ -885,7 +885,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_092613.jpg",
     "videoSource": "vimeo",
     "videoId": "76234316"
   },
@@ -899,7 +899,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj092413.jpg",
     "videoSource": "vimeo",
     "videoId": "76489654"
   },
@@ -913,7 +913,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_092313.jpg",
     "videoSource": "vimeo",
     "videoId": "75615388"
   },
@@ -927,7 +927,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu11.jpg",
     "videoSource": "vimeo",
     "videoId": "85457963"
   },
@@ -941,7 +941,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu10.jpg",
     "videoSource": "vimeo",
     "videoId": "85438569"
   },
@@ -955,7 +955,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu9.jpg",
     "videoSource": "vimeo",
     "videoId": "85186255"
   },
@@ -969,7 +969,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj091713.jpg",
     "videoSource": "vimeo",
     "videoId": "75663367"
   },
@@ -983,7 +983,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_plan091713.jpg",
     "videoSource": "vimeo",
     "videoId": "75230342"
   },
@@ -997,7 +997,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_iutu091613.jpg",
     "videoSource": "vimeo",
     "videoId": "77259881"
   },
@@ -1010,7 +1010,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_ath09121.jpg",
     "videoSource": "vimeo",
     "videoId": "75230343"
   },
@@ -1023,7 +1023,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_nvda091213.jpg",
     "videoSource": "vimeo",
     "videoId": "75615387"
   },
@@ -1037,7 +1037,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_uptous091013.jpg",
     "videoSource": "vimeo",
     "videoId": "79463090"
   },
@@ -1051,7 +1051,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj091013.jpg",
     "videoSource": "vimeo",
     "videoId": "78134775"
   },
@@ -1065,7 +1065,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu090913.jpg",
     "videoSource": "vimeo",
     "videoId": "88497931"
   },
@@ -1079,7 +1079,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_090913.jpg",
     "videoSource": "vimeo",
     "videoId": "74534740"
   },
@@ -1093,7 +1093,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_090313.jpg",
     "videoSource": "vimeo",
     "videoId": "74345005"
   },
@@ -1107,7 +1107,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_090213.jpg",
     "videoSource": "vimeo",
     "videoId": "74527813"
   },
@@ -1121,7 +1121,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep16.jpg",
     "videoSource": "vimeo",
     "videoId": "75266770"
   },
@@ -1135,7 +1135,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_082613.jpg",
     "videoSource": "vimeo",
     "videoId": "74165192"
   },
@@ -1148,7 +1148,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_books082113.jpg",
     "videoSource": "vimeo",
     "videoId": "74503719"
   },
@@ -1162,7 +1162,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_082013.jpg",
     "videoSource": "vimeo",
     "videoId": "77259880"
   },
@@ -1176,7 +1176,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_plan082013.jpg",
     "videoSource": "vimeo",
     "videoId": "74161529"
   },
@@ -1190,7 +1190,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_081913.jpg",
     "videoSource": "vimeo",
     "videoId": "77372195"
   },
@@ -1204,7 +1204,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo081613.jpg",
     "videoSource": "vimeo",
     "videoId": "92204495"
   },
@@ -1218,7 +1218,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu8.jpg",
     "videoSource": "vimeo",
     "videoId": "85000677"
   },
@@ -1231,7 +1231,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu7.jpg",
     "videoSource": "vimeo",
     "videoId": "85000676"
   },
@@ -1245,7 +1245,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj081313.jpg",
     "videoSource": "vimeo",
     "videoId": "76839555"
   },
@@ -1259,7 +1259,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo125.jpg",
     "videoSource": "vimeo",
     "videoId": "92204497"
   },
@@ -1273,7 +1273,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu12.jpg",
     "videoSource": "vimeo",
     "videoId": "86637192"
   },
@@ -1286,7 +1286,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_aging080613.jpg",
     "videoSource": "vimeo",
     "videoId": "75925273"
   },
@@ -1300,7 +1300,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep15.jpg",
     "videoSource": "vimeo",
     "videoId": "75925272"
   },
@@ -1314,7 +1314,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj080613.jpg",
     "videoSource": "vimeo",
     "videoId": "73530146"
   },
@@ -1328,7 +1328,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_080613.jpg",
     "videoSource": "vimeo",
     "videoId": "74062309"
   },
@@ -1342,7 +1342,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj073013.jpg",
     "videoSource": "vimeo",
     "videoId": "73909895"
   },
@@ -1355,7 +1355,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_audubon072713.jpg",
     "videoSource": "vimeo",
     "videoId": "73190144"
   },
@@ -1368,7 +1368,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_sja072413.jpg",
     "videoSource": "vimeo",
     "videoId": "73190142"
   },
@@ -1382,7 +1382,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo124.jpg",
     "videoSource": "vimeo",
     "videoId": "92204496"
   },
@@ -1396,7 +1396,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj072313.jpg",
     "videoSource": "vimeo",
     "videoId": "73190143"
   },
@@ -1410,7 +1410,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep14.jpg",
     "videoSource": "vimeo",
     "videoId": "72520882"
   },
@@ -1424,7 +1424,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_072213.jpg",
     "videoSource": "vimeo",
     "videoId": "79523970"
   },
@@ -1437,7 +1437,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_bayleysdesk072013.jpg",
     "videoSource": "vimeo",
     "videoId": "72520881"
   },
@@ -1450,7 +1450,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_fairlee071713.jpg",
     "videoSource": "vimeo",
     "videoId": "72520880"
   },
@@ -1464,7 +1464,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj_071613.jpg",
     "videoSource": "vimeo",
     "videoId": "72520878"
   },
@@ -1478,7 +1478,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo071413.jpg",
     "videoSource": "vimeo",
     "videoId": "101871812"
   },
@@ -1492,7 +1492,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo071013.jpg",
     "videoSource": "vimeo",
     "videoId": "91470716"
   },
@@ -1506,7 +1506,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_070913.jpg",
     "videoSource": "vimeo",
     "videoId": "72463119"
   },
@@ -1519,7 +1519,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_aging070813.jpg",
     "videoSource": "vimeo",
     "videoId": "72520879"
   },
@@ -1533,7 +1533,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_070813.jpg",
     "videoSource": "vimeo",
     "videoId": "72463118"
   },
@@ -1546,7 +1546,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_woodsville4th2013.jpg",
     "videoSource": "vimeo",
     "videoId": "72463116"
   },
@@ -1560,7 +1560,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep13.jpg",
     "videoSource": "vimeo",
     "videoId": "70154966"
   },
@@ -1574,7 +1574,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj062513.jpg",
     "videoSource": "vimeo",
     "videoId": "71642627"
   },
@@ -1588,7 +1588,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_062513.jpg",
     "videoSource": "vimeo",
     "videoId": "72463115"
   },
@@ -1602,7 +1602,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo121.jpg",
     "videoSource": "vimeo",
     "videoId": "89464542"
   },
@@ -1616,7 +1616,7 @@
       "lectures-forums",
       "nekchamber"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_nekchamber062213.jpg",
     "videoSource": "vimeo",
     "videoId": "72463114"
   },
@@ -1630,7 +1630,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo120.jpg",
     "videoSource": "vimeo",
     "videoId": "90113438"
   },
@@ -1643,7 +1643,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_nvda061513.jpg",
     "videoSource": "vimeo",
     "videoId": "73102542"
   },
@@ -1657,7 +1657,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_061413.jpg",
     "videoSource": "vimeo",
     "videoId": "71386694"
   },
@@ -1670,7 +1670,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_courcon061213.jpg",
     "videoSource": "vimeo",
     "videoId": "73102541"
   },
@@ -1683,7 +1683,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/grad_sjsgrad2013.jpg",
     "videoSource": "vimeo",
     "videoId": "71386695"
   },
@@ -1697,7 +1697,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastj061113.jpg",
     "videoSource": "vimeo",
     "videoId": "74601071"
   },
@@ -1710,7 +1710,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/grad_ligrad2013.jpg",
     "videoSource": "vimeo",
     "videoId": "73190145"
   },
@@ -1723,7 +1723,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/grad_sjagrad2013.jpg",
     "videoSource": "vimeo",
     "videoId": "71381014"
   },
@@ -1737,7 +1737,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo119.jpg",
     "videoSource": "vimeo",
     "videoId": "89464543"
   },
@@ -1751,7 +1751,7 @@
       "concerts",
       "sja"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_stja053113.jpg",
     "videoSource": "vimeo",
     "videoId": "70986564"
   },
@@ -1764,7 +1764,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_stjfd052413.jpg",
     "videoSource": "vimeo",
     "videoId": "70986563"
   },
@@ -1778,7 +1778,7 @@
       "concerts",
       "waterford"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_waterford052313.jpg",
     "videoSource": "vimeo",
     "videoId": "71381016"
   },
@@ -1792,7 +1792,7 @@
       "concerts",
       "sjs"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_sjs052313.jpg",
     "videoSource": "vimeo",
     "videoId": "70446658"
   },
@@ -1805,7 +1805,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_haverhillnewark052213.jpg",
     "videoSource": "vimeo",
     "videoId": "70446659"
   },
@@ -1818,7 +1818,7 @@
     "categories": [
       "neklegbkfst"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/legbkfst_2013_052013.jpg",
     "videoSource": "vimeo",
     "videoId": "70446657"
   },
@@ -1831,7 +1831,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/grad_lscgrad2013.jpg",
     "videoSource": "vimeo",
     "videoId": "70154964"
   },
@@ -1844,7 +1844,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_haverhillnewark051913.jpg",
     "videoSource": "vimeo",
     "videoId": "70083874"
   },
@@ -1858,7 +1858,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo118.jpg",
     "videoSource": "vimeo",
     "videoId": "89296346"
   },
@@ -1871,7 +1871,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_haverhillnewark051813.jpg",
     "videoSource": "vimeo",
     "videoId": "70083873"
   },
@@ -1884,7 +1884,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_handbells051213.jpg",
     "videoSource": "vimeo",
     "videoId": "70083872"
   },
@@ -1898,7 +1898,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo117.jpg",
     "videoSource": "vimeo",
     "videoId": "89296347"
   },
@@ -1911,7 +1911,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_courcon050913.jpg",
     "videoSource": "vimeo",
     "videoId": "69420433"
   },
@@ -1925,7 +1925,7 @@
       "concerts",
       "waterford"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_waterford050913.jpg",
     "videoSource": "vimeo",
     "videoId": "69420432"
   },
@@ -1939,7 +1939,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_050913.jpg",
     "videoSource": "vimeo",
     "videoId": "69420431"
   },
@@ -1952,7 +1952,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_springcoll050813.jpg",
     "videoSource": "vimeo",
     "videoId": "69420430"
   },
@@ -1966,7 +1966,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_050713.jpg",
     "videoSource": "vimeo",
     "videoId": "67251233"
   },
@@ -1979,7 +1979,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_lscmusicp3-050613.jpg",
     "videoSource": "vimeo",
     "videoId": "69420429"
   },
@@ -1993,7 +1993,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_050613.jpg",
     "videoSource": "vimeo",
     "videoId": "66694324"
   },
@@ -2007,7 +2007,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo116.jpg",
     "videoSource": "vimeo",
     "videoId": "89296345"
   },
@@ -2021,7 +2021,7 @@
       "lectures-forums",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_sanders050413.jpg",
     "videoSource": "vimeo",
     "videoId": "65982646"
   },
@@ -2035,7 +2035,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_050213.jpg",
     "videoSource": "vimeo",
     "videoId": "68661858"
   },
@@ -2049,7 +2049,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/firstwed_2013_050113.jpg",
     "videoSource": "vimeo",
     "videoId": "67469151"
   },
@@ -2063,7 +2063,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastjep9.jpg",
     "videoSource": "vimeo",
     "videoId": "68211922"
   },
@@ -2076,7 +2076,7 @@
     "categories": [
       "neklegbkfst"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/legbkfst_2013_042913.jpg",
     "videoSource": "vimeo",
     "videoId": "68893775"
   },
@@ -2089,7 +2089,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_lscmusicp2-042913.jpg",
     "videoSource": "vimeo",
     "videoId": "68507363"
   },
@@ -2102,7 +2102,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_sjadance042813.jpg",
     "videoSource": "vimeo",
     "videoId": "68893776"
   },
@@ -2116,7 +2116,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo113.jpg",
     "videoSource": "vimeo",
     "videoId": "88112427"
   },
@@ -2130,7 +2130,7 @@
       "lectures-forums",
       "fairbanks"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_fmp042713.jpg",
     "videoSource": "vimeo",
     "videoId": "68893773"
   },
@@ -2144,7 +2144,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_042513.jpg",
     "videoSource": "vimeo",
     "videoId": "68507364"
   },
@@ -2157,7 +2157,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_aging042313.jpg",
     "videoSource": "vimeo",
     "videoId": "66981516"
   },
@@ -2171,7 +2171,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_042313.jpg",
     "videoSource": "vimeo",
     "videoId": "65483223"
   },
@@ -2184,7 +2184,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_lscmusicp1-042213.jpg",
     "videoSource": "vimeo",
     "videoId": "68507365"
   },
@@ -2198,7 +2198,7 @@
       "lectures-forums",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_sanders041913.jpg",
     "videoSource": "vimeo",
     "videoId": "65982645"
   },
@@ -2212,7 +2212,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_041813.jpg",
     "videoSource": "vimeo",
     "videoId": "68415738"
   },
@@ -2225,7 +2225,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_springcoll041713.jpg",
     "videoSource": "vimeo",
     "videoId": "68415740"
   },
@@ -2239,7 +2239,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo115.jpg",
     "videoSource": "vimeo",
     "videoId": "88112426"
   },
@@ -2253,7 +2253,7 @@
       "lectures-forums",
       "nekchamber"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_nekchamber041213.jpg",
     "videoSource": "vimeo",
     "videoId": "64885959"
   },
@@ -2267,7 +2267,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/osher_2013_041113.jpg",
     "videoSource": "vimeo",
     "videoId": "65483224"
   },
@@ -2281,7 +2281,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_041013.jpg",
     "videoSource": "vimeo",
     "videoId": "64404329"
   },
@@ -2295,7 +2295,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_040813.jpg",
     "videoSource": "vimeo",
     "videoId": "64404328"
   },
@@ -2309,7 +2309,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo114.jpg",
     "videoSource": "vimeo",
     "videoId": "88115980"
   },
@@ -2323,7 +2323,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2012_040513.jpg",
     "videoSource": "vimeo",
     "videoId": "64885956"
   },
@@ -2336,7 +2336,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_stjfashion040413.jpg",
     "videoSource": "vimeo",
     "videoId": "68893774"
   },
@@ -2350,7 +2350,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep12.jpg",
     "videoSource": "vimeo",
     "videoId": "71617422"
   },
@@ -2364,7 +2364,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_032513.jpg",
     "videoSource": "vimeo",
     "videoId": "64885957"
   },
@@ -2378,7 +2378,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_031813.jpg",
     "videoSource": "vimeo",
     "videoId": "64404326"
   },
@@ -2392,7 +2392,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_031113.jpg",
     "videoSource": "vimeo",
     "videoId": "64404327"
   },
@@ -2406,7 +2406,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_030713.jpg",
     "videoSource": "vimeo",
     "videoId": "66210180"
   },
@@ -2420,7 +2420,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_030413.jpg",
     "videoSource": "vimeo",
     "videoId": "64359836"
   },
@@ -2434,7 +2434,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_022713.jpg",
     "videoSource": "vimeo",
     "videoId": "64359835"
   },
@@ -2448,7 +2448,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_022713b.jpg",
     "videoSource": "vimeo",
     "videoId": "64359834"
   },
@@ -2462,7 +2462,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep11.jpg",
     "videoSource": "vimeo",
     "videoId": "71617421"
   },
@@ -2475,7 +2475,7 @@
     "categories": [
       "neklegbkfst"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/legbkfst_2013_022513.jpg",
     "videoSource": "vimeo",
     "videoId": "67469152"
   },
@@ -2489,7 +2489,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo112.jpg",
     "videoSource": "vimeo",
     "videoId": "85434776"
   },
@@ -2503,7 +2503,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_0218113.jpg",
     "videoSource": "vimeo",
     "videoId": "64359833"
   },
@@ -2517,7 +2517,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo109.jpg",
     "videoSource": "vimeo",
     "videoId": "85432342"
   },
@@ -2530,7 +2530,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/other_2013_stjschooldcf021313.jpg",
     "videoSource": "vimeo",
     "videoId": "64359830"
   },
@@ -2544,7 +2544,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_021113.jpg",
     "videoSource": "vimeo",
     "videoId": "62024696"
   },
@@ -2558,7 +2558,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_plan020813.jpg",
     "videoSource": "vimeo",
     "videoId": "61540349"
   },
@@ -2572,7 +2572,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_020713.jpg",
     "videoSource": "vimeo",
     "videoId": "67251232"
   },
@@ -2586,7 +2586,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastjep3.jpg",
     "videoSource": "vimeo",
     "videoId": "61540351"
   },
@@ -2600,7 +2600,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_020413.jpg",
     "videoSource": "vimeo",
     "videoId": "61483254"
   },
@@ -2614,7 +2614,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_020413.jpg",
     "videoSource": "vimeo",
     "videoId": "61483252"
   },
@@ -2628,7 +2628,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo107.jpg",
     "videoSource": "vimeo",
     "videoId": "85406170"
   },
@@ -2642,7 +2642,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastjep2.jpg",
     "videoSource": "vimeo",
     "videoId": "61540350"
   },
@@ -2655,7 +2655,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/lectures_2013_lsc012913.jpg",
     "videoSource": "vimeo",
     "videoId": "61483246"
   },
@@ -2669,7 +2669,7 @@
       "studio",
       "healthquest"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_healthquest_ep10.jpg",
     "videoSource": "vimeo",
     "videoId": "61483250"
   },
@@ -2683,7 +2683,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_budgetpres2013.jpg",
     "videoSource": "vimeo",
     "videoId": "62024697"
   },
@@ -2697,7 +2697,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_012513.jpg",
     "videoSource": "vimeo",
     "videoId": "60910726"
   },
@@ -2711,7 +2711,7 @@
       "studio",
       "iutu"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iutu5.jpg",
     "videoSource": "vimeo",
     "videoId": "84445350"
   },
@@ -2724,7 +2724,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_aging052213.jpg",
     "videoSource": "vimeo",
     "videoId": "68211923"
   },
@@ -2738,7 +2738,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/studio_2013_iastjep1.jpg",
     "videoSource": "vimeo",
     "videoId": "61483257"
   },
@@ -2752,7 +2752,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_012113.jpg",
     "videoSource": "vimeo",
     "videoId": "60910725"
   },
@@ -2766,7 +2766,7 @@
       "sports",
       "sjlifb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/sports_stjli2013.jpg",
     "videoSource": "vimeo",
     "videoId": "78136604"
   },
@@ -2780,7 +2780,7 @@
       "concerts",
       "ncc"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_ncc012013.jpg",
     "videoSource": "vimeo",
     "videoId": "76839557"
   },
@@ -2793,7 +2793,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/forums_2013_netmeter011413.jpg",
     "videoSource": "vimeo",
     "videoId": "60910724"
   },
@@ -2807,7 +2807,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_011413.jpg",
     "videoSource": "vimeo",
     "videoId": "60873408"
   },
@@ -2821,7 +2821,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo104.jpg",
     "videoSource": "vimeo",
     "videoId": "83817585"
   },
@@ -2835,7 +2835,7 @@
       "concerts",
       "waterford"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concerts_2013_waterford011013.jpg",
     "videoSource": "vimeo",
     "videoId": "59705186"
   },
@@ -2849,7 +2849,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjschool_2013_021813.jpg",
     "videoSource": "vimeo",
     "videoId": "60418640"
   },
@@ -2863,7 +2863,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_010813.jpg",
     "videoSource": "vimeo",
     "videoId": "60605779"
   },
@@ -2877,7 +2877,7 @@
       "public-meetings",
       "concordschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordschool_2013_010713.jpg",
     "videoSource": "vimeo",
     "videoId": "59813868"
   },
@@ -2891,7 +2891,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/wgo_wgo103.jpg",
     "videoSource": "vimeo",
     "videoId": "83817587"
   },
@@ -2905,7 +2905,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/concordselect_2013_010313.jpg",
     "videoSource": "vimeo",
     "videoId": "59962424"
   },
@@ -2919,7 +2919,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2013/stjselect_2013_010313.jpg",
     "videoSource": "vimeo",
     "videoId": "59962423"
   }
