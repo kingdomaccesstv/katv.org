@@ -213,7 +213,20 @@ Options:
 
 // Parse Command Line Arguments
 function parseArgs() {
-  const args = process.argv.slice(2);
+  const rawArgs = process.argv.slice(2);
+  const args = [];
+  
+  // Normalize equal-separated arguments, e.g. --year=2010 -> --year, 2010
+  for (const arg of rawArgs) {
+    if (arg.startsWith('--') && arg.includes('=')) {
+      const idx = arg.indexOf('=');
+      args.push(arg.substring(0, idx));
+      args.push(arg.substring(idx + 1));
+    } else {
+      args.push(arg);
+    }
+  }
+
   const options = {
     all: false,
     limit: Infinity,
