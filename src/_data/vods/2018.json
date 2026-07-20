@@ -9,7 +9,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj122018.jpg",
     "videoSource": "vimeo",
     "videoId": "307815237"
   },
@@ -23,7 +23,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo122018.jpg",
     "videoSource": "vimeo",
     "videoId": "307820547"
   },
@@ -37,7 +37,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_121718.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-121718-7223"
   },
@@ -50,7 +50,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_pumpkinhill121518.jpg",
     "videoSource": "vimeo",
     "videoId": "307813034"
   },
@@ -63,7 +63,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/grad_nvudecgrad2018.jpg",
     "videoSource": "vimeo",
     "videoId": "307814896"
   },
@@ -77,7 +77,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj121218.jpg",
     "videoSource": "vimeo",
     "videoId": "307804861"
   },
@@ -91,7 +91,7 @@
       "concerts",
       "sja"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_sjawinter121218.jpg",
     "videoSource": "vimeo",
     "videoId": "307810830"
   },
@@ -105,7 +105,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_121018.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-121018-7209"
   },
@@ -119,7 +119,7 @@
       "concerts",
       "nekco"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_nekco120918.jpg",
     "videoSource": "vimeo",
     "videoId": "307806137"
   },
@@ -133,7 +133,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath120818.jpg",
     "videoSource": "vimeo",
     "videoId": "307801923"
   },
@@ -146,7 +146,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_swingin120718.jpg",
     "videoSource": "vimeo",
     "videoId": "307802474"
   },
@@ -160,7 +160,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo120618.jpg",
     "videoSource": "vimeo",
     "videoId": "314953643"
   },
@@ -174,7 +174,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/firstwed_2018_120618.jpg",
     "videoSource": "vimeo",
     "videoId": "305251859"
   },
@@ -188,7 +188,7 @@
       "concerts",
       "li"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_liwinter2018.jpg",
     "videoSource": "vimeo",
     "videoId": "305248383"
   },
@@ -202,7 +202,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_120418.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-120418-7184"
   },
@@ -216,7 +216,7 @@
       "lectures-forums",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtmc120318.jpg",
     "videoSource": "vimeo",
     "videoId": "305245728"
   },
@@ -229,7 +229,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_ucc113018.jpg",
     "videoSource": "vimeo",
     "videoId": "305248607"
   },
@@ -243,7 +243,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo113018.jpg",
     "videoSource": "vimeo",
     "videoId": "303914792"
   },
@@ -256,7 +256,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjhistory112818.jpg",
     "videoSource": "vimeo",
     "videoId": "331142092"
   },
@@ -270,7 +270,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_112618.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-112618-7166"
   },
@@ -283,7 +283,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_stjtownband112518.jpg",
     "videoSource": "vimeo",
     "videoId": "303915258"
   },
@@ -297,7 +297,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj112018.jpg",
     "videoSource": "vimeo",
     "videoId": "302544532"
   },
@@ -311,7 +311,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_111918.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-111918-7147"
   },
@@ -324,7 +324,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_healthysoils111818.jpg",
     "videoSource": "vimeo",
     "videoId": "331913106"
   },
@@ -338,7 +338,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo111518.jpg",
     "videoSource": "vimeo",
     "videoId": "314953245"
   },
@@ -351,7 +351,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_avasb111518.jpg",
     "videoSource": "vimeo",
     "videoId": "302544007"
   },
@@ -365,7 +365,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_111518.jpg",
     "videoSource": "vimeo",
     "videoId": "302542718"
   },
@@ -379,7 +379,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath111418.jpg",
     "videoSource": "vimeo",
     "videoId": "301424185"
   },
@@ -393,7 +393,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_111318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-111318-7129"
   },
@@ -407,7 +407,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_111218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-101218-7126"
   },
@@ -420,7 +420,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_stjtown111118.jpg",
     "videoSource": "vimeo",
     "videoId": "301424561"
   },
@@ -434,7 +434,7 @@
       "lectures-forums",
       "fairbanks"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_fairbanks110918.jpg",
     "videoSource": "vimeo",
     "videoId": "301426671"
   },
@@ -448,7 +448,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_110818.jpg",
     "videoSource": "vimeo",
     "videoId": "299984110"
   },
@@ -462,7 +462,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/firstwed_2018_110718.jpg",
     "videoSource": "vimeo",
     "videoId": "299980123"
   },
@@ -476,7 +476,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_110118.jpg",
     "videoSource": "vimeo",
     "videoId": "299984372"
   },
@@ -490,7 +490,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo103118.jpg",
     "videoSource": "vimeo",
     "videoId": "298279384"
   },
@@ -503,7 +503,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_lwv103018.jpg",
     "videoSource": "vimeo",
     "videoId": "298274224"
   },
@@ -516,7 +516,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_danvilleharvest102818.jpg",
     "videoSource": "vimeo",
     "videoId": "298273706"
   },
@@ -530,7 +530,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_102518.jpg",
     "videoSource": "vimeo",
     "videoId": "297401424"
   },
@@ -544,7 +544,7 @@
       "concerts",
       "li"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_lifall102518.jpg",
     "videoSource": "vimeo",
     "videoId": "307820643"
   },
@@ -558,7 +558,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath102418.jpg",
     "videoSource": "vimeo",
     "videoId": "297380706"
   },
@@ -571,7 +571,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/other_2018_kas102418.jpg",
     "videoSource": "vimeo",
     "videoId": "296925955"
   },
@@ -585,7 +585,7 @@
       "concerts",
       "sja"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_sjafall102418.jpg",
     "videoSource": "vimeo",
     "videoId": "298804107"
   },
@@ -598,7 +598,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_leapbeyond102218.jpg",
     "videoSource": "vimeo",
     "videoId": "297412665"
   },
@@ -612,7 +612,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_stjath102218.jpg",
     "videoSource": "vimeo",
     "videoId": "296930603"
   },
@@ -626,7 +626,7 @@
       "sports",
       "sjlifb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_stjli2018.jpg",
     "videoSource": "vimeo",
     "videoId": "296670165"
   },
@@ -640,7 +640,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_101818.jpg",
     "videoSource": "vimeo",
     "videoId": "296237823"
   },
@@ -653,7 +653,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_ucc101718.jpg",
     "videoSource": "vimeo",
     "videoId": "296238183"
   },
@@ -667,7 +667,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_101518.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-101518-7069"
   },
@@ -681,7 +681,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo101518.jpg",
     "videoSource": "vimeo",
     "videoId": "296234410"
   },
@@ -695,7 +695,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_101118.jpg",
     "videoSource": "vimeo",
     "videoId": "297407421"
   },
@@ -709,7 +709,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_101018.jpg",
     "videoSource": "vimeo",
     "videoId": "297411153"
   },
@@ -723,7 +723,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj100918.jpg",
     "videoSource": "vimeo",
     "videoId": "296235090"
   },
@@ -737,7 +737,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo100518.jpg",
     "videoSource": "vimeo",
     "videoId": "296235428"
   },
@@ -751,7 +751,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/firstwed_2018_100318.jpg",
     "videoSource": "vimeo",
     "videoId": "293752530"
   },
@@ -765,7 +765,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj100218.jpg",
     "videoSource": "vimeo",
     "videoId": "293751770"
   },
@@ -779,7 +779,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_100118.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-100118-7028"
   },
@@ -793,7 +793,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_092418.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-pubhearing-092418-7007"
   },
@@ -807,7 +807,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo092118.jpg",
     "videoSource": "vimeo",
     "videoId": "292183017"
   },
@@ -821,7 +821,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_092018.jpg",
     "videoSource": "vimeo",
     "videoId": "292174225"
   },
@@ -834,7 +834,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/other_2018_kas091918.jpg",
     "videoSource": "vimeo",
     "videoId": "292167220"
   },
@@ -848,7 +848,7 @@
       "studio",
       "iamvttoo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_vermonttoo091818.jpg",
     "videoSource": "vimeo",
     "videoId": "297396937"
   },
@@ -862,7 +862,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_091718.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-091718-6983"
   },
@@ -876,7 +876,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo091318.jpg",
     "videoSource": "vimeo",
     "videoId": "292180411"
   },
@@ -890,7 +890,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj091118.jpg",
     "videoSource": "vimeo",
     "videoId": "292169750"
   },
@@ -904,7 +904,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_091018.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-091018-6977"
   },
@@ -918,7 +918,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo083018.jpg",
     "videoSource": "vimeo",
     "videoId": "288874547"
   },
@@ -931,7 +931,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_stereotypes082918.jpg",
     "videoSource": "vimeo",
     "videoId": "288871525"
   },
@@ -945,7 +945,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_082718.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-082718-6962"
   },
@@ -959,7 +959,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo082318.jpg",
     "videoSource": "vimeo",
     "videoId": "288871751"
   },
@@ -973,7 +973,7 @@
       "studio",
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_kas082318.jpg",
     "videoSource": "vimeo",
     "videoId": "288872018"
   },
@@ -986,7 +986,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_peacham081618.jpg",
     "videoSource": "vimeo",
     "videoId": "285628557"
   },
@@ -1000,7 +1000,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath081118.jpg",
     "videoSource": "vimeo",
     "videoId": "285624342"
   },
@@ -1014,7 +1014,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo081018.jpg",
     "videoSource": "vimeo",
     "videoId": "285628532"
   },
@@ -1028,7 +1028,7 @@
       "lectures-forums",
       "fairbanks"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_fmp081018.jpg",
     "videoSource": "vimeo",
     "videoId": "285624902"
   },
@@ -1042,7 +1042,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_080718.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-080718-6937"
   },
@@ -1056,7 +1056,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo080218.jpg",
     "videoSource": "vimeo",
     "videoId": "283343227"
   },
@@ -1069,7 +1069,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_freshtrackers080218.jpg",
     "videoSource": "vimeo",
     "videoId": "283344167"
   },
@@ -1083,7 +1083,7 @@
       "concerts",
       "sja"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_sjatheater072518.jpg",
     "videoSource": "vimeo",
     "videoId": "282071004"
   },
@@ -1097,7 +1097,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_072318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-072318-6903"
   },
@@ -1110,7 +1110,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/other_2018_starsstripes072118.jpg",
     "videoSource": "vimeo",
     "videoId": "282069126"
   },
@@ -1124,7 +1124,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath071818.jpg",
     "videoSource": "vimeo",
     "videoId": "280855776"
   },
@@ -1137,7 +1137,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_sja071318.jpg",
     "videoSource": "vimeo",
     "videoId": "280854045"
   },
@@ -1151,7 +1151,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj071018.jpg",
     "videoSource": "vimeo",
     "videoId": "280856166"
   },
@@ -1165,7 +1165,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_070918.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-070918-6869"
   },
@@ -1179,7 +1179,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath070518.jpg",
     "videoSource": "vimeo",
     "videoId": "279537109"
   },
@@ -1192,7 +1192,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/other_2018_woodsville4th070418.jpg",
     "videoSource": "vimeo",
     "videoId": "279000100"
   },
@@ -1206,7 +1206,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_070318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-070318-6857"
   },
@@ -1220,7 +1220,7 @@
       "lectures-forums",
       "catamount"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_catamount070218.jpg",
     "videoSource": "vimeo",
     "videoId": "279594565"
   },
@@ -1233,7 +1233,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918h.jpg",
     "videoSource": "vimeo",
     "videoId": "278998796"
   },
@@ -1246,7 +1246,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918g.jpg",
     "videoSource": "vimeo",
     "videoId": "278994972"
   },
@@ -1259,7 +1259,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918f.jpg",
     "videoSource": "vimeo",
     "videoId": "278983872"
   },
@@ -1272,7 +1272,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918e.jpg",
     "videoSource": "vimeo",
     "videoId": "279537336"
   },
@@ -1285,7 +1285,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918d.jpg",
     "videoSource": "vimeo",
     "videoId": "279596521"
   },
@@ -1298,7 +1298,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918c.jpg",
     "videoSource": "vimeo",
     "videoId": "278992226"
   },
@@ -1311,7 +1311,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918b.jpg",
     "videoSource": "vimeo",
     "videoId": "278989605"
   },
@@ -1324,7 +1324,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtforest062918a.jpg",
     "videoSource": "vimeo",
     "videoId": "278980018"
   },
@@ -1338,7 +1338,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath062718.jpg",
     "videoSource": "vimeo",
     "videoId": "279584395"
   },
@@ -1352,7 +1352,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_062518.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-062518-6829"
   },
@@ -1366,7 +1366,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo062218.jpg",
     "videoSource": "vimeo",
     "videoId": "279585923"
   },
@@ -1380,7 +1380,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath062018.jpg",
     "videoSource": "vimeo",
     "videoId": "276379508"
   },
@@ -1408,7 +1408,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath061318.jpg",
     "videoSource": "vimeo",
     "videoId": "276377877"
   },
@@ -1422,7 +1422,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj061218.jpg",
     "videoSource": "vimeo",
     "videoId": "276374047"
   },
@@ -1449,7 +1449,7 @@
     "categories": [
       "other"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/other_2018_stjpet060918.jpg",
     "videoSource": "vimeo",
     "videoId": "276373087"
   },
@@ -1463,7 +1463,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo060718.jpg",
     "videoSource": "vimeo",
     "videoId": "276379120"
   },
@@ -1476,7 +1476,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/grad_sjagrad2018.jpg",
     "videoSource": "vimeo",
     "videoId": "274362082"
   },
@@ -1489,7 +1489,7 @@
     "categories": [
       "grad"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/grad_ligrad2018.jpg",
     "videoSource": "vimeo",
     "videoId": "274359757"
   },
@@ -1503,7 +1503,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo053118.jpg",
     "videoSource": "vimeo",
     "videoId": "274353863"
   },
@@ -1516,7 +1516,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_vtatg053018.jpg",
     "videoSource": "vimeo",
     "videoId": "274349785"
   },
@@ -1530,7 +1530,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_053018.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-053018-6764"
   },
@@ -1544,7 +1544,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_publichearing052918.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stj-publichearing-052918-6760"
   },
@@ -1558,7 +1558,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj052918.jpg",
     "videoSource": "vimeo",
     "videoId": "274342089"
   },
@@ -1572,7 +1572,7 @@
       "concerts",
       "waterford"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_waterfordspring052418.jpg",
     "videoSource": "vimeo",
     "videoId": "274343396"
   },
@@ -1586,7 +1586,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_052118.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-052118-6724"
   },
@@ -1600,7 +1600,7 @@
       "neklegbkfst",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/legbkfst_2018_052118.jpg",
     "videoSource": "vimeo",
     "videoId": "272403134"
   },
@@ -1614,7 +1614,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo051718.jpg",
     "videoSource": "vimeo",
     "videoId": "272403192"
   },
@@ -1628,7 +1628,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_051418.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-051418-6707"
   },
@@ -1642,7 +1642,7 @@
       "concerts",
       "nekco"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_nekco051318.jpg",
     "videoSource": "vimeo",
     "videoId": "282072939"
   },
@@ -1656,7 +1656,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_051018.jpg",
     "videoSource": "vimeo",
     "videoId": "269413185"
   },
@@ -1670,7 +1670,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo051018.jpg",
     "videoSource": "vimeo",
     "videoId": "269412290"
   },
@@ -1684,7 +1684,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj050818.jpg",
     "videoSource": "vimeo",
     "videoId": "269397352"
   },
@@ -1697,7 +1697,7 @@
     "categories": [
       "concerts"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_ncc050618.jpg",
     "videoSource": "vimeo",
     "videoId": "269394598"
   },
@@ -1710,7 +1710,7 @@
     "categories": [
       "nekchamber"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_nekchamber050318.jpg",
     "videoSource": "vimeo",
     "videoId": "269381889"
   },
@@ -1724,7 +1724,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_050118.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-050118-6668"
   },
@@ -1738,7 +1738,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj050118.jpg",
     "videoSource": "vimeo",
     "videoId": "268133287"
   },
@@ -1752,7 +1752,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_043018.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-043018-6661"
   },
@@ -1766,7 +1766,7 @@
       "neklegbkfst",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/legbkfst_2018_043018.jpg",
     "videoSource": "vimeo",
     "videoId": "268119052"
   },
@@ -1779,7 +1779,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_sja042918.jpg",
     "videoSource": "vimeo",
     "videoId": "268144426"
   },
@@ -1793,7 +1793,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_stjath042518.jpg",
     "videoSource": "vimeo",
     "videoId": "268116211"
   },
@@ -1807,7 +1807,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_042318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-042318-6636"
   },
@@ -1821,7 +1821,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_041918.jpg",
     "videoSource": "vimeo",
     "videoId": "265921920"
   },
@@ -1835,7 +1835,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo041918.jpg",
     "videoSource": "vimeo",
     "videoId": "265912761"
   },
@@ -1849,7 +1849,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath041818b.jpg",
     "videoSource": "vimeo",
     "videoId": "265922523"
   },
@@ -1863,7 +1863,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath041818.jpg",
     "videoSource": "vimeo",
     "videoId": "265914832"
   },
@@ -1876,7 +1876,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/forums_2018_gmcb041818.jpg",
     "videoSource": "vimeo",
     "videoId": "265918932"
   },
@@ -1889,7 +1889,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_stjplayers041618.jpg",
     "videoSource": "vimeo",
     "videoId": "265911943"
   },
@@ -1903,7 +1903,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath041218.jpg",
     "videoSource": "vimeo",
     "videoId": "264884239"
   },
@@ -1917,7 +1917,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_041218.jpg",
     "videoSource": "vimeo",
     "videoId": "264879386"
   },
@@ -1931,7 +1931,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo041218.jpg",
     "videoSource": "vimeo",
     "videoId": "265911150"
   },
@@ -1945,7 +1945,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath041118b.jpg",
     "videoSource": "vimeo",
     "videoId": "264878374"
   },
@@ -1959,7 +1959,7 @@
       "lectures-forums",
       "stjath"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_stjath041118.jpg",
     "videoSource": "vimeo",
     "videoId": "264874004"
   },
@@ -1973,7 +1973,7 @@
       "concerts",
       "li"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_lispring041118.jpg",
     "videoSource": "vimeo",
     "videoId": "264876866"
   },
@@ -1987,7 +1987,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj041018.jpg",
     "videoSource": "vimeo",
     "videoId": "264779690"
   },
@@ -2001,7 +2001,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_040918.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-040918-6589"
   },
@@ -2015,7 +2015,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo040618.jpg",
     "videoSource": "vimeo",
     "videoId": "265906036"
   },
@@ -2029,7 +2029,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_040318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-040318-6575"
   },
@@ -2043,7 +2043,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_040218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-040218-6573"
   },
@@ -2057,7 +2057,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_032918.jpg",
     "videoSource": "vimeo",
     "videoId": "264779970"
   },
@@ -2071,7 +2071,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_032618.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-032618-6546"
   },
@@ -2085,7 +2085,7 @@
       "neklegbkfst",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/legbkfst_2018_032618.jpg",
     "videoSource": "vimeo",
     "videoId": "264775899"
   },
@@ -2098,7 +2098,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_leap032318.jpg",
     "videoSource": "vimeo",
     "videoId": "279503493"
   },
@@ -2112,7 +2112,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_032318.jpg",
     "videoSource": "vimeo",
     "videoId": "264772931"
   },
@@ -2126,7 +2126,7 @@
       "public-meetings",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_kebudget032318.jpg",
     "videoSource": "vimeo",
     "videoId": "261577392"
   },
@@ -2140,7 +2140,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo032218.jpg",
     "videoSource": "vimeo",
     "videoId": "265907017"
   },
@@ -2154,7 +2154,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj032018.jpg",
     "videoSource": "vimeo",
     "videoId": "264768706"
   },
@@ -2167,7 +2167,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_islandpond032018.jpg",
     "videoSource": "vimeo",
     "videoId": "264767168"
   },
@@ -2181,7 +2181,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_031918.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-031918-6515"
   },
@@ -2195,7 +2195,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-waterford-ct.jpg",
     "videoSource": "vimeo",
     "videoId": "263397579"
   },
@@ -2209,7 +2209,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-glover-stjs.jpg",
     "videoSource": "vimeo",
     "videoId": "263394615"
   },
@@ -2223,7 +2223,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-stj-orleans.jpg",
     "videoSource": "vimeo",
     "videoId": "263387580"
   },
@@ -2237,7 +2237,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-stj-beth.jpg",
     "videoSource": "vimeo",
     "videoId": "263381067"
   },
@@ -2251,7 +2251,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-waterford-lyndon.jpg",
     "videoSource": "vimeo",
     "videoId": "263372764"
   },
@@ -2264,7 +2264,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_leap031618.jpg",
     "videoSource": "vimeo",
     "videoId": "263370204"
   },
@@ -2278,7 +2278,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-newport-stj.jpg",
     "videoSource": "vimeo",
     "videoId": "263356226"
   },
@@ -2292,7 +2292,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-orleans-lyndon.jpg",
     "videoSource": "vimeo",
     "videoId": "263351680"
   },
@@ -2306,7 +2306,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-hardwick-lyndonts.jpg",
     "videoSource": "vimeo",
     "videoId": "263348597"
   },
@@ -2320,7 +2320,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/firstwed_2018_031518.jpg",
     "videoSource": "vimeo",
     "videoId": "263343634"
   },
@@ -2334,7 +2334,7 @@
       "osher",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/osher_2018_031518.jpg",
     "videoSource": "vimeo",
     "videoId": "262777563"
   },
@@ -2348,7 +2348,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-cnsulyndon-brighton.jpg",
     "videoSource": "vimeo",
     "videoId": "263337370"
   },
@@ -2362,7 +2362,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-goodshep-waterford-031518.jpg",
     "videoSource": "vimeo",
     "videoId": "263342655"
   },
@@ -2376,7 +2376,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-danville-lancaster.jpg",
     "videoSource": "vimeo",
     "videoId": "262776367"
   },
@@ -2390,7 +2390,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-lyndon56-newport.jpg",
     "videoSource": "vimeo",
     "videoId": "262773981"
   },
@@ -2404,7 +2404,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-campton-stj.jpg",
     "videoSource": "vimeo",
     "videoId": "262617636"
   },
@@ -2418,7 +2418,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-goodshep-cnsulyndon.jpg",
     "videoSource": "vimeo",
     "videoId": "262614901"
   },
@@ -2432,7 +2432,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-stj-danville.jpg",
     "videoSource": "vimeo",
     "videoId": "262615406"
   },
@@ -2446,7 +2446,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-cnsulyndon-waterford-031418.jpg",
     "videoSource": "vimeo",
     "videoId": "262622699"
   },
@@ -2460,7 +2460,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-goodshep-glover.jpg",
     "videoSource": "vimeo",
     "videoId": "262622514"
   },
@@ -2474,7 +2474,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-danville-wateford.jpg",
     "videoSource": "vimeo",
     "videoId": "262620189"
   },
@@ -2488,7 +2488,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-waterford-littleton.jpg",
     "videoSource": "vimeo",
     "videoId": "262618814"
   },
@@ -2502,7 +2502,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_031318.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-031318-6483"
   },
@@ -2516,7 +2516,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_031218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-031218-6482"
   },
@@ -2530,7 +2530,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-brighton-barnet.jpg",
     "videoSource": "vimeo",
     "videoId": "262537419"
   },
@@ -2544,7 +2544,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-goodshep-waterford.jpg",
     "videoSource": "vimeo",
     "videoId": "262534438"
   },
@@ -2558,7 +2558,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-hardwick-stj.jpg",
     "videoSource": "vimeo",
     "videoId": "262533707"
   },
@@ -2572,7 +2572,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-stj-lyndon.jpg",
     "videoSource": "vimeo",
     "videoId": "262544744"
   },
@@ -2586,7 +2586,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-beth-hardwick.jpg",
     "videoSource": "vimeo",
     "videoId": "262542493"
   },
@@ -2600,7 +2600,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-cnsulyndon-stj.jpg",
     "videoSource": "vimeo",
     "videoId": "261632148"
   },
@@ -2614,7 +2614,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-campton-profile.jpg",
     "videoSource": "vimeo",
     "videoId": "261631599"
   },
@@ -2628,7 +2628,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-barnet-littleton.jpg",
     "videoSource": "vimeo",
     "videoId": "261629402"
   },
@@ -2642,7 +2642,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-danville-cabot.jpg",
     "videoSource": "vimeo",
     "videoId": "261628823"
   },
@@ -2655,7 +2655,7 @@
     "categories": [
       "studio"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_nekys030918.jpg",
     "videoSource": "vimeo",
     "videoId": "261577546"
   },
@@ -2669,7 +2669,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-lancaster-stj.jpg",
     "videoSource": "vimeo",
     "videoId": "261625225"
   },
@@ -2683,7 +2683,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-orleans-lts.jpg",
     "videoSource": "vimeo",
     "videoId": "261626496"
   },
@@ -2697,7 +2697,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-barnet-glover.jpg",
     "videoSource": "vimeo",
     "videoId": "261618932"
   },
@@ -2711,7 +2711,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-newport-hardwick.jpg",
     "videoSource": "vimeo",
     "videoId": "261619375"
   },
@@ -2725,7 +2725,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo030718.jpg",
     "videoSource": "vimeo",
     "videoId": "272403180"
   },
@@ -2739,7 +2739,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-cnsulyndon-waterford.jpg",
     "videoSource": "vimeo",
     "videoId": "259523038"
   },
@@ -2753,7 +2753,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-waterford-barnet.jpg",
     "videoSource": "vimeo",
     "videoId": "259522924"
   },
@@ -2767,7 +2767,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-danville-cnsulyndon.jpg",
     "videoSource": "vimeo",
     "videoId": "259525435"
   },
@@ -2781,7 +2781,7 @@
       "sports",
       "rotarybb"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/sports_rotarybb2018-colonel-newport.jpg",
     "videoSource": "vimeo",
     "videoId": "259525489"
   },
@@ -2795,7 +2795,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo030118.jpg",
     "videoSource": "vimeo",
     "videoId": "272403191"
   },
@@ -2809,7 +2809,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_budget030118.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-030118-6446"
   },
@@ -2823,7 +2823,7 @@
       "neklegbkfst",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/legbkfst_2018_022618.jpg",
     "videoSource": "vimeo",
     "videoId": "258359842"
   },
@@ -2851,7 +2851,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo022218.jpg",
     "videoSource": "vimeo",
     "videoId": "257423884"
   },
@@ -2865,7 +2865,7 @@
       "firstwed",
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/firstwed_2018_022118.jpg",
     "videoSource": "vimeo",
     "videoId": "257428781"
   },
@@ -2879,7 +2879,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj022018.jpg",
     "videoSource": "vimeo",
     "videoId": "257427601"
   },
@@ -2893,7 +2893,7 @@
       "concerts",
       "nekco"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_nekco021818.jpg",
     "videoSource": "vimeo",
     "videoId": "257426957"
   },
@@ -2907,7 +2907,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo021518.jpg",
     "videoSource": "vimeo",
     "videoId": "257424588"
   },
@@ -2921,7 +2921,7 @@
       "public-meetings",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/politics_2018_vtbudget021218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-vtstatebudget-021218-6380"
   },
@@ -2935,7 +2935,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_021218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-021218-6379"
   },
@@ -2949,7 +2949,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_020618.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-020618-6363"
   },
@@ -2963,7 +2963,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_020518.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-020518-6360"
   },
@@ -2976,7 +2976,7 @@
     "categories": [
       "lectures-forums"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/lectures_2018_hypecbd020318.jpg",
     "videoSource": "vimeo",
     "videoId": "254509377"
   },
@@ -2990,7 +2990,7 @@
       "neklegbkfst",
       "politics"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/legbkfst_2018_012918.jpg",
     "videoSource": "vimeo",
     "videoId": "254373594"
   },
@@ -3004,7 +3004,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo012518.jpg",
     "videoSource": "vimeo",
     "videoId": "253011027"
   },
@@ -3018,7 +3018,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj012418.jpg",
     "videoSource": "vimeo",
     "videoId": "253009301"
   },
@@ -3032,7 +3032,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_012218spec.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-012218-6309"
   },
@@ -3046,7 +3046,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_012218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-012218-6307"
   },
@@ -3060,7 +3060,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_012218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-012218-6306"
   },
@@ -3074,7 +3074,7 @@
       "concerts",
       "li"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_li011918.jpg",
     "videoSource": "vimeo",
     "videoId": "253007274"
   },
@@ -3088,7 +3088,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo011818.jpg",
     "videoSource": "vimeo",
     "videoId": "251942687"
   },
@@ -3102,7 +3102,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj011618.jpg",
     "videoSource": "vimeo",
     "videoId": "251941401"
   },
@@ -3116,7 +3116,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_011518.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-011518-6283"
   },
@@ -3130,7 +3130,7 @@
       "concerts",
       "waterford"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concerts_2018_waterford011118.jpg",
     "videoSource": "vimeo",
     "videoId": "250928876"
   },
@@ -3144,7 +3144,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo011118.jpg",
     "videoSource": "vimeo",
     "videoId": "250929620"
   },
@@ -3158,7 +3158,7 @@
       "studio",
       "iastj"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/studio_2018_iastj010918.jpg",
     "videoSource": "vimeo",
     "videoId": "251098039"
   },
@@ -3172,7 +3172,7 @@
       "public-meetings",
       "stjselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjselect_2018_010818.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjselect-mtg-010818-6254"
   },
@@ -3186,7 +3186,7 @@
       "public-meetings",
       "stjschool"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/stjschool_2018_010818.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-stjschool-mtg-010818-6253"
   },
@@ -3200,7 +3200,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/wgo_wgo010418.jpg",
     "videoSource": "vimeo",
     "videoId": "249938094"
   },
@@ -3214,7 +3214,7 @@
       "public-meetings",
       "concordselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2018/concordselect_2018_010218.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-concordselect-mtg-010218-6239"
   }
