@@ -231,7 +231,7 @@
       "public-meetings",
       "grotonselect"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2021/grotonselect_2021_111821.jpg",
     "videoSource": "archive.org",
     "videoId": "katv-grotonselect-mtg-111821-10201"
   },
@@ -1186,7 +1186,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2021/wgo_wgo011421.jpg",
     "videoSource": "vimeo",
     "videoId": "501465132"
   },
@@ -1228,7 +1228,7 @@
       "studio",
       "iamvttoo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2021/studio_2021_iamvt011121.jpg",
     "videoSource": "vimeo",
     "videoId": "500708443"
   },
@@ -1256,7 +1256,7 @@
       "studio",
       "wgo"
     ],
-    "teaserImage": null,
+    "teaserImage": "/assets/images/vod/2021/wgo_wgo010721.jpg",
     "videoSource": "vimeo",
     "videoId": "498402182"
   },
