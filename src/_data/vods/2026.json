@@ -1,5 +1,32 @@
 [
   {
+    "title": "Lyndon Select Board, 7/20/26",
+    "path": "/vod/lyndonselect/2026/20260720",
+    "cablecastShowId": 15415,
+    "date": "2026-07-20",
+    "location": "Lyndon",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260720.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-072026-15415"
+  },
+  {
+    "title": "Lyndonville VT: 2026 Stars And Stripes Parade",
+    "path": "/vod/other/2026/starsstripes2026",
+    "cablecastShowId": 15350,
+    "date": "2026-07-18",
+    "location": "Lyndonville, VT",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/starsstripes2026.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1212269828"
+  },
+  {
     "title": "Concord Select Board, 7/7/26",
     "path": "/vod/concordselect/2026/20260707",
     "cablecastShowId": 15353,
