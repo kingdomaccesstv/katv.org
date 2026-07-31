@@ -29,7 +29,7 @@ permalink: "/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1
                 {% if vod.teaserImage %}
                   <img src="{{ vod.teaserImage }}" alt="{{ vod.title }}" loading="lazy" />
                 {% else %}
-                  <div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">
+                  <div style="aspect-ratio: 16/9; background: var(--tag-bg); display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-weight: bold;">
                     No Image Available
                   </div>
                 {% endif %}
