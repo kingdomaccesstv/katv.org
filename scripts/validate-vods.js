@@ -69,7 +69,7 @@ function getFilesToValidate() {
 }
 
 // Validate a single VOD entry
-function validateEntry(entry, index, filename) {
+function validateEntry(entry, index, filename, showIdMap) {
   const errors = [];
   const requiredKeys = new Set([
     'title', 'path', 'cablecastShowId', 'date', 'location', 
@@ -112,6 +112,15 @@ function validateEntry(entry, index, filename) {
   if (entry.cablecastShowId !== null) {
     if (typeof entry.cablecastShowId !== 'number' || !Number.isInteger(entry.cablecastShowId) || entry.cablecastShowId < 0) {
       errors.push(`"cablecastShowId" must be a non-negative integer or null (got: ${JSON.stringify(entry.cablecastShowId)})`);
+    } else if (showIdMap && showIdMap.has(entry.cablecastShowId)) {
+      const occurrences = showIdMap.get(entry.cablecastShowId);
+      if (occurrences.length > 1) {
+        const others = occurrences
+          .filter(occ => !(occ.relativePath === filename && occ.index === index))
+          .map(occ => `${occ.relativePath} at index ${occ.index}`)
+          .join(', ');
+        errors.push(`Duplicate "cablecastShowId" ${entry.cablecastShowId} (also found in ${others})`);
+      }
     }
   }
 
@@ -170,6 +179,9 @@ function main() {
   let totalErrors = 0;
   console.log(`Validating ${files.length} VOD JSON file(s)...`);
 
+  const fileData = [];
+  const showIdMap = new Map();
+
   files.forEach(filePath => {
     const relativePath = path.relative(path.join(__dirname, '..'), filePath);
     try {
@@ -189,24 +201,40 @@ function main() {
         return;
       }
 
-      let fileHasErrors = false;
+      fileData.push({ relativePath, vods });
+
       vods.forEach((entry, index) => {
-        const errors = validateEntry(entry, index, relativePath);
-        if (errors.length > 0) {
-          fileHasErrors = true;
-          totalErrors += errors.length;
-          const displayTitle = entry.title || `Entry #${index}`;
-          console.error(`\x1b[31m[ERROR]\x1b[0m ${relativePath} (item index ${index}, "${displayTitle}"):`);
-          errors.forEach(err => console.error(`  - ${err}`));
+        if (entry && typeof entry === 'object' && entry.cablecastShowId !== null && entry.cablecastShowId !== undefined) {
+          if (typeof entry.cablecastShowId === 'number' && Number.isInteger(entry.cablecastShowId) && entry.cablecastShowId >= 0) {
+            const id = entry.cablecastShowId;
+            if (!showIdMap.has(id)) {
+              showIdMap.set(id, []);
+            }
+            showIdMap.get(id).push({ relativePath, index, title: entry.title });
+          }
         }
       });
-
-      if (!fileHasErrors) {
-        console.log(`\x1b[32m[PASS]\x1b[0m ${relativePath}`);
-      }
     } catch (err) {
       console.error(`\x1b[31m[ERROR]\x1b[0m ${relativePath}: Failed to read file - ${err.message}`);
       totalErrors++;
+    }
+  });
+
+  fileData.forEach(({ relativePath, vods }) => {
+    let fileHasErrors = false;
+    vods.forEach((entry, index) => {
+      const errors = validateEntry(entry, index, relativePath, showIdMap);
+      if (errors.length > 0) {
+        fileHasErrors = true;
+        totalErrors += errors.length;
+        const displayTitle = (entry && entry.title) || `Entry #${index}`;
+        console.error(`\x1b[31m[ERROR]\x1b[0m ${relativePath} (item index ${index}, "${displayTitle}"):`);
+        errors.forEach(err => console.error(`  - ${err}`));
+      }
+    });
+
+    if (!fileHasErrors) {
+      console.log(`\x1b[32m[PASS]\x1b[0m ${relativePath}`);
     }
   });
 
