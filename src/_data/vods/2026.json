@@ -1,5 +1,74 @@
 [
   {
+    "title": "Danville School Board, 7/28/26 Special Meeting",
+    "path": "/vod/danvilleschool/2026/20260728sm",
+    "cablecastShowId": 15424,
+    "date": "2026-07-28",
+    "location": "Virtual",
+    "categories": [
+      "public-meetings",
+      "danvilleschool"
+    ],
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20260728sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleschool-specmtg-072826-15424"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/27/26",
+    "path": "/vod/stjselect/2026/20260727",
+    "cablecastShowId": 15423,
+    "date": "2026-07-27",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260727.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072726-15423"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 7/27/26 Special Meeting",
+    "path": "/vod/stjselect/2026/20260727sm",
+    "cablecastShowId": 15444,
+    "date": "2026-07-27",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260727sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-072726-15444"
+  },
+  {
+    "title": "St. J. Athenaeum: The Original \"Bucky\" Lew",
+    "path": "/vod/stjath/2026/20260725",
+    "cablecastShowId": 15426,
+    "date": "2026-07-25",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260725.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1213594012"
+  },
+  {
+    "title": "VT State Treasurer's Office: GFX - The First Step",
+    "path": "/vod/pubmtgs/2026/vtsto20260729",
+    "cablecastShowId": 15425,
+    "date": "2026-07-29",
+    "location": "Burke Mountain Hotel",
+    "categories": [
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/vtsto20260729.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-vttreas-072926-15425"
+  },
+  {
     "title": "Lyndon Select Board, 7/20/26",
     "path": "/vod/lyndonselect/2026/20260720",
     "cablecastShowId": 15415,
