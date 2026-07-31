@@ -87,7 +87,7 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
                 {% if vod.teaserImage %}
                   <img src="{{ vod.teaserImage }}" alt="{{ vod.title }}" loading="lazy" />
                 {% else %}
-                  <div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">
+                  <div style="aspect-ratio: 16/9; background: var(--tag-bg); display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-weight: bold;">
                     No Image Available
                   </div>
                 {% endif %}
@@ -274,7 +274,7 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
         // Render cards
         viewsGrid.innerHTML = '';
         if (pageItems.length === 0) {
-          viewsGrid.innerHTML = '<div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: #666; font-size: 1.1rem;">No matching programs found. Please select other filter options.</div>';
+          viewsGrid.innerHTML = '<div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: var(--text-muted); font-size: 1.1rem;">No matching programs found. Please select other filter options.</div>';
           pagerNav.innerHTML = '';
           return;
         }
@@ -287,7 +287,7 @@ permalink: "/vod/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber
           if (item.teaserImage) {
             imageHtml = `<img src="${item.teaserImage}" alt="${item.title}" loading="lazy" />`;
           } else {
-            imageHtml = `<div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">No Image Available</div>`;
+            imageHtml = `<div style="aspect-ratio: 16/9; background: var(--tag-bg); display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-weight: bold;">No Image Available</div>`;
           }
 
           article.innerHTML = `

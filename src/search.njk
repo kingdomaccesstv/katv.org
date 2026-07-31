@@ -112,7 +112,7 @@ permalink: "/search/index.html"
         if (item.teaserImage) {
           imageHtml = `<img src="${item.teaserImage}" alt="${item.title}" loading="lazy" />`;
         } else {
-          imageHtml = `<div style="aspect-ratio: 16/9; background: #ddd; display: flex; align-items: center; justify-content: center; color: #666; font-weight: bold;">No Image</div>`;
+          imageHtml = `<div style="aspect-ratio: 16/9; background: var(--tag-bg); display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-weight: bold;">No Image</div>`;
         }
 
         article.innerHTML = `

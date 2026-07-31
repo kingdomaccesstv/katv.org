@@ -30,6 +30,17 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png" />
 
+  <meta name="color-scheme" content="light dark" />
+  <script>
+    (function() {
+      try {
+        var saved = localStorage.getItem('theme');
+        if (saved === 'dark' || saved === 'light') {
+          document.documentElement.setAttribute('data-theme', saved);
+        }
+      } catch(e) {}
+    })();
+  </script>
   <link rel="stylesheet" href="/assets/css/style.css" />
 </head>
 <body>
@@ -75,6 +86,9 @@
             </li>
             <li>
               <a href="https://www.paypal.com/donate/?hosted_button_id=ETA6KVWW54P6L" target="_blank">Support Us</a>
+            </li>
+            <li class="theme-toggle-li">
+              {% include "components/theme-toggle.njk" %}
             </li>
           </ul>
         </nav>
@@ -242,6 +256,52 @@
         });
       }
     });
+  </script>
+  <!-- Theme Toggle Script -->
+  <script>
+    (function() {
+      const toggleBtn = document.getElementById('theme-toggle');
+      if (!toggleBtn) return;
+
+      function getEffectiveTheme() {
+        const saved = localStorage.getItem('theme');
+        if (saved === 'dark' || saved === 'light') return saved;
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function updateToggleUI(theme) {
+        const isDark = theme === 'dark';
+        toggleBtn.setAttribute('aria-label', isDark ? 'Switch to light theme' : 'Switch to dark theme');
+        toggleBtn.setAttribute('title', isDark ? 'Switch to light theme' : 'Switch to dark theme');
+        toggleBtn.classList.toggle('is-dark', isDark);
+      }
+
+      function setTheme(theme) {
+        try {
+          localStorage.setItem('theme', theme);
+        } catch(e) {}
+        document.documentElement.setAttribute('data-theme', theme);
+        updateToggleUI(theme);
+      }
+
+      const initialTheme = getEffectiveTheme();
+      updateToggleUI(initialTheme);
+
+      toggleBtn.addEventListener('click', function() {
+        const currentTheme = document.documentElement.getAttribute('data-theme') ||
+                             (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        setTheme(nextTheme);
+      });
+
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+        if (!localStorage.getItem('theme')) {
+          const systemTheme = e.matches ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', systemTheme);
+          updateToggleUI(systemTheme);
+        }
+      });
+    })();
   </script>
 </body>
 </html>
