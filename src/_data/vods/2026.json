@@ -1,5 +1,47 @@
 [
   {
+    "title": "St. J. Athenaeum: Call It Madness With Author Brett Stanciu",
+    "path": "/vod/stjath/2026/20260804",
+    "cablecastShowId": 15442,
+    "date": "2026-08-04",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260804.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1216301472"
+  },
+  {
+    "title": "Concord Select Board, 8/4/26",
+    "path": "/vod/concordselect/2026/20260804",
+    "cablecastShowId": 15440,
+    "date": "2026-08-04",
+    "location": "Concord",
+    "categories": [
+      "concordselect",
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/concordselect20260804.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-080426-15440"
+  },
+  {
+    "title": "Lyndon Select Board, 8/3/26",
+    "path": "/vod/lyndonselect/2026/20260803",
+    "cablecastShowId": 15438,
+    "date": "2026-08-03",
+    "location": "Lyndon",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260803.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-080326-15438"
+  },
+  {
     "title": "Danville School Board, 7/28/26 Special Meeting",
     "path": "/vod/danvilleschool/2026/20260728sm",
     "cablecastShowId": 15424,
@@ -85,7 +127,7 @@
   {
     "title": "Lyndonville VT: 2026 Stars And Stripes Parade",
     "path": "/vod/other/2026/starsstripes2026",
-    "cablecastShowId": 15350,
+    "cablecastShowId": 15379,
     "date": "2026-07-18",
     "location": "Lyndonville, VT",
     "categories": [
@@ -112,7 +154,7 @@
   {
     "title": "Lyndon Select Board, 7/6/26",
     "path": "/vod/lyndonselect/2026/20260706",
-    "cablecastShowId": 15346,
+    "cablecastShowId": 15377,
     "date": "2026-07-06",
     "location": "Lyndon",
     "categories": [
