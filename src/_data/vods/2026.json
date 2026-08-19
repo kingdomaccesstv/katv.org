@@ -1,5 +1,47 @@
 [
   {
+    "title": "CCSU Board of Directors, 8/17/26 Special Meeting",
+    "path": "/vod/ccsubod/2026/20260817",
+    "cablecastShowId": 15472,
+    "date": "2026-08-17",
+    "location": "Danville School",
+    "categories": [
+      "public-meetings",
+      "ccsubod"
+    ],
+    "teaserImage": "/assets/images/vod/2026/ccsubod20260817.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-081726-15472"
+  },
+  {
+    "title": "Lyndon Select Board, 8/17/26",
+    "path": "/vod/lyndonselect/2026/20260817",
+    "cablecastShowId": 15470,
+    "date": "2026-08-17",
+    "location": "Lyndon",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260817.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-081726-15470"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/10/26",
+    "path": "/vod/stjselect/2026/20260810",
+    "cablecastShowId": 15468,
+    "date": "2026-08-10",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260810.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-081026-15468"
+  },
+  {
     "title": "St. J. Athenaeum: Call It Madness With Author Brett Stanciu",
     "path": "/vod/stjath/2026/20260804",
     "cablecastShowId": 15442,
