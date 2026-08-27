@@ -1,5 +1,47 @@
 [
   {
+    "title": "St. Johnsbury Select Board, 8/24/26 Special Meeting",
+    "path": "/vod/stjselect/2026/20260824sm",
+    "cablecastShowId": 15505,
+    "date": "2026-08-24",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260824sm.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-15505-082426"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 8/24/26",
+    "path": "/vod/stjselect/2026/20260824",
+    "cablecastShowId": 15495,
+    "date": "2026-08-24",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260824.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-082426-15495"
+  },
+  {
+    "title": "Groton Select Board, 8/18/26",
+    "path": "/vod/grotonselect/2026/20260818",
+    "cablecastShowId": 15439,
+    "date": "2026-08-18",
+    "location": "Groton",
+    "categories": [
+      "public-meetings",
+      "grotonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonselect20260818.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-081826-15439"
+  },
+  {
     "title": "CCSU Board of Directors, 8/17/26 Special Meeting",
     "path": "/vod/ccsubod/2026/20260817",
     "cablecastShowId": 15472,
