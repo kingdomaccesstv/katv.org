@@ -1,5 +1,32 @@
 [
   {
+    "title": "VHC: VT Reads 2026 Author Presentation",
+    "path": "/vod/lectures/2026/vhc20260904",
+    "cablecastShowId": 15504,
+    "date": "2026-09-04",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/vhc20260904.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1225460858"
+  },
+  {
+    "title": "Lyndon Select Board, 9/8/26",
+    "path": "/vod/lyndonselect/2026/20260908",
+    "cablecastShowId": 15512,
+    "date": "2026-09-08",
+    "location": "Lyndon",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260908.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-090826-15512"
+  },
+  {
     "title": "Concord Select Board, 9/1/26",
     "path": "/vod/concordselect/2026/20260901",
     "cablecastShowId": 15471,
