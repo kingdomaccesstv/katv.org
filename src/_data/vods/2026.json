@@ -1,5 +1,47 @@
 [
   {
+    "title": "St. J. Athenaeum: Women Making Monsters & The Monster As Liberation",
+    "path": "/vod/stjath/2026/20260917",
+    "cablecastShowId": 15525,
+    "date": "2026-09-17",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260917.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1228548592"
+  },
+  {
+    "title": "OLLI Fall 2026: Not Just Silly Songs",
+    "path": "/vod/osher/2026/20260917",
+    "cablecastShowId": 15524,
+    "date": "2026-09-17",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260917.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1228395314"
+  },
+  {
+    "title": "Groton Select Board, 9/15/26",
+    "path": "/vod/grotonselect/2026/20260915",
+    "cablecastShowId": 15523,
+    "date": "2026-09-15",
+    "location": "Groton",
+    "categories": [
+      "public-meetings",
+      "grotonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonselect20260915.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-grotonselect-mtg-091526-15523"
+  },
+  {
     "title": "St. Johnsbury Select Board, 9/14/26",
     "path": "/vod/stjselect/2026/20260914",
     "cablecastShowId": 15522,
