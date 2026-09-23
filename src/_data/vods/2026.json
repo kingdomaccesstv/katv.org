@@ -1,5 +1,47 @@
 [
   {
+    "title": "St. J. Athenaeum: Music In The Gallery - Toussaint St. Negritude",
+    "path": "/vod/stjath/2026/20260918",
+    "cablecastShowId": 15526,
+    "date": "2026-09-18",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260918.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1229216311"
+  },
+  {
+    "title": "CCSU Board of Directors, 9/21/26",
+    "path": "/vod/ccsubod/2026/20260921",
+    "cablecastShowId": 15580,
+    "date": "2026-09-21",
+    "location": "Virtual",
+    "categories": [
+      "public-meetings",
+      "ccsubod"
+    ],
+    "teaserImage": "/assets/images/vod/2026/ccsubod20260921.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-092126-15580"
+  },
+  {
+    "title": "Lyndon Select Board, 9/21/26",
+    "path": "/vod/lyndonselect/2026/20260921",
+    "cablecastShowId": 15535,
+    "date": "2026-09-21",
+    "location": "Lyndon",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20260921.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-092126-15535"
+  },
+  {
     "title": "St. J. Athenaeum: Women Making Monsters & The Monster As Liberation",
     "path": "/vod/stjath/2026/20260917",
     "cablecastShowId": 15525,
