@@ -1,5 +1,32 @@
 [
   {
+    "title": "Haverhill Corner: The Revere Bell",
+    "path": "/vod/lectures/2026/hc20260923",
+    "cablecastShowId": 15546,
+    "date": "2026-09-23",
+    "location": "Haverhill",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/hc20260923.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1230048477"
+  },
+  {
+    "title": "St. J. Athenaeum: Poems of Protest and Witness",
+    "path": "/vod/stjath/2026/20260922",
+    "cablecastShowId": 15536,
+    "date": "2026-09-22",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20260922.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1229861055"
+  },
+  {
     "title": "St. J. Athenaeum: Music In The Gallery - Toussaint St. Negritude",
     "path": "/vod/stjath/2026/20260918",
     "cablecastShowId": 15526,
