@@ -1,5 +1,46 @@
 [
   {
+    "title": "OLLI Fall 2026: Understanding Alzheimer's And Dementia",
+    "path": "/vod/osher/2026/20260924",
+    "cablecastShowId": 15537,
+    "date": "2026-09-24",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20260924.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1231431638"
+  },
+  {
+    "title": "St. Johnsbury Select Board, 9/28/26",
+    "path": "/vod/stjselect/2026/20260928",
+    "cablecastShowId": 15549,
+    "date": "2026-09-28",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20260928.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-092826-15549"
+  },
+  {
+    "title": "Haverhill Corner: An American Revolution 250th Commemoration",
+    "path": "/vod/other/2026/hc20260922",
+    "cablecastShowId": 15545,
+    "date": "2026-09-22",
+    "location": "Alumni Hall, Haverhill, NH",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/hc20260922.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1231431639"
+  },
+  {
     "title": "Haverhill Corner: The Revere Bell",
     "path": "/vod/lectures/2026/hc20260923",
     "cablecastShowId": 15546,
