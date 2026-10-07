@@ -1,5 +1,59 @@
 [
   {
+    "title": "OLLI Fall 2026: A Return to Lebanon and Palestine",
+    "path": "/vod/osher/2026/20261001",
+    "cablecastShowId": 15552,
+    "date": "2026-10-01",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20261001.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1233562108"
+  },
+  {
+    "title": "Northeast CESA Meeting, 9/30/26",
+    "path": "/vod/pubmtgs/2026/necesa20260930",
+    "cablecastShowId": 15596,
+    "date": "2026-09-30",
+    "location": "Virtual",
+    "categories": [
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/necesa20260930.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-northeastcesa-mtg-093026-15596"
+  },
+  {
+    "title": "Secretary Copeland Hanzas: VT Election Integrity",
+    "path": "/vod/forums/2026/vtelecint20260922",
+    "cablecastShowId": 15550,
+    "date": "2026-09-29",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "politics"
+    ],
+    "teaserImage": "/assets/images/vod/2026/vtelecint20260929.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-vtelecsec-pres-092926-15550"
+  },
+  {
+    "title": "Building Bright Futures: VT House Candidate Forum 2026",
+    "path": "/vod/forums/2026/vthousecf093026",
+    "cablecastShowId": 15551,
+    "date": "2026-09-30",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "politics"
+    ],
+    "teaserImage": "/assets/images/vod/2026/vthousecf093026.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-vthouse-cf-093026-15551"
+  },
+  {
     "title": "OLLI Fall 2026: Understanding Alzheimer's And Dementia",
     "path": "/vod/osher/2026/20260924",
     "cablecastShowId": 15537,
