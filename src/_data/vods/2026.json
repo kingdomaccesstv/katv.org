@@ -1,5 +1,32 @@
 [
   {
+    "title": "Groton VT: 2026 Fall Foliage Day Parade",
+    "path": "/vod/other/2026/grotonfoliage20261003",
+    "cablecastShowId": 15571,
+    "date": "2026-10-03",
+    "location": "Groton, VT",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/grotonfoliage20261003.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1231431639"
+  },
+  {
+    "title": "St. J. Athenaeum: Shannon Brown",
+    "path": "/vod/stjath/2026/20261003",
+    "cablecastShowId": 15553,
+    "date": "2026-10-03",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20261003.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1233516915"
+  },
+  {
     "title": "OLLI Fall 2026: A Return to Lebanon and Palestine",
     "path": "/vod/osher/2026/20261001",
     "cablecastShowId": 15552,
