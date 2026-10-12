@@ -1,5 +1,60 @@
 [
   {
+    "title": "Danville School Board, 10/6/26",
+    "path": "/vod/danvilleschool/2026/20261006",
+    "cablecastShowId": 15576,
+    "date": "2026-10-06",
+    "location": "Danville",
+    "categories": [
+      "public-meetings",
+      "danvilleschool"
+    ],
+    "teaserImage": "/assets/images/vod/2026/danvilleschool20261006.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-danvilleselect-mtg-100626-15576"
+  },
+  {
+    "title": "LWV: VT Senate (Caledonia) Candidates Forum, 10/6/26",
+    "path": "/vod/other/2026/lwv20261006",
+    "cablecastShowId": 15575,
+    "date": "2026-10-06",
+    "location": "St. Johnsbury School",
+    "categories": [
+      "politics"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lwv20261006.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lwv-cf-100626-15575"
+  },
+  {
+    "title": "Concord Select Board, 10/6/26",
+    "path": "/vod/concordselect/2026/20261006",
+    "cablecastShowId": 15574,
+    "date": "2026-10-06",
+    "location": "Concord",
+    "categories": [
+      "concordselect",
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/concordselect20261006.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-concordselect-mtg-100626-15574"
+  },
+  {
+    "title": "Lyndon Select Board, 10/5/26",
+    "path": "/vod/lyndonselect/2026/20261005",
+    "cablecastShowId": 15572,
+    "date": "2026-10-05",
+    "location": "Lyndonville Municipal Offices",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20261005.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-100526-15572"
+  },
+  {
     "title": "Groton VT: 2026 Fall Foliage Day Parade",
     "path": "/vod/other/2026/grotonfoliage20261003",
     "cablecastShowId": 15571,
