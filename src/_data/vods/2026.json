@@ -1,5 +1,44 @@
 [
   {
+    "title": "Burke Conservation Commission: The East Burke Dam",
+    "path": "/vod/lectures/2026/burkecc20261007",
+    "cablecastShowId": 15577,
+    "date": "2026-10-07",
+    "location": "Burke Community Building, West Burke, VT",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/burkecc20261007.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1235677156"
+  },
+  {
+    "title": "Danville Historical Society: Sleepers River Watershed",
+    "path": "/vod/lectures/2026/dhs20261001",
+    "cablecastShowId": 15595,
+    "date": "2026-10-01",
+    "location": "Danville, VT",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/dhs20261001.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1235677158"
+  },
+  {
+    "title": "Haverhill Corner: The Underground Railroad",
+    "path": "/vod/lectures/2026/hc20260924",
+    "cablecastShowId": 15547,
+    "date": "2026-09-24",
+    "location": "Haverhill",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/hc20260924.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1235677542"
+  },
+  {
     "title": "Danville School Board, 10/6/26",
     "path": "/vod/danvilleschool/2026/20261006",
     "cablecastShowId": 15576,
