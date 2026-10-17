@@ -1,4 +1,44 @@
 [
+  {
+    "title": "GCEPD 2026: ADA Awards Regional Ceremony",
+    "path": "/vod/other/2026/gcepd20261014",
+    "cablecastShowId": 15605,
+    "date": "2026-10-14",
+    "location": "St. Johnsbury",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/gcepd20261014.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1236823637"
+  },
+  {
+    "title": "OLLI Fall 2026: From Bats to Lemmings",
+    "path": "/vod/osher/2026/20261015",
+    "cablecastShowId": 15607,
+    "date": "2026-10-15",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20261015.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1236821844"
+  },
+  {
+    "title": "Burke Conservation Commission: The Dredging Question",
+    "path": "/vod/lectures/2026/burkecc20261014",
+    "cablecastShowId": 15606,
+    "date": "2026-10-14",
+    "location": "Burke Community Building, West Burke, VT",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/burkecc20261014.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1236821843"
+  },
     {
     "title": "St. Johnsbury Select Board, 10/13/26",
     "path": "/vod/stjselect/2026/20261013",
