@@ -1,4 +1,59 @@
 [
+    {
+    "title": "St. Johnsbury Select Board, 10/13/26",
+    "path": "/vod/stjselect/2026/20261013",
+    "cablecastShowId": 15604,
+    "date": "2026-10-13",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20261013.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-101326-15604"
+  },
+  {
+    "title": "OLLI Fall 2026: Safe Driving As You Age",
+    "path": "/vod/osher/2026/20261008",
+    "cablecastShowId": 15578,
+    "date": "2026-10-08",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20261008.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1235677157"
+  },
+  {
+    "title": "Lyndon Institute: 2026 Fall Concert",
+    "path": "/vod/concerts/2026/li20261008",
+    "cablecastShowId": 15603,
+    "date": "2026-10-08",
+    "location": "Lyndon Institute",
+    "categories": [
+      "concerts",
+      "li"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lifall20261008.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1235677159"
+  },
+  {
+    "title": "Newbury, VT: 3rd Act Candidate Forum, 10/5/26",
+    "path": "/vod/forums/2026/newbury20261005",
+    "cablecastShowId": 15573,
+    "date": "2026-10-05",
+    "location": "Newbury",
+    "categories": [
+      "politics"
+    ],
+    "teaserImage": "/assets/images/vod/2026/newbury20261005.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-newbury-cf-100526-15573"
+  },
   {
     "title": "Burke Conservation Commission: The East Burke Dam",
     "path": "/vod/lectures/2026/burkecc20261007",
