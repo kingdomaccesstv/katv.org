@@ -1,5 +1,88 @@
 [
   {
+    "title": "St. Johnsbury Select Board, 10/26/26",
+    "path": "/vod/stjselect/2026/20261026",
+    "cablecastShowId": 15638,
+    "date": "2026-10-26",
+    "location": "St. Johnsbury",
+    "categories": [
+      "public-meetings",
+      "stjselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjselect20261026.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjselect-mtg-102626-15638"
+  },
+  {
+    "title": "Burke Conservation Commission: More Than Mud",
+    "path": "/vod/lectures/2026/burkecc20261021",
+    "cablecastShowId": 15621,
+    "date": "2026-10-21",
+    "location": "Burke Community Building, West Burke, VT",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/burkecc20261021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1240741835"
+  },
+  {
+    "title": "St. Johnsbury School Board, 10/19/26",
+    "path": "/vod/stjschool/2026/20261019",
+    "cablecastShowId": 15640,
+    "date": "2026-10-19",
+    "location": "Welcome Center, St. Johnsbury",
+    "categories": [
+      "stjschool",
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjschool20261019.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-101926-15640"
+  },
+  {
+    "title": "CCSU Board of Directors, 10/19/26",
+    "path": "/vod/ccsubod/2026/20261019",
+    "cablecastShowId": 15619,
+    "date": "2026-10-19",
+    "location": "Virtual",
+    "categories": [
+      "public-meetings",
+      "ccsubod"
+    ],
+    "teaserImage": "/assets/images/vod/2026/ccsubod20261019.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-ccsubod-mtg-101926-15619"
+  },
+  {
+    "title": "Lyndon Select Board, 10/19/26",
+    "path": "/vod/lyndonselect/2026/20261019",
+    "cablecastShowId": 15618,
+    "date": "2026-10-19",
+    "location": "Lyndonville Municipal Offices",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20261019.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-101926-15618"
+  },
+  {
+    "title": "St. J. Athenaeum: Music In The Gallery - Benji Aresty",
+    "path": "/vod/stjath/2026/20261016",
+    "cablecastShowId": 15608,
+    "date": "2026-10-16",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20261016.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1239161252"
+  },
+  {
     "title": "GCEPD 2026: ADA Awards Regional Ceremony",
     "path": "/vod/other/2026/gcepd20261014",
     "cablecastShowId": 15605,
@@ -39,7 +122,7 @@
     "videoSource": "vimeo",
     "videoId": "1236821843"
   },
-    {
+  {
     "title": "St. Johnsbury Select Board, 10/13/26",
     "path": "/vod/stjselect/2026/20261013",
     "cablecastShowId": 15604,
