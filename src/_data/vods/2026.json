@@ -1,5 +1,73 @@
 [
   {
+    "title": "St. J Academy: 2026 Fall Concert",
+    "path": "/vod/concerts/2026/sja20261028",
+    "cablecastShowId": 15659,
+    "date": "2026-10-28",
+    "location": "St. Johnsbury",
+    "categories": [
+      "concerts",
+      "sja"
+    ],
+    "teaserImage": "/assets/images/vod/2026/sja20261028.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1240882742"
+  },
+  {
+    "title": "Danville Town Band: 2026 Harvest Concert",
+    "path": "/vod/concerts/2026/danville20261025",
+    "cablecastShowId": 15653,
+    "date": "2026-10-25",
+    "location": "Danville Congregational Church",
+    "categories": [
+      "concerts",
+      "danville"
+    ],
+    "teaserImage": "/assets/images/vod/2026/danville20261025.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1240856176"
+  },
+  {
+    "title": "OLLI Fall 2026: Love, Loss, And A Cause In The Civil War",
+    "path": "/vod/osher/2026/20261022",
+    "cablecastShowId": 15623,
+    "date": "2026-10-22",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20261022.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1239161251"
+  },
+  {
+    "title": "St. Johnsbury Historical Society: Wagons Used in St. Johnsbury",
+    "path": "/vod/lectures/2026/stjhs20261022",
+    "cablecastShowId": 15647,
+    "date": "2026-10-22",
+    "location": "St. Johnsbury Historical Society",
+    "categories": [
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjhs20261022.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1241899004"
+  },
+  {
+    "title": "St. Johnsbury: Public Safety Community Meeting, 10/21/26",
+    "path": "/vod/pubmtgs/2026/stjohnsburypscm20261021",
+    "cablecastShowId": 15641,
+    "date": "2026-10-21",
+    "location": "St. Johnsbury School",
+    "categories": [
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjohnsburypscm20261021.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1240741826"
+  },
+  {
     "title": "St. Johnsbury Select Board, 10/26/26",
     "path": "/vod/stjselect/2026/20261026",
     "cablecastShowId": 15638,
