@@ -1,5 +1,45 @@
 [
   {
+    "title": "St. J. Athenaeum: Lyn Bixby",
+    "path": "/vod/stjath/2026/20261104",
+    "cablecastShowId": 15658,
+    "date": "2026-11-04",
+    "location": "St. Johnsbury Athenaeum",
+    "categories": [
+      "lectures-forums",
+      "stjath"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjath20261104.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1244062684"
+  },
+  {
+    "title": "NEK: 2026 Together Conference",
+    "path": "/vod/other/2026/nektogether2026",
+    "cablecastShowId": 15657,
+    "date": "2026-11-03",
+    "location": "Island Pond",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/nektogether2026.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1244062687"
+  },
+  {
+    "title": "St. Johnsbury: 2026 Halloween Parade",
+    "path": "/vod/other/2026/halloween2026",
+    "cablecastShowId": 15660,
+    "date": "2026-10-31",
+    "location": "St. Johnsbury",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/halloween2026.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1244062683"
+  },
+  {
     "title": "St. J Academy: 2026 Fall Concert",
     "path": "/vod/concerts/2026/sja20261028",
     "cablecastShowId": 15659,
