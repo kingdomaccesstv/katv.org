@@ -1,5 +1,33 @@
 [
   {
+    "title": "Lyndon Select Board, 11/2/26",
+    "path": "/vod/lyndonselect/2026/20261102",
+    "cablecastShowId": 15654,
+    "date": "2026-11-02",
+    "location": "Lyndonville Municipal Offices",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20261102.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-110226-15654"
+  },
+  {
+    "title": "OLLI Fall 2026: The Beatles",
+    "path": "/vod/osher/2026/20261029",
+    "cablecastShowId": 15639,
+    "date": "2026-10-29",
+    "location": "Catamount Arts",
+    "categories": [
+      "osher",
+      "lectures-forums"
+    ],
+    "teaserImage": "/assets/images/vod/2026/osher20261029.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1244362610"
+  },
+  {
     "title": "St. J. Athenaeum: Lyn Bixby",
     "path": "/vod/stjath/2026/20261104",
     "cablecastShowId": 15658,
