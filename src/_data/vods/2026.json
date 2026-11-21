@@ -1,5 +1,73 @@
 [
   {
+    "title": "St. Johnsbury School Board, 11/16/26",
+    "path": "/vod/stjschool/2026/20261116",
+    "cablecastShowId": 15685,
+    "date": "2026-11-16",
+    "location": "Welcome Center, St. Johnsbury",
+    "categories": [
+      "stjschool",
+      "public-meetings"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjschool20261116.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-stjschool-mtg-111626-15685"
+  },
+  {
+    "title": "Lyndon Select Board, 11/16/26",
+    "path": "/vod/lyndonselect/2026/20261116",
+    "cablecastShowId": 15684,
+    "date": "2026-11-16",
+    "location": "Lyndonville Municipal Offices",
+    "categories": [
+      "public-meetings",
+      "lyndonselect"
+    ],
+    "teaserImage": "/assets/images/vod/2026/lyndonselect20261116.jpg",
+    "videoSource": "archive.org",
+    "videoId": "katv-lyndonselect-mtg-111626-15684"
+  },
+  {
+    "title": "Danville School: 2026, Fall Concert",
+    "path": "/vod/concerts/2026/danville20261117",
+    "cablecastShowId": 15687,
+    "date": "2026-11-17",
+    "location": "Danville School",
+    "categories": [
+      "danville",
+      "concerts"
+    ],
+    "teaserImage": "/assets/images/vod/2026/danville20261117.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1248797699"
+  },
+  {
+    "title": "KATV Studio: St. Johnsbury HHC, Traditional Crafts Fair",
+    "path": "/vod/other/2026/stjhhc20261112",
+    "cablecastShowId": 15710,
+    "date": "2026-11-12",
+    "location": "KATV Studio",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjhhc20261112.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1248797697"
+  },
+  {
+    "title": "STJ History & Heritage Center: KATV Studio",
+    "path": "/vod/other/2026/stjhistory20261112",
+    "cablecastShowId": 15711,
+    "date": "2026-11-12",
+    "location": "KATV Studio",
+    "categories": [
+      "other"
+    ],
+    "teaserImage": "/assets/images/vod/2026/stjhistory20261112.jpg",
+    "videoSource": "vimeo",
+    "videoId": "1248797698"
+  },
+  {
     "title": "Groton Select Board, 11/10/26",
     "path": "/vod/grotonselect/2026/20261110",
     "cablecastShowId": 15691,
