@@ -36,6 +36,38 @@ function isValidDate(dateStr) {
   return d.getFullYear() === year && d.getMonth() === month && d.getDate() === day;
 }
 
+// Normalize a path so trivial variants (trailing slash, case) count as duplicates
+function normalizePath(p) {
+  return p.trim().toLowerCase().replace(/\/+$/, '');
+}
+
+// Build a map of every VOD path across ALL data files (not just staged ones),
+// so a staged entry that collides with an unchanged file is still caught.
+function buildPathMap() {
+  const pathMap = new Map();
+  if (!fs.existsSync(VODS_DIR)) {
+    return pathMap;
+  }
+  fs.readdirSync(VODS_DIR).filter(f => f.endsWith('.json')).forEach(f => {
+    const relativePath = path.relative(path.join(__dirname, '..'), path.join(VODS_DIR, f));
+    let vods;
+    try {
+      vods = JSON.parse(fs.readFileSync(path.join(VODS_DIR, f), 'utf8'));
+    } catch (err) {
+      return; // Syntax errors are reported for staged files elsewhere
+    }
+    if (!Array.isArray(vods)) return;
+    vods.forEach((entry, index) => {
+      if (entry && typeof entry === 'object' && typeof entry.path === 'string' && entry.path.startsWith('/vod/')) {
+        const key = normalizePath(entry.path);
+        if (!pathMap.has(key)) pathMap.set(key, []);
+        pathMap.get(key).push({ relativePath, index });
+      }
+    });
+  });
+  return pathMap;
+}
+
 // Get the files to validate
 function getFilesToValidate() {
   const args = process.argv.slice(2);
@@ -69,7 +101,7 @@ function getFilesToValidate() {
 }
 
 // Validate a single VOD entry
-function validateEntry(entry, index, filename, showIdMap) {
+function validateEntry(entry, index, filename, showIdMap, pathMap) {
   const errors = [];
   const requiredKeys = new Set([
     'title', 'path', 'cablecastShowId', 'date', 'location', 
@@ -106,6 +138,15 @@ function validateEntry(entry, index, filename, showIdMap) {
   // 2. Path validation
   if (typeof entry.path !== 'string' || !entry.path.startsWith('/vod/')) {
     errors.push(`"path" must start with "/vod/" (got: ${JSON.stringify(entry.path)})`);
+  } else if (pathMap) {
+    const occurrences = pathMap.get(normalizePath(entry.path));
+    if (occurrences && occurrences.length > 1) {
+      const others = occurrences
+        .filter(occ => !(occ.relativePath === filename && occ.index === index))
+        .map(occ => `${occ.relativePath} at index ${occ.index}`)
+        .join(', ');
+      errors.push(`Duplicate "path" ${JSON.stringify(entry.path)} (also found in ${others})`);
+    }
   }
 
   // 3. Cablecast Show ID validation
@@ -181,6 +222,7 @@ function main() {
 
   const fileData = [];
   const showIdMap = new Map();
+  const pathMap = buildPathMap();
 
   files.forEach(filePath => {
     const relativePath = path.relative(path.join(__dirname, '..'), filePath);
@@ -223,7 +265,7 @@ function main() {
   fileData.forEach(({ relativePath, vods }) => {
     let fileHasErrors = false;
     vods.forEach((entry, index) => {
-      const errors = validateEntry(entry, index, relativePath, showIdMap);
+      const errors = validateEntry(entry, index, relativePath, showIdMap, pathMap);
       if (errors.length > 0) {
         fileHasErrors = true;
         totalErrors += errors.length;
